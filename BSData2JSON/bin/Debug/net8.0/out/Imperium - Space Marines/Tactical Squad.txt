@@ -1,0 +1,19 @@
+{
+  "UnitName": "Tactical Squad",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Combat Squads",
+      "AbilityText": "At the start of the Declare Battle Formations step, before any units have been set up, this unit can be split into two units, each containing five models"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

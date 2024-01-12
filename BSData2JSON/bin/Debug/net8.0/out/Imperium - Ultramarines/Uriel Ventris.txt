@@ -1,0 +1,51 @@
+{
+  "UnitName": "Uriel Ventris",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Unorthodox Strategist",
+      "AbilityText": "While this model is leading a unit, you can target that unit with a Stratagem even if that Stratagem has already been used on another unit from your army this phase. In addition, this model’s unit can still be selected as the target of a Stratagem while Battle-shocked."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Master of the Fleet",
+      "AbilityText": "During the Declare Battle Formations step, if your army includes this model, select one Adeptus Astartes Infantry unit from your army.  That unit gains the Deep Strike ability."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad'\n■ Company Heroes\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Invictus",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Sword of Idaeus",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

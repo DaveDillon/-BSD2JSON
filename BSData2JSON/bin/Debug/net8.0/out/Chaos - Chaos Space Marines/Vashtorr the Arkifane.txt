@@ -1,0 +1,46 @@
+{
+  "UnitName": "Vashtorr the Arkifane",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Unholy Mechanisms (Aura)",
+      "AbilityText": "While a friendly DAEMON VEHICLE unit is within 6\" of this model, add 1 to the Strength characteristic of weapons equipped by models in that unit."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Agonise Machine Spirits",
+      "AbilityText": "At the end of your Movement phase, select one enemy VEHICLE unit within 18\" of and visible to this model. Until the start of your next Movement phase, halve the Move characteristic of models in that unit and subtract 1 from the Attacks characteristic of melee weapons equipped by models in that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Vashtorr's claw",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Vashtorr's hammer",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}
