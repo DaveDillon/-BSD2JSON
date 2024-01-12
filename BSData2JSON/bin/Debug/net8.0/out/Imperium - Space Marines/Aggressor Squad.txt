@@ -1,4 +1,5 @@
 {
+  "id": "7fa1-af93-1edd-1865",
   "UnitName": "Aggressor Squad",
   "Movement": "5\"",
   "Toughness": "6",
@@ -6,58 +7,58 @@
   "Wounds": "3",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "f948-3939-520a-6b26",
       "AbilityName": "Close-quarters Firepower",
       "AbilityText": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack\nby 1."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "250d-7b42-6542-8539",
       "WeaponName": "Auto Boltstorm Gauntlets",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
     },
     {
-      "id": 0,
+      "id": "8a25-cfb6-8821-81ac",
       "WeaponName": "Fragstorm Grenade Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "dcee-66cc-b8c2-b464",
       "WeaponName": "Flamestorm Gauntlets",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-linked"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "8f43-5a49-353f-70a4",
       "WeaponName": "Twin Power Fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

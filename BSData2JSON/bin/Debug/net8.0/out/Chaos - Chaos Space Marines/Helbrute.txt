@@ -1,4 +1,5 @@
 {
+  "id": "2a1-3840-b9de-b7a5",
   "UnitName": "Helbrute",
   "Movement": "6\"",
   "Toughness": "9",
@@ -6,92 +7,103 @@
   "Wounds": "8",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "babb-69e4-f411-e65a",
       "AbilityName": "Dark Ascension (Aura)",
       "AbilityText": "While a friendly HERETIC ASTARTES unit is within 6\" of this model, each time that unit makes a Dark Pact, until the end of the phase, its weapons gain both abilities conferred by that pact (instead of only one)."
     },
     {
-      "Id": 0,
+      "Id": "2a50-924a-8b28-3d6c",
       "AbilityName": "Helbrute fists",
       "AbilityText": "If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "cce2-712c-bbdc-c11e",
       "WeaponName": "Multi-melta",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     },
     {
-      "id": 0,
+      "id": "a12d-afd6-9203-3eca",
       "WeaponName": "Twin autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
     },
     {
-      "id": 0,
+      "id": "aa1d-aa3b-6e38-b5e7",
       "WeaponName": "Helbrute plasma cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
     },
     {
-      "id": 0,
+      "id": "c74-2f27-b386-a09b",
       "WeaponName": "Missile launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "d137-8f12-7931-ae52",
+      "WeaponName": "Missile launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "8e93-ec0b-c5d0-7785",
       "WeaponName": "Helbrute hammer",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
     },
     {
-      "id": 0,
+      "id": "26a-53a7-7995-587c",
       "WeaponName": "Power scourge",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "5fbc-eacd-4312-ca64",
       "WeaponName": "Close combat weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

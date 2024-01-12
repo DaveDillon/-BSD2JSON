@@ -1,4 +1,5 @@
 {
+  "id": "cca9-5590-14a6-19e8",
   "UnitName": "Repulsor Executioner",
   "Movement": "10\"",
   "Toughness": "12",
@@ -6,41 +7,41 @@
   "Wounds": "16",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "db95-443f-c0e-83df",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 6 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models."
     },
     {
-      "Id": 0,
+      "Id": "7908-889b-da96-715d",
       "AbilityName": "Executioner",
       "AbilityText": "Each time this model makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "f21d-48af-7a7d-2cf0",
       "WeaponName": "Heavy Laser Destroyer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "72\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+4",
+      "Text": "Heavy"
     },
     {
-      "id": 0,
+      "id": "d049-6fe0-3979-57f5",
       "WeaponName": "Repulsor Executioner Defensive Array",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "10",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
     }
   ],
   "MeleeSkills": []

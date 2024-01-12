@@ -1,4 +1,5 @@
 {
+  "id": "9f40-584-fe55-ab98",
   "UnitName": "Renegade Plague Ogryns",
   "Movement": "5\"",
   "Toughness": "7",
@@ -6,10 +7,10 @@
   "Wounds": "3",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "9435-655b-7c9-bbf0",
       "AbilityName": "Wall of Muscle",
       "AbilityText": "Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack."
     }
@@ -17,13 +18,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "7b0-6f68-7f80-b22",
       "WeaponName": "Ogryn plague claws",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

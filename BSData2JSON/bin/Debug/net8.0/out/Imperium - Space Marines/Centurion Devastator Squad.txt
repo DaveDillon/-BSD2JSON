@@ -1,4 +1,5 @@
 {
+  "id": "8c85-5611-5972-3071",
   "UnitName": "Centurion Devastator Squad",
   "Movement": "4\"",
   "Toughness": "7",
@@ -6,47 +7,47 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "4f61-91c6-eae4-94fa",
       "AbilityName": "Decimator Protocols",
       "AbilityText": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "aca6-1388-3c53-36e8",
       "WeaponName": "Centurion Missile Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "9004-fe8c-2b3a-81c8",
       "WeaponName": "Grav-cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-vehicle 2+"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "bc41-607a-40a8-67fe",
       "WeaponName": "Centurion Fists",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

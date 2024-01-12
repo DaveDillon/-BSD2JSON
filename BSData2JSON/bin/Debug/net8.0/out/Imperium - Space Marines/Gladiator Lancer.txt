@@ -1,4 +1,5 @@
 {
+  "id": "ec5d-5626-6109-81d5",
   "UnitName": "Gladiator Lancer",
   "Movement": "10\"",
   "Toughness": "10",
@@ -6,25 +7,25 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "5cd2-7b68-d2cb-e7e4",
       "AbilityName": "Aqullon Optics",
       "AbilityText": "Each time this model is selected to shoot, you can re-roll one Hit roll, you can re-roll one Wound roll and you can re-roll one Damage roll when resolving its attacks"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "e050-2043-d7d-7c2a",
       "WeaponName": "Lancer Laser Destroyer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "72\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+3",
+      "Text": "Heavy"
     }
   ],
   "MeleeSkills": []

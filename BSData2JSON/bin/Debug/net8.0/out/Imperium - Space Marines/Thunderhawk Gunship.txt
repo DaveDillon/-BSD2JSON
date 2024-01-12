@@ -1,4 +1,5 @@
 {
+  "id": "517c-5225-1cc6-a94a",
   "UnitName": "Thunderhawk Gunship",
   "Movement": "20+\"",
   "Toughness": "12",
@@ -6,57 +7,57 @@
   "Wounds": "30",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "97bc-6c05-ad18-24ec",
       "AbilityName": "Aerial Assault",
       "AbilityText": "Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     },
     {
-      "Id": 0,
+      "Id": "e9ff-4f89-cec1-93b0",
       "AbilityName": "Damaged: 1-10 wounds remaining",
       "AbilityText": "While this model has 1-10 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
     },
     {
-      "Id": 0,
+      "Id": "e6d0-236e-d693-9bb7",
       "AbilityName": "Thunderhawk Cluster Bombs",
       "AbilityText": "Each time the bearer ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3983-e80e-9b43-544e",
       "WeaponName": "Thunderhawk heavy cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "d97c-3914-9bbf-7786",
       "WeaponName": "Turbo-laser destructor",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "96\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+6",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "c575-490a-b087-a126",
       "WeaponName": "Hellstrike missile battery",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "72\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Anti-FLY 4+"
     }
   ],
   "MeleeSkills": []

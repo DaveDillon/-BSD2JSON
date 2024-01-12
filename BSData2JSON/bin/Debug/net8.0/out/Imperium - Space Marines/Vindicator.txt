@@ -1,4 +1,5 @@
 {
+  "id": "f56a-1da7-6ee1-6c88",
   "UnitName": "Vindicator",
   "Movement": "9\"",
   "Toughness": "11",
@@ -6,25 +7,25 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "b564-7fc-6ab2-a9c",
       "AbilityName": "Siege Shield",
       "AbilityText": "When making ranged attacks with its demolisher cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3de5-feab-a65c-cfff",
       "WeaponName": "Demolisher Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Blast"
     }
   ],
   "MeleeSkills": []

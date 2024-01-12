@@ -1,4 +1,5 @@
 {
+  "id": "c4f4-6617-71b7-cba3",
   "UnitName": "Apothecary Biologis",
   "Movement": "5\"",
   "Toughness": "6",
@@ -6,20 +7,20 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "a06d-1a78-a0e3-8b0d",
       "AbilityName": "Surgical Precision",
       "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability."
     },
     {
-      "Id": 0,
+      "Id": "739f-7ad5-5b0f-cd36",
       "AbilityName": "Vivispectrum",
       "AbilityText": "If this model’s unit destroys an enemy unit as the result of a melee attack, until the end of the battle, this model has an Objective Control characteristic of 9."
     },
     {
-      "Id": 0,
+      "Id": "90f4-f4cf-7e9-2088",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Aggressor Squad\n■ Eradicator Squad\n■ Heavy Intercessor Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
@@ -27,13 +28,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "3431-ea8e-4af2-a831",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

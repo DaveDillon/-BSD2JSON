@@ -1,4 +1,5 @@
 {
+  "id": "68e3-e195-e8f-f56c",
   "UnitName": "Eradicator Squad",
   "Movement": "5\"",
   "Toughness": "6",
@@ -6,25 +7,25 @@
   "Wounds": "3",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "4d12-6568-2ca8-dbf7",
       "AbilityName": "Total Obliteration",
       "AbilityText": "Each time a ranged attack made by a model in this unit targets a Monster or Vehicle model, you can re-roll the Hit roll, you can re-roll the Wound roll and you can re-roll the Damage roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "ad4f-1356-e068-ec64",
       "WeaponName": "Melta Rifle",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Heavy, Melta 2"
     }
   ],
   "MeleeSkills": []

@@ -1,4 +1,5 @@
 {
+  "id": "bad7-e136-b36d-721d",
   "UnitName": "Dark Apostle",
   "Movement": "6\"",
   "Toughness": "4",
@@ -9,22 +10,22 @@
   "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "f980-3ab8-249e-51a9",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ ACCURSED CULTISTS\n■ CHOSEN\n■ CULTIST MOB\n■ LEGIONARIES"
     },
     {
-      "Id": 0,
+      "Id": "da55-1d58-dee4-d42",
       "AbilityName": "Dark Zealotry",
       "AbilityText": "While this unit is leading a unit and contains a DARK APOSTLE model, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
     },
     {
-      "Id": 0,
+      "Id": "940f-5c2b-d7c8-6602",
       "AbilityName": "Demagogue",
       "AbilityText": "Once per battle, at the start of any phase, you can select one friendly HERETIC ASTARTES unit that is Battle-shocked and within 9\" of this unit’s DARK APOSTLE model. That unit is no longer Battle-shocked."
     },
     {
-      "Id": 0,
+      "Id": "abd8-fb73-ea72-d3fd",
       "AbilityName": "Malign Sacrifice",
       "AbilityText": "At the start of the Fight phase, if this unit contains one or more Dark Disciple models, you can select one of those models and one enemy unit within Engagement Range of this unit, then roll one D6: on a 2-5, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds. That Dark Disciple model is then destroyed."
     }
@@ -32,22 +33,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "edb9-128c-2409-9694",
       "WeaponName": "Accursed crozius",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "7f73-2156-e99b-159c",
       "WeaponName": "Close combat weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

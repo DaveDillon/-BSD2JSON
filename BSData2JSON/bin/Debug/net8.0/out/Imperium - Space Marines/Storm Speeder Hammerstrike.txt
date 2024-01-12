@@ -1,4 +1,5 @@
 {
+  "id": "b6e1-5c71-9067-3e95",
   "UnitName": "Storm Speeder Hammerstrike",
   "Movement": "14\"",
   "Toughness": "9",
@@ -6,47 +7,47 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "3477-d6b3-fc9-9761",
       "AbilityName": "Hammerstrike",
       "AbilityText": "Each time this model has shot, select one enemy unit that was hit by one or more attacks made by this model this phase. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "6dc4-a0f0-ae2d-5aa1",
       "WeaponName": "Melta Destroyer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     },
     {
-      "id": 0,
+      "id": "5205-e2ff-20db-80d5",
       "WeaponName": "Hammerstrike Missile Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": ""
     },
     {
-      "id": 0,
+      "id": "71a-8ffa-6752-a714",
       "WeaponName": "Krakstorm Grenade Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": ""
     }
   ],
   "MeleeSkills": []

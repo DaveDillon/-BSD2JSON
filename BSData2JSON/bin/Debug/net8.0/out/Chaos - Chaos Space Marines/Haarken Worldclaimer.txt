@@ -1,4 +1,5 @@
 {
+  "id": "435b-4689-7744-797e",
   "UnitName": "Haarken Worldclaimer",
   "Movement": "12\"",
   "Toughness": "4",
@@ -9,52 +10,52 @@
   "Invulnerability": "This model has a 4+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "2e37-6074-e784-7b4",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ RAPTORS"
     },
     {
-      "Id": 0,
+      "Id": "849-eef4-da9f-1f47",
       "AbilityName": "Head Taker",
       "AbilityText": "While this model is leading a unit, each time this model’s unit ends a Charge move, select one enemy unit within Engagement Range of this model’s unit and roll one D6 for each model in this model’s unit: for each 4+, that enemy unit suffers 1 mortal wound."
     },
     {
-      "Id": 0,
+      "Id": "8033-5a4b-e17b-4658",
       "AbilityName": "Herald of the Apocalypse (Aura)",
       "AbilityText": "While an enemy unit is within 6\" of this model, in the Battle-shock step of your opponent’s Command phase, if that enemy unit is below its Starting Strength, it must take a Battle-shock test. This ability cannot cause a unit to take two Battle-shock tests in the same phase."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "6f2a-cacc-3e0-3062",
       "WeaponName": "Hellspear",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Assault, Sustained Hits D3"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "362b-d3b5-cc21-5ae7",
       "WeaponName": "Hellspear",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "1",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
     },
     {
-      "id": 0,
+      "id": "9b71-6bc1-5ce9-91d9",
       "WeaponName": "Herald's Talon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

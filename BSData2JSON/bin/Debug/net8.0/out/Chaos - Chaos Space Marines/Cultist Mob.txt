@@ -1,4 +1,5 @@
 {
+  "id": "e4e2-b3c5-3093-43b",
   "UnitName": "Cultist Mob",
   "Movement": "6\"",
   "Toughness": "3",
@@ -6,80 +7,91 @@
   "Wounds": "1",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "880b-cdab-a5ec-a1e7",
       "AbilityName": "For the Dark Gods",
       "AbilityText": "At the end of your Command phase, if this unit is within range of an objective marker  you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3555-4888-5b4-e1d3",
       "WeaponName": "Bolt pistol and brutal assault weapon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "e9f0-9527-ac4d-bda4",
       "WeaponName": "Autopistol and brutal assault weapon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "d4fa-2102-3242-b228",
       "WeaponName": "Autopistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "a87a-eb86-d23a-3e52",
       "WeaponName": "Flamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "8281-5cd0-a7d3-6490",
       "WeaponName": "Cultist grenade launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "ddf2-abb3-fd69-993b",
+      "WeaponName": "Cultist grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    },
+    {
+      "id": "93a9-9f9a-2fd3-504a",
       "WeaponName": "Heavy stubber",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy, Rapid Fire 3"
     }
   ],
   "MeleeSkills": []

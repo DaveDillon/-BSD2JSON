@@ -1,4 +1,5 @@
 {
+  "id": "a86c-a6a7-50db-d628",
   "UnitName": "Abaddon the Despoiler",
   "Movement": "5\"",
   "Toughness": "5",
@@ -9,52 +10,52 @@
   "Invulnerability": "This model has a 4+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "fa7d-7d46-9985-4d7a",
       "AbilityName": "The Warmaster",
       "AbilityText": "In your Command phase, select one Warmaster ability. Until the start of your next Command phase, this model has that ability."
     },
     {
-      "Id": 0,
+      "Id": "c6c6-4956-b0e4-8e3c",
       "AbilityName": "Dark Destiny",
       "AbilityText": "Each time this model makes a Dark Pact and does not fail the resulting Leadership test, roll one D6: on a 2+, you gain 1CP."
     },
     {
-      "Id": 0,
+      "Id": "840f-5d08-8f3c-8d60",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ CHAOS TERMINATOR SQUAD\n■ LEGIONARIES"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "5d4-40e6-b003-921d",
       "WeaponName": "Talon of Horus",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "f7e1-1185-d5e-1ed0",
       "WeaponName": "Talon of Horus",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-3",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "f89d-b352-387c-1f29",
       "WeaponName": "Drach'nyen",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "3"
     }
   ]
 }

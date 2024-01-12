@@ -1,4 +1,5 @@
 {
+  "id": "6d4f-d202-c13f-df56",
   "UnitName": "Exalted Champion",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,20 +7,20 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "8618-d29a-f66e-ade8",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES\n\nYou can attach this model to one of the above units even if one other CHARACTER model has already been attached to it (a unit cannot have two Exalted Champions attached to it). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "fbbf-f5d2-d249-f3d9",
       "AbilityName": "Dark Champion",
       "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
     },
     {
-      "Id": 0,
+      "Id": "bd10-21c8-3be1-2e74",
       "AbilityName": "Aspire to Glory",
       "AbilityText": "Each time this model’s unit makes a Dark Pact, until the end of the phase, add D3 to the Strength characteristic of weapons equipped by this model."
     }
@@ -27,13 +28,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "c15a-7135-feb5-a373",
       "WeaponName": "Exalted weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

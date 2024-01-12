@@ -1,4 +1,5 @@
 {
+  "id": "22a9-60bd-27be-487",
   "UnitName": "Berzerkers",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,10 +7,10 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "9157-2872-62-cf1d",
       "AbilityName": "Blood Surge",
       "AbilityText": "Each time an enemy unit is selected to shoot, after that unit has finished making its attacks, if any models from this unit were destroyed as a result of those attacks, this unit can make a Blood Surge move. To do so, roll one D6: this unit can be moved a number of inches up to the result, but this unit must finish that move as close as possible to the closest enemy unit (excluding Aircraft). When doing so, those models can be moved within Engagement Range of that enemy unit. A unit cannot make a Blood Surge move while it is Battle-shocked."
     }
@@ -17,22 +18,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "973c-9ebd-6b56-9ab4",
       "WeaponName": "Berserker chainblade",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "cbf6-fca7-eebc-79f9",
       "WeaponName": "Khornate eviscerator",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

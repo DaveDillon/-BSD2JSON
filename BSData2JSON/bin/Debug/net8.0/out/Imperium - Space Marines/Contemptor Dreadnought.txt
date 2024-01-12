@@ -1,4 +1,5 @@
 {
+  "id": "b0c6-f86f-b5-7a06",
   "UnitName": "Contemptor Dreadnought",
   "Movement": "6\"",
   "Toughness": "9",
@@ -9,22 +10,22 @@
   "Invulnerability": "5+",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "2fd1-19bc-c6f4-700d",
       "AbilityName": "Even in Death I Serve",
       "AbilityText": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "d8cd-6fcd-2212-abf5",
       "WeaponName": "Kheres-pattern Assault Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
     }
   ],
   "MeleeSkills": []

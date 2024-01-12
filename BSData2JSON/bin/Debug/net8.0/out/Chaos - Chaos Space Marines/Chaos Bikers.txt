@@ -1,4 +1,5 @@
 {
+  "id": "9554-e9-d6c3-a31f",
   "UnitName": "Chaos Bikers",
   "Movement": "12\"",
   "Toughness": "5",
@@ -6,36 +7,36 @@
   "Wounds": "3",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "adc9-df4f-74e6-1e15",
       "AbilityName": "Outmanoeuvre",
       "AbilityText": "At the end of your opponent’s turn, if this unit is wholly within 6\" of one or more battlefield edge and not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "493a-8e37-c060-1a8d",
       "WeaponName": "Flamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "eb40-3b15-b41e-1eb",
       "WeaponName": "Meltagun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     }
   ],
   "MeleeSkills": []

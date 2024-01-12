@@ -1,4 +1,5 @@
 {
+  "id": "db3-6ff3-87c4-ac33",
   "UnitName": "Tyrannic War Veterans",
   "Movement": null,
   "Toughness": null,
@@ -6,78 +7,78 @@
   "Wounds": null,
   "Leadership": null,
   "ObjectControl": null,
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "fdcb-433f-b79f-1ec1",
       "AbilityName": "Tyrannic War Veterans",
       "AbilityText": "Weapons equipped by models in this unit are have the [DEVASTATING WOUNDS] ability when targeting Tyranids units."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "7bc6-60c6-7a7-7508",
       "WeaponName": "Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Tyranids 4+"
     },
     {
-      "id": 0,
+      "id": "6bb4-5f4d-df41-9d3e",
       "WeaponName": "Boltgun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Tyranids 4+"
     },
     {
-      "id": 0,
+      "id": "48e-4791-dd87-8b36",
       "WeaponName": "Boltgun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Tyranids 4+"
     },
     {
-      "id": 0,
+      "id": "ceda-b6fc-6006-bb01",
       "WeaponName": "Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Tyranids 4+"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "84a-63de-5b04-3d70",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "9fc0-cac2-db19-99a2",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

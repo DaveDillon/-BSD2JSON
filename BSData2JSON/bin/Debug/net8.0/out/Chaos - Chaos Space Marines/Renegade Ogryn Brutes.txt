@@ -1,4 +1,5 @@
 {
+  "id": "ec3d-171c-93a0-b42f",
   "UnitName": "Renegade Ogryn Brutes",
   "Movement": "6\"",
   "Toughness": "6",
@@ -6,10 +7,10 @@
   "Wounds": "3",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "3a6c-9596-4911-4869",
       "AbilityName": "Ogryn Combat Stimms",
       "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
     }
@@ -17,22 +18,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "12ae-f78c-5ae5-a46f",
       "WeaponName": "Ogryn weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "e2ce-8910-14cb-42f",
       "WeaponName": "Ogryn power drill",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

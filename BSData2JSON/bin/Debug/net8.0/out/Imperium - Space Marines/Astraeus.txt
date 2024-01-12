@@ -1,4 +1,5 @@
 {
+  "id": "2f70-e05d-9fa7-9b99",
   "UnitName": "Astraeus",
   "Movement": "10\"",
   "Toughness": "12",
@@ -9,44 +10,55 @@
   "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "b05-d2dc-4dd4-81ee",
       "AbilityName": "Suppression Fire",
       "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more attacks made with its twin macro-accelerator cannon this phase. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "c6ce-de7a-b726-1206",
       "WeaponName": "Twin macro-accelerator cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "72\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Sustained Hits 1, Twin-linked"
     },
     {
-      "id": 0,
+      "id": "2255-db43-ddd4-81ce",
       "WeaponName": "Astraeus las-ripper",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
     },
     {
-      "id": 0,
+      "id": "88ed-cb52-5134-d404",
       "WeaponName": "Plasma eradicator",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "fc19-a1ee-33c5-91e0",
+      "WeaponName": "Plasma eradicator",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
     }
   ],
   "MeleeSkills": []

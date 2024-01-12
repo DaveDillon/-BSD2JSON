@@ -1,4 +1,5 @@
 {
+  "id": "4e73-2f07-a391-abb7",
   "UnitName": "Sergeant Chronus",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,15 +7,15 @@
   "Wounds": "3",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "72c3-d3f3-5ba8-3c67",
       "AbilityName": "Tank Commander",
       "AbilityText": "While this model is commanding a Vehicle model (see reverse):\n\n■ Ranged weapons equipped by that Vehicle model have a Ballistic Skill characteristic of 2+.\n■ Each time that Vehicle model is selected to shoot, you can re-roll one Wound roll when resolving those attacks.\n\nIf your army includes one or more of the Vehicle models listed below, Sergeant Chronus must start the battle embarked within one of those models as if it were a Transport. Sergeant Chronus can only disembark from that Vehicle if it is destroyed. While embarked in this way, Sergeant Chronus is said to be commanding that Vehicle.\n\n■ Hunter\n■ Land Raider\n■ Land Raider Crusader\n■ Land Raider Redeemer\n■ Predator Annihilator\n■ Predator Destructor\n■ Stalker\n■ Vindicator\n■ Whirlwind"
     },
     {
-      "Id": 0,
+      "Id": "bc23-bd70-e4d0-f355",
       "AbilityName": "Chronus",
       "AbilityText": "When this model disembarks from a Vehicle model it was commanding, it has the Lone Operative ability until the end of the battle."
     }
@@ -22,13 +23,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "c537-27a2-64d8-de9b",
       "WeaponName": "Chronus' Servo-Arm",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     }
   ]
 }

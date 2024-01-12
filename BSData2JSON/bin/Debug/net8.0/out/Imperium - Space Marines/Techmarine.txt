@@ -1,4 +1,5 @@
 {
+  "id": "b957-d9cd-ee81-560",
   "UnitName": "Techmarine",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,113 +7,113 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "40d5-dc4a-5c0a-fe2e",
       "AbilityName": "Techmarine",
       "AbilityText": "While this model is within 3\" of one or more friendly Adeptus Astartes Vehicle units, this model has the Lone Operative ability"
     },
     {
-      "Id": 0,
+      "Id": "b4c1-7511-e999-2538",
       "AbilityName": "Blessing of the Omnissiah",
       "AbilityText": "In your Command phase, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
     },
     {
-      "Id": 0,
+      "Id": "6bc9-9c39-2271-1f1e",
       "AbilityName": "Vengeance of the Omnissiah",
       "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7."
     },
     {
-      "Id": 0,
+      "Id": "237c-15f3-c241-2ae1",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Intercessor Squad\n■ Tactical Squad"
     },
     {
-      "Id": 0,
+      "Id": "4a3f-c7c6-c5ed-92eb",
       "AbilityName": "Blessing of the Omnissiah",
       "AbilityText": "In your Command phase, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
     },
     {
-      "Id": 0,
+      "Id": "3d8f-6029-fdb9-6f40",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
     },
     {
-      "Id": 0,
+      "Id": "4a65-f686-e774-6019",
       "AbilityName": "Techmarine",
       "AbilityText": "While this model is within 3\" of one or more friendly Adeptus Astartes Vehicle units, this model has the Lone Operative ability"
     },
     {
-      "Id": 0,
+      "Id": "a064-20c3-371a-261f",
       "AbilityName": "Vengeance of the Omnissiah",
       "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "2aea-ded0-1a03-3242",
       "WeaponName": "Forge Bolter",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": ""
     },
     {
-      "id": 0,
+      "id": "8b15-a8da-d80a-405b",
       "WeaponName": "Boltgun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
     },
     {
-      "id": 0,
+      "id": "934b-c485-e717-f1e6",
       "WeaponName": "Grav Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-vehicle 2+, Pistol"
     },
     {
-      "id": 0,
+      "id": "580a-59cd-6606-66cd",
       "WeaponName": "Conversion Beamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Conversion, Sustained Hits D3"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "eea1-2c60-c1b2-1d0f",
       "WeaponName": "Power Fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "1dc3-9bad-a7f4-cdb2",
       "WeaponName": "Plasma Cutter",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

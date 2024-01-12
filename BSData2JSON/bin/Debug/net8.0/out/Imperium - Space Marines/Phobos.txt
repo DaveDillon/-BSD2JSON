@@ -1,4 +1,5 @@
 {
+  "id": "7295-ed65-8ff4-7a5f",
   "UnitName": "Phobos",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,343 +7,343 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "2d39-4b7-eecd-9111",
       "AbilityName": "Master of Deceit",
       "AbilityText": "After both players have deployed their armies and determined who has the first turn, if your army includes one or more models with this ability, you can  select up to three friendly Adeptus Astartes Phobos, Adeptus Astartes Scout Squad or Adeptus Astartes Scout Sniper Squad units and redeploy all of  those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves."
     },
     {
-      "Id": 0,
+      "Id": "707b-cbab-54ac-96eb",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Eliminator Squad\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n■ Scout Squad"
     },
     {
-      "Id": 0,
+      "Id": "bdf4-e126-138d-d0e5",
       "AbilityName": "Omni-scramblers",
       "AbilityText": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this unit."
     },
     {
-      "Id": 0,
+      "Id": "cd5b-809e-22e9-f34d",
       "AbilityName": "Helix Gauntlet",
       "AbilityText": "Models in the bearer’s unit have the Feel No Pain 6+ ability."
     },
     {
-      "Id": 0,
+      "Id": "214b-5fbd-3d7-670",
       "AbilityName": "Infiltrator Comms Array",
       "AbilityText": "Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
     },
     {
-      "Id": 0,
+      "Id": "19f7-84bb-8aca-b2de",
       "AbilityName": "Multi-spectrum Array",
       "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly Adeptus Astartes unit makes an attack that targets that enemy unit, add 1 to the Hit roll."
     },
     {
-      "Id": 0,
+      "Id": "4f32-49a9-f45b-3eb9",
       "AbilityName": "Haywire Mine",
       "AbilityText": "Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a Vehicle unit."
     },
     {
-      "Id": 0,
+      "Id": "2a6f-de17-6e0-6a6e",
       "AbilityName": "Fearsome Assault",
       "AbilityText": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test."
     },
     {
-      "Id": 0,
+      "Id": "234b-7f36-5b91-8b49",
       "AbilityName": "Terror Troops [Aura]",
       "AbilityText": "While an enemy unit is within 6\" of this unit, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
     },
     {
-      "Id": 0,
+      "Id": "85a4-4177-8c1b-e355",
       "AbilityName": "Grapnel Launchers",
       "AbilityText": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the\nbearer can be moved during that move"
     },
     {
-      "Id": 0,
+      "Id": "d035-b128-7039-4b37",
       "AbilityName": "Reiver Grav-chute",
       "AbilityText": "The bearer has the Deep Strike ability."
     },
     {
-      "Id": 0,
+      "Id": "e58e-7a39-e2bd-a58b",
       "AbilityName": "Combat Support",
       "AbilityText": "Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes Phobos Infantry unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy model’s unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
     },
     {
-      "Id": 0,
+      "Id": "d2ad-d0a2-4079-f902",
       "AbilityName": "Reposition Under Covering Fire",
       "AbilityText": "In your Shooting phase, after this unit has shot, if it contains an Eliminator Sergeant equipped with an instigator bolt carbine, this unit can make a\nNormal move. If it does so, until the end of the turn, this unit is not eligible to declare a charge."
     },
     {
-      "Id": 0,
+      "Id": "bda1-520a-6fd7-c422",
       "AbilityName": "Mark the Target",
       "AbilityText": "Each time this unit Remains Stationary, until the start of your next Movement phase, ranged weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
     },
     {
-      "Id": 0,
+      "Id": "fbda-ce4d-4c1-da22",
       "AbilityName": "Deadly Terror",
       "AbilityText": "While this model is leading a unit, increase the range of that unit’s Terror Troops ability by 3\"."
     },
     {
-      "Id": 0,
+      "Id": "42b2-7d1e-f1c-abdd",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following unit:\n\n■ Reiver Squad\n\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "eec8-a500-c73f-95d7",
       "AbilityName": "Strategic Dispersal",
       "AbilityText": "In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy models, it can make a Normal move of up to D6\""
     },
     {
-      "Id": 0,
+      "Id": "6071-4e16-eb0f-63a6",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "3f4a-63fb-254-9364",
       "AbilityName": "Shrouding [Psychic]",
       "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\nmodel is within 12\"."
     },
     {
-      "Id": 0,
+      "Id": "2b01-240c-52a6-88e7",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Eliminator Squad\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad"
     },
     {
-      "Id": 0,
+      "Id": "2288-75ee-5b84-2775",
       "AbilityName": "Priority Objective Identified [Aura]",
       "AbilityText": "At the start of the first battle round, if your army contains one or more models with this ability, you can select one objective marker on the battlefield to be the Priority Objective. Until the end of the battle, while one or more models with this ability is on the battlefield, each time a model in that unit makes an attack that targets an enemy unit that is within range of the Priority Target, re-roll a Wound roll of 1."
     },
     {
-      "Id": 0,
+      "Id": "6c2b-dfc3-89ab-e9ff",
       "AbilityName": "Evade and Survive",
       "AbilityText": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move"
     },
     {
-      "Id": 0,
+      "Id": "83b0-5817-564d-d92b",
       "AbilityName": "Lone Survivor",
       "AbilityText": "This model cannot be Warlord"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "4338-18dc-f755-30e2",
       "WeaponName": "Instigator Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Precision"
     },
     {
-      "id": 0,
+      "id": "c96a-77fd-1672-18dc",
       "WeaponName": "Marksman Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy"
     },
     {
-      "id": 0,
+      "id": "dc05-9a4d-e8e2-a686",
       "WeaponName": "Marksman Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy"
     },
     {
-      "id": 0,
+      "id": "f5b6-1c6f-a53a-66a1",
       "WeaponName": "Occulus Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Ignores Cover"
     },
     {
-      "id": 0,
+      "id": "f4d7-3cd6-12ee-51e8",
       "WeaponName": "Occulus Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Ignores Cover"
     },
     {
-      "id": 0,
+      "id": "2bfe-7c74-7b70-a846",
       "WeaponName": "Special Issue Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol, Precision"
     },
     {
-      "id": 0,
+      "id": "ba44-a36e-9207-a5e",
       "WeaponName": "Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Precision"
     },
     {
-      "id": 0,
+      "id": "39aa-eedf-b708-d095",
       "WeaponName": "Incendium Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "e195-f8b4-f130-12e7",
       "WeaponName": "Twin Ironhail Autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
     },
     {
-      "id": 0,
+      "id": "ffe3-a16e-ce0a-98a4",
       "WeaponName": "Instigator Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Precision"
     },
     {
-      "id": 0,
+      "id": "fb52-d382-545d-d0ee",
       "WeaponName": "Bolt Sniper Rifle",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Heavy, Precision"
     },
     {
-      "id": 0,
+      "id": "6a75-dff3-aeb4-4132",
       "WeaponName": "Las Fusil",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Heavy"
     },
     {
-      "id": 0,
+      "id": "e221-6f6-c7cc-ebad",
       "WeaponName": "Master-crafted Special Issue Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Pistol, Precision"
     },
     {
-      "id": 0,
+      "id": "9105-d355-838c-4cbc",
       "WeaponName": "Master-crafted Scoped Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": ""
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "10da-30e5-e130-efac",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "30f6-251d-c581-7a84",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "23cb-a1c9-87be-722d",
       "WeaponName": "Combat Knife",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "69c8-9e7f-f7ae-b926",
       "WeaponName": "Invictor Fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     },
     {
-      "id": 0,
+      "id": "5932-17d0-4002-8a70",
       "WeaponName": "Combat Knife",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "f690-8a62-db9c-e131",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "187a-dc9a-a0bb-19e2",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

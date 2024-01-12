@@ -1,4 +1,5 @@
 {
+  "id": "8cf9-19e9-c153-9b3a",
   "UnitName": "Attack Bike Squad",
   "Movement": "12\"",
   "Toughness": "5",
@@ -6,10 +7,10 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "6542-61e5-432c-b5bf",
       "AbilityName": "Outrider Escort",
       "AbilityText": "Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes Mounted unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
     }

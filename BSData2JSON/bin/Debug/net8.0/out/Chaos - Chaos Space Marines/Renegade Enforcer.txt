@@ -1,4 +1,5 @@
 {
+  "id": "fd82-cf94-5093-53e3",
   "UnitName": "Renegade Enforcer",
   "Movement": "6\"",
   "Toughness": "3",
@@ -9,94 +10,94 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "6c0e-1986-f874-6303",
       "AbilityName": "Brutal Example",
       "AbilityText": "While this model is leading a unit, you can target that unit with the Insane Bravery Stratagem for 0CP, and can do so even if another unit from your army has already been targeted with that Stratagem this phase. Each time you use this ability, one Bodyguard model in that unit is destroyed."
     },
     {
-      "Id": 0,
+      "Id": "67a7-ec29-b386-dbdc",
       "AbilityName": "Enforcer",
       "AbilityText": "This model's unit is eligible to declare a charge in a turn in which it Fell Back."
     },
     {
-      "Id": 0,
+      "Id": "cf8c-292d-1477-cc54",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ TRAITOR GUARDSMEN SQUAD\n■ RENEGADE HEAVY WEAPONS SQUAD"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "4036-f0f9-7069-5945",
       "WeaponName": "Enforcer pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "9eb6-166-16fb-94cb",
       "WeaponName": "Autogun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
     },
     {
-      "id": 0,
+      "id": "9ad-3ec2-4485-1e23",
       "WeaponName": "Lasgun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
     },
     {
-      "id": 0,
+      "id": "70b3-3109-ac5a-2aa7",
       "WeaponName": "Shotgun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "2726-ac5-7448-4da8",
       "WeaponName": "Enforcer melee weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "97b9-3221-ac8e-d48e",
       "WeaponName": "Power weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "9cf3-c74e-e6e-2df6",
       "WeaponName": "Power fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

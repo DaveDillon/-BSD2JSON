@@ -1,4 +1,5 @@
 {
+  "id": "aa6-2d5e-e32d-c4c9",
   "UnitName": "Land Raider",
   "Movement": "10\"",
   "Toughness": "12",
@@ -6,36 +7,36 @@
   "Wounds": "16",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "4fb4-b526-6d97-590f",
       "AbilityName": "Assault Ramp",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "cb8a-dd24-fe4c-5d8c",
       "WeaponName": "Soulshatter lascannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "8d01-e4ea-c21c-b172",
       "WeaponName": "Armoured tracks",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

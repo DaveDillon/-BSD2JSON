@@ -1,4 +1,5 @@
 {
+  "id": "c0fd-10e-543a-273d",
   "UnitName": "Brutalis Dreadnought",
   "Movement": "8\"",
   "Toughness": "10",
@@ -6,45 +7,54 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "dbd0-636-26e-2482",
       "AbilityName": "Brutalis Charge",
       "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "a8fd-bc3b-b629-e6a4",
       "WeaponName": "Brutalis Bolt Rifles",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Twin-linked"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "bf72-380a-edcf-816a",
       "WeaponName": "Brutalis Fists",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     },
     {
-      "id": 0,
+      "id": "a042-66db-3ce0-a3ab",
       "WeaponName": "Brutalis Talons",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "7048-2ef3-7430-e152",
+      "WeaponName": "Brutalis Talons",
+      "Attacks": "10",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
     }
   ]
 }

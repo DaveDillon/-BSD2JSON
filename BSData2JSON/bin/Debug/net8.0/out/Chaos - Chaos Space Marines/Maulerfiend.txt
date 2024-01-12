@@ -1,4 +1,5 @@
 {
+  "id": "c388-ad3f-fd3f-2ab1",
   "UnitName": "Maulerfiend",
   "Movement": "10\"",
   "Toughness": "10",
@@ -9,42 +10,42 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "a03e-2570-1658-1bc2",
       "AbilityName": "Siege Crawler",
       "AbilityText": "You can re-roll Advance and Charge rolls made for this model, and you can ignore any or all modifiers to its Move characteristic and to Advance and Charge rolls made for it."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "bcfc-d5b0-7f4e-654",
       "WeaponName": "2 magma cutters",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "6\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "2265-952-4447-177f",
       "WeaponName": "Maulerfiend fists",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
     },
     {
-      "id": 0,
+      "id": "2e57-63c1-4a82-e352",
       "WeaponName": "Lasher tendrils",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
     }
   ]
 }

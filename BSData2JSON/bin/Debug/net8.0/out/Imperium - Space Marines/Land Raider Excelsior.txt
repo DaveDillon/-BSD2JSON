@@ -1,4 +1,5 @@
 {
+  "id": "d4f3-3223-b460-ded5",
   "UnitName": "Land Raider Excelsior",
   "Movement": "10\"",
   "Toughness": "12",
@@ -9,27 +10,27 @@
   "Invulnerability": "5+",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "c73b-5548-ab0c-c9b1",
       "AbilityName": "Assault Ramp",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     },
     {
-      "Id": 0,
+      "Id": "5bb8-2a39-d78f-3f9",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 12 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "d68b-234-8d71-d6b3",
       "WeaponName": "Grav-cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 2+"
     }
   ],
   "MeleeSkills": []

@@ -1,4 +1,5 @@
 {
+  "id": "b8fa-ddca-2491-5351",
   "UnitName": "Gladiator Valiant",
   "Movement": "10\"",
   "Toughness": "10",
@@ -6,36 +7,36 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "242a-a6a9-4900-b4c6",
       "AbilityName": "Ferocious Assault",
       "AbilityText": "Each time this model makes an attack with its twin las-talon that targets the closest eligible Monster or fVehicle unit, add 1 to the Hit roll"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "a346-b274-d448-7c60",
       "WeaponName": "Multi-melta",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     },
     {
-      "id": 0,
+      "id": "2d1d-ff49-52e8-cb66",
       "WeaponName": "Twin Las-talon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-linked"
     }
   ],
   "MeleeSkills": []

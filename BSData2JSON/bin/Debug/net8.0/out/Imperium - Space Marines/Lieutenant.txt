@@ -1,4 +1,5 @@
 {
+  "id": "9c1a-42ff-a418-11d1",
   "UnitName": "Lieutenant",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,127 +7,127 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "cbfd-6561-230b-5d70",
       "AbilityName": "Storm Shield",
       "AbilityText": "The bearer has a 4+ invulnerable save"
     },
     {
-      "Id": 0,
+      "Id": "ba72-8a45-4bf0-d10c",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Company Heroes\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "fbda-ce4d-4c1-da22",
       "AbilityName": "Deadly Terror",
       "AbilityText": "While this model is leading a unit, increase the range of that unit’s Terror Troops ability by 3\"."
     },
     {
-      "Id": 0,
+      "Id": "42b2-7d1e-f1c-abdd",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following unit:\n\n■ Reiver Squad\n\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "eec8-a500-c73f-95d7",
       "AbilityName": "Strategic Dispersal",
       "AbilityText": "In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy models, it can make a Normal move of up to D6\""
     },
     {
-      "Id": 0,
+      "Id": "6071-4e16-eb0f-63a6",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "2288-75ee-5b84-2775",
       "AbilityName": "Priority Objective Identified [Aura]",
       "AbilityText": "At the start of the first battle round, if your army contains one or more models with this ability, you can select one objective marker on the battlefield to be the Priority Objective. Until the end of the battle, while one or more models with this ability is on the battlefield, each time a model in that unit makes an attack that targets an enemy unit that is within range of the Priority Target, re-roll a Wound roll of 1."
     },
     {
-      "Id": 0,
+      "Id": "6c2b-dfc3-89ab-e9ff",
       "AbilityName": "Evade and Survive",
       "AbilityText": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move"
     },
     {
-      "Id": 0,
+      "Id": "83b0-5817-564d-d92b",
       "AbilityName": "Lone Survivor",
       "AbilityText": "This model cannot be Warlord"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "4ec0-abae-dedc-4f44",
       "WeaponName": "Neo-volkite Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Pistol"
     },
     {
-      "id": 0,
+      "id": "23e6-5720-7f8c-13fa",
       "WeaponName": "Heavy Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "e221-6f6-c7cc-ebad",
       "WeaponName": "Master-crafted Special Issue Bolt Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Pistol, Precision"
     },
     {
-      "id": 0,
+      "id": "9105-d355-838c-4cbc",
       "WeaponName": "Master-crafted Scoped Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": ""
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "5932-17d0-4002-8a70",
       "WeaponName": "Combat Knife",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "f690-8a62-db9c-e131",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "187a-dc9a-a0bb-19e2",
       "WeaponName": "Paired Combat Blades",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

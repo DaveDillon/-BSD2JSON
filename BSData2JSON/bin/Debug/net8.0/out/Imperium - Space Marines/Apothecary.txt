@@ -1,4 +1,5 @@
 {
+  "id": "2170-4f11-9bf7-ae56",
   "UnitName": "Apothecary",
   "Movement": "12\"",
   "Toughness": "5",
@@ -6,20 +7,20 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "e17-41e5-b31-1d44",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Aggressor Squad\n■ Eradicator Squad\n■ Heavy Intercessor Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "64b0-83c0-a1db-1ee8",
       "AbilityName": "Gene Seed Recovery",
       "AbilityText": "When this model’s Bodyguard unit is destroyed, roll one D6: on a 2+, you gain 1CP."
     },
     {
-      "Id": 0,
+      "Id": "7782-ca5-3b11-d45d",
       "AbilityName": "Narthecium",
       "AbilityText": "While this model is leading a unit, in your Command phase, you can return 1 destroyed model (excluding Character models) to that unit."
     }

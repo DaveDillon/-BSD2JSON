@@ -1,4 +1,5 @@
 {
+  "id": "ca80-dc11-448e-c805",
   "UnitName": "Storm Speeder Hailstrike",
   "Movement": "14\"",
   "Toughness": "9",
@@ -6,10 +7,10 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "723f-1b4e-455d-839a",
       "AbilityName": "Hailstrike",
       "AbilityText": "Each time this model has shot, select one enemy unit that was hit by one or more attacks made by this model this phase. Until the end of the phase, each time a friendly Adeptus Astartes unit makes a ranged attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per phase."
     }
@@ -17,13 +18,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "e0b2-11a5-98d1-7b9c",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

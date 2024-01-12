@@ -1,4 +1,5 @@
 {
+  "id": "3a1a-8606-1c00-e537",
   "UnitName": "Stalker",
   "Movement": "9\"",
   "Toughness": "11",
@@ -6,25 +7,25 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "c8ca-55cb-cdbc-fd1",
       "AbilityName": "Skyfire Protocols",
       "AbilityText": "Each time you target this model with the Overwatch Stratagem just after an enemy unit that can Fly starts or ends a Normal, Advance or Fall Back move, when resolving that Stratagem, in addition to shooting that enemy unit, you can select up to three additional enemy units within 24\" of this model that can Fly; this model can also shoot at each of those units with its Icarus stormcannons (provided each one is an eligible target), but when doing so, an unmodified Hit roll of 6 is required to score a hit."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "410f-ad6b-ed28-12e7",
       "WeaponName": "Icarus Stormcannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Fly 2+"
     }
   ],
   "MeleeSkills": []

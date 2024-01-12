@@ -1,4 +1,5 @@
 {
+  "id": "7206-48bb-8b09-ab6",
   "UnitName": "Gladiator Reaper",
   "Movement": "10\"",
   "Toughness": "10",
@@ -6,36 +7,36 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "59fa-d89c-5b6e-83a7",
       "AbilityName": "Rotating Death",
       "AbilityText": "This model’s twin heavy onslaught gatling cannon has the [SUSTAINED HITS 2] ability when targeting Infantry units."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3638-3e0-a9c7-cb19",
       "WeaponName": "Twin Heavy Onslaught Gatling Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Twin-linked"
     },
     {
-      "id": 0,
+      "id": "741c-5553-af97-f635",
       "WeaponName": "Tempest Bolter",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 4"
     }
   ],
   "MeleeSkills": []

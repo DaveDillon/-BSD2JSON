@@ -1,4 +1,5 @@
 {
+  "id": "67ad-653f-46a2-66c1",
   "UnitName": "Daemon Prince",
   "Movement": "8\"",
   "Toughness": "10",
@@ -6,71 +7,89 @@
   "Wounds": "10",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "f50a-4106-c634-4dfb",
       "AbilityName": "Dark Blessing (Aura)",
       "AbilityText": "While a friendly HERETIC ASTARTES INFANTRY unit is within 6\" of this model, each time a ranged attack is allocated to a model in that unit, that model has the Benefit of Cover against that attack."
     },
     {
-      "Id": 0,
+      "Id": "407-7706-8874-ca33",
       "AbilityName": "Ascended Daemon",
       "AbilityText": "Each time this model shoot or fights, while resolving those attacks, you can re-roll one Hit roll and you can re-roll one Wound roll."
     },
     {
-      "Id": 0,
+      "Id": "8261-a286-b29a-da5d",
       "AbilityName": "Flying Horror",
       "AbilityText": "Each time this model ends a Normal or Advance move, select one enemy unit it moved over during that move. That unit must take a Battle-shock test."
     },
     {
-      "Id": 0,
+      "Id": "3ab7-2651-6173-3298",
       "AbilityName": "Daemonic Destruction",
       "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each of this model’s remaining wounds: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "a616-b7e2-b60b-852c",
       "WeaponName": "Infernal cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
     },
     {
-      "id": 0,
+      "id": "4078-6762-94b2-aa8e",
       "WeaponName": "Infernal cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "aee4-eca-f807-602e",
       "WeaponName": "Hellforged weapons",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     },
     {
-      "id": 0,
+      "id": "c369-51e7-341a-25e7",
       "WeaponName": "Hellforged weapons",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3468-ece2-6b2f-b5c5",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "f8e0-c225-a693-8c10",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

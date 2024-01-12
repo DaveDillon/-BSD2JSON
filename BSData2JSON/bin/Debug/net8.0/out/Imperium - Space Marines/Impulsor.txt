@@ -1,4 +1,5 @@
 {
+  "id": "7476-fb8e-bd5a-cfbe",
   "UnitName": "Impulsor",
   "Movement": "12\"",
   "Toughness": "9",
@@ -6,51 +7,73 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "51b9-1985-e818-cc43",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 6 Tacticus or Phobos Infantry models. It cannot transport Jump Pack models."
     },
     {
-      "Id": 0,
+      "Id": "aa73-4cca-5285-aa",
       "AbilityName": "Assault Vehicle",
       "AbilityText": "Units can disembark from this Transport after it has Advanced. Units that do so count as having made a Normal move, and cannot declare a charge that turn."
     },
     {
-      "Id": 0,
+      "Id": "47e6-e0ee-5ed3-2b93",
       "AbilityName": "Orbital Comms Array [Aura]",
       "AbilityText": "While a friendly Adeptus Astartes unit is within 6\" of the bearer, each time you target that unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
     },
     {
-      "Id": 0,
+      "Id": "283e-bafc-c4b3-2fec",
       "AbilityName": "Shield Dome",
       "AbilityText": "The bearer has a 5+ invulnerable save."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "2f95-f38d-5838-7639",
       "WeaponName": "Bellicatus Missile Array",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "87c6-3f5-af1d-1193",
+      "WeaponName": "Bellicatus Missile Array",
+      "Range": "48\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Fly 2+"
+    },
+    {
+      "id": "313c-2cdb-a5c5-e3ec",
+      "WeaponName": "Bellicatus Missile Array",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "c584-4082-2c05-a4ba",
       "WeaponName": "Ironhail Skytalon Array",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Fly 4+, Sustained Hits 1"
     }
   ],
   "MeleeSkills": []

@@ -1,4 +1,5 @@
 {
+  "id": "5356-8592-172a-7158",
   "UnitName": "Defiler",
   "Movement": "8\"",
   "Toughness": "10",
@@ -9,64 +10,64 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "5147-2fe7-12a6-51b4",
       "AbilityName": "Scuttling Walker",
       "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can be moved over friendly MONSTER and VEHICLE models as if they were not there. This model can move over terrain features that are 4\" or less in height as if they were not there."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "95ec-34c-7da4-cc18",
       "WeaponName": "Defiler cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "984c-e072-1418-b525",
       "WeaponName": "Reaper autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
     },
     {
-      "id": 0,
+      "id": "3a9e-9834-911a-ff7b",
       "WeaponName": "Twin heavy flamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Twin-linked"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "e297-743b-b1b5-7f5a",
       "WeaponName": "Defiler claws",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
     },
     {
-      "id": 0,
+      "id": "2e8e-d1d2-4338-120c",
       "WeaponName": "Defiler scourge",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

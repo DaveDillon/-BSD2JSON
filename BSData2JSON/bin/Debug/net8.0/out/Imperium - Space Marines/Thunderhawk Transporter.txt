@@ -1,4 +1,5 @@
 {
+  "id": "35b4-5fa9-5be5-b16c",
   "UnitName": "Thunderhawk Transporter",
   "Movement": "20+\"",
   "Toughness": "12",
@@ -6,46 +7,46 @@
   "Wounds": "30",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "81de-26d4-5418-74c1",
       "AbilityName": "Damaged: 1-10 wounds remaining",
       "AbilityText": "While this model has 1-10 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
     },
     {
-      "Id": 0,
+      "Id": "b6ef-f95b-5e81-4cac",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 15 Adeptus Astartes Infantry or Adeptus Astartes Mounted models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models. Each Centurion model takes up the space of 3 models. Each Mounted model takes up the space of 4 models. This model can also transport up to 2 Adeptus Astartes Vehicle models (excluding Aircraft and Titanic models). Models embarked within Transport Vehicles that are themselves being transported by this model do not count towards the transport capacity of this model."
     },
     {
-      "Id": 0,
+      "Id": "a516-5f1f-4d3e-3e3c",
       "AbilityName": "Aerial Deployment",
       "AbilityText": "If this model starts the game in Hover mode and in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "be97-2734-903e-3197",
       "WeaponName": "Hellstrike missile battery",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "72\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Anti-FLY 4+"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "7acf-9558-76ef-75c",
       "WeaponName": "Armoured Hull",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

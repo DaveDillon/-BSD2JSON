@@ -1,4 +1,5 @@
 {
+  "id": "8d71-2b80-a285-d621",
   "UnitName": "Rogue Psyker",
   "Movement": "6\"",
   "Toughness": "3",
@@ -6,57 +7,68 @@
   "Wounds": "3",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "278a-3fda-28cf-bbf1",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ ACCURSED CULTISTS\n■ CULTIST MOB\n■ NEGAVOLT CULTISTS"
     },
     {
-      "Id": 0,
+      "Id": "23f5-de7-b1f3-e52f",
       "AbilityName": "Cursed Wardings (Psychic)",
       "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks."
     },
     {
-      "Id": 0,
+      "Id": "67c4-ee1f-58d4-1782",
       "AbilityName": "Psychic Barrier (Psychic)",
       "AbilityText": "At the start of your opponent’s Shooting phase, you can roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this PSYKER’s unit have a 4+ invulnerable save."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "613c-7878-409e-fd6e",
       "WeaponName": "Laspistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "f4db-7ea4-b006-57bd",
       "WeaponName": "Psychic Strike",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Devastating Wounds, Hazardous, Psychic"
+    },
+    {
+      "id": "1c18-1ff3-7acb-5997",
+      "WeaponName": "Psychic Strike",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds, Psychic"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "7f5c-3ae2-496f-bc92",
       "WeaponName": "Chaos stave",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
     }
   ]
 }

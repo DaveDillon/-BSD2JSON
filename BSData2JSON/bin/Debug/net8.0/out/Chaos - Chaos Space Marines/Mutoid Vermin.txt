@@ -1,4 +1,5 @@
 {
+  "id": "bf09-227d-24d5-dc10",
   "UnitName": "Mutoid Vermin",
   "Movement": "8\"",
   "Toughness": "2",
@@ -6,10 +7,10 @@
   "Wounds": "1",
   "Leadership": "8+",
   "ObjectControl": "8+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "cee6-b256-80d9-9a79",
       "AbilityName": "Mischief Makers (Aura)",
       "AbilityText": "While an enemy unit (excluding MONSTERS and VEHICLES) is within 6\" of this unit, each time a model in that unit makes a melee attack, subtract 1 from the Hit roll."
     }
@@ -17,13 +18,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "1337-9bea-26a6-180b",
       "WeaponName": "Diseased claws and fangs",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

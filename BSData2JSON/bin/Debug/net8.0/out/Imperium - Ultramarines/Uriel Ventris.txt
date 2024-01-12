@@ -1,4 +1,5 @@
 {
+  "id": "7af0-27df-af5b-a2ff",
   "UnitName": "Uriel Ventris",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,46 +7,46 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "fad2-9c1c-44ce-ad0e",
       "AbilityName": "Unorthodox Strategist",
       "AbilityText": "While this model is leading a unit, you can target that unit with a Stratagem even if that Stratagem has already been used on another unit from your army this phase. In addition, this model’s unit can still be selected as the target of a Stratagem while Battle-shocked."
     },
     {
-      "Id": 0,
+      "Id": "4e8a-9ef1-43e4-9ab2",
       "AbilityName": "Master of the Fleet",
       "AbilityText": "During the Declare Battle Formations step, if your army includes this model, select one Adeptus Astartes Infantry unit from your army.  That unit gains the Deep Strike ability."
     },
     {
-      "Id": 0,
+      "Id": "2ce2-dd82-241a-a38f",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad'\n■ Company Heroes\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "4cb0-a88c-49d-9fed",
       "WeaponName": "Invictus",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": ""
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "d4e6-f626-278e-7bc6",
       "WeaponName": "Sword of Idaeus",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

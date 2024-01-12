@@ -1,4 +1,5 @@
 {
+  "id": "d49c-2-4424-aa10",
   "UnitName": "Traitor Enforcer",
   "Movement": "6\"",
   "Toughness": "3",
@@ -9,17 +10,17 @@
   "Invulnerability": "This unit's TRAITOR ENFORCER model has a 5+ invulnerable save",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "dc1c-ffcb-1af3-f0ba",
       "AbilityName": "Leader",
       "AbilityText": "This unit can be attached to the following unit:\n■ TRAITOR GUARDSMAN SQUAD"
     },
     {
-      "Id": 0,
+      "Id": "9790-a17e-ac54-32a5",
       "AbilityName": "Brutal Example",
       "AbilityText": "While this unit is leading a unit and contains a TRAITOR ENFORCER model, that unit can be targeted with the Insane Bravery Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase. Each time you use this ability, one Bodyguard model in that unit is destroyed."
     },
     {
-      "Id": 0,
+      "Id": "3a6a-659b-9b4f-9935",
       "AbilityName": "Mutated Bodyguard",
       "AbilityText": "While this unit contains a Traitor Ogryn model, CHARACTER models in this unit have the Feel No Pain 4+ ability."
     }
@@ -27,22 +28,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "5d8c-bfcf-2cb8-fa70",
       "WeaponName": "Power fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "418c-85a0-b4d4-f738",
       "WeaponName": "Ogryn weapons",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

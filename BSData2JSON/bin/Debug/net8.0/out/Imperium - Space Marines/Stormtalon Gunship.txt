@@ -1,4 +1,5 @@
 {
+  "id": "cfac-646-6874-8c2d",
   "UnitName": "Stormtalon Gunship",
   "Movement": "20\"+",
   "Toughness": "8",
@@ -6,10 +7,10 @@
   "Wounds": "10",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "af3-a64b-b015-d55e",
       "AbilityName": "Strafing Run",
       "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
     }

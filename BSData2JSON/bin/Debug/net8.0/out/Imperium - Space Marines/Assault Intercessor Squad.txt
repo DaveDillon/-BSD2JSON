@@ -1,4 +1,5 @@
 {
+  "id": "9ba8-7087-dcbd-9fd8",
   "UnitName": "Assault Intercessor Squad",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,10 +7,10 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "f80a-70bd-e9d-3452",
       "AbilityName": "Shock Assault",
       "AbilityText": "Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead."
     }

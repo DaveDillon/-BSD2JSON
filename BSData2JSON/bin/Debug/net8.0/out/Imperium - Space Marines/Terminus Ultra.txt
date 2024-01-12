@@ -1,4 +1,5 @@
 {
+  "id": "58cc-5e4e-3752-ff89",
   "UnitName": "Terminus Ultra",
   "Movement": "10\"",
   "Toughness": "12",
@@ -6,30 +7,41 @@
   "Wounds": "16",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "562a-7fc-f1a6-cc9a",
       "AbilityName": "Assault Ramp",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     },
     {
-      "Id": 0,
+      "Id": "413f-621e-e43-c836",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 8 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "d954-1fe0-ed8f-cb6b",
       "WeaponName": "Terminus Lascannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "b550-ffd2-d660-5ae3",
+      "WeaponName": "Terminus Lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+3",
+      "Text": "Hazardous, Twin-Linked"
     }
   ],
   "MeleeSkills": []

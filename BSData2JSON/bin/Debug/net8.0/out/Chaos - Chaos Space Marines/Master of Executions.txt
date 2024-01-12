@@ -1,4 +1,5 @@
 {
+  "id": "1ff5-86c2-4cd8-283f",
   "UnitName": "Master of Executions",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,20 +7,20 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "e4c4-4418-a864-289b",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES\n\nYou can attach this model to one of the above units even if one other CHARACTER model has already been attached to it (a unit cannot have two Exalted Champions attached to it). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
-      "Id": 0,
+      "Id": "2ffd-423f-c721-1b75",
       "AbilityName": "Warp-sighted Butcher",
       "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack that targets a unit that is below its Starting Strength, you can re-roll the Hit roll. If that unit is Below Half-strength, you can re-roll the Wound roll as well."
     },
     {
-      "Id": 0,
+      "Id": "4cfe-2041-4740-1f97",
       "AbilityName": "Trophy Taker",
       "AbilityText": "Each time this model destroys an enemy CHARACTER model, you gain 1CP."
     }
@@ -27,13 +28,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "b8af-fca3-362d-e30e",
       "WeaponName": "Axe of Dismemberment",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

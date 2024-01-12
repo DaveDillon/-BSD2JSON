@@ -1,4 +1,5 @@
 {
+  "id": "6612-4ab5-e0bb-6dd1",
   "UnitName": "Rhino Primaris",
   "Movement": "12\"",
   "Toughness": "9",
@@ -6,35 +7,46 @@
   "Wounds": "10",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "2d52-9311-c419-9fba",
       "AbilityName": "Self Repair",
       "AbilityText": "At the end of your Command phase, this model regains 1 lost wound."
     },
     {
-      "Id": 0,
+      "Id": "b3e8-3ffa-5e58-9409",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 6 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Phobos, Gravis, Centurion, Terminator or Tacticus models (except for Tacticus Character models that begin the battle attached to a non-Tacticus unit)."
     },
     {
-      "Id": 0,
+      "Id": "3cbb-ae43-5a83-14a7",
       "AbilityName": "Orbital Comms Array [Aura]",
       "AbilityText": "While a friendly Adeptus Astartes unit is within 6\" of the bearer, each time you target that unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3a90-3c52-668d-9aa3",
       "WeaponName": "Twin Plasma Gun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1, Twin-linked"
+    },
+    {
+      "id": "793d-2209-af46-5510",
+      "WeaponName": "Twin Plasma Gun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1, Twin-linked"
     }
   ],
   "MeleeSkills": []

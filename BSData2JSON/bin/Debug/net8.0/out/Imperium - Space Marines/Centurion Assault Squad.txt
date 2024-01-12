@@ -1,4 +1,5 @@
 {
+  "id": "5de-1fc6-899f-701c",
   "UnitName": "Centurion Assault Squad",
   "Movement": "4\"",
   "Toughness": "7",
@@ -6,52 +7,52 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "dc57-888c-d72a-da1",
       "AbilityName": "Annihilator Protocols",
       "AbilityText": "Melee weapons equipped by models in this unit have the [SUSTAINED HITS 2] ability when targeting Monster, Vehicle or Fortification units"
     },
     {
-      "Id": 0,
+      "Id": "8dda-803-a7c9-c538",
       "AbilityName": "Centurion Assault Launchers",
       "AbilityText": "The bearer has the Grenades keyword."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "17ca-2023-3714-85bc",
       "WeaponName": "Twin Flamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-linked"
     },
     {
-      "id": 0,
+      "id": "8a97-f36a-2981-6310",
       "WeaponName": "Twin Meltagun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Twin-linked"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "ac05-6770-362b-2f97",
       "WeaponName": "Siege Drills",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     }
   ]
 }

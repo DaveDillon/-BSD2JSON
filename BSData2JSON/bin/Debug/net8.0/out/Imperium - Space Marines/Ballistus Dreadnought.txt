@@ -1,4 +1,5 @@
 {
+  "id": "2ade-80d5-d39b-baeb",
   "UnitName": "Ballistus Dreadnought",
   "Movement": "8\"",
   "Toughness": "10",
@@ -6,47 +7,58 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "167c-25a9-9fed-9d96",
       "AbilityName": "Ballistus Strike",
       "AbilityText": "Each time this model makes a ranged attack that targets a unit that is not Below Half-strength, you can re-roll the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "2287-43aa-c7e1-7846",
       "WeaponName": "Ballistus Lascannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": ""
     },
     {
-      "id": 0,
+      "id": "ce22-d3da-1a2c-5f7d",
       "WeaponName": "Ballistus Missile Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "da5f-e066-8aba-9ad3",
+      "WeaponName": "Ballistus Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "6962-59e-aca0-d93d",
       "WeaponName": "Armoured Feet",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

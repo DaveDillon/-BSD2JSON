@@ -1,4 +1,5 @@
 {
+  "id": "1a54-c01e-9237-e23c",
   "UnitName": "Spawn",
   "Movement": "8\"",
   "Toughness": "5",
@@ -6,10 +7,10 @@
   "Wounds": "4",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "4dbc-fdb1-8acf-8009",
       "AbilityName": "Regenerating Monstrosities",
       "AbilityText": "At the start of each player’s Command phase, one model in this unit regains up to D3 lost wounds."
     }
@@ -17,13 +18,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "ba77-3f17-1442-6de2",
       "WeaponName": "Hideous Mutations",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "D6+2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

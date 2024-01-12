@@ -1,4 +1,5 @@
 {
+  "id": "349-abc1-4e0f-2a40",
   "UnitName": "Accursed Cultists",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,10 +7,10 @@
   "Wounds": "3",
   "Leadership": "7+",
   "ObjectControl": "7+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "ac4f-3f3f-19b6-1f88",
       "AbilityName": "Accursed Horde",
       "AbilityText": "At the start of each player’s Command phase, you can return either 1 destroyed Torment model or up to 3 destroyed Mutant models to this unit."
     }
@@ -17,22 +18,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "a-b393-be24-4f53",
       "WeaponName": "Hideous mutations",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "D6+2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "2-59a-c100-6102",
       "WeaponName": "Blasphemous appendages",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

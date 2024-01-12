@@ -1,4 +1,5 @@
 {
+  "id": "8c5e-74f4-e3cf-56ed",
   "UnitName": "Land Raider",
   "Movement": "10\"",
   "Toughness": "12",
@@ -6,30 +7,30 @@
   "Wounds": "16",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "946c-f2a3-8b7f-b54e",
       "AbilityName": "Assault Ramp",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     },
     {
-      "Id": 0,
+      "Id": "311f-69c4-af58-77c8",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 12 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "f8ef-356a-222-f593",
       "WeaponName": "Godhammer Lascannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": ""
     }
   ],
   "MeleeSkills": []

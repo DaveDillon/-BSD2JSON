@@ -1,4 +1,5 @@
 {
+  "id": "4-7448-3997-8618",
   "UnitName": "Lucius the Eternal",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,20 +7,20 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "68a4-911a-c03c-2cf4",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ LEGIONARIES\n■ NOISE MARINES"
     },
     {
-      "Id": 0,
+      "Id": "5909-fd1b-aabd-8cf6",
       "AbilityName": "Duellist’s Pride",
       "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
     },
     {
-      "Id": 0,
+      "Id": "1573-7447-b26e-8bca",
       "AbilityName": "Armour of Shrieking Souls",
       "AbilityText": "Each time this model is destroyed by an attack made by an enemy unit, that unit must take a Leadership test: if that test is passed, that enemy unit suffers D3 mortal wounds; if that test is failed, that enemy unit suffers D6 mortal wounds. If mortal wounds inflicted in this way destroy that enemy unit, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy models, with D3 wounds remaining. If this model was attached to a unit when it was destroyed, it must be set back up attached to that unit."
     }
@@ -27,13 +28,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "24e0-c331-3d11-d6cb",
       "WeaponName": "Duellist's sword and Lash of Torment",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

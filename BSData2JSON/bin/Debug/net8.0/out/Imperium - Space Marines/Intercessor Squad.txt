@@ -1,4 +1,5 @@
 {
+  "id": "7b57-816b-44b2-65ec",
   "UnitName": "Intercessor Squad",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,25 +7,36 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "1164-3aff-c9a6-718d",
       "AbilityName": "Objective Secured",
       "AbilityText": "If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "f386-1e72-3413-b1f9",
       "WeaponName": "Astartes Grenade Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": ""
+    },
+    {
+      "id": "ee1e-c250-e2cd-9c7f",
+      "WeaponName": "Astartes Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
     }
   ],
   "MeleeSkills": []

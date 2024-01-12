@@ -1,4 +1,5 @@
 {
+  "id": "5c7c-8b2c-e404-e2bc",
   "UnitName": "Predator Destructor",
   "Movement": "10\"",
   "Toughness": "10",
@@ -6,25 +7,25 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "d19-9fc5-aa23-7917",
       "AbilityName": "Destructor",
       "AbilityText": "Each time a ranged attack made by this model targets an enemy INFANTRY unit, improve the Armour Penetration characteristic of that attack by 1."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "9f32-4cfc-7282-41d0",
       "WeaponName": "Predator autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Rapid Fire 2"
     }
   ],
   "MeleeSkills": []

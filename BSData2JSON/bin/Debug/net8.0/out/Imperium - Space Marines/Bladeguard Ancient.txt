@@ -1,4 +1,5 @@
 {
+  "id": "2427-3b30-841d-5ea3",
   "UnitName": "Bladeguard Ancient",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,15 +7,15 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "80e9-b186-e4ce-2ae5",
       "AbilityName": "Deeds of Heroism",
       "AbilityText": "Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in this model’s unit"
     },
     {
-      "Id": 0,
+      "Id": "16d0-eff3-f5d2-a2cf",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following unit:\n\n■ Bladeguard Veteran Squad\n\nYou can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
@@ -22,13 +23,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "f166-be0c-36c5-f949",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

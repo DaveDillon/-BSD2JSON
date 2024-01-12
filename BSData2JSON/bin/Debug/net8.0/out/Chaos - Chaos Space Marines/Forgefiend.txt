@@ -1,4 +1,5 @@
 {
+  "id": "28b0-3e74-5c4f-1566",
   "UnitName": "Forgefiend",
   "Movement": "8\"",
   "Toughness": "10",
@@ -9,7 +10,7 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "49a0-fe58-5293-bdc2",
       "AbilityName": "Daemonic Ordnance",
       "AbilityText": "Each time this model is selected to shoot, it can use this ability. If it does, until the end of the phase, its ranged weapons have the [DEVASTATING WOUNDS] and [HAZARDOUS] abilities."
     }
@@ -17,22 +18,22 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "f35d-7a13-92ea-ae2",
       "WeaponName": "Armoured limbs",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "b6ae-ab11-3efe-a55a",
       "WeaponName": "Forgefiend jaws",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2"
     }
   ]
 }

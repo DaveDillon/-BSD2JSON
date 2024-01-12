@@ -1,4 +1,5 @@
 {
+  "id": "6dc8-bac-96d3-ec87",
   "UnitName": "Deimos Predator",
   "Movement": "10\"",
   "Toughness": "10",
@@ -6,58 +7,69 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "6b52-8588-e3f-addc",
       "AbilityName": "Armoured Spearhead",
       "AbilityText": "Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker you do not control, you can re-roll the Hit roll instead."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "e6c-9088-67b0-4be9",
       "WeaponName": "Plasma destroyer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "d3ff-cdbb-e518-d31e",
+      "WeaponName": "Plasma destroyer",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "46af-c47d-1bb0-6dc1",
       "WeaponName": "Conversion beam cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Conversion, Sustained Hits D3"
     },
     {
-      "id": 0,
+      "id": "4112-820f-354f-395",
       "WeaponName": "Magna-melta cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 4"
     },
     {
-      "id": 0,
+      "id": "ded6-6f3d-3b1-951",
       "WeaponName": "Infernus cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     }
   ],
   "MeleeSkills": []

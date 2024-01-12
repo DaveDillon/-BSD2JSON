@@ -1,4 +1,5 @@
 {
+  "id": "5fe6-20de-df8d-8e92",
   "UnitName": "Infernus Squad",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,10 +7,10 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "b3c7-e6c3-c500-616a",
       "AbilityName": "Purge the Foe",
       "AbilityText": "In your Shooting phase, after this unit has shot, you can select one enemy Infantry unit hit by one or more of those attacks made with a pyreblaster. That enemy unit must take a Battle-shock test."
     }

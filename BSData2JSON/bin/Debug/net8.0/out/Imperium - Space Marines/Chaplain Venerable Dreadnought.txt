@@ -1,4 +1,5 @@
 {
+  "id": "7e5c-674f-433f-c73c",
   "UnitName": "Chaplain Venerable Dreadnought",
   "Movement": "6\"",
   "Toughness": "9",
@@ -10,26 +11,26 @@
   "Abilities": [],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "8d3a-cb6f-3178-c550",
       "WeaponName": "Dreadnought Inferno Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "79e5-a8ec-2417-515a",
       "WeaponName": "Dreadnought Inferno Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     }
   ],
   "MeleeSkills": []

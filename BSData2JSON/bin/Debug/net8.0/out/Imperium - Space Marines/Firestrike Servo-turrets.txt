@@ -1,4 +1,5 @@
 {
+  "id": "17e4-8349-bd47-52a5",
   "UnitName": "Firestrike Servo-turrets",
   "Movement": "3\"",
   "Toughness": "6",
@@ -6,36 +7,36 @@
   "Wounds": "6",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "1989-6f58-9d94-8045",
       "AbilityName": "Sentinel Protocals",
       "AbilityText": "Each time you select this unit for the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 4+ when resolving that Stratagem."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "6a97-d50-eb-7425",
       "WeaponName": "Twin Firestrike Las-talon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-linked"
     },
     {
-      "id": 0,
+      "id": "afca-96a9-cd18-8ef3",
       "WeaponName": "Twin Firestrike Autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
     }
   ],
   "MeleeSkills": []

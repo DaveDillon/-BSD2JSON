@@ -1,4 +1,5 @@
 {
+  "id": "5146-85a0-70c8-320d",
   "UnitName": "Hunter",
   "Movement": "9\"",
   "Toughness": "11",
@@ -6,25 +7,25 @@
   "Wounds": "11",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "a856-9b1d-a0a7-471c",
       "AbilityName": "Hunter Missile Targeting",
       "AbilityText": "Each time this model makes an attack with its skyspear missile launcher that targets a Monster or Vehicle unit, that attack scores a hit on an unmodified Hit roll of 2+."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "c9d1-82df-a560-7cb3",
       "WeaponName": "Skyspear Missile Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": "Anti-Fly 3+, Devastating Wounds, Heavy"
     }
   ],
   "MeleeSkills": []

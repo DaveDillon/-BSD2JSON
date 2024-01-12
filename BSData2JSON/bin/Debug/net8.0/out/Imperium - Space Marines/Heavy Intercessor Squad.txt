@@ -1,4 +1,5 @@
 {
+  "id": "bc4b-906d-3e8b-fc45",
   "UnitName": "Heavy Intercessor Squad",
   "Movement": "5\"",
   "Toughness": "6",
@@ -6,36 +7,36 @@
   "Wounds": "3",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "a59e-1577-d519-dcc2",
       "AbilityName": "Unyielding in the Face of the Foe",
       "AbilityText": "While this unit is within range of an objective marker you control, each time an attack with a Damage characteristic of 1 is allocated to a model in \nthis unit, add 1 to any armour saving throw made against that attack."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "7305-cc13-aeed-5de0",
       "WeaponName": "Heavy Bolt Rifle",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Heavy"
     },
     {
-      "id": 0,
+      "id": "58e8-65ae-e755-139",
       "WeaponName": "Heavy Bolt Rifle",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Heavy"
     }
   ],
   "MeleeSkills": []

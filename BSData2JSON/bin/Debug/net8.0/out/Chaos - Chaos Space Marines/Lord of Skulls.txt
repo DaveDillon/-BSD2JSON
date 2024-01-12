@@ -1,4 +1,5 @@
 {
+  "id": "4ae5-f66d-6bcf-6b2a",
   "UnitName": "Lord of Skulls",
   "Movement": "8\"",
   "Toughness": "13",
@@ -9,82 +10,91 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "7969-df81-af2e-e24a",
       "AbilityName": "Plough Through the Enemy",
       "AbilityText": "In the Fight phase, after this model has finished making its attacks, if this model destroyed one or more enemy units this phase, each enemy unit within 6\" of this model must take a Battle-shock test."
     },
     {
-      "Id": 0,
+      "Id": "f539-f61e-3cd0-aaf4",
       "AbilityName": "Damaged: 1-8 wounds remaining",
       "AbilityText": "While this model has 1-8 wounds remaining, subtract 4 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "299e-f785-7ff8-2694",
       "WeaponName": "Gorestorm cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "3171-8be5-e5f2-befa",
       "WeaponName": "Daemongore cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "7fa3-ae00-69f8-e6a5",
       "WeaponName": "Ichor cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "-2",
+      "Text": "Blast"
     },
     {
-      "id": 0,
+      "id": "e980-62a3-649c-2bc0",
       "WeaponName": "Hades gatling cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
     },
     {
-      "id": 0,
+      "id": "1378-8801-d833-a5c6",
       "WeaponName": "Skullhurler",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "60\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "-"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "d4d2-7b86-2d37-bad5",
       "WeaponName": "Great cleaver of Khorne",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "8"
+    },
+    {
+      "id": "9e0e-d1b1-686d-af59",
+      "WeaponName": "Great cleaver of Khorne",
+      "Attacks": "15",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     }
   ]
 }

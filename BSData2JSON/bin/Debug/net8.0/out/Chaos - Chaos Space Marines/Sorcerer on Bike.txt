@@ -1,4 +1,5 @@
 {
+  "id": "cf49-817f-78b8-5132",
   "UnitName": "Sorcerer on Bike",
   "Movement": "12\"",
   "Toughness": "5",
@@ -6,128 +7,150 @@
   "Wounds": "5",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "146e-6d09-e7b0-b758",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following unit:\n- CHAOS BIKERS"
     },
     {
-      "Id": 0,
+      "Id": "f03b-e2f1-818e-c766",
       "AbilityName": "Prescience (Psychic)",
       "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
     },
     {
-      "Id": 0,
+      "Id": "b767-e5f2-4f28-f881",
       "AbilityName": "Unholy Power",
       "AbilityText": "Each time this model's unit makes a Dark Pact, until the end of the phase, each time this model makes a Psychic Attack, add 1 to the Wound roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "ea7f-2698-7b42-eb2b",
       "WeaponName": "Infernal Gaze",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Psychic"
     },
     {
-      "id": 0,
+      "id": "ae15-c346-3796-409f",
+      "WeaponName": "Infernal Gaze",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Devastating Wounds, Hazardous, Psychic"
+    },
+    {
+      "id": "7c3b-fc35-20d2-5b2",
       "WeaponName": "Combi-bolter",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
     },
     {
-      "id": 0,
+      "id": "d93d-e18d-7b26-fa94",
       "WeaponName": "Bolt pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "87a7-ac81-a8e0-987c",
       "WeaponName": "Combi-bolter",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
     },
     {
-      "id": 0,
+      "id": "73ff-4c5f-9713-4051",
       "WeaponName": "Plasma pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
     },
     {
-      "id": 0,
+      "id": "ce30-aa0a-9772-aac8",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "f6e8-7f2d-2834-86ed",
       "WeaponName": "Combi-weapon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "3779-a0da-524c-4f61",
       "WeaponName": "Force weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
     },
     {
-      "id": 0,
+      "id": "8325-edda-e092-ddc4",
       "WeaponName": "Accursed weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
     },
     {
-      "id": 0,
+      "id": "6664-565a-fd74-413c",
       "WeaponName": "Power fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
     },
     {
-      "id": 0,
+      "id": "75a3-375f-a569-a16f",
       "WeaponName": "Astartes chainsword",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
     }
   ]
 }

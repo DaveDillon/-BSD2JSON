@@ -1,4 +1,5 @@
 {
+  "id": "ad98-e844-f9ec-7551",
   "UnitName": "Eliminator Squad",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,52 +7,52 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "d2ad-d0a2-4079-f902",
       "AbilityName": "Reposition Under Covering Fire",
       "AbilityText": "In your Shooting phase, after this unit has shot, if it contains an Eliminator Sergeant equipped with an instigator bolt carbine, this unit can make a\nNormal move. If it does so, until the end of the turn, this unit is not eligible to declare a charge."
     },
     {
-      "Id": 0,
+      "Id": "bda1-520a-6fd7-c422",
       "AbilityName": "Mark the Target",
       "AbilityText": "Each time this unit Remains Stationary, until the start of your next Movement phase, ranged weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "ffe3-a16e-ce0a-98a4",
       "WeaponName": "Instigator Bolt Carbine",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Precision"
     },
     {
-      "id": 0,
+      "id": "fb52-d382-545d-d0ee",
       "WeaponName": "Bolt Sniper Rifle",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Heavy, Precision"
     },
     {
-      "id": 0,
+      "id": "6a75-dff3-aeb4-4132",
       "WeaponName": "Las Fusil",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Heavy"
     }
   ],
   "MeleeSkills": []

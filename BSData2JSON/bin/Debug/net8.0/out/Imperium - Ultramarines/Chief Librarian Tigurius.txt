@@ -1,4 +1,5 @@
 {
+  "id": "2d6b-f80f-ac70-ecc7",
   "UnitName": "Chief Librarian Tigurius",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,46 +7,57 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "6d80-d11e-231d-1014",
       "AbilityName": "Hood of Hellfire",
       "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks and mortal wounds."
     },
     {
-      "Id": 0,
+      "Id": "712b-2536-4360-4d74",
       "AbilityName": "Master of Prescience (Psychic)",
       "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll. In addition, once per battle round, you can target that unit with one of the following Stratagems for 0CP: Counter-offensive; Fire Overwatch; Go to Ground;\nHeroic Intervention."
     },
     {
-      "Id": 0,
+      "Id": "af75-67b0-4fcb-d9e8",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "dcf9-9637-5df4-dc5e",
       "WeaponName": "Storm of the Emperor’s Wrath",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Psychic"
+    },
+    {
+      "id": "72f9-1db7-ac4d-9fe2",
+      "WeaponName": "Storm of the Emperor’s Wrath",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Hazardous, Psychic"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "969e-a31a-4eb6-4f0c",
       "WeaponName": "Rod of Tigurius",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "D3"
     }
   ]
 }

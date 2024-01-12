@@ -1,4 +1,5 @@
 {
+  "id": "661f-6149-5a29-9f28",
   "UnitName": "Imperial Space Marine",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,57 +7,57 @@
   "Wounds": "4",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "86aa-bb8d-2ab7-9a1a",
       "AbilityName": "Swift Assault",
       "AbilityText": "While this model is leading a unit, ranged weapons equipped by models in that unit have the [ASSAULT] ability."
     },
     {
-      "Id": 0,
+      "Id": "9cee-b567-8106-880a",
       "AbilityName": "Unbreakable Duty",
       "AbilityText": "While this model is within range of an objective marker and/or within 6\" of the centre of the battlefield, this model has the Feel No Pain 4+ ability."
     },
     {
-      "Id": 0,
+      "Id": "893c-22fb-ecd5-1968",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Squad\n■ Command Squad\n■ Tactical Squad\n■ Vanguard Veteran Squad\n■ Devastator Squad\n\nYou can attach this model to one of the above units even if one Character model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "e074-6cff-bf0f-1097",
       "WeaponName": "Disintegration Combi-gun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 4+, Devastating Wounds, Rapid Fire 1"
     },
     {
-      "id": 0,
+      "id": "1c11-26ca-3440-bcb1",
       "WeaponName": "Disintegration Pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 4+, Devastating Wounds, Pistol"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "d79f-c92c-a66-1a26",
       "WeaponName": "Close Combat Weapon",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
     }
   ]
 }

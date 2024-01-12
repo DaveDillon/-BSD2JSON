@@ -1,4 +1,5 @@
 {
+  "id": "258e-8a8c-d871-6eac",
   "UnitName": "Invictor Tactical Warsuit",
   "Movement": "8\"",
   "Toughness": "8",
@@ -6,47 +7,47 @@
   "Wounds": "12",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "e58e-7a39-e2bd-a58b",
       "AbilityName": "Combat Support",
       "AbilityText": "Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes Phobos Infantry unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy model’s unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "39aa-eedf-b708-d095",
       "WeaponName": "Incendium Cannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "e195-f8b4-f130-12e7",
       "WeaponName": "Twin Ironhail Autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "69c8-9e7f-f7ae-b926",
       "WeaponName": "Invictor Fist",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
     }
   ]
 }

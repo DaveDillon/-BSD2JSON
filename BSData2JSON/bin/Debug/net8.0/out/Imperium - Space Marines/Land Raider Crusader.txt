@@ -1,4 +1,5 @@
 {
+  "id": "6c52-7965-8831-a46f",
   "UnitName": "Land Raider Crusader",
   "Movement": "12\"",
   "Toughness": "12",
@@ -6,15 +7,15 @@
   "Wounds": "16",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "d1ad-53ff-33b0-b5bd",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 16 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models."
     },
     {
-      "Id": 0,
+      "Id": "3bdf-c8be-699-936",
       "AbilityName": "Assault Ramp",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     }

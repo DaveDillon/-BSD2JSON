@@ -1,4 +1,5 @@
 {
+  "id": "afa8-767e-2c48-81ca",
   "UnitName": "Master of Possession",
   "Movement": "8\"",
   "Toughness": "4",
@@ -9,43 +10,54 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "638e-667a-a1c5-1135",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES\n■ POSSESSED"
     },
     {
-      "Id": 0,
+      "Id": "9616-c3fc-712-a0ac",
       "AbilityName": "Daemonkin (Psychic)",
       "AbilityText": "While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit, and models in that unit have the Feel No Pain 6+ ability."
     },
     {
-      "Id": 0,
+      "Id": "9aca-bf2a-148d-b019",
       "AbilityName": "Sacrificial Dagger",
       "AbilityText": "Once per phase, when this model is selected to shoot or fight, it can use this ability. If it does, this model’s unit suffers 1 mortal wound and, until the end of the phase, each time this model makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "c5b8-326c-cf2b-6798",
       "WeaponName": "Rite of Possession",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Anti-PSYKER 2+, Pistol, Precision, Psychic"
+    },
+    {
+      "id": "5cb7-b494-5863-78ae",
+      "WeaponName": "Rite of Possession",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Anti-PSYKER 2+, Hazardous, Pistol, Precision, Psychic"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "8998-93d9-a72c-b078",
       "WeaponName": "Staff of possession",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
     }
   ]
 }

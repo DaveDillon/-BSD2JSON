@@ -1,4 +1,5 @@
 {
+  "id": "3d1c-7f16-1489-fac3",
   "UnitName": "Possessed",
   "Movement": "9\"",
   "Toughness": "6",
@@ -9,7 +10,7 @@
   "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "3de3-728d-6264-1eb3",
       "AbilityName": "Unholy Bloodshed",
       "AbilityText": "Each time this unit makes a Dark Pact, until the end of the phase, weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
     }
@@ -17,13 +18,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "cb88-7ee6-8273-e819",
       "WeaponName": "Hideous mutations",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

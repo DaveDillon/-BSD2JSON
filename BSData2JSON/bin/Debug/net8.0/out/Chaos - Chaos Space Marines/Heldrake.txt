@@ -1,4 +1,5 @@
 {
+  "id": "86d3-892c-76f-1c2d",
   "UnitName": "Heldrake",
   "Movement": "20\"+",
   "Toughness": "9",
@@ -9,33 +10,33 @@
   "Invulnerability": "This model has a 5+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "17bd-f4a1-e0a4-41ea",
       "AbilityName": "Airborne Predator",
       "AbilityText": "Each time this model makes an attack that targets a unit that can Fly, add 1 to the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "6c0d-6c5e-5e49-b843",
       "WeaponName": "Baleflamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "f2e7-4385-eeb9-9b5c",
       "WeaponName": "Heldrake claws",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

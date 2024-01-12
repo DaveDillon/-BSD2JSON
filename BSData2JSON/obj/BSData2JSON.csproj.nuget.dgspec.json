@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\BSData2JSON\\BSData2JSON\\BSData2JSON.csproj": {}
+    "D:\\Development\\-BSD2JSON\\BSData2JSON\\BSData2JSON.csproj": {}
   },
   "projects": {
-    "D:\\Development\\BSData2JSON\\BSData2JSON\\BSData2JSON.csproj": {
+    "D:\\Development\\-BSD2JSON\\BSData2JSON\\BSData2JSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\BSData2JSON\\BSData2JSON\\BSData2JSON.csproj",
+        "projectUniqueName": "D:\\Development\\-BSD2JSON\\BSData2JSON\\BSData2JSON.csproj",
         "projectName": "BSData2JSON",
-        "projectPath": "D:\\Development\\BSData2JSON\\BSData2JSON\\BSData2JSON.csproj",
+        "projectPath": "D:\\Development\\-BSD2JSON\\BSData2JSON\\BSData2JSON.csproj",
         "packagesPath": "C:\\Users\\mayhe\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\BSData2JSON\\BSData2JSON\\obj\\",
+        "outputPath": "D:\\Development\\-BSD2JSON\\BSData2JSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

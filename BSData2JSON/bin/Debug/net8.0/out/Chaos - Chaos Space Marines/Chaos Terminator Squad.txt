@@ -1,4 +1,5 @@
 {
+  "id": "556-c3f3-9aa3-32d8",
   "UnitName": "Chaos Terminator Squad",
   "Movement": "5\"",
   "Toughness": "5",
@@ -9,33 +10,33 @@
   "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "13a2-57cd-83ff-2127",
       "AbilityName": "Despoilers",
       "AbilityText": "Each time this unit makes a Dark Pact, until the end of the phase, each time a model in this unit makes an attack, you can re-roll the Hit roll."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "5885-e209-121a-e76b",
       "WeaponName": "Heavy flamer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "c6bf-73a0-b685-6977",
       "WeaponName": "Reaper autocannon",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
     }
   ],
   "MeleeSkills": []

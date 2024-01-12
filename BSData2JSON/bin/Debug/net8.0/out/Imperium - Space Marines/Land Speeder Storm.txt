@@ -1,4 +1,5 @@
 {
+  "id": "8ea6-6d07-ccca-14e1",
   "UnitName": "Land Speeder Storm",
   "Movement": "14\"",
   "Toughness": "7",
@@ -6,30 +7,30 @@
   "Wounds": "7",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "17e3-d6b7-9d53-95c5",
       "AbilityName": "Storm Assault",
       "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
     },
     {
-      "Id": 0,
+      "Id": "43ab-45be-5467-de53",
       "AbilityName": "Transport",
       "AbilityText": "This model has a transport capacity of 6 models. It can only transport Scout Squad, Scout Sniper Squad and Sergeant Telion models."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "3fe-b6e0-559b-255a",
       "WeaponName": "Cerberus Launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
     }
   ],
   "MeleeSkills": []

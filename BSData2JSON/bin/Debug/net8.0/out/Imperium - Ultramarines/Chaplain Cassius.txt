@@ -1,4 +1,5 @@
 {
+  "id": "feca-2b5b-3c14-547f",
   "UnitName": "Chaplain Cassius",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,46 +7,46 @@
   "Wounds": "4",
   "Leadership": "5+",
   "ObjectControl": "5+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "e4a5-bf61-572d-569b",
       "AbilityName": "Catechism of Death",
       "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability."
     },
     {
-      "Id": 0,
+      "Id": "d58e-1e52-6332-2f71",
       "AbilityName": "Inspired Retribution",
       "AbilityText": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
     },
     {
-      "Id": 0,
+      "Id": "e2c1-7cbf-bfcd-716a",
       "AbilityName": "Leader",
       "AbilityText": "This model can be attached to the following units:\n\n■ Assault Squad\n■ Command Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n■ Tyrannic War Veterans\n■ Vanguard Veteran Squad"
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "ec78-f42f-bbda-b8ad",
       "WeaponName": "Infernus",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 4+, Devastating Wounds, Ignores Cover, Torrent"
     }
   ],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "3430-d143-3b86-a365",
       "WeaponName": "Artificer Crozius",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
     }
   ]
 }

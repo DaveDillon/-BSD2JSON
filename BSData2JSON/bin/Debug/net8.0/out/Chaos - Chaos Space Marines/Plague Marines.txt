@@ -1,4 +1,5 @@
 {
+  "id": "3110-244e-ee26-bcea",
   "UnitName": "Plague Marines",
   "Movement": "5\"",
   "Toughness": "5",
@@ -6,69 +7,69 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "3dbe-cb64-74a8-e8c8",
       "AbilityName": "Remorseless",
       "AbilityText": "While this unit is within range of an objective marker you control, each time you take a Battle-shock test for this unit, add 1 to that test."
     }
   ],
   "RangedSkills": [
     {
-      "id": 0,
+      "id": "45e4-9e0a-7598-c74f",
       "WeaponName": "Plague bolt pistol",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits"
     },
     {
-      "id": 0,
+      "id": "b055-e1-d23d-2b94",
       "WeaponName": "Blight launcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Lethal Hits"
     },
     {
-      "id": 0,
+      "id": "16fa-cd9e-572e-1b5e",
       "WeaponName": "Plague spewer",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent"
     },
     {
-      "id": 0,
+      "id": "2db5-fc9e-89ec-4f2f",
       "WeaponName": "Meltagun",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
     },
     {
-      "id": 0,
+      "id": "c1bb-4665-f481-97bb",
       "WeaponName": "Plague belcher",
-      "Range": null,
-      "Attacks": null,
-      "BallisticSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null,
-      "Text": null
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Ignores Cover, Torrent"
     }
   ],
   "MeleeSkills": []

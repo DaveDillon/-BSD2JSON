@@ -1,4 +1,5 @@
 {
+  "id": "ebce-cb56-76a4-afe1",
   "UnitName": "Assault Squad",
   "Movement": "6\"",
   "Toughness": "4",
@@ -6,15 +7,15 @@
   "Wounds": "2",
   "Leadership": "6+",
   "ObjectControl": "6+",
-  "Invulnerability": null,
+  "Invulnerability": "",
   "Abilities": [
     {
-      "Id": 0,
+      "Id": "68d4-d5dd-14df-1f05",
       "AbilityName": "Astartes Shield",
       "AbilityText": "The bearer has a 4+ invulnerable save."
     },
     {
-      "Id": 0,
+      "Id": "e865-1963-3fc1-1d05",
       "AbilityName": "Chainsword Doctrines",
       "AbilityText": "Each time this unit is selected to fight, select one of the following abilities to apply to all Astartes chainswords equipped by models in this unit until the end of the phase: \n\n■ [SUSTAINED HITS 1]\n■ [LETHAL HITS]\n■ [LANCE]"
     }
@@ -22,13 +23,13 @@
   "RangedSkills": [],
   "MeleeSkills": [
     {
-      "id": 0,
+      "id": "984e-3569-7d97-5858",
       "WeaponName": "Twin Lightning Claws",
-      "Attacks": null,
-      "WeaponSkill": null,
-      "Strength": null,
-      "ArnorPirecing": null,
-      "Damage": null
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
     }
   ]
 }
