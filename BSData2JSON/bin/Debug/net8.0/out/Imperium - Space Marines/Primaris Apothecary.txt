@@ -1,0 +1,51 @@
+{
+  "UnitName": "Primaris Apothecary",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Narthecium",
+      "AbilityText": "While this model is leading a unit, in your Command phase, you can return 1 destroyed model (excluding Character models) to that unit."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Gene Seed Recovery",
+      "AbilityText": "When this model’s Bodyguard unit is destroyed, roll one D6: on a 2+, you gain 1CP."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Reductor Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "UnitName": "Predator Annihilator",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Annihilator",
+      "AbilityText": "Each time this model makes a ranged attack that targets a MONSTER or VEHICLE unit, re-roll a Damage roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Predator twin lascannon",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": []
+}

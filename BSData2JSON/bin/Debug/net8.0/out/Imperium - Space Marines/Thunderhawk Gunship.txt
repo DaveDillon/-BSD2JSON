@@ -1,0 +1,63 @@
+{
+  "UnitName": "Thunderhawk Gunship",
+  "Movement": "20+\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "30",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Aerial Assault",
+      "AbilityText": "Each time a unit with the Deep Strike ability disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Damaged: 1-10 wounds remaining",
+      "AbilityText": "While this model has 1-10 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Thunderhawk Cluster Bombs",
+      "AbilityText": "Each time the bearer ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Thunderhawk heavy cannon",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Turbo-laser destructor",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Hellstrike missile battery",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": []
+}

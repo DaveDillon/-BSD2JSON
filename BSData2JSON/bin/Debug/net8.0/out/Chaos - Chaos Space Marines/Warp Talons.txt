@@ -1,0 +1,29 @@
+{
+  "UnitName": "Warp Talons",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Warpflames",
+      "AbilityText": "Each time an enemy unit within Engagement Range of this unit is selected to Fall Back, if that enemy unit is not Battle-shocked, your opponent must take Desperate Escape tests for each model in that unit before any are moved. If that enemy unit is Battle-shocked, until the end of the phase, each time a Desperate Escape test is taken for a model in that unit, subtract 1 from the result."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Warp claws",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

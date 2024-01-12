@@ -1,0 +1,157 @@
+{
+  "UnitName": "Company Veterans",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Vanguard Assault",
+      "AbilityText": "Each time this unit ends a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the [LETHAL HITS] ability."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Storm Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save"
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Storm Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Grav-Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Combi-Weapon",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Plasma Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Storm Bolter",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Grav-Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Plasma Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Grav-Gun",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Grav-Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Plasma Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Power Weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Power Weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Power Weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "UnitName": "Helbrute",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Dark Ascension (Aura)",
+      "AbilityText": "While a friendly HERETIC ASTARTES unit is within 6\" of this model, each time that unit makes a Dark Pact, until the end of the phase, its weapons gain both abilities conferred by that pact (instead of only one)."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Helbrute fists",
+      "AbilityText": "If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Multi-melta",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Twin autocannon",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Helbrute plasma cannon",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Missile launcher",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Helbrute hammer",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Power scourge",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Close combat weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

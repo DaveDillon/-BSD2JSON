@@ -1,0 +1,24 @@
+{
+  "UnitName": "Land Speeder",
+  "Movement": "14\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Fire and Redeploy",
+      "AbilityText": "In your Shooting phase, each time this model has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to D6\". If it does, until the end of the turn, this model is not eligible to declare a charge."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Target Sighted",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit that is visible to this model. Until the end of the phase, each time a friendly Adeptus Astartes model makes an attack with a Blast weapon that targets that enemy unit, add 1 to the Hit roll and that attack has the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

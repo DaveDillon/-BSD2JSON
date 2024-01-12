@@ -1,0 +1,43 @@
+{
+  "UnitName": "Astartes Servitors",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "6+",
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Mindlock",
+      "AbilityText": "While a Techmarine model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by  Astartes Servitor models in this unit by 1."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Servitor Retinue",
+      "AbilityText": "At the start of the Declare Battle Formations step, this unit can join one other unit from your army that is being led by a Techmarine. If it does, until the end of the battle, every model in this unit counts as being part of that Bodyguard unit, and that Bodyguard unit’s Starting Strength is increased accordingly."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Servitor Servo Arm",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

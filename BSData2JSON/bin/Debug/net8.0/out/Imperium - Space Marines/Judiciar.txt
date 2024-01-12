@@ -1,0 +1,44 @@
+{
+  "UnitName": "Judiciar",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Tempormortis",
+      "AbilityText": "While this model is leading a unit, that unit has the Fights First ability."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Silent Fury",
+      "AbilityText": "Each time this model destroys an enemy Character model, until the end of the battle, add 1 to the Attacks characteristic of its executioner relic blade."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Invulnerable Save*",
+      "AbilityText": "4+\n* This model has a 4+ invulnerable save against melee attacks."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Executioner Relic Blade",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

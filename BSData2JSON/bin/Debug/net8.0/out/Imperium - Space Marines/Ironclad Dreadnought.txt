@@ -1,0 +1,43 @@
+{
+  "UnitName": "Ironclad Dreadnought",
+  "Movement": "6\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Siege-breaker Protocols",
+      "AbilityText": "Each time this model makes a melee attack that targets a Vehicle or Fortification unit, add 1 to the Hit roll and add 1 to the Wound roll"
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Ironclad Assault Launchers",
+      "AbilityText": "The bearer has the Grenades keyword."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Dreadnought Chainfist",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    },
+    {
+      "id": 0,
+      "WeaponName": "Seismic Hammer",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

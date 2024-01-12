@@ -1,0 +1,20 @@
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\BSData2JSON.exe
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\In\Chaos - Chaos Space Marines.cat
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\BSData2JSON.deps.json
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\BSData2JSON.runtimeconfig.json
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\BSData2JSON.dll
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\BSData2JSON.pdb
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.AssemblyInfoInputs.cache
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.AssemblyInfo.cs
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.csproj.CoreCompileInputs.cache
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.dll
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\refint\BSData2JSON.dll
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.pdb
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.genruntimeconfig.cache
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\ref\BSData2JSON.dll
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\In\Imperium - Space Marines.cat
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\In\Imperium - Ultramarines.cat
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.csproj.AssemblyReference.cache
+D:\Development\BSData2JSON\BSData2JSON\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Development\BSData2JSON\BSData2JSON\obj\Debug\net8.0\BSData2JSON.csproj.CopyComplete

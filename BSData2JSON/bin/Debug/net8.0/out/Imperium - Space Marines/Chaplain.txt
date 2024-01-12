@@ -1,0 +1,71 @@
+{
+  "UnitName": "Chaplain",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Recitation of Faith",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Terminator Assault Squad\n■ Terminator Squad"
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Catechism of Fire",
+      "AbilityText": "Each time this model’s unit is selected to shoot, you can select one enemy unit within 12\" of and visible to this model. Until the end of the phase, ranged\nweapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS] ability when targeting that enemy unit."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Exhortation of Rage",
+      "AbilityText": "Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model’s unit and roll one D6: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessors with Jump Packs\n■ Vanguard Veteran Squad with Jump Packs"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Bolt Pistol",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Power Fist",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

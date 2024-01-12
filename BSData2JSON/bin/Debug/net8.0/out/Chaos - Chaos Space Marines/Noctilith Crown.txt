@@ -1,0 +1,36 @@
+{
+  "UnitName": "Noctilith Crown",
+  "Movement": "-",
+  "Toughness": "11",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Malevolent Locus (Aura)",
+      "AbilityText": "While a friendly HERETIC ASTARTES model is wholly within 9\" of this Fortification, that model has a 4+ invulnerable save."
+    },
+    {
+      "Id": 0,
+      "AbilityName": "Malign Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Lashing warp energies",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": []
+}

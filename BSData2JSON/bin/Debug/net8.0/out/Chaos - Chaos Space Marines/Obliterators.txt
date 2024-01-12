@@ -1,0 +1,41 @@
+{
+  "UnitName": "Obliterators",
+  "Movement": "4\"",
+  "Toughness": "7",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Warp Rift Firepower",
+      "AbilityText": "Once per battle, when this unit makes a Dark Pact, it can use this ability. If it does, until the end of the phase, ranged weapons models in this unit are equipped with have the [INDIRECT FIRE] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Fleshmetal guns",
+      "Range": null,
+      "Attacks": null,
+      "BallisticSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null,
+      "Text": null
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": 0,
+      "WeaponName": "Crushing fists",
+      "Attacks": null,
+      "WeaponSkill": null,
+      "Strength": null,
+      "ArnorPirecing": null,
+      "Damage": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "UnitName": "Stormtalon Gunship",
+  "Movement": "20\"+",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Strafing Run",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

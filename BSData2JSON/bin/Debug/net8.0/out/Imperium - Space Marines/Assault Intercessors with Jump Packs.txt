@@ -1,0 +1,19 @@
+{
+  "UnitName": "Assault Intercessors with Jump Packs",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": null,
+  "Abilities": [
+    {
+      "Id": 0,
+      "AbilityName": "Hammer of Wrath",
+      "AbilityText": "Each time this unit ends a Charge move, select one enemy unit within Engagement range of it, then roll  one D6 for each model in this unit that is within Engagement range of that enemy unit. On a 4+ that enemy unit suffers one mortal wound"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}
