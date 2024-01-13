@@ -1,0 +1,134 @@
+{
+  "id": "1ad9-8254-80e7-5425",
+  "UnitName": "Stormsurge",
+  "Movement": "8\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "20",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9b21-f9e4-2fe9-7895",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, subtract 3 from this models Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll.Stormsurge"
+    },
+    {
+      "Id": "d152-5323-f05c-bd84",
+      "AbilityName": "Heavy Walker",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+    },
+    {
+      "Id": "d61e-c391-27c4-cec9",
+      "AbilityName": "Support System",
+      "AbilityText": "Each time this model makes a ranged attack, you can ignore any or all modifiers to the Hit roll."
+    },
+    {
+      "Id": "f200-bc51-2065-ca29",
+      "AbilityName": "Titan-killer",
+      "AbilityText": "Each time this model makes a ranged attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5b17-951b-a7e3-e92e",
+      "WeaponName": "Twin smart missile system",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy, Indirect Fire, Twin-Linked"
+    },
+    {
+      "id": "29a6-3f44-894e-e1ca",
+      "WeaponName": "Cluster rocket system",
+      "Range": "48\"",
+      "Attacks": "4D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "fc4d-b5a0-5faa-fc50",
+      "WeaponName": "Destroyer missiles",
+      "Range": "72\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2",
+      "Text": "Heavy"
+    },
+    {
+      "id": "d5a3-7b4e-7307-154",
+      "WeaponName": "Pulse driver cannon",
+      "Range": "72\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "5586-4bd7-df7c-24a9",
+      "WeaponName": "Pulse blast cannon",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "24",
+      "ArnorPirecing": "-6",
+      "Damage": "12",
+      "Text": "Heavy"
+    },
+    {
+      "id": "8d7a-98de-25be-7b80",
+      "WeaponName": "Pulse blast cannon",
+      "Range": "48\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "4",
+      "Text": "Heavy"
+    },
+    {
+      "id": "aa8c-b84c-5626-631b",
+      "WeaponName": "Twin airbursting fragmentation projector",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Indirect Fire, Twin-linked"
+    },
+    {
+      "id": "112e-45c5-61fb-9cb0",
+      "WeaponName": "Twin burst cannon",
+      "Range": "18\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2d47-e9ba-c294-81bb",
+      "WeaponName": "Thunderous footfalls",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

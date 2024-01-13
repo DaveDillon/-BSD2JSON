@@ -1,0 +1,14 @@
+{
+  "id": "bd6f-cfc-c88-9f95",
+  "UnitName": "Firestorm Redoubt",
+  "Movement": "-",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

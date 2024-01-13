@@ -1,0 +1,129 @@
+{
+  "id": "bdec-fa84-45c0-24dc",
+  "UnitName": "Rangers",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3d74-3888-b3ba-d044",
+      "AbilityName": "Objective Scouted",
+      "AbilityText": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+    },
+    {
+      "Id": "3c76-db6d-2b-29bd",
+      "AbilityName": "Enhanced data-tether",
+      "AbilityText": "Each time you select the bearer’s unit\r\nas the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    },
+    {
+      "Id": "fd15-1322-c1a8-9568",
+      "AbilityName": "Omnispex",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the IGNORES COVER ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "641d-a705-abc0-b4ff",
+      "WeaponName": "Galvanic rifle",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "1ca4-4582-3e1b-a7b0",
+      "WeaponName": "Transuranic arquebus",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "8908-36ba-7ec3-c451",
+      "WeaponName": "Arc rifle",
+      "Range": "30\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "5dcb-d52c-692f-ccdf",
+      "WeaponName": "Plasma caliver",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "bd00-ac4a-4c05-c059",
+      "WeaponName": "Plasma caliver",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "db1c-cc92-e358-9c80",
+      "WeaponName": "Galvanic rifle",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "9767-45d6-3176-32d0",
+      "WeaponName": "Galvanic rifle",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "9d76-a181-3b5c-bb05",
+      "WeaponName": "Galvanic rifle",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "532e-9f57-5eb5-5a29",
+      "WeaponName": "Alpha combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

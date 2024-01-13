@@ -1,0 +1,35 @@
+{
+  "id": "11e-ade1-cf6c-f59b",
+  "UnitName": "Knight Crusader",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f3ec-bea-7d9f-df98",
+      "AbilityName": "Punishing Salvoes",
+      "AbilityText": "In your Movement phase, if this model Remains Stationary, until the start of your next Movement phase, this model’s ranged weapons have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "11c1-4782-61b6-4b98",
+      "AbilityName": "Crusader's Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "6fcb-f784-14c1-7f92",
+      "WeaponName": "Titanic feet",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

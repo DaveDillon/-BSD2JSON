@@ -1,0 +1,199 @@
+{
+  "id": "47cc-4071-6fda-688e",
+  "UnitName": "Warboss",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "785b-cdef-c15a-63bf",
+      "AbilityName": "Beastboss",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "962-8c04-c7ce-7ffc",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- BEAST SNAGGA BOYZ"
+    },
+    {
+      "Id": "7990-644c-a395-eea5",
+      "AbilityName": "Beastly Rage",
+      "AbilityText": "Each time this model makes a Charge move, until the end of the turn, melee weapons it is equipped with have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "84d7-7bf4-8f5f-a79c",
+      "AbilityName": "Speedboss",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "12ca-1686-2634-663b",
+      "AbilityName": "High-octane Fuel",
+      "AbilityText": "Each time this model’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this model’s unit."
+    },
+    {
+      "Id": "227e-96e0-dab4-f521",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- WARBIKERS"
+    },
+    {
+      "Id": "b69d-41f0-d640-64",
+      "AbilityName": "Might is Right",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "a22d-294f-6401-5dfe",
+      "AbilityName": "Da Biggest and da Best",
+      "AbilityText": "When you call a Waaagh!, until the start of the next battle round, add 4 to the Attacks characteristic of this model’s melee weapons."
+    },
+    {
+      "Id": "165e-4c2e-d8a0-5d5d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BOYZ\r\n- NOBZ"
+    },
+    {
+      "Id": "1cd0-7589-b11f-2830",
+      "AbilityName": "Speedboss",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "5723-30ca-5b9-72b3",
+      "AbilityName": "High-octane Fuel",
+      "AbilityText": "Each time this model’s unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this model’s unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f54f-1af7-37f7-b06",
+      "WeaponName": "Shoota",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "498-2940-5968-7b17",
+      "WeaponName": "Deffkilla boomstikks",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "60b4-7c9c-fa64-3cb8",
+      "WeaponName": "Killa jet",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "1329-fad-730e-fb84",
+      "WeaponName": "Killa jet",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "5bde-8a1f-83e6-6450",
+      "WeaponName": "Twin slugga",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c085-b44d-3a56-e4cd",
+      "WeaponName": "Beast Snagga klaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "8822-3924-be6e-4c13",
+      "WeaponName": "Snagga klaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "c9c4-8327-5636-45c",
+      "WeaponName": "Big choppa",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "2998-8b18-e9a-7936",
+      "WeaponName": "Power klaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "3094-cf7a-7a70-3807",
+      "WeaponName": "Attack squig",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3900-ca6c-3b11-e10e",
+      "WeaponName": "Killsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "19d6-4a2-3928-2782",
+      "WeaponName": "Big choppa",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "26d5-db5b-f307-5db3",
+      "WeaponName": "Power klaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

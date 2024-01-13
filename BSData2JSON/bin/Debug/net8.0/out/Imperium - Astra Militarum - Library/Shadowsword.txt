@@ -1,0 +1,32 @@
+{
+  "id": "db2f-d260-45b6-8586",
+  "UnitName": "Shadowsword",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4141-7397-e71a-14cf",
+      "AbilityName": "Titan-killer",
+      "AbilityText": "Each time this model makes a ranged attack with its volcano cannon that targets a Monster or Vehicle unit, that attack has the [DEVASTATING WOUNDS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "923e-4ea2-eb0a-29ef",
+      "WeaponName": "Volcano Cannon",
+      "Range": "96\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "4+",
+      "Strength": "24",
+      "ArnorPirecing": "-5",
+      "Damage": "12",
+      "Text": "Blast, Heavy"
+    }
+  ],
+  "MeleeSkills": []
+}

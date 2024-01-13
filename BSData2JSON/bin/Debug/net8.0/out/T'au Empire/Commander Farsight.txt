@@ -1,0 +1,61 @@
+{
+  "id": "a1ff-64a0-bc3d-177a",
+  "UnitName": "Commander Farsight",
+  "Movement": "10\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a15a-7948-3ddb-ebd4",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- CRISIS BATTLESUITS"
+    },
+    {
+      "Id": "b518-dfb4-ed41-6393",
+      "AbilityName": "Way of the Short Blade",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack that targets an enemy unit within 9\", add 1 to the Wound roll."
+    },
+    {
+      "Id": "49a3-e55-9ec9-32fd",
+      "AbilityName": "Aggressive Offensive",
+      "AbilityText": "Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, each time it makes an attack, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "89e3-e519-ede-f116",
+      "WeaponName": "High-intensity plasma rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "977-cdd0-552f-d82f",
+      "WeaponName": "Dawn Blade",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "9673-edd-1e61-2a22",
+      "WeaponName": "Dawn Blade",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

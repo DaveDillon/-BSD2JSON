@@ -1,0 +1,30 @@
+{
+  "id": "64ce-d746-b778-34d8",
+  "UnitName": "Genestealers",
+  "Movement": "8\"",
+  "Toughness": "4",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "96f0-f77f-527d-7554",
+      "AbilityName": "Vanguard Predator",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target is within range of one or more objective markers, re-roll a Wound roll 1 as well."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "53b5-899c-4c1e-53a3",
+      "WeaponName": "Genestealers claws and talons",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

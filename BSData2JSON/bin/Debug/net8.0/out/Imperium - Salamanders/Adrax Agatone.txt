@@ -1,0 +1,52 @@
+{
+  "id": "fca1-9ff0-bf21-b99f",
+  "UnitName": "Adrax Agatone",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5a40-93b3-6c2a-f7cb",
+      "AbilityName": "Unto the Anvil",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "68e4-3da0-f6ab-8624",
+      "AbilityName": "Lord of the Pyroclasts",
+      "AbilityText": "While an enemy unit is within Engagement Range of this model, halve the Objective Control characteristic of models in that enemy unit"
+    },
+    {
+      "Id": "f678-23f8-a491-c7d2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Company Heroes\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "415e-ed00-24ac-5c",
+      "WeaponName": "Drakkis",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Pistol, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f92a-9295-1bfb-2942",
+      "WeaponName": "Malleus Noctum",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

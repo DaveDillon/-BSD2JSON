@@ -1,0 +1,25 @@
+{
+  "id": "3fd4-81f1-2049-35",
+  "UnitName": "Remote Sensor Tower",
+  "Movement": "-",
+  "Toughness": "8",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6bb3-5fb3-66ec-cd6d",
+      "AbilityName": "Orbital Comms Array (Aura)",
+      "AbilityText": "While a friendly T'AU EMPIRE unit is within 6\" of this FORTIFICATION, each time you target that unit with a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    },
+    {
+      "Id": "8e52-4874-7ed0-287d",
+      "AbilityName": "Reinforced Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

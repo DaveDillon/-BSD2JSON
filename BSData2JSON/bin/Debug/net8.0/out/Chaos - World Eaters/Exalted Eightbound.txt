@@ -1,0 +1,39 @@
+{
+  "id": "b8d9-6a4b-fd6b-e82d",
+  "UnitName": "Exalted Eightbound",
+  "Movement": "9\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "6dfe-fb8a-bb6b-fd88",
+      "AbilityName": "Overwhelming Wrath (Aura)",
+      "AbilityText": "Each time an enemy unit within 6\" of this unit is selected to Fall Back, that unit must take a Leadership test. If that test is failed, that unit must Remain Stationary this phase instead."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "6de9-6907-8136-7e3b",
+      "WeaponName": "Paired Eightbound chainfists",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "b7f7-502e-7087-c965",
+      "WeaponName": "Heavy chainglaive",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "1"
+    }
+  ]
+}

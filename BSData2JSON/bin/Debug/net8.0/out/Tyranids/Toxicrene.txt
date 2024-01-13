@@ -1,0 +1,47 @@
+{
+  "id": "0a83-07b1-7b88-6a46",
+  "UnitName": "Toxicrene",
+  "Movement": "8\"",
+  "Toughness": "11",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "097a-e5ac-6ab9-4d1d",
+      "AbilityName": "Grasping Tendrils",
+      "AbilityText": "Each time an enemy unit (excluding Titanic units) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, you can roll one D6: on a 3+, that enemy unit must Remain Stationary instead."
+    },
+    {
+      "Id": "a599-0bf5-3022-ecc6",
+      "AbilityName": "Hypertoxic Miasma (Aura)",
+      "AbilityText": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d25f-0272-1bc8-8ebd",
+      "WeaponName": "Massive Toxic Lashes",
+      "Range": "9\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-infantry 2+"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4062-e3f6-6f04-bf73",
+      "WeaponName": "Massive Toxic Lashes",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

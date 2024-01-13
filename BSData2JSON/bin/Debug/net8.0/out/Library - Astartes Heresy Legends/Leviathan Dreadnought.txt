@@ -1,0 +1,84 @@
+{
+  "id": "4610-30f4-126d-95f",
+  "UnitName": "Leviathan Dreadnought",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "731d-26c2-a9e8-d336",
+      "AbilityName": "Duty Eternal",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b59c-b185-b989-a729",
+      "WeaponName": "Grav-flux bombard",
+      "Range": "24\"",
+      "Attacks": "2D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-VEHICLE 2+, Blast"
+    },
+    {
+      "id": "b6a7-a32c-c382-85bd",
+      "WeaponName": "Cyclonic melta-lance",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "606e-e411-3533-60bc",
+      "WeaponName": "Storm cannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "f0a7-38cb-268f-ef93",
+      "WeaponName": "Twin volkite caliver",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "99e9-5a4e-9f49-ac89",
+      "WeaponName": "Leviathan siege claw",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "d27c-5abc-a94-efa5",
+      "WeaponName": "Leviathan siege drill",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

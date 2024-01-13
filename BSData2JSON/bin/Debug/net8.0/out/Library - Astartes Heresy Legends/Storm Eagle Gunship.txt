@@ -1,0 +1,114 @@
+{
+  "id": "3968-364d-4ae9-dff2",
+  "UnitName": "Storm Eagle Gunship",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "18",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c11b-ccbd-83-ec10",
+      "AbilityName": "Armoured Resilience",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "Id": "9b71-a898-4bdd-e80d",
+      "AbilityName": "Strafing Run",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot FLY, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c5d0-38d-f579-e09e",
+      "WeaponName": "Vengeance launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "68ad-229f-e3ce-c4a1",
+      "WeaponName": "Twin multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Twin-linked"
+    },
+    {
+      "id": "8e89-cafd-4f78-f8b9",
+      "WeaponName": "Typhoon missile launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "a891-edb5-b267-341a",
+      "WeaponName": "Typhoon missile launcher",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    },
+    {
+      "id": "2712-5154-bd98-6bb7",
+      "WeaponName": "Twin hellstrike launcher",
+      "Range": "72\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Anti-FLY 2+, Twin-linked"
+    },
+    {
+      "id": "8406-8d54-4a51-97e9",
+      "WeaponName": "Twin avenger bolt cannon",
+      "Range": "36\"",
+      "Attacks": "10",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "577f-851c-79ff-1eed",
+      "WeaponName": "Twin hellstrike launcher",
+      "Range": "72\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Anti-FLY 2+, Twin-linked"
+    },
+    {
+      "id": "a6cb-3a0f-81a1-cdf3",
+      "WeaponName": "Quad heavy bolter",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Twin-linked, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

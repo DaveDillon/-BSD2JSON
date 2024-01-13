@@ -1,0 +1,60 @@
+{
+  "id": "d844-fb57-f3b6-1560",
+  "UnitName": "Painboy",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "44e8-17f8-5400-f2a",
+      "AbilityName": "Mad Dok",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "2839-444f-cf5a-93cd",
+      "AbilityName": "One Scalpel Short of a Medpack",
+      "AbilityText": "While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Fell Back."
+    },
+    {
+      "Id": "977f-8808-a448-68b2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BOYZ\r\n- BURNA BOYZ\r\n- TANKBUSTAS\r\n- LOOTAS\r\n- NOBZ"
+    },
+    {
+      "Id": "4702-4e9d-f8ee-1826",
+      "AbilityName": "Dok’s Toolz",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "1012-69d1-7946-2312",
+      "AbilityName": "Hold Still and Say ‘Aargh!’",
+      "AbilityText": "Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds."
+    },
+    {
+      "Id": "af34-15c2-b25a-54b6",
+      "AbilityName": "Grot Orderly",
+      "AbilityText": "Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit.\r\nDesigner’s Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used."
+    },
+    {
+      "Id": "9be1-2f2a-2976-8eb3",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BOYZ\r\n- NOBZ\r\n- LOOTAS\r\n- BURNA BOYZ\r\n- TANKBUSTAS"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "21ad-355c-4df-e251",
+      "WeaponName": "Power klaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

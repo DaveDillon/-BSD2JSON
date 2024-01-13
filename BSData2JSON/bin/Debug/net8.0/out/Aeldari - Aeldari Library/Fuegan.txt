@@ -1,0 +1,68 @@
+{
+  "id": "ab2f-ecea-dfe9-3aa4",
+  "UnitName": "Fuegan",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b17f-b753-359-e5f4",
+      "AbilityName": "Invulnerable Save (Phoenix Lord)",
+      "AbilityText": "Fuegan has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "1cfc-9876-dfba-d7db",
+      "AbilityName": "Burning Lance",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "ad3f-9c8e-278f-e31d",
+      "AbilityName": "Unquenchable Resolve",
+      "AbilityText": "The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining."
+    },
+    {
+      "Id": "6419-2c4e-129a-9939",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Fire Dragons"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7ea5-ac5a-d143-9887",
+      "WeaponName": "Searsong",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Sustained hits D3"
+    },
+    {
+      "id": "ce26-12a0-2593-bcd7",
+      "WeaponName": "Searsong",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 6"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b221-68c3-7f95-b3d",
+      "WeaponName": "The Fire Axe",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-4",
+      "Damage": "3"
+    }
+  ]
+}

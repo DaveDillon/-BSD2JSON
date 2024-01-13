@@ -1,0 +1,20 @@
+{
+  "id": "19ab-c0ae-7b00-dc0c",
+  "UnitName": "Wulfen",
+  "Movement": "8\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "487d-4818-82ae-5a13",
+      "AbilityName": "Death Frenzy",
+      "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

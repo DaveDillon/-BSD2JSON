@@ -1,0 +1,32 @@
+{
+  "id": "6869-9e1a-ee8f-39ca",
+  "UnitName": "Heavy Mortar Team",
+  "Movement": "4\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "58fc-b6a-af01-1843",
+      "AbilityName": "Rearm, Reload, Fire",
+      "AbilityText": "While this model is being affected by an Order, provided it Remained Stationary this turn, ranged weapons equipped by this model have the [SUSTAINED HITS 1] ability"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e94c-44e-8bcc-1284",
+      "WeaponName": "Heavy Mortar",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

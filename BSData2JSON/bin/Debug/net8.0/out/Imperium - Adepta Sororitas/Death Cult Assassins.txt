@@ -1,0 +1,20 @@
+{
+  "id": "bb32-4eb2-9e16-5c0",
+  "UnitName": "Death Cult Assassins",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "Models in this unit have an Invulnerable save of 5+.",
+  "Abilities": [
+    {
+      "Id": "daf8-c48a-5832-741",
+      "AbilityName": "Death Cult",
+      "AbilityText": "Each time a model in this unit makes an attack that targets a Character unit, re-roll a Wound roll of 1."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

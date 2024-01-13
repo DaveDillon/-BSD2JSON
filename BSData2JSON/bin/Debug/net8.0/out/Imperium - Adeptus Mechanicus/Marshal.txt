@@ -1,0 +1,40 @@
+{
+  "id": "58c1-8e13-6d05-ee24",
+  "UnitName": "Marshal",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "6",
+  "ObjectControl": "6",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "b89e-0cbb-251a-793c",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Skitarii Rangers\r\n■ Skitarii Vanguard"
+    },
+    {
+      "Id": "46d1-a9f3-efe5-b4a9",
+      "AbilityName": "Control Edict",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "3afd-1276-beb2-adf7",
+      "AbilityName": "Servo-skull Uplink",
+      "AbilityText": "Once per turn, you can select this model’s unit for a Stratagem even if that Stratagem has already been used on another unit from your army this phase"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "b541-4185-207d-f0fe",
+      "WeaponName": "Control stave",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

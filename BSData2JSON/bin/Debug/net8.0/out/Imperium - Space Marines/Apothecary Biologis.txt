@@ -22,7 +22,7 @@
     {
       "Id": "90f4-f4cf-7e9-2088",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Aggressor Squad\n■ Eradicator Squad\n■ Heavy Intercessor Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Aggressor Squad\r\n■ Eradicator Squad\r\n■ Heavy Intercessor Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [],

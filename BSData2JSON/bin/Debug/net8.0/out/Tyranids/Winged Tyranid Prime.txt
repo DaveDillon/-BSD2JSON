@@ -1,0 +1,54 @@
+{
+  "id": "d5b9-2986-70fe-f755",
+  "UnitName": "Winged Tyranid Prime",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a4ec-5941-e494-6ed0",
+      "AbilityName": "Alpha Warrior",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "5689-b058-225b-88d9",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "Id": "bdac-5b09-9843-5aed",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- GARGOYLES\r\n- TYRANID WARRIORS WITH MELEE BIO-WEAPONS\r\n- TYRANID WARRIORS WITH RANGED BIO-WEAPONS"
+    },
+    {
+      "Id": "6758-6ece-456a-eb57",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase rolle one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "4433-3a45-4860-4896",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "8a71-751d-7cb3-21ee",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

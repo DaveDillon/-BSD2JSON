@@ -1,0 +1,85 @@
+{
+  "id": "71ac-a100-1ec8-14e9",
+  "UnitName": "Brother-Captain",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e1f9-80b5-6bc7-21f3",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Brotherhood Terminator Squad\r\n■ Paladin Squad"
+    },
+    {
+      "Id": "3f64-f896-c54f-7fea",
+      "AbilityName": "Empyric Amplification (Psychic)",
+      "AbilityText": "While this model is leading a unit, Psychic weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "53db-1bc6-da94-f8e9",
+      "AbilityName": "Focused Mind (Psychic)",
+      "AbilityText": "Each time this model makes an attack with a Psychic weapon, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5cba-f6eb-aabb-c19",
+      "WeaponName": "Psycannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Psychic"
+    },
+    {
+      "id": "5617-1390-33d3-3402",
+      "WeaponName": "Incinerator",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "90da-10ea-b155-59e0",
+      "WeaponName": "Psilencer",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Psychic, Sustained Hits 1"
+    },
+    {
+      "id": "2f3e-caff-ee9d-f7e0",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5259-49ef-17f-db0a",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

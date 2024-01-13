@@ -1,0 +1,45 @@
+{
+  "id": "f6c8-f0c-9297-f07",
+  "UnitName": "Sloppity Bilepiper",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "7+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5d0c-8328-1cef-df0",
+      "AbilityName": "Invulnerable Save: Sloppity Bilepiper",
+      "AbilityText": "This model has a 5+ invulnerable save."
+    },
+    {
+      "Id": "23f1-b3b6-72-7c58",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUEBEARERS"
+    },
+    {
+      "Id": "8d1b-7431-a515-1672",
+      "AbilityName": "Jolly Gutpipes",
+      "AbilityText": "While this model is leading a unit, add 1 to the Move characteristic of models in that unit and you can re-roll Advance rolls made for that unit."
+    },
+    {
+      "Id": "5927-11be-f256-493a",
+      "AbilityName": "Disease of Mirth (Aura)",
+      "AbilityText": "At the start of the Fight phase, every enemy unit (excluding Monsters and Vehicles) within 6\" of this model must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "653-7d89-1075-11ce",
+      "WeaponName": "Marotter",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

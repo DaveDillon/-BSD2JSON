@@ -1,0 +1,70 @@
+{
+  "id": "1d89-841c-d40a-4263",
+  "UnitName": "Vigilant Squad",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [
+    {
+      "id": "41c1-ba25-d6cb-8996",
+      "WeaponName": "Arbites grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "99ca-5c40-b771-b323",
+      "WeaponName": "Arbites grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    },
+    {
+      "id": "a09f-32fd-de9e-ba9e",
+      "WeaponName": "Executioner shotgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Precision"
+    },
+    {
+      "id": "7b1-b90a-3a5-4b7a",
+      "WeaponName": "Heavy stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 3"
+    },
+    {
+      "id": "edb5-c271-86c5-fda1",
+      "WeaponName": "Webber",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Devastating Wounds, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

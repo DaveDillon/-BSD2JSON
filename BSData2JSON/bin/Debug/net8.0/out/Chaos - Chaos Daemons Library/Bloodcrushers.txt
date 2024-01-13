@@ -1,0 +1,20 @@
+{
+  "id": "eb84-815a-86e2-afd1",
+  "UnitName": "Bloodcrushers",
+  "Movement": "10\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "e48a-ecbb-976b-fde4",
+      "AbilityName": "Brass Stampede",
+      "AbilityText": "Each time this unit ends a Charge move, select one enemy unit within Engagement Range of this unit and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers D3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

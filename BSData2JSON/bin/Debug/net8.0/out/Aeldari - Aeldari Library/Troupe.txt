@@ -1,0 +1,136 @@
+{
+  "id": "fcb-7cf9-db1d-8ccd",
+  "UnitName": "Troupe",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "2e68-c478-cb2f-9ff6",
+      "AbilityName": "Harlequin Assault",
+      "AbilityText": "Each time this unit makes a Charge move, until the end of the turn, each time a model in this unit makes a melee attack, add 1 to the Wound roll"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2000-a049-9c43-224",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "f143-ae91-cefd-af24",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "14e2-d7d2-f6ed-d34f",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2a14-b0fe-c220-44ee",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e975-e852-f7b6-96a9",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7513-6efd-dee-3eb7",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "e495-6302-c5b5-ec3d",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d6de-c4c2-c27c-29fb",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "a801-a5a9-ad3f-12f4",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1240-a2c3-122a-3764",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "3864-d328-80d-c9aa",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "9b33-ebbd-4569-2ab3",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

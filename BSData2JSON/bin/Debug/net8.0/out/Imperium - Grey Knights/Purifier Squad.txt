@@ -1,0 +1,150 @@
+{
+  "id": "67f8-444-b8b7-ad0",
+  "UnitName": "Purifier Squad",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f2c4-c894-81d4-d126",
+      "AbilityName": "Sanctity of Purpose",
+      "AbilityText": "Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5feb-7055-7b8f-3c3d",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "afa7-73a6-825f-91b1",
+      "WeaponName": "Purifying Flame",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Ignores Cover, Psychic"
+    },
+    {
+      "id": "476f-c033-e1b5-ce32",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "9ab9-d500-9681-14b9",
+      "WeaponName": "Purifying Flame",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Ignores Cover, Psychic"
+    },
+    {
+      "id": "79c8-30e7-e8a7-fd4d",
+      "WeaponName": "Incinerator",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "bda9-6c80-e51b-9e62",
+      "WeaponName": "Purifying Flame",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Ignores Cover, Psychic"
+    },
+    {
+      "id": "f9a0-628e-ac4d-c9e6",
+      "WeaponName": "Purifying Flame",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Ignores Cover, Psychic"
+    },
+    {
+      "id": "454c-3450-7eb1-d0af",
+      "WeaponName": "Psilencer",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Psychic, Sustained Hits 1"
+    },
+    {
+      "id": "223f-9c61-6d39-228f",
+      "WeaponName": "Purifying Flame",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Ignores Cover, Psychic"
+    },
+    {
+      "id": "ae1b-164f-4af5-c81a",
+      "WeaponName": "Psycannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7ae3-9593-7d8-1faa",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "c19a-e2ff-2442-59a6",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

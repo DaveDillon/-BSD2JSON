@@ -1,0 +1,281 @@
+{
+  "id": "79c5-9fc4-7b97-7c3f",
+  "UnitName": "Kroot",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5d9e-289f-1504-fc93",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- KROOT CARNIVORES"
+    },
+    {
+      "Id": "56ca-4c21-86c5-c8b1",
+      "AbilityName": "The Shaper Commands",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 6+ ability. If models in that unit destroy an enemy unit in the Fight phase, then until the end of the battle, while this model is leading that unit, models in the unit have the Feel No Pain 4+ ability instead."
+    },
+    {
+      "Id": "9d7f-91af-104d-6c91",
+      "AbilityName": "Ritualistic Feeding",
+      "AbilityText": "Each time this model ends a Charge move, until the end of the turn, add 3 to the Attacks characteristic of its Shaper’s ritual blade."
+    },
+    {
+      "Id": "f406-31c6-6927-d793",
+      "AbilityName": "Grisly Feast",
+      "AbilityText": "If this unit destroys an enemy unit in the Fight phase, until the end of the battle, models in this unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "a0b-cde0-58da-af93",
+      "AbilityName": "Kroot Packmates",
+      "AbilityText": "While one or more friendly KROOT CARNIVORE units are within 6\" of this unit, each time a model in this unit makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "fb24-c625-8e6a-eeb0",
+      "AbilityName": "Hunting Pack",
+      "AbilityText": "While one or more friendly KROOT CARNIVORE units within 6\" of this unit are within Engagement Range of one or more enemy units, each time a model in this unit makes a melee attack, add 1 to the Wound roll."
+    },
+    {
+      "Id": "7899-d388-f303-592",
+      "AbilityName": "Bounty Hunters",
+      "AbilityText": "At the start of the battle, select one unit from your opponent’s army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities."
+    },
+    {
+      "Id": "567d-867a-3de8-fcab",
+      "AbilityName": "Pech'ra",
+      "AbilityText": "Ranged weapons equipped by the bearer’s unit have the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "7f50-eb0b-64e6-928f",
+      "AbilityName": "Loping Stride",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+    },
+    {
+      "Id": "b14f-7290-da41-f865",
+      "AbilityName": "Baggage Harness (Aura)",
+      "AbilityText": "While a friendly KROOT unit is within 3\" of the bearer, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "882a-abc5-f5cf-ae5",
+      "AbilityName": "Thunderous Pounce",
+      "AbilityText": "Each time this unit ends a Charge move, until the end of the turn, Knarloc beak and talons equipped by models in this unit have the [LANCE] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8386-febb-b6fb-cf56",
+      "WeaponName": "Kroot rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "2800-c6a1-1f7f-b41a",
+      "WeaponName": "Pulse rifle",
+      "Range": "30\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "afe8-e926-3d2f-a1ad",
+      "WeaponName": "Kroot gun",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "3d83-77bd-3f68-949b",
+      "WeaponName": "Farstalker firearm",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "8a39-7e4b-457a-ca38",
+      "WeaponName": "Pulse carbine",
+      "Range": "20\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "a49e-69cc-7f9f-49cb",
+      "WeaponName": "Dvorgite skinner",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "da44-fef6-a176-793c",
+      "WeaponName": "Londaxi tribalest",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds, Heavy"
+    },
+    {
+      "id": "700f-556e-ba35-5424",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Hooked"
+    },
+    {
+      "id": "1148-4286-305f-66f7",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "97a5-d645-763d-f137",
+      "WeaponName": "Twin Kroot gun",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b5fe-c3fc-d9d2-2dd0",
+      "WeaponName": "Shaper’s ritual blade",
+      "Attacks": "3",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8e0d-e9c6-dfa7-2586",
+      "WeaponName": "Krootox fists",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "67eb-a8ac-afd1-dfc",
+      "WeaponName": "Ritual blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b029-518a-1e5b-f465",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c24f-f411-c617-6f57",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3a10-944d-cdba-94b0",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c501-3dd1-b0b1-ea0f",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8dba-629-1888-7625",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "5d63-1f21-637b-56db",
+      "WeaponName": "Great Knarloc beak and talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "6cd-51fc-5ee0-9346",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "9eff-c2c3-1bbf-c888",
+      "WeaponName": "Knarloc beak and talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

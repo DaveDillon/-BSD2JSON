@@ -1,0 +1,47 @@
+{
+  "id": "731a-7e61-9186-2f1",
+  "UnitName": "Da Red Gobbo",
+  "Movement": "6\"",
+  "Toughness": "2",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f9a0-fb2-4a65-2c65",
+      "AbilityName": "Da Revolushun!",
+      "AbilityText": "Once per battle round, at the start of any phase, you can select one friendly GRETCHIN unit that is Battle-shocked and within 12\" of this model. That unit is no longer Battle-shocked."
+    },
+    {
+      "Id": "fc7b-712e-f69d-921f",
+      "AbilityName": "Explosive Presents (Aura)",
+      "AbilityText": "While a friendly GRETCHIN unit is within 6\" of this model, that unit has the GRENADES keyword and, each time such a unit uses the Grenade Stratagem, add 1 to the result of each dice rolled to see how many mortal wounds are inflicted."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c0ea-401d-df62-6cd1",
+      "WeaponName": "Kustom grot blasta",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7246-12b7-f020-8424",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

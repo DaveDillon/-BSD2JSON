@@ -1,0 +1,95 @@
+{
+  "id": "103f-a8cd-8c1f-24df",
+  "UnitName": "Strike Squad",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e301-c532-9ade-1060",
+      "AbilityName": "Sanctifying Ritual (Psychic)",
+      "AbilityText": "If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under you control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "849c-b659-147c-f45d",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "517d-d02e-6624-c935",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "8c1c-4387-9c82-4780",
+      "WeaponName": "Psycannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Psychic"
+    },
+    {
+      "id": "76e8-7d80-5eeb-c5dc",
+      "WeaponName": "Incinerator",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "f604-664c-eee3-6c40",
+      "WeaponName": "Psilencer",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Psychic, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9f39-7f88-e55b-5621",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "2228-faef-2090-b5a0",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

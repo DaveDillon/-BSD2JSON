@@ -1,0 +1,68 @@
+{
+  "id": "6972-f443-743b-fbc6",
+  "UnitName": "Shas'o R'alai",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1785-ba54-4bd2-e976",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- XV9 HAZARD BATTLESUITS"
+    },
+    {
+      "Id": "f119-114a-a83a-4d1c",
+      "AbilityName": "Eclipse Field Generator",
+      "AbilityText": "While this model is leading a unit, models in that unit have a 5+ invulnerable save."
+    },
+    {
+      "Id": "18a6-28f3-1242-fc24",
+      "AbilityName": "Assassin",
+      "AbilityText": "Each time this model makes an attack that targets a CHARACTER unit, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "2698-5ab4-26f8-a0c",
+      "AbilityName": "Blacklight Marker Drones",
+      "AbilityText": "Twice per battle, when this unit is an Observer unit, until the end of the phase, each time a ranged attack is made by a model in their Guided unit that targets their Spotted unit, re-roll a Wound roll of 1.\r\nDesigner’s Note: Place two Blacklight Marker Drone tokens next to this model, removing one each time this ability has been used."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e884-6e4f-5a48-8d9b",
+      "WeaponName": "Experimental pulse submunitions rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "1",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 3+, Devastating Wounds"
+    },
+    {
+      "id": "7014-abb-aa17-4e03",
+      "WeaponName": "Experimental pulse submunitions rifle",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3987-1e6e-9a1b-1a45",
+      "WeaponName": "Battlesuit fists",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

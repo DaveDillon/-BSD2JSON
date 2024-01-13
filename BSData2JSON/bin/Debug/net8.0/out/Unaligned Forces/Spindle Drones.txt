@@ -1,0 +1,42 @@
+{
+  "id": "cade-8bdc-1e52-e011",
+  "UnitName": "Spindle Drones",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "839a-dbe6-f30a-20a1",
+      "AbilityName": "Threat Level Rising",
+      "AbilityText": "Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "eeef-d2e4-8b2-da34",
+      "WeaponName": "Drone pulse",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a43f-c689-eb14-49c2",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "6299-5af-5-1b59",
+  "UnitName": "Burna Boyz",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b006-d9ab-238f-fbe5",
+      "AbilityName": "Pyromaniaks",
+      "AbilityText": "Each time a model in this unit makes a ranged attack with a burna that targets an enemy unit within 6\", re-roll a Wound roll of 1. If the target of that attack is also within range of an objective marker, you can re-roll the Wound roll instead."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "f7e6-8140-8280-b5f3",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "43aa-ee7e-8150-63e4",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b416-8d20-96da-7c6f",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "814a-2669-4517-c414",
+      "WeaponName": "Cuttin’ flames",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

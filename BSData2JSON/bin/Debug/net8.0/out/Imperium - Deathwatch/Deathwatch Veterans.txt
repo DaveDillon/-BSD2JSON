@@ -1,0 +1,77 @@
+{
+  "id": "88ab-39b-e7ba-770e",
+  "UnitName": "Deathwatch Veterans",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "55db-d5ea-d9bb-4205",
+      "AbilityName": "Death to the Alien",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack does not have the Imperium or Chaos keywords, you can re-roll the Hit roll instead."
+    },
+    {
+      "Id": "5b2a-95ce-d179-ab23",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead."
+    },
+    {
+      "Id": "33f7-2f7b-b0ca-1149",
+      "AbilityName": "Astartes shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "4982-518a-8f49-bbf2",
+      "AbilityName": "Astartes shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "b1e1-b0c4-68c2-4719",
+      "AbilityName": "Astartes shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "65ab-5802-b340-ca4f",
+      "WeaponName": "Xenophase blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "9336-387b-4a70-2eab",
+      "WeaponName": "Xenophase blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "1b85-7402-7cf-5c68",
+      "WeaponName": "Xenophase blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "7751-39a7-482c-bb84",
+      "WeaponName": "Deathwatch thunder hammer",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

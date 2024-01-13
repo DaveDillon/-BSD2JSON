@@ -1,0 +1,25 @@
+{
+  "id": "5859-fbf-67fc-143e",
+  "UnitName": "Valkyrie",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5e32-3bdc-afc7-78f5",
+      "AbilityName": "Grav Chute Insertion",
+      "AbilityText": "At the end of your opponent’s Movement phase, one or more units embarked within this Transport can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability."
+    },
+    {
+      "Id": "4b30-d8a6-e4be-342a",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

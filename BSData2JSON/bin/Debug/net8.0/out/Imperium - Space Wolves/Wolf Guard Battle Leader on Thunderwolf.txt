@@ -1,0 +1,49 @@
+{
+  "id": "5f4c-2ff5-3b9d-f61d",
+  "UnitName": "Wolf Guard Battle Leader on Thunderwolf",
+  "Movement": "10\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "696c-4eb7-fa98-8ba7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Thunderwolf Cavalry\r\n\r\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "99f6-269c-8ded-17a",
+      "AbilityName": "Aggressive Hunter",
+      "AbilityText": "Once per battle, in your opponent’s Shooting phase, after an enemy unit has finished making its attacks, if this model’s unit was targeted by one or more of those attacks, this model’s unit can make a Normal move of up to D6\", but must end that move as close as possible to the closest enemy unit. When doing so, models in this model’s unit can be moved within Engagement Range of that enemy unit."
+    },
+    {
+      "Id": "81f4-f16c-6712-c872",
+      "AbilityName": "Storm Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "c36-5843-1818-4f49",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "25d9-e85d-b677-bb2f",
+      "WeaponName": "Twin lightning claws",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

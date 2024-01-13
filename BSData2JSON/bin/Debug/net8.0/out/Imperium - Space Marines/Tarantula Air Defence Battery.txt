@@ -12,7 +12,7 @@
     {
       "Id": "cc0f-6f78-2f0b-1002",
       "AbilityName": "Sentry Programming",
-      "AbilityText": "You can target this model with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this turn.  This model can only be targeted with that Stratagem once\nper turn."
+      "AbilityText": "You can target this model with the Fire Overwatch Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this turn.  This model can only be targeted with that Stratagem once\r\nper turn."
     }
   ],
   "RangedSkills": [

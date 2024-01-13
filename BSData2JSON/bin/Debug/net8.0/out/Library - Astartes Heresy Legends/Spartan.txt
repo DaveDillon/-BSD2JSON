@@ -1,0 +1,37 @@
+{
+  "id": "d567-8f69-67c3-fd7f",
+  "UnitName": "Spartan",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [
+    {
+      "id": "388b-2266-5627-254b",
+      "WeaponName": "Quad lascannon",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
+    },
+    {
+      "id": "22cb-1033-c7fc-d4a2",
+      "WeaponName": "Laser destroyer",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Heavy"
+    }
+  ],
+  "MeleeSkills": []
+}

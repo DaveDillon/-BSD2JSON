@@ -1,0 +1,39 @@
+{
+  "id": "c729-fe17-f963-16b2",
+  "UnitName": "Mawloc",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5b71-bc6f-68c5-a06a",
+      "AbilityName": "Terror from the Deep",
+      "AbilityText": "Each time this unit is set up on the battlefield using the Deep Strike ability, roll one D6 for each enemy unit within 12\" of this model: on a 2-4, that unit suffers D3 mortal wounds; on a 5+, that unit suffers 3 mortal wounds and must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "77f-c6c2-7eb2-2499",
+      "WeaponName": "Distendible Jaw",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "3"
+    },
+    {
+      "id": "48dd-9bd0-ba5e-9fe0",
+      "WeaponName": "Mawloc Scything Talons",
+      "Attacks": "16",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

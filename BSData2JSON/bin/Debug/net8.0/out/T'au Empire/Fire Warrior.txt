@@ -1,0 +1,104 @@
+{
+  "id": "327b-5317-ea54-ae90",
+  "UnitName": "Fire Warrior",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "62df-a9ee-3931-13d",
+      "AbilityName": "Cover Fire",
+      "AbilityText": "While this unit is within range of an objective marker you control, each time you select it as the target of the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 4+ when resolving that Stratagem."
+    },
+    {
+      "Id": "d2e6-f139-acad-1b30",
+      "AbilityName": "DS8 Support Turret",
+      "AbilityText": "In your Movement phase, if this unit Remains Stationary, until the start of your next Movement phase, its Fire Warrior Shas’ui model is equipped with the support turret missile system weapon.\r\n\r\nDesigner’s Note: Place a DS8 Support Turret token next to this unit to remind you."
+    },
+    {
+      "Id": "3926-4865-e8c7-c5eb",
+      "AbilityName": "Breach and Clear",
+      "AbilityText": "Each time a model in this unit makes a ranged attack that targets an enemy unit within range of an objective marker, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "3354-9520-c907-c618",
+      "AbilityName": "DS8 Support Turret",
+      "AbilityText": "In your Movement phase, if this unit Remains Stationary, until the start of your next Movement phase, its Fire Warrior Shas’ui model is equipped with the support turret missile system weapon.\r\n\r\nDesigner’s Note: Place a DS8 Support Turret token next to this unit to remind you."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8dd7-3d20-74f9-79fd",
+      "WeaponName": "Pulse blaster",
+      "Range": "10\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "9531-d51d-6cca-ec97",
+      "WeaponName": "Pulse blaster",
+      "Range": "10\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "54b6-9c72-e9d7-7f54",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "4505-c95c-c7d7-52c4",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b5ed-a7-ba12-c9ac",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ba98-b463-df55-21c2",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b4c-a40e-96d5-9ce1",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": "5ff0-d52d-e2b8-9de",
+  "UnitName": "Vanguard Invader",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fee7-90a8-24a2-79ef",
+      "AbilityName": "Paroxysm (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."
+    },
+    {
+      "Id": "a5e1-ca7f-aaef-7fda",
+      "AbilityName": "Vicious Insight",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "75d5-d9e0-5f01-60bf",
+      "AbilityName": "Hypnotic Gaze (Psychic)",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "78d5-4fce-3f26-7817",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- GENESTEALERS"
+    },
+    {
+      "Id": "a4ec-5941-e494-6ed0",
+      "AbilityName": "Alpha Warrior",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "5689-b058-225b-88d9",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "Id": "bdac-5b09-9843-5aed",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- GARGOYLES\r\n- TYRANID WARRIORS WITH MELEE BIO-WEAPONS\r\n- TYRANID WARRIORS WITH RANGED BIO-WEAPONS"
+    },
+    {
+      "Id": "c1f2-5d1a-e044-fba8",
+      "AbilityName": "Winged Swarm",
+      "AbilityText": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+    },
+    {
+      "Id": "5e16-936-6e44-955c",
+      "AbilityName": "Pheromone Trail",
+      "AbilityText": "Once per battle round, you can target one model with this ability with the Rapid Ingress Stratagem for 0CP."
+    },
+    {
+      "Id": "5bd7-b7c-42a4-3055",
+      "AbilityName": "Fear of the Unseen (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1. In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test."
+    },
+    {
+      "Id": "e3fa-da84-9809-3099",
+      "AbilityName": "Hunter Organism",
+      "AbilityText": "This model cannot be your Warlord"
+    },
+    {
+      "Id": "8fab-3b8c-1342-cfed",
+      "AbilityName": "Pouncing Leap",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    },
+    {
+      "Id": "e63a-3205-566f-57d8",
+      "AbilityName": "Parasitic Infection",
+      "AbilityText": "Each time an INFANTRY model is destroyed by an attack made with this model’s barbed ovipositor, after this model has finished making its attacks, you can add one new RIPPER SWARMS unit to your army consisting of D3 models and set it up within 3\" of this model. If you do, that RIPPER SWARMS unit can be set up within Engagement Range of the destroyed model’s unit (but not within Engagement Range of any other enemy units)."
+    },
+    {
+      "Id": "738b-7257-a0b0-6cda",
+      "AbilityName": "It Itches!",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within Engagement Range of this model. That enemy unit must take a Battle-shock test."
+    },
+    {
+      "Id": "ceb3-c557-c854-8883",
+      "AbilityName": "Aerial Seeding",
+      "AbilityText": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9\" away from all enemy models. After this model has been set up on the battlefield, no units can embark within it."
+    },
+    {
+      "Id": "aaf-ca1a-79f3-94c3",
+      "AbilityName": "Airborne Predator",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll."
+    },
+    {
+      "Id": "ad40-62a4-c6ff-6036",
+      "AbilityName": "Spore Mine Cysts",
+      "AbilityText": "Each time this model ends a Normal move, you can do one of the following:\r\n- Select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.\r\n- Add a new SPORE MINES unit containing D3 models to your army and set it up anywhere on the battlefield that is within 6\" of this model and more than 9\" horizontally away from all enemy units. You cannot select this option for more than one model per turn."
+    },
+    {
+      "Id": "96f0-f77f-527d-7554",
+      "AbilityName": "Vanguard Predator",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target is within range of one or more objective markers, re-roll a Wound roll 1 as well."
+    },
+    {
+      "Id": "d06d-869e-b2-ff95",
+      "AbilityName": "Feeder Tendrils",
+      "AbilityText": "Each time this model destroys an enemy CHARACTER model, you gain 1CP"
+    },
+    {
+      "Id": "e348-1799-4ccc-f1e3",
+      "AbilityName": "Neural Disruption",
+      "AbilityText": "In your Command phase, select one enemy unit within 12\" of this model. That unit must take a Battle-shock test"
+    },
+    {
+      "Id": "f420-4c72-dafd-6998",
+      "AbilityName": "Psychological Saboteur (Aura)",
+      "AbilityText": "While an enemy unit is with 12\" of this model, if that unit is Battle-shocked:\r\n\r\n- Each time a model in that unit makes an attack, subtract 1 from the Hit roll\r\n- Each time a friendly TYRANIDS model makes an attack that targets that unit, add 1 to the Wound roll."
+    },
+    {
+      "Id": "6758-6ece-456a-eb57",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase rolle one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4639-581b-c704-f11e",
+      "WeaponName": "Fleshborer",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "97d8-b44e-edaf-2f93",
+      "WeaponName": "Tyrannocyte Bio-weapons",
+      "Range": "24\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
+    },
+    {
+      "id": "5be8-54a0-e5d0-3e7f",
+      "WeaponName": "Drool Cannon",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent"
+    },
+    {
+      "id": "8089-203-7e0c-cea5",
+      "WeaponName": "Tentaclids",
+      "Range": "12\"",
+      "Attacks": "4",
+      "BallisticSkill": "3++",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Anti-vehicle 4+, Devastating Wounds"
+    },
+    {
+      "id": "a72d-c8af-581e-dbbb",
+      "WeaponName": "Twin Stranglethorn Cannon",
+      "Range": "36\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "c2e1-bb76-49dc-acaf",
+      "WeaponName": "Twin Heavy Venom Cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "84d0-f0bf-85c5-2266",
+      "WeaponName": "Tyrant talons",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "6801-34d9-56f1-c07c",
+      "WeaponName": "Broodlord Claws and Talons",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "4433-3a45-4860-4896",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "a6d6-0e98-847e-f85c",
+      "WeaponName": "Blinding Venom",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "74d3-4e3e-f6f-229c",
+      "WeaponName": "Leaper's Talons",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "b266-1a27-3790-923b",
+      "WeaponName": "Barbed Ovipositor",
+      "Attacks": "1",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "ba43-6e87-cdf9-9c3a",
+      "WeaponName": "Clawed Limbs",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "3751-5833-40ca-73b8",
+      "WeaponName": "Flensing Whips",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "f838-af93-4c1a-1c1a",
+      "WeaponName": "Thorax Spur",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6"
+    },
+    {
+      "id": "53b5-899c-4c1e-53a3",
+      "WeaponName": "Genestealers claws and talons",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "10fd-5ae9-79e8-cbd1",
+      "WeaponName": "Piercing Claws and Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "8a71-751d-7cb3-21ee",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

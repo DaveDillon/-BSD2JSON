@@ -1,0 +1,47 @@
+{
+  "id": "c593-9ffa-a9c4-377c",
+  "UnitName": "Death Jester",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "cd7a-5c89-a4d7-770b",
+      "AbilityName": "Death is Not Enough",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of  those attacks destroyed an enemy model, that enemy model’s unit must take a Battle-shock test"
+    },
+    {
+      "Id": "409-e43f-2c32-248a",
+      "AbilityName": "Cruel Amusement",
+      "AbilityText": "In your Shooting phase, one model from your army with this ability can use it. If they do, until the end of the phase, select one of the following abilities to apply to that model’s shrieker cannon:\r\n■ [IGNORES COVER]\r\n■ [PRECISION]\r\n■ [SUSTAINED HITS 3]"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6ca-5831-21c6-250",
+      "WeaponName": "Shrieker Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1eff-7fab-182b-448a",
+      "WeaponName": "Jester's Blade",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

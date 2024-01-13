@@ -1,0 +1,20 @@
+{
+  "id": "5409-827f-b23f-5ac",
+  "UnitName": "Crisis",
+  "Movement": "10\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "48d4-b938-de65-cd2",
+      "AbilityName": "Turbo-jets",
+      "AbilityText": "Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

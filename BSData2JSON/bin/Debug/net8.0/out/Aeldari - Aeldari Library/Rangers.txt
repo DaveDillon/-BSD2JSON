@@ -1,0 +1,53 @@
+{
+  "id": "45c7-600f-d867-b1a",
+  "UnitName": "Rangers",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "4bbf-ae84-7e55-3704",
+      "AbilityName": "Path of the Outcast",
+      "AbilityText": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\" as if it were your Movement phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7dfc-a9a1-aa3-5a1f",
+      "WeaponName": "Ranger long rifle",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "2316-3676-cb4b-bdb6",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c3fc-36dc-8595-3b71",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6b40-8456-36cb-ece2",
+  "UnitName": "Beastboss on Squigosaur",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "9",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b699-6fb9-ab3-c02f",
+      "AbilityName": "’Ere We Go (Aura)",
+      "AbilityText": "While a friendly BEAST SNAGGA unit is within 6\" of this model, you can re-roll Charge rolls made for that unit."
+    },
+    {
+      "Id": "23df-4fe3-d093-1c55",
+      "AbilityName": "Single-minded Predator",
+      "AbilityText": "You can target this model with the Heroic Intervention Stratagem for 1CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "f5dc-e5f7-8f42-2b83",
+      "WeaponName": "Squigosaur’s jaws",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

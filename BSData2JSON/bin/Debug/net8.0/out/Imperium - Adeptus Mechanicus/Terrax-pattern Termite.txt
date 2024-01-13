@@ -1,0 +1,85 @@
+{
+  "id": "5f5c-48ec-136a-7c17",
+  "UnitName": "Terrax-pattern Termite",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "72f0-1c3a-5baf-6a65",
+      "AbilityName": "Damaged: 1-5 wounds remaining",
+      "AbilityText": "While this mdel has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "870b-9bd7-ebff-9190",
+      "AbilityName": "Termite assault",
+      "AbilityText": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units  ou can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units  embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+    },
+    {
+      "Id": "b47d-8773-4150-1132",
+      "AbilityName": "Deadly Demise",
+      "AbilityText": "D3"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6f7-c1a2-851b-4fb5",
+      "WeaponName": "Combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "1446-f4c5-a538-c44f",
+      "WeaponName": "Heavy flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "1737-5eb8-716d-2200",
+      "WeaponName": "Twin volkite charger",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds, Twin-linked"
+    },
+    {
+      "id": "a81b-babd-8380-baf0",
+      "WeaponName": "Termite melta cutter",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "-9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "598e-9274-5ec8-dc12",
+      "WeaponName": "Termite drill",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D3+3"
+    }
+  ]
+}

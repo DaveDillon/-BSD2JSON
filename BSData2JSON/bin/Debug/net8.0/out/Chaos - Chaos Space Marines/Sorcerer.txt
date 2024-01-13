@@ -12,7 +12,7 @@
     {
       "Id": "f559-54b3-6e83-37a1",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES"
     },
     {
       "Id": "8150-5c01-b83e-e182",
@@ -27,7 +27,7 @@
     {
       "Id": "2308-68c1-23e7-d03e",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n- RUBRIC MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n- RUBRIC MARINES"
     },
     {
       "Id": "2aca-579b-16a9-8d17",
@@ -42,7 +42,7 @@
     {
       "Id": "67a8-8a91-4d6e-b60",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ PLAGUE MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUE MARINES"
     },
     {
       "Id": "e07-9b91-761a-7525",
@@ -57,7 +57,7 @@
     {
       "Id": "605f-d148-e8cf-47c4",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n- CHAOS BIKERS"
+      "AbilityText": "This model can be attached to the following unit:\r\n- CHAOS BIKERS"
     },
     {
       "Id": "cddc-6f53-8567-915b",

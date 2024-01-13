@@ -1,0 +1,40 @@
+{
+  "id": "27a5-f3c8-a520-edd9",
+  "UnitName": "Imagifier",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has an invulnerable save of 4+",
+  "Abilities": [
+    {
+      "Id": "76a1-5a9f-64c5-19ed",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Battle Sisters Squad\r\n■ Celestian Sacresants\r\n■ Dominion Squad\r\n■ Retributor Squad\r\nThis model can be attached to a Battle Sisters Squad, even if one Canoness, Palatine or Junith Eruita model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "72b8-e076-cff5-2e74",
+      "AbilityName": "Litany of Deeds",
+      "AbilityText": "Each time you gain a Miracle dice as the result of a friendly ADEPTA SORORITAS unit being destroyed, if that unit was destroyed within 12\" of this model, you can re-roll the result of that Miracle dice before adding it to your Miracle dice pool."
+    },
+    {
+      "Id": "ecf0-4fea-74c7-1091",
+      "AbilityName": "Stanchion of Holy Martyrs:",
+      "AbilityText": "While this model is leading a unit, models in that unit have a 4+ invulnerable save. While this model is leading a CELESTIAN SACRESANTS unit, models in that unit have a Save characteristic of 2+."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "7500-9e8-86a1-75cc",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

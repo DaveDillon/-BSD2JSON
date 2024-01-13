@@ -12,7 +12,7 @@
     {
       "Id": "a95e-1bbe-8a69-fb65",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHAOS BIKERS\n■ KHORNE BERSERKERS"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHAOS BIKERS\r\n■ KHORNE BERSERKERS"
     },
     {
       "Id": "31a3-c206-25b0-1bdd",

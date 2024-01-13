@@ -1,0 +1,58 @@
+{
+  "id": "8b60-36d5-35a8-8a69",
+  "UnitName": "Hernkyn Pioneers",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "0a56-b381-c3ac-12bd",
+      "AbilityName": "Outflanking Mag-Riders",
+      "AbilityText": "At the end of your opponent’s turn, if this unit is within 6\" of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "Id": "5594-0175-2fab-78d0",
+      "AbilityName": "Comms array",
+      "AbilityText": "Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    },
+    {
+      "Id": "2687-9d88-fa31-78e4",
+      "AbilityName": "Pan-spectral scanner",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "d4a7-4825-c105-69da",
+      "AbilityName": "Rollbar searchlight",
+      "AbilityText": "Each time a model in the bearer’s unit makes an attack that targets a unit that contains one or more models with the Stealth ability, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6a5e-2895-e858-2f97",
+      "WeaponName": "HYLas rotary cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "97dc-36f5-75b3-cf66",
+      "WeaponName": "Ion beamer",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Sustained Hits D3"
+    }
+  ],
+  "MeleeSkills": []
+}

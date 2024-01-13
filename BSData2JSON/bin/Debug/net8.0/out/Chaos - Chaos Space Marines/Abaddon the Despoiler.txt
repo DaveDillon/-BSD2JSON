@@ -22,7 +22,7 @@
     {
       "Id": "840f-5d08-8f3c-8d60",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHAOS TERMINATOR SQUAD\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHAOS TERMINATOR SQUAD\r\n■ LEGIONARIES"
     }
   ],
   "RangedSkills": [

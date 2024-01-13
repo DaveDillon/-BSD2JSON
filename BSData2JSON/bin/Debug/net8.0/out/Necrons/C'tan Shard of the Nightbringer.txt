@@ -1,0 +1,51 @@
+{
+  "id": "90cb-1f23-4f61-9c",
+  "UnitName": "C'tan Shard of the Nightbringer",
+  "Movement": "6\"",
+  "Toughness": "11",
+  "Save": "4+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "dfac-c392-eb70-34b8",
+      "AbilityName": "Drain Life",
+      "AbilityText": "At the end of the Fight phase, roll one D6 for each enemy unit within 6\" of this model: on a 4+, that enemy unit suffers D3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ed19-391a-6463-ac3b",
+      "WeaponName": "Gaze of death",
+      "Range": "18\"",
+      "Attacks": "D3",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+3",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2148-bfe5-6337-b045",
+      "WeaponName": "Scythe of the Nightbringer",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2"
+    },
+    {
+      "id": "38b5-927b-ad2-a0e",
+      "WeaponName": "Scythe of the Nightbringer",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

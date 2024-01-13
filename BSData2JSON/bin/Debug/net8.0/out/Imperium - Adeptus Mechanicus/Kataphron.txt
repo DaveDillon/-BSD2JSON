@@ -1,0 +1,25 @@
+{
+  "id": "6fdf-6180-8f3c-a07",
+  "UnitName": "Kataphron",
+  "Movement": "5\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2621-1ced-08ff-1612",
+      "AbilityName": "Breaching Command",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. While this unit is within 6” of one or more friendly Adeptus Mechanicus Battleline units, you can re-roll the Hit  roll instead."
+    },
+    {
+      "Id": "c5be-9cdf-008d-3b05",
+      "AbilityName": "Sentinel Directive",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

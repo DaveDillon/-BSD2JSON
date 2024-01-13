@@ -1,0 +1,124 @@
+{
+  "id": "a464-ec26-8197-aa96",
+  "UnitName": "Ta'unar Supremacy Armour",
+  "Movement": "8\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "30",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d6ef-b13d-f91a-ad20",
+      "AbilityName": "Coordinated Strike",
+      "AbilityText": "While this model is a Guided unit, each time it makes an attack that targets its Spotted unit, re-roll a Hit roll of 1."
+    },
+    {
+      "Id": "63c6-ed19-c7e5-638",
+      "AbilityName": "Damaged: 1-10 Wounds Remaining",
+      "AbilityText": "While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8a80-8223-739f-99b4",
+      "WeaponName": "Tri-axis ion cannon",
+      "Range": "36\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "4821-1484-e5a0-1382",
+      "WeaponName": "Tri-axis ion cannon",
+      "Range": "36\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "cead-eef7-db3a-4e49",
+      "WeaponName": "Fusion eradicator",
+      "Range": "24\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 3"
+    },
+    {
+      "id": "e6c1-f457-45b0-363e",
+      "WeaponName": "Pulse ordnance driver",
+      "Range": "60\"",
+      "Attacks": "8",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Infantry 2+"
+    },
+    {
+      "id": "625b-fbf9-1ab7-7f56",
+      "WeaponName": "Nexus missile launcher",
+      "Range": "36\"",
+      "Attacks": "8",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "db24-a303-7dab-2305",
+      "WeaponName": "Heavy rail cannon array",
+      "Range": "120\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "26",
+      "ArnorPirecing": "-5",
+      "Damage": "16",
+      "Text": "Devastating Wounds, Heavy"
+    },
+    {
+      "id": "4448-ace8-3e24-92f6",
+      "WeaponName": "Fragmentation cluster shell launcher",
+      "Range": "24\"",
+      "Attacks": "2D6+6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "6a73-6f6-1202-2913",
+      "WeaponName": "Smart missile system",
+      "Range": "30\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3ba9-dc18-61fa-2076",
+      "WeaponName": "Crushing feet",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

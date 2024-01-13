@@ -1,0 +1,30 @@
+{
+  "id": "8b0d-31c9-98a2-8430",
+  "UnitName": "Nexos",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "968c-f493-12fa-f01e",
+      "AbilityName": "Battlefield Analysis",
+      "AbilityText": "Once per turn, you can select one model or unit from your army with this ability as the target of a Stratagem for 0CP, even if you have already selected a model or unit from your army as the target of that Stratagem this phase."
+    },
+    {
+      "Id": "7d54-f68a-b935-acd3",
+      "AbilityName": "Cult Infiltration",
+      "AbilityText": "At the start of each player’s Command phase, if this model is on the battlefield, you can select one Cult Ambush marker that is on the battlefield and move it up to 6\""
+    },
+    {
+      "Id": "22cf-2616-94aa-2362",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- ACOLYTE HYBRIDS\r\n- HYBRID METAMORPHS\r\n- NEOPHYTE METAMORPHS\r\nYou can attach this model to a GENESTEALER CULTS BATTLELINE unit, even if a PRIMUS, MAGUS, or ACOLYTE ICONWARD model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

@@ -12,7 +12,7 @@
     {
       "Id": "278a-3fda-28cf-bbf1",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ ACCURSED CULTISTS\n■ CULTIST MOB\n■ NEGAVOLT CULTISTS"
+      "AbilityText": "This model can be attached to the following units:\r\n■ ACCURSED CULTISTS\r\n■ CULTIST MOB\r\n■ NEGAVOLT CULTISTS"
     },
     {
       "Id": "23f5-de7-b1f3-e52f",

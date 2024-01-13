@@ -1,0 +1,143 @@
+{
+  "id": "bf73-46e-399-91c0",
+  "UnitName": "Inquisitorial Henchmen",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "96f6-45ec-fc6b-6746",
+      "AbilityName": "Jokaero",
+      "AbilityText": "While an INQUISITOR model is leading this unit, if it contains a Jokaero model, each time a model in this unit makes a ranged attack, add 1 to the Wound roll."
+    },
+    {
+      "Id": "29cc-f479-85ba-5cb1",
+      "AbilityName": "Daemonhost",
+      "AbilityText": "While an INQUISITOR model is leading this unit, if it contains a Daemonhost model, models in this unit have a 5+ invulnerable save."
+    },
+    {
+      "Id": "eb16-ec0b-58d7-33b",
+      "AbilityName": "Inquisitorial Acolyte",
+      "AbilityText": "While an Inquisitor model is leading this unit, each time an attack is made against this unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "648f-b485-ae5d-633d",
+      "AbilityName": "Mystic",
+      "AbilityText": "While an INQUISITOR model is leading this unit, enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12” of one or more of this unit’s Mystic models."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ae46-7a20-ebc-2df2",
+      "WeaponName": "Jokaero weapons",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
+    },
+    {
+      "id": "7d0-d333-10a4-ea3e",
+      "WeaponName": "Unholy Gaze",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Psychic, Sustained Hits D3"
+    },
+    {
+      "id": "dfe1-608-6490-29d9",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "d71-e00a-6a51-4230",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "2505-fc45-e919-459d",
+      "WeaponName": "Heavy bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Sustained Hits 1"
+    },
+    {
+      "id": "ab29-f59c-7480-f80a",
+      "WeaponName": "Multi-melta",
+      "Range": "",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Heavy, Melta 2"
+    },
+    {
+      "id": "58ef-ef1d-a2de-c2c7",
+      "WeaponName": "Plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "eb7f-123c-6d98-d0d2",
+      "WeaponName": "Plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Hazardous, Heavy"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "881b-ad56-ad8d-d828",
+      "WeaponName": "Warp grasp",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "c61d-ba47-856b-98e6",
+      "WeaponName": "Eviscerator",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

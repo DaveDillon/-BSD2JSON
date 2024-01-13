@@ -1,0 +1,39 @@
+{
+  "id": "ea9-8161-e2e-53f0",
+  "UnitName": "Trukk",
+  "Movement": "12\"",
+  "Toughness": "8",
+  "Save": "4+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5fdb-9e2f-88df-12cf",
+      "AbilityName": "Grot Riggers",
+      "AbilityText": "At the start of your Command phase, this model regains 1 lost wound."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "d1fd-a5e8-7d4b-4134",
+      "WeaponName": "Spiked wheels",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "321c-d0ad-5c50-d9f7",
+      "WeaponName": "Wreckin' ball",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "0",
+      "Damage": "D6"
+    }
+  ]
+}

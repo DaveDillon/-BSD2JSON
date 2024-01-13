@@ -22,7 +22,7 @@
     {
       "Id": "85a4-4177-8c1b-e355",
       "AbilityName": "Grapnel Launchers",
-      "AbilityText": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the\nbearer can be moved during that move"
+      "AbilityText": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the\r\nbearer can be moved during that move"
     },
     {
       "Id": "d035-b128-7039-4b37",

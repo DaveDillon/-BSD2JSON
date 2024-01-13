@@ -1,0 +1,20 @@
+{
+  "id": "cc7e-612b-ac7d-c162",
+  "UnitName": "Broadside",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "45a8-1aaa-cff6-938b",
+      "AbilityName": "Advanced Armour",
+      "AbilityText": "Models in this unit have the Feel No Pain 4+ ability against mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

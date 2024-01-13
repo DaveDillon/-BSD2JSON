@@ -1,0 +1,64 @@
+{
+  "id": "3541-7928-16a6-6df0",
+  "UnitName": "Shroud Runners",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "3d07-90f6-1c18-dda0",
+      "AbilityName": "Target Acquisition",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 12\" of and visible to this unit. Until the end of the phase, ranged weapons equipped by friendly Aeldari models have the [LETHAL HITS] ability when targeting that unit"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "aa62-f94b-d7ff-6425",
+      "WeaponName": "Ranger long rifle",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "1232-fd9d-dec7-2653",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "96bd-6f95-6d55-2d6b",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "eb7-6e5e-c58f-8504",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

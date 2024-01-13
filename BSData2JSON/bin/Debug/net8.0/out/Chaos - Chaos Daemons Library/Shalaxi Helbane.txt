@@ -1,0 +1,78 @@
+{
+  "id": "d200-989c-1f44-fad2",
+  "UnitName": "Shalaxi Helbane",
+  "Movement": "14\"",
+  "Toughness": "10",
+  "Save": "5+",
+  "Wounds": "20",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "1608-b9e4-ab65-cb69",
+      "AbilityName": "Cloak of Constriction",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, subtract 1 from the Attacks characteristic of melee weapons equipped by that unit."
+    },
+    {
+      "Id": "bfdd-9874-4432-5d1c",
+      "AbilityName": "Monarch of the Hunt",
+      "AbilityText": "Each time this model declares a charge that targets a MONSTER, VEHICLE or CHARACTER unit, you can re-roll the Charge roll. Each time this model makes a melee attack that targets a MONSTER, VEHICLE or CHARACTER unit, you can re-roll the Hit roll, the Wound roll and the Damage roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4629-431-c46e-2155",
+      "WeaponName": "Lash of Slaanesh",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "6f50-fa09-6306-83ef",
+      "WeaponName": "Pavane of Slaanesh",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Devastating Wounds, Psychic"
+    },
+    {
+      "id": "41ba-3819-d76d-1170",
+      "WeaponName": "Pavane of Slaanesh",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Hazardous, Devastating Wounds, Psychic, Sustained Hits 3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a62a-2f90-1764-5964",
+      "WeaponName": "Snapping claws",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "a7e5-7ba5-999b-2c76",
+      "WeaponName": "Soulpiercer",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "61a4-aefb-ed56-cd15",
+  "UnitName": "Mastodon",
+  "Movement": "9\"",
+  "Toughness": "14",
+  "Save": "2+",
+  "Wounds": "30",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6a33-178-237b-66f2",
+      "AbilityName": "Damaged: 1-10 wounds remaining",
+      "AbilityText": "While this model has 1-10 wounds remaining, subtract 6 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "7403-4ad3-f2b0-cf99",
+      "AbilityName": "Inviolable Transport",
+      "AbilityText": "Once per battle round, when an attack is allocated to this model, you can change the Damage characteristic of that attack to 0."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "683a-df87-f264-c1ab",
+      "WeaponName": "Siege melta array",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "602d-f5c3-6af7-40b5",
+      "WeaponName": "Skyreaper battery",
+      "Range": "48\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-FLY 4+"
+    }
+  ],
+  "MeleeSkills": []
+}

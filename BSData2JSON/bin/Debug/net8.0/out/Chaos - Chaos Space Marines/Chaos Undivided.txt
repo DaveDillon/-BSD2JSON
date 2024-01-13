@@ -22,12 +22,12 @@
     {
       "Id": "840f-5d08-8f3c-8d60",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHAOS TERMINATOR SQUAD\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHAOS TERMINATOR SQUAD\r\n■ LEGIONARIES"
     },
     {
       "Id": "2e37-6074-e784-7b4",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ RAPTORS"
+      "AbilityText": "This model can be attached to the following units:\r\n■ RAPTORS"
     },
     {
       "Id": "849-eef4-da9f-1f47",
@@ -42,7 +42,7 @@
     {
       "Id": "3c5d-5e9a-a996-7afc",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES"
     },
     {
       "Id": "f413-2b4f-85c8-7cd4",
@@ -67,7 +67,7 @@
     {
       "Id": "1f0d-2787-4129-313e",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES"
     },
     {
       "Id": "3942-42f4-fc46-6b8e",

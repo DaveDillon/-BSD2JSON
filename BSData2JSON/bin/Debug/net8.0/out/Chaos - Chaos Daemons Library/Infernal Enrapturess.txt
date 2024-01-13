@@ -1,0 +1,68 @@
+{
+  "id": "c8dc-c657-ee4c-880e",
+  "UnitName": "Infernal Enrapturess",
+  "Movement": "9\"",
+  "Toughness": "3",
+  "Save": "7+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4c6f-a55-edab-b9d4",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ DAEMONETTES"
+    },
+    {
+      "Id": "ee36-47e7-9eb7-41e6",
+      "AbilityName": "Invulnerable Save: Infernal Enrapturess",
+      "AbilityText": "This model has a 5+ invulnerable save."
+    },
+    {
+      "Id": "c45-f663-afd9-62fe",
+      "AbilityName": "Harmonic Alignment",
+      "AbilityText": "While this model is leading a unit, in your Command phase, you can return D3 destroyed Bodyguard models to that unit."
+    },
+    {
+      "Id": "33dd-808b-b057-630a",
+      "AbilityName": "Discordant Disruption (Aura)",
+      "AbilityText": "While an enemy PSYKER unit is within 12\" of this model, Psychic weapons equipped by models in that unit have the [HAZARDOUS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1cab-abde-e6bc-283b",
+      "WeaponName": "Heartstring lyre",
+      "Range": "18\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "1b85-e84d-6366-3061",
+      "WeaponName": "Heartstring lyre",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d8c4-188d-3708-a08a",
+      "WeaponName": "Ravaging claws",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

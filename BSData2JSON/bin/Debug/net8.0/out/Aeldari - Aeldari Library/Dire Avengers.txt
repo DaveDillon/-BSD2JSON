@@ -1,0 +1,168 @@
+{
+  "id": "5032-ad18-c8c7-295f",
+  "UnitName": "Dire Avengers",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 5+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "f1fe-8446-b01d-3d82",
+      "AbilityName": "Shimmershield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "53df-66ea-3257-4e68",
+      "AbilityName": "Shimmershield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "735b-f532-a22f-da46",
+      "AbilityName": "Defence Tactics",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker you control."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a37e-5c68-1dbb-9788",
+      "WeaponName": "Avenger Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Lethal Hits"
+    },
+    {
+      "id": "99c1-221c-c9ab-85ef",
+      "WeaponName": "Avenger Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Lethal Hits"
+    },
+    {
+      "id": "16f6-7edd-9e-5863",
+      "WeaponName": "Diresword and Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "8532-59f6-df1e-e9c6",
+      "WeaponName": "Power Glaive and Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "4599-4e15-ec45-cf8d",
+      "WeaponName": "Two Avenger Shuriken Catapults",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Lethal Hits"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c3fc-b165-ced3-8c6b",
+      "WeaponName": "Dire Avengers",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "48aa-7ce4-28b5-ecfa",
+      "WeaponName": "Dire Avengers",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "be6b-59d-e826-7321",
+      "WeaponName": "Dire Avengers",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "8350-2117-824b-dbab",
+      "WeaponName": "Dire Avengers",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "b87d-d22e-cfe5-41ae",
+      "WeaponName": "Dire Avengers",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c3fc-b165-ced3-8c6b",
+      "WeaponName": "Diresword and Shuriken Pistol",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "48aa-7ce4-28b5-ecfa",
+      "WeaponName": "Power Glaive and Shuriken Pistol",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "be6b-59d-e826-7321",
+      "WeaponName": "Diresword and Shimmershield",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "8350-2117-824b-dbab",
+      "WeaponName": "Power Glaive and Shimmershield",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

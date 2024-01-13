@@ -1,0 +1,30 @@
+{
+  "id": "52c1-7aeb-a6e6-8383",
+  "UnitName": "Arvus Lighter",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "8",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8c4b-5dd7-ba8e-773a",
+      "AbilityName": "Aerial Deployment",
+      "AbilityText": "If this model starts the game in Hover mode and in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "c909-f3a8-7b82-cfab",
+      "WeaponName": "Armoured Hull",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

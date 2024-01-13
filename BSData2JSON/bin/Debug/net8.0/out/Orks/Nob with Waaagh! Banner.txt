@@ -1,0 +1,40 @@
+{
+  "id": "25e0-82e0-8ebb-b19f",
+  "UnitName": "Nob with Waaagh! Banner",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "78af-6f75-6e3c-843e",
+      "AbilityName": "Plant the Waaagh! Banner",
+      "AbilityText": "Once per battle, at the start of the battle round, this model can use this ability. If it does, until the start of the next battle round, this model’s unit gains the benefits of the Waaagh! ability as if you had called a Waaagh! this battle round."
+    },
+    {
+      "Id": "d907-8433-bbe3-9736",
+      "AbilityName": "Da Boss Iz Watchin’",
+      "AbilityText": "While this model is gaining the benefits of the Waaagh! ability, it has a 4+ invulnerable save and an Objective Control characteristic of 5."
+    },
+    {
+      "Id": "dfe1-4fa7-c2bc-bad7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BOYZ\r\n- NOBZ"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "2636-4834-9bfc-6ca5",
+      "WeaponName": "Waaagh! banner",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

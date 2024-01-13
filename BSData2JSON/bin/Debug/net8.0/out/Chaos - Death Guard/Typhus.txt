@@ -1,0 +1,49 @@
+{
+  "id": "ce7a-c25-fcfc-8033",
+  "UnitName": "Typhus",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "77d-6b50-56be-1c71",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS\r\n■ POXWALKERS"
+    },
+    {
+      "Id": "e1de-40a6-c9a9-7316",
+      "AbilityName": "The Destroyer Hive",
+      "AbilityText": "While this model is leading a unit, each time a melee attack targets that unit, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "595f-4a7d-3845-2131",
+      "AbilityName": "The Eater Plague",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of and visible to this PSYKER and roll one D6: on a 1, this PSYKER's unit suffers D3 mortal wounds; on a 2-5, that enemy unit suffers D6 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8576-b61a-fda9-9ec6",
+      "WeaponName": "Master-crafted manreaper",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "a230-d987-b4fa-381b",
+      "WeaponName": "Master-crafted manreaper",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

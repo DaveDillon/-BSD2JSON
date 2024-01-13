@@ -1,0 +1,30 @@
+{
+  "id": "6d9c-2e39-be0b-aee9",
+  "UnitName": "Purestrain Genestealers",
+  "Movement": "8\"",
+  "Toughness": "4",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fc5c-3afb-c339-8f9c",
+      "AbilityName": "Swift and Deadly",
+      "AbilityText": "This unit is eligible to declare a charge in a turn in which it Advanced."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "e003-7345-6bc7-d6eb",
+      "WeaponName": "Cult Claws and Talons",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

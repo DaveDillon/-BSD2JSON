@@ -1,0 +1,14 @@
+{
+  "id": "8888-fb01-3ef-63d0",
+  "UnitName": "Bastion",
+  "Movement": "-",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

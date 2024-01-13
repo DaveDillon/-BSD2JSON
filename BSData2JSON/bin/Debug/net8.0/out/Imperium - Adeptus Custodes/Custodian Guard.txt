@@ -1,0 +1,135 @@
+{
+  "id": "c4f-4c5f-3507-e4bc",
+  "UnitName": "Custodian Guard",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "07c7-730f-5219-ef8f",
+      "AbilityName": "Stand Vigil",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll isntead."
+    },
+    {
+      "Id": "9c46-e189-463c-266e",
+      "AbilityName": "Sentinel Storm",
+      "AbilityText": "Once per battle, in your Shooting phase, after the unit has shot, it can shoot again."
+    },
+    {
+      "Id": "9ab1-2eb7-a100-ab90",
+      "AbilityName": "Stand Vigil",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll isntead."
+    },
+    {
+      "Id": "8b43-d041-22ff-b0a5",
+      "AbilityName": "No Foe Shall Stand",
+      "AbilityText": "Once per battle, at the start of your Shooting phase, this unit can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] and [IGNORES COVER abilities]."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "99cf-4b14-147f-8229",
+      "WeaponName": "Guardian Spear",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "888d-3f8f-2d0-297",
+      "WeaponName": "Sentinel blade",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "31a-c1d6-c1b8-4a4f",
+      "WeaponName": "Adrasite spear",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "37f1-ff21-5dd9-540",
+      "WeaponName": "Pyrithite spear",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3665-5bcf-a899-fad",
+      "WeaponName": "Guardian Spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "52f5-f956-571d-51e2",
+      "WeaponName": "Sentinel blade",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "8fd4-a34d-48b8-47b3",
+      "WeaponName": "Misericordia",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "f33d-a12e-44fc-42dc",
+      "WeaponName": "Misericordia",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "61c-b0f6-3f1d-fa1",
+      "WeaponName": "Adrasite spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "5e9-c849-b704-35e",
+      "WeaponName": "Pyrithite spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

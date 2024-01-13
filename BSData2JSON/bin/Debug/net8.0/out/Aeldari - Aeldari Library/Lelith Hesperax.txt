@@ -1,0 +1,40 @@
+{
+  "id": "fb51-4e1b-bdcc-4617",
+  "UnitName": "Lelith Hesperax",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "88a6-91eb-ecd3-fe5b",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Wyches"
+    },
+    {
+      "Id": "80d8-2549-f78-46ba",
+      "AbilityName": "Brides of Death",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability, and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack and improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "8852-1c83-5e1e-7418",
+      "AbilityName": "Thrilling Spectacle",
+      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. When it does, until the end of the phase, the Attacks characteristic of Lelith’s blades is increased to 12 and this model’s invulnerable save is increased to 3+."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "708-deaf-26d6-97fe",
+      "WeaponName": "Lelith's blades",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

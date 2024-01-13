@@ -1,0 +1,35 @@
+{
+  "id": "4017-5de3-cb4f-1b8b",
+  "UnitName": "Wolf Guard Pack Leader with Jump Pack",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e86c-2118-cc7e-4b23",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Skyclaws\r\n\r\nYou must attach this model to the above unit, and can do so even if one or more Character units have already been attached to that unit, but a unit can never include more than one Pack Leader model. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths. If it is not possible to attach this model to a unit, it does not take part in the battle and counts as having been destroyed."
+    },
+    {
+      "Id": "5392-8ca1-9d89-67fa",
+      "AbilityName": "Storm Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "3fc8-faca-aaa0-58c2",
+      "WeaponName": "Twin lightning claws",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bbd7-9213-72c2-28fd",
+  "UnitName": "TX42 Piranha",
+  "Movement": "14\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "72a5-d809-5bea-8faa",
+      "AbilityName": "Outflank",
+      "AbilityText": "When this unit arrives from Strategic Reserves, it can be set up within your opponent’s deployment zone (all other restrictions still apply)."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5ad6-ff13-67e9-4378",
+      "WeaponName": "Rail rifle",
+      "Range": "30\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-4",
+      "Damage": "3",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e104-a86b-b9ca-6c63",
+      "WeaponName": "Armoured hull",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

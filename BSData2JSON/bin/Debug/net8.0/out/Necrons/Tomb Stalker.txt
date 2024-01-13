@@ -1,0 +1,42 @@
+{
+  "id": "2bab-a022-dfef-2d61",
+  "UnitName": "Tomb Stalker",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "9",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "40eb-6985-aac6-1086",
+      "AbilityName": "Snaking Ambush",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b4aa-747a-4a5f-cbec",
+      "WeaponName": "Gauss slicers",
+      "Range": "24\"",
+      "Attacks": "8",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Lethal Hits"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d3f1-f1fd-dee7-1cd7",
+      "WeaponName": "Tomb Stalker claws",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

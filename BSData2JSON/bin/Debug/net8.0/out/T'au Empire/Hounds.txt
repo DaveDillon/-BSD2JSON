@@ -1,0 +1,20 @@
+{
+  "id": "18e9-bb22-6283-f077",
+  "UnitName": "Hounds",
+  "Movement": "12\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fb24-c625-8e6a-eeb0",
+      "AbilityName": "Hunting Pack",
+      "AbilityText": "While one or more friendly KROOT CARNIVORE units within 6\" of this unit are within Engagement Range of one or more enemy units, each time a model in this unit makes a melee attack, add 1 to the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

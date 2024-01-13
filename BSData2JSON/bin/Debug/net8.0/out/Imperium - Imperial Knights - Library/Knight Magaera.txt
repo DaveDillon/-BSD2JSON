@@ -1,0 +1,48 @@
+{
+  "id": "3222-2af3-6a7e-5258",
+  "UnitName": "Knight Magaera",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "+6",
+  "ObjectControl": "+6",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "c150-a93b-f867-adf4",
+      "AbilityName": "Repair Auto-simulacra",
+      "AbilityText": "At the end of your Command phase, this model regains up to D3 lost wounds."
+    },
+    {
+      "Id": "473-3f8d-7861-5a6d",
+      "AbilityName": "Magaera’s Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, ranged weapons equipped by that model have the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e803-b7a9-6d6b-85cf",
+      "WeaponName": "Lightning cannon",
+      "Range": "48\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Sustained Hits 2"
+    },
+    {
+      "id": "ea44-b29b-859c-45ac",
+      "WeaponName": "Phased plasma-fusil",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": []
+}

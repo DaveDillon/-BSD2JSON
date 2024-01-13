@@ -1,0 +1,47 @@
+{
+  "id": "ba74-40ae-cbd2-649a",
+  "UnitName": "Spyders",
+  "Movement": "5\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "486c-f4fd-5ec1-38e3",
+      "AbilityName": "Fabricator Claw Array (Aura)",
+      "AbilityText": "While a friendly NECRONS VEHICLE unit is within 6\" of the bearer, models in that unit have the Feel No Pain 6+ ability."
+    },
+    {
+      "Id": "1dff-4e6e-f50a-4a18",
+      "AbilityName": "Canoptek Swarm",
+      "AbilityText": "In your Command phase, select one friendly CANOPTEK SCARAB SWARM unit within 6\" of this unit. One destroyed model is returned to that CANOPTEK SCARAB SWARM unit for each SPYDER model in this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "903f-ac42-963b-ffd6",
+      "WeaponName": "Particle beamer",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e02c-69ca-d6f6-245c",
+      "WeaponName": "Automaton claws",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
     {
       "Id": "42b2-7d1e-f1c-abdd",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n\n■ Reiver Squad\n\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Reiver Squad\r\n\r\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [

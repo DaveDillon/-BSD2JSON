@@ -1,0 +1,30 @@
+{
+  "id": "180b-bab2-a59f-44bc",
+  "UnitName": "Wolf Guard",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "782f-6fe4-1d53-90a9",
+      "AbilityName": "Chosen Companions",
+      "AbilityText": "While a CHARACTER model is leading this unit, each time a model in this unit makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "f7a8-7ed7-e053-8d59",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a CHARACTER unit from your army with the Leader ability can be attached to an STERNGUARD VETERAN SQUAD or VANGUARD VETERAN SQUAD, it can instead be attached to this unit."
+    },
+    {
+      "Id": "78a4-b1ff-67d5-1db4",
+      "AbilityName": "Storm Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

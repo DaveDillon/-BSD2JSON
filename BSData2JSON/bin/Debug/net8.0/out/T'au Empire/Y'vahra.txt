@@ -1,0 +1,75 @@
+{
+  "id": "fb2c-38ee-6ea4-79d0",
+  "UnitName": "Y'vahra",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "15",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d278-f59-1761-7ecd",
+      "AbilityName": "Nova Burst",
+      "AbilityText": "Once per battle, before this model makes a Normal, Advance or Fall Back move, it can use this ability. If it does, until the end of the phase, it has a Move characteristic of 18\"."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d5ac-9918-4973-4e8d",
+      "WeaponName": "Flechette pod",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "7efb-ecb-ae7a-ef0f",
+      "WeaponName": "Phased plasma-flamer",
+      "Range": "12\"",
+      "Attacks": "10",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "5fcc-2232-8654-9825",
+      "WeaponName": "Ionic discharge cannon",
+      "Range": "18\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "9a3b-179f-c24f-d034",
+      "WeaponName": "Ionic discharge cannon",
+      "Range": "18\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1be4-e00b-d665-32cf",
+      "WeaponName": "Battlesuit fists",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    }
+  ]
+}

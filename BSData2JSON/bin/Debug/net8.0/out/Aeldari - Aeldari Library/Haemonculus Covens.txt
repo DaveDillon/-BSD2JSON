@@ -1,0 +1,302 @@
+{
+  "id": "96d-ecf8-2b89-8056",
+  "UnitName": "Haemonculus Covens",
+  "Movement": "7\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "7",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b936-8fdd-80cc-46e0",
+      "AbilityName": "Pain Parasite (Aura)",
+      "AbilityText": "Each time a Pain token is removed from your Pain token pool to Empower a unit, if that Empowered unit is within 9\" of this unit, roll one D6: on a 4+, you gain 1 Pain token"
+    },
+    {
+      "Id": "3690-6c12-b1a7-9c03",
+      "AbilityName": "Mindless Killing Machines",
+      "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and it is then removed from play."
+    },
+    {
+      "Id": "d3b1-5310-845c-d2c2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Wracks"
+    },
+    {
+      "Id": "b7ec-7eb8-7290-892a",
+      "AbilityName": "Master of Pain",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability"
+    },
+    {
+      "Id": "aa63-96c4-50b4-f4dd",
+      "AbilityName": "Fear Incarnate (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 1 from that test."
+    },
+    {
+      "Id": "8f3f-ac82-a1cc-c30e",
+      "AbilityName": "Pain Engine",
+      "AbilityText": "If this unit destroys an enemy unit, until the end of the battle, it is Empowered."
+    },
+    {
+      "Id": "82ab-ae82-3a86-a029",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Wracks"
+    },
+    {
+      "Id": "f968-a048-5b72-3df9",
+      "AbilityName": "Fleshcraft",
+      "AbilityText": "At the end of your Movement phase, this model can heal one friendly Cronos, Talos, Grotesques or Wracks unit within 6\". If it does, one model in that unit regains up to 3 lost wounds (if you selected a Wracks unit, up to 3 destroyed models are returned to that unit instead)."
+    },
+    {
+      "Id": "afa9-4cfb-1dd4-c9e5",
+      "AbilityName": "Horrific Regeneration",
+      "AbilityText": "The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining"
+    },
+    {
+      "Id": "3659-8dfc-88b-e432",
+      "AbilityName": "The Torturer’s Craft",
+      "AbilityText": "Each time this unit destroys an enemy unit, you gain 1 Pain token. When this unit is destroyed, you gain 1 Pain token."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "85de-bede-2219-e6f",
+      "WeaponName": "Spirit Syphon",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "bc49-8269-2c66-e583",
+      "WeaponName": "Spirit Vortex",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Ignores Cover"
+    },
+    {
+      "id": "f0ae-88d4-2f78-1a87",
+      "WeaponName": "Liquifier Gun",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent"
+    },
+    {
+      "id": "3fb5-fed9-c125-97a7",
+      "WeaponName": "Stinger pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Anti-infantry 2+, Pistol, Precision"
+    },
+    {
+      "id": "ffc0-37b8-452a-d83d",
+      "WeaponName": "Twin Liquifier Gun",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent, Twin-Linked"
+    },
+    {
+      "id": "fd40-da5a-79dd-cb5d",
+      "WeaponName": "Twin Splinter Cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Infantry 3+, Sustained hits 1, Twin-Linked"
+    },
+    {
+      "id": "3024-e635-ec49-a675",
+      "WeaponName": "Twin Haywire Blasters",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds, Twin-Linked"
+    },
+    {
+      "id": "3dd7-ffd0-a86a-fe2d",
+      "WeaponName": "Twin Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3, Twin-Linked"
+    },
+    {
+      "id": "d9a5-dd35-4192-d5b",
+      "WeaponName": "Stinger Pod",
+      "Range": "24\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "fdd-463f-bb5f-93e4",
+      "WeaponName": "Casket of Flensing",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "N/A",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, One Shot, Torrent"
+    },
+    {
+      "id": "fe1e-9d52-ac-ad66",
+      "WeaponName": "Hexrifle",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "aff0-96bd-a962-9304",
+      "WeaponName": "Liquifier gun",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent"
+    },
+    {
+      "id": "dfc7-bef0-5c30-9d02",
+      "WeaponName": "Ossefactor",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Anti-Infantry 4+, Devastating Wounds"
+    },
+    {
+      "id": "b039-d693-86fe-4cc7",
+      "WeaponName": "Stinger pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Anti-infantry 2+, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "ac4e-a48c-87de-9cce",
+      "WeaponName": "Spirit-leech Tentacles",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3b8e-5250-1f5d-195d",
+      "WeaponName": "Monstrous weapons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "7ba9-fb18-1b41-db67",
+      "WeaponName": "Haemonculus tools and scissorhands",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "d94a-9048-69f0-fd75",
+      "WeaponName": "Chain-flails",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ad2d-d40c-6967-edcd",
+      "WeaponName": "Talos Gauntlet",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "7798-d69-e8d0-9e55",
+      "WeaponName": "Macro-Scalpel",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "fa89-f7e1-ea1e-5233",
+      "WeaponName": "Macro-Scalpel",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "675a-591f-9994-3e6d",
+      "WeaponName": "Talos Ichor Injector",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "fd00-1837-87ba-a3d2",
+      "WeaponName": "Haemonculus tools and scissorhands",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

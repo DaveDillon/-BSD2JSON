@@ -1,0 +1,40 @@
+{
+  "id": "b8ad-2a93-ce18-9e25",
+  "UnitName": "Anrakyr the Traveller",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "99f0-b4b4-4c25-a7a8",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMMORTALS"
+    },
+    {
+      "Id": "6809-73fc-986d-8110",
+      "AbilityName": "Lord of the Pyrrhian Eternals",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll."
+    },
+    {
+      "Id": "db0b-31e9-f3d7-bc67",
+      "AbilityName": "Mind in the Machine",
+      "AbilityText": "At the start of your opponent’s Shooting phase, select one enemy VEHICLE unit within 12\" of and visible to this model. That unit must take a Leadership test. If that test is passed, until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll; if that test is failed, that unit is not eligible to shoot this phase."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "ae99-7af1-cbee-d26a",
+      "WeaponName": "Warscythe",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

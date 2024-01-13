@@ -12,7 +12,7 @@
     {
       "Id": "dc1c-ffcb-1af3-f0ba",
       "AbilityName": "Leader",
-      "AbilityText": "This unit can be attached to the following unit:\n■ TRAITOR GUARDSMAN SQUAD"
+      "AbilityText": "This unit can be attached to the following unit:\r\n■ TRAITOR GUARDSMAN SQUAD"
     },
     {
       "Id": "9790-a17e-ac54-32a5",

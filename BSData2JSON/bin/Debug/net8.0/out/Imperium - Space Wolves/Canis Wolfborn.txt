@@ -1,0 +1,52 @@
+{
+  "id": "267e-fecd-6f5b-a1ea",
+  "UnitName": "Canis Wolfborn",
+  "Movement": "10\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9114-c4e8-32b1-dfe7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Fenrisian Wolves\r\n■ Thunderwolf Cavalry"
+    },
+    {
+      "Id": "2d38-b835-fadf-bfe9",
+      "AbilityName": "Born of Wolves",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "a9f0-ef79-2a9f-908f",
+      "AbilityName": "Alpha Predator",
+      "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy units suffers D3+3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a267-b7da-479-8b7e",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "557b-d90b-6d1a-bca",
+      "WeaponName": "Wolf claws",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

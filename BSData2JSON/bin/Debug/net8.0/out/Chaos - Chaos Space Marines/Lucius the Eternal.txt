@@ -12,7 +12,7 @@
     {
       "Id": "68a4-911a-c03c-2cf4",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ LEGIONARIES\n■ NOISE MARINES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ LEGIONARIES\r\n■ NOISE MARINES"
     },
     {
       "Id": "5909-fd1b-aabd-8cf6",

@@ -1,0 +1,96 @@
+{
+  "id": "8083-7b7a-c9d7-fd31",
+  "UnitName": "Nemesis Dreadknight",
+  "Movement": "8\"",
+  "Toughness": "8",
+  "Save": "2+",
+  "Wounds": "13",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c53f-7fdc-438d-5dcd",
+      "AbilityName": "Empyric Reprisal (Psychic)",
+      "AbilityText": "This model is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+    },
+    {
+      "Id": "6980-2489-73f9-24ed",
+      "AbilityName": "Damaged: 1-4 Wounds Remaining",
+      "AbilityText": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "61d-b7d7-761c-739b",
+      "WeaponName": "Gatling Psilencer",
+      "Range": "24\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Psychic, Sustained Hits 1"
+    },
+    {
+      "id": "2de9-9b67-647a-e973",
+      "WeaponName": "Heavy Incinerator",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "e63a-efa4-e920-d2a0",
+      "WeaponName": "Heavy Psycannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "47a-1263-759-50b7",
+      "WeaponName": "Dreadfists",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "72e7-ba02-c736-caf7",
+      "WeaponName": "Nemesis Greatsword",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6"
+    },
+    {
+      "id": "5047-d408-9c6d-9b63",
+      "WeaponName": "Nemesis Greatsword",
+      "Attacks": "10",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "967e-5402-f748-5ec4",
+      "WeaponName": "Nemesis Daemon Greathammer",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    }
+  ]
+}

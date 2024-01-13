@@ -1,0 +1,966 @@
+{
+  "id": "d39d-c104-5d92-3d58",
+  "UnitName": "Corsairs and Travelling players",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "131a-a751-8f2d-afb2",
+      "AbilityName": "Reavers of the Void",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead."
+    },
+    {
+      "Id": "88a6-c24b-d663-6157",
+      "AbilityName": "Mistshield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "ba5d-c71b-b708-1000",
+      "AbilityName": "Piratical Raiders",
+      "AbilityText": "At the start of the battle, select one unit from your opponent’s army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities."
+    },
+    {
+      "Id": "6edb-eda7-466d-a4f0",
+      "AbilityName": "Mistshield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "a2d2-a5b6-17a8-552f",
+      "AbilityName": "Channeler stones",
+      "AbilityText": "Once per turn, the first time a saving throw is failed for the bearer’s unit, change the Damage characteristic of that attack to 0."
+    },
+    {
+      "Id": "22b5-806a-a74c-eb4",
+      "AbilityName": "Faolchú",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "64bb-9606-28a6-466d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Troupe"
+    },
+    {
+      "Id": "4865-43fe-839c-719b",
+      "AbilityName": "Fog of Dreams (Psychic)",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability."
+    },
+    {
+      "Id": "9e3e-7c14-55e3-d4f5",
+      "AbilityName": "Twilight Pathways (Psychic)",
+      "AbilityText": "At the start of your Movement phase, one model from your army with this ability can use it. If it does, until the end of the turn, you can re-roll Advance rolls made for that model’s unit and that model’s unit is eligible to declare a charge in a turn in which it Advanced."
+    },
+    {
+      "Id": "fa26-abd-b188-cbb2",
+      "AbilityName": "Blitz",
+      "AbilityText": "Once per battle, in your Movement phase, this model can use\r\nthis ability before it makes a Normal move. If it does, until the end of\r\nthe turn, add 2D6\" to this model’s Move characteristic and add 3 to the\r\nAttacks characteristic of this model’s Solitaire weapons"
+    },
+    {
+      "Id": "98ed-81a6-809f-2cd9",
+      "AbilityName": "Blur of Movement",
+      "AbilityText": "This model is eligible to declare a charge in a turn in which it Advanced"
+    },
+    {
+      "Id": "da0b-721f-bea-6a36",
+      "AbilityName": "Rapid Embarkation",
+      "AbilityText": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Harlequins Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    },
+    {
+      "Id": "2e68-c478-cb2f-9ff6",
+      "AbilityName": "Harlequin Assault",
+      "AbilityText": "Each time this unit makes a Charge move, until the end of the turn, each time a model in this unit makes a melee attack, add 1 to the Wound roll"
+    },
+    {
+      "Id": "4591-b72c-5938-f025",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Troupe"
+    },
+    {
+      "Id": "f892-e9fd-e9cb-c309",
+      "AbilityName": "Choreographer of War",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "6a66-66c0-9d13-46c9",
+      "AbilityName": "Cegorach’s Favour:",
+      "AbilityText": "Once per turn, when you use a Fate dice to substitute a Hit roll, a Wound roll or a saving throw made for this model, you can first change the result of that Fate dice to a 6."
+    },
+    {
+      "Id": "d493-68aa-bd6-98e8",
+      "AbilityName": "Devastating Assault",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1cf4-43f7-4ff2-b8a4",
+      "WeaponName": "Neuro disruptor",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Assault, Pistol"
+    },
+    {
+      "id": "2522-d81b-7b47-3b25",
+      "WeaponName": "Shuriken rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Rapid Fire 1"
+    },
+    {
+      "id": "4328-f12e-e23a-62d9",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "5e54-8910-ae1-1a8f",
+      "WeaponName": "Shuriken cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "9f0d-2a87-98eb-5cfb",
+      "WeaponName": "Wraithcannon",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "b4a4-e1e8-9cd7-14d3",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "147b-c104-ef93-7111",
+      "WeaponName": "Corsair blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "d1da-925a-898e-d699",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "6b7-807e-e8b4-69cc",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "efc9-b21c-3ce-515",
+      "WeaponName": "Shuriken rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Rapid Fire 1"
+    },
+    {
+      "id": "d3c9-151e-99c0-8adc",
+      "WeaponName": "Corsair shredder",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Torrent"
+    },
+    {
+      "id": "59b5-e45a-e376-8ccb",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "ec82-e35e-3aa7-a32f",
+      "WeaponName": "Neuro disruptor",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Assault, Pistol"
+    },
+    {
+      "id": "f7e0-7ba3-ad65-d110",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "a6a4-25c4-dffa-19fd",
+      "WeaponName": "Shuriken rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Rapid Fire 1"
+    },
+    {
+      "id": "aafa-71a6-a0c6-634f",
+      "WeaponName": "Shuriken cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "a7eb-b6c3-40a7-b690",
+      "WeaponName": "Wraithcannon",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "d466-24fa-3a90-7241",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "3191-c0e0-5c1-be23",
+      "WeaponName": "Corsair shredder",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Torrent"
+    },
+    {
+      "id": "b517-590c-1ca4-21b3",
+      "WeaponName": "Corsair blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "b58f-23df-db9f-2446",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "7e70-e14b-caf1-d229",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "24be-051b-3fa0-becb",
+      "WeaponName": "Ranger long rifle",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "c9d7-5156-da34-707d",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "1a4f-31a3-7ef8-ca7e",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "cf21-0a44-fc64-9370",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "15e7-18a1-427-8952",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "b1a0-fa8a-d5d1-2d1d",
+      "WeaponName": "Executioner",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Anti-Infantry 2+, Psychic"
+    },
+    {
+      "id": "e404-9e71-334b-88f1",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "666c-aaee-a589-defe",
+      "WeaponName": "Fusion pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D3",
+      "Text": "Assault, Melta 2, Pistol"
+    },
+    {
+      "id": "067d-46f9-041b-1b29",
+      "WeaponName": "Shuriken rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Rapid Fire 1"
+    },
+    {
+      "id": "c837-6f07-ea8-8185",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "aab5-8360-a50-d395",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "ebc7-b59c-5e9-3df5",
+      "WeaponName": "Neuro Disruptor",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-infantry 2+, Assault, Pistol"
+    },
+    {
+      "id": "4bd2-ee10-c292-3d3c",
+      "WeaponName": "Skyweaver Haywire Cannon",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds"
+    },
+    {
+      "id": "cdf6-7b38-a2ce-2ad8",
+      "WeaponName": "Star Bolas",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "2000-a049-9c43-224",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "f143-ae91-cefd-af24",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "14e2-d7d2-f6ed-d34f",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "fd90-76d2-5529-5fd4",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "c28-58c8-c736-43fd",
+      "WeaponName": "Fusion Pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D3",
+      "Text": "Assault, Melta 2, Pistol"
+    },
+    {
+      "id": "a03f-638a-8469-18fb",
+      "WeaponName": "Neuro Disruptor",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-infantry 2+, Assault, Pistol"
+    },
+    {
+      "id": "c31c-ccd-3a28-9102",
+      "WeaponName": "Prismatic Cannon",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "8fe3-2450-5321-bc65",
+      "WeaponName": "Prismatic Cannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": ""
+    },
+    {
+      "id": "a7d0-5e75-3d92-7889",
+      "WeaponName": "Voidweaver Haywire Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-vehicle 4+, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "718d-5071-8e11-3cb6",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "4e1-c37e-9f8d-c7e5",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "95cf-7230-938c-c6d",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d4f6-ecc1-3709-4207",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "29a6-f7d3-dddc-c8c3",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "840e-fede-3d49-ce7e",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "76dd-2da0-cf09-e374",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "9c58-4545-89d0-5149",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "c31-7d39-be61-c880",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3215-801a-7bc2-196c",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8ffa-4f2e-16ce-68bd",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "020d-c907-8c4f-136a",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "ca29-d35c-d80d-e0f0",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "140b-6979-d054-f64d",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "5d30-bb47-4450-5ca7",
+      "WeaponName": "Paired Hekatarii blades",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "5791-bd34-4550-c914",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1a9e-8b6e-c61e-d52d",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "28f8-87f0-d9c3-f2fe",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b6e5-ec08-69dc-228e",
+      "WeaponName": "Witch staff",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "D3"
+    },
+    {
+      "id": "f0a6-b8c7-7fed-f409",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e8f0-b0a6-46ca-f186",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d18-a9c1-74f3-2183",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1b68-c922-541-5c36",
+      "WeaponName": "Shuriken pistol and Aeldari power sword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "c0c9-3c12-f1f0-f331",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e652-815c-4106-690d",
+      "WeaponName": "Miststave",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "f8f-d5dd-e0cf-5cec",
+      "WeaponName": "Zephyrglaive",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "c7ce-9672-521-696",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3daf-5355-b7ea-b291",
+      "WeaponName": "Solitaire Weapons",
+      "Attacks": "9",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "f79b-a7f3-a0af-4461",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2a14-b0fe-c220-44ee",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e975-e852-f7b6-96a9",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7513-6efd-dee-3eb7",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "e495-6302-c5b5-ec3d",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d6de-c4c2-c27c-29fb",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "a801-a5a9-ad3f-12f4",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1240-a2c3-122a-3764",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "3864-d328-80d-c9aa",
+      "WeaponName": "Harlequin's Blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "9b33-ebbd-4569-2ab3",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "c905-e649-cf4a-149d",
+      "WeaponName": "Harlequin's Special Weapon",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "31fb-aecc-7a85-be67",
+      "WeaponName": "Troupe Master's Blade",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "d42c-2ce2-93ab-23fc",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

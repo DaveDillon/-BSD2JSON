@@ -1,0 +1,42 @@
+{
+  "id": "9691-eee-7a07-3109",
+  "UnitName": "Lifta Wagon",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "19df-72b6-2de2-8aa0",
+      "AbilityName": "Da Bigger Dey Are, da Better Dey Drop",
+      "AbilityText": "Each time an attack made with this model’s lifta-droppa destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a908-7f9c-564d-770d",
+      "WeaponName": "Lifta-droppa",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Anti-Vehicle 3+"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d9f4-37ab-f1bd-1f6c",
+      "WeaponName": "Tracks and wheels",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

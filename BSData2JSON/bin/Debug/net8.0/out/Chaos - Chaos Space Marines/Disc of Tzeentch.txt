@@ -12,7 +12,7 @@
     {
       "Id": "2308-68c1-23e7-d03e",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n- RUBRIC MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n- RUBRIC MARINES"
     },
     {
       "Id": "2aca-579b-16a9-8d17",
@@ -27,7 +27,7 @@
     {
       "Id": "d341-9ddf-6c27-7710",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHOSEN\n■ LEGIONARIES\n■ RUBRIC MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ RUBRIC MARINES"
     },
     {
       "Id": "90fa-2921-2676-8ef2",

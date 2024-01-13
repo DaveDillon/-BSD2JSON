@@ -1,0 +1,67 @@
+{
+  "id": "b261-3cfd-9dba-339f",
+  "UnitName": "Squighog Boyz",
+  "Movement": "10\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "225-c66d-542c-3ea1",
+      "AbilityName": "Wild Ride",
+      "AbilityText": "You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for this unit."
+    },
+    {
+      "Id": "5571-f9d7-8dd6-bcd9",
+      "AbilityName": "Bomb Squig",
+      "AbilityText": "Once per battle for each bomb squig this unit has, after this unit ends a Normal move, you can select one enemy unit within 12\" of it and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds.\r\nDesigner’s Note: Place the relevant number of Bomb Squig tokens next to the unit, removing one each time this unit uses this ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9e1-e52d-95fd-86e3",
+      "WeaponName": "Saddlegit weapons",
+      "Range": "9\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "784f-98fa-9d4b-9054",
+      "WeaponName": "Stikka",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault, Anti-Monster 4+, Anti-Vehicle 4+"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "49a6-95f5-f081-241c",
+      "WeaponName": "Stikka",
+      "Attacks": "3",
+      "WeaponSkill": "+3",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "403f-f7fe-3ee3-29b7",
+      "WeaponName": "Squighog jaws and saddlegits",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

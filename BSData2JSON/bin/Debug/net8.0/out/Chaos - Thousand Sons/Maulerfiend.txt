@@ -1,0 +1,51 @@
+{
+  "id": "5568-6a60-e712-8b64",
+  "UnitName": "Maulerfiend",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "3a97-0252-dc9f-86ed",
+      "AbilityName": "Prophetic Hunters",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "cd0c-50c1-8ccd-2a2d",
+      "WeaponName": "2 magma cutters",
+      "Range": "6\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "18cf-ccdc-72f1-2e6f",
+      "WeaponName": "Maulerfiend fists",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "683d-a29d-ea73-1988",
+      "WeaponName": "Lasher tendrils",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

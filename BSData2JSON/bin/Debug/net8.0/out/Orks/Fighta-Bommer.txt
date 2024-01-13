@@ -1,0 +1,47 @@
+{
+  "id": "a939-1605-4c09-8e30",
+  "UnitName": "Fighta-Bommer",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e6ec-28d1-9e8a-add4",
+      "AbilityName": "Strafing Run",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot FLY, add 1 to the Hit roll."
+    },
+    {
+      "Id": "c4f1-dadb-84a3-fc10",
+      "AbilityName": "Small Bomms",
+      "AbilityText": "Each time the bearer ends a Normal move, you can select one enemy unit it moved across during that move and roll three D6: for each 4+, that unit suffers 1 mortal wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5400-8efe-9c97-718a",
+      "WeaponName": "Grot-guided bomm",
+      "Range": "72\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, One Shot, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d97c-5404-f880-990",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

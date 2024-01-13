@@ -1,0 +1,69 @@
+{
+  "id": "2efb-4c49-d187-c87a",
+  "UnitName": "Penitent Engines",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9b50-efe0-5300-a956",
+      "AbilityName": "Endless Suffering",
+      "AbilityText": "This unit is eligible to declare a charge in a turn in which it Advanced"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6a17-28c-9e0a-e561",
+      "WeaponName": "Penitent Flamers",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Ignores Cover, Torrent, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4237-5e1f-fb9f-a7ae",
+      "WeaponName": "Twin Penitent Buzz-Blades",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "3ce6-365a-9533-d823",
+      "WeaponName": "Twin Penitent Flails",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "6e93-a932-2059-3049",
+      "WeaponName": "Penitent Buzz-Blade and Penitent Flail",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "c16e-a07e-925e-8e1f",
+      "WeaponName": "Penitent Buzz-Blade and Penitent Flail",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "58a3-ceaa-ac78-f8f4",
+  "UnitName": "Kaptin Badrukk",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "36de-d363-3e1b-7731",
+      "AbilityName": "Flashiest Gitz",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "137-51eb-8d89-8823",
+      "AbilityName": "Ded Glowy Ammo (Aura)",
+      "AbilityText": "While an enemy INFANTRY unit is within 6\" of this model, subtract 1 from the Toughness characteristic of models in that unit."
+    },
+    {
+      "Id": "77d1-d5b5-85bf-4a33",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- FLASH GITZ"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e1c8-223b-816c-44a2",
+      "WeaponName": "Da Rippa",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Heavy, Sustained Hits 1"
+    },
+    {
+      "id": "53bb-bb4c-af27-9bff",
+      "WeaponName": "Da Rippa",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Hazardous, Heavy, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "fa89-f272-7d5a-955b",
+      "WeaponName": "Choppa",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "e531-2b12-c56c-aa51",
+  "UnitName": "Lord on Juggernaut",
+  "Movement": "10\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "7",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "b991-fcac-8127-89f9",
+      "AbilityName": "Aggressive Advance",
+      "AbilityText": "While this model is leading a unit, you can re-roll any or all of the following rolls made for that unit: Advance rolls; Charge rolls; Blood Surge rolls (see Khorne Berzerkers)."
+    },
+    {
+      "Id": "4bcb-02c4-0b6c-f6b9",
+      "AbilityName": "Bloody Stampede",
+      "AbilityText": "Each time this model’s unit ends a Charge move, select one enemy unit within Engagement Range of this model and roll one D6: on a 2-3, that enemy unit suffers 1 mortal wound; on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "Id": "2714-1342-291d-9505",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- EIGHTBOUND\r\n- EXALTED EIGHTBOUND\r\n- KHORNE BERSERKERS"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8283-c4c4-2f26-5438",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "d3d4-6f9d-4d0e-0cac",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "397c-8964-ff37-ba08",
+      "WeaponName": "Juggernaught's bladed horn",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "0b21-5f8d-a56a-a792",
+      "WeaponName": "Exalted chainblade",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

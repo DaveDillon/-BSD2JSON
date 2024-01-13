@@ -1,0 +1,63 @@
+{
+  "id": "d2c0-da0-5989-959c",
+  "UnitName": "Shadowseer",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "64bb-9606-28a6-466d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Troupe"
+    },
+    {
+      "Id": "4865-43fe-839c-719b",
+      "AbilityName": "Fog of Dreams (Psychic)",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability."
+    },
+    {
+      "Id": "9e3e-7c14-55e3-d4f5",
+      "AbilityName": "Twilight Pathways (Psychic)",
+      "AbilityText": "At the start of your Movement phase, one model from your army with this ability can use it. If it does, until the end of the turn, you can re-roll Advance rolls made for that model’s unit and that model’s unit is eligible to declare a charge in a turn in which it Advanced."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "aab5-8360-a50-d395",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "ebc7-b59c-5e9-3df5",
+      "WeaponName": "Neuro Disruptor",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-infantry 2+, Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e652-815c-4106-690d",
+      "WeaponName": "Miststave",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

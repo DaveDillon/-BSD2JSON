@@ -1,0 +1,20 @@
+{
+  "id": "6c11-1242-7b31-f64f",
+  "UnitName": "Hunta Rig",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f3d8-79ce-af0a-4cec",
+      "AbilityName": "Bail Out, Boyz!",
+      "AbilityText": "If this TRANSPORT is destroyed, you can re-roll the dice when determining if a disembarking model’s unit suffers mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

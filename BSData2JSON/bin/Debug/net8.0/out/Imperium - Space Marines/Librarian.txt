@@ -17,17 +17,17 @@
     {
       "Id": "fbef-6d32-361e-9163",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Desolation Squad\r\n■ Devastator Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "3f4a-63fb-254-9364",
       "AbilityName": "Shrouding [Psychic]",
-      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\nmodel is within 12\"."
+      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\r\nmodel is within 12\"."
     },
     {
       "Id": "2b01-240c-52a6-88e7",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Eliminator Squad\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Eliminator Squad\r\n■ Incursor Squad\r\n■ Infiltrator Squad\r\n■ Reiver Squad"
     },
     {
       "Id": "31b2-e5b4-c863-9992",
@@ -37,7 +37,7 @@
     {
       "Id": "d0c-d5f-c94-6a53",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Relic Terminator Squad\n■ Terminator Assault Squad\n■ Terminator Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Relic Terminator Squad\r\n■ Terminator Assault Squad\r\n■ Terminator Squad"
     },
     {
       "Id": "fb71-30d2-69a7-6697",
@@ -47,12 +47,12 @@
     {
       "Id": "667f-b83f-474c-3faf",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Squad with Jump Packs\n■ Vanguard Veteran Squad with Jump Packs"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad with Jump Packs\r\n■ Vanguard Veteran Squad with Jump Packs"
     },
     {
       "Id": "292a-c073-f9f3-3e45",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Bike Squad\r\n■ Outrider Squad"
     },
     {
       "Id": "35b7-41e1-1488-6df9",

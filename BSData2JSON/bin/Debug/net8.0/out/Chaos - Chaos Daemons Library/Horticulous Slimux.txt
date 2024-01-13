@@ -1,0 +1,49 @@
+{
+  "id": "a786-f05f-eb0-df11",
+  "UnitName": "Horticulous Slimux",
+  "Movement": "6\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "69eb-de0-8ffb-8002",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ BEASTS OF NURGLE"
+    },
+    {
+      "Id": "9e9a-f522-8a7b-5982",
+      "AbilityName": "Beast Handler",
+      "AbilityText": "While this model is leading a unit, you can re-roll Charge rolls made for that unit. In addition, once per battle, you can target that unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    },
+    {
+      "Id": "9993-f853-355c-b859",
+      "AbilityName": "Seed the Garden of Nurgle",
+      "AbilityText": "At the end of your Movement phase, if this model is within an AREA TERRAIN feature, until the end of the battle, that AREA TERRAIN feature is considered to be within your army’s Shadow of Chaos."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "2b56-40bf-3795-207e",
+      "WeaponName": "Acidic maw",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-4",
+      "Damage": "3"
+    },
+    {
+      "id": "34b5-9fa-5d06-c30a",
+      "WeaponName": "Lopping shears",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

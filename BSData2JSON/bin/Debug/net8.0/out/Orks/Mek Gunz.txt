@@ -1,0 +1,87 @@
+{
+  "id": "53b0-fb83-5e75-9a51",
+  "UnitName": "Mek Gunz",
+  "Movement": "3\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "6",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ff6-3afb-8c90-deed",
+      "AbilityName": "Splat!",
+      "AbilityText": "Each time a model in this unit makes a ranged attack that targets a unit containing 10 or more models, re-roll a Hit roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "94ea-54ed-db05-e940",
+      "WeaponName": "Smasha gun",
+      "Range": "48\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "92c3-6f7a-8aba-d748",
+      "WeaponName": "Bubblechukka",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Bubblechukka, Blast"
+    },
+    {
+      "id": "94da-5d61-d679-eadb",
+      "WeaponName": "Bubblechukka",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Bubblechukka, Blast"
+    },
+    {
+      "id": "6ab4-8bed-a247-ac13",
+      "WeaponName": "Bubblechukka",
+      "Range": "48\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+3",
+      "Text": "Bubblechukka, Blast"
+    },
+    {
+      "id": "2335-4f0d-c9d4-28bd",
+      "WeaponName": "Kustom mega-kannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "7ed2-a6f9-1b77-fb53",
+      "WeaponName": "Traktor kannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1",
+      "Text": "Anti-Fly 2+, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": []
+}

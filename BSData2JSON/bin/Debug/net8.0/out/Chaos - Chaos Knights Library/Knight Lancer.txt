@@ -1,0 +1,56 @@
+{
+  "id": "4aae-167f-1680-f405",
+  "UnitName": "Knight Lancer",
+  "Movement": "14\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "25",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "5053-d4f1-9f6-a113",
+      "AbilityName": "Shock Charge",
+      "AbilityText": "You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    },
+    {
+      "Id": "d211-dc16-2bb6-90f7",
+      "AbilityName": "Dark Fervour (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the [ASSAULT] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8c6d-af66-a0aa-cea6",
+      "WeaponName": "Cerastus shock lance",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Assault, Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "da4d-3a50-d9a6-bb1d",
+      "WeaponName": "Cerastus shock lance",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "a0a8-3a3-bfce-777a",
+      "WeaponName": "Cerastus shock lance",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

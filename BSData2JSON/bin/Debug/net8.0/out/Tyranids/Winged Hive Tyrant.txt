@@ -1,0 +1,30 @@
+{
+  "id": "4f10-fe01-4b80-8d6b",
+  "UnitName": "Winged Hive Tyrant",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fee7-90a8-24a2-79ef",
+      "AbilityName": "Paroxysm (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "84d0-f0bf-85c5-2266",
+      "WeaponName": "Tyrant talons",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

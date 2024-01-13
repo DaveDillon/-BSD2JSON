@@ -1,0 +1,78 @@
+{
+  "id": "d9c7-99b5-1d37-3021",
+  "UnitName": "Mutalith Vortex Beast",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "4+",
+  "Wounds": "13",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "6ed0-e576-e445-2539",
+      "AbilityName": "Mutating Vortex (Aura)",
+      "AbilityText": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds. Each enemy unit within range of this ability must then take a Battle-shock test."
+    },
+    {
+      "Id": "4b6d-e4b8-2cfa-42a6",
+      "AbilityName": "Immaterial Flare (Aura)",
+      "AbilityText": "While a friendly THOUSAND SONS PSYKER unit is within 6\" of this model, each time that unit uses a Ritual that specifies a range, you can double that range while resolving that Ritual."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "34c7-4401-4fd3-a2d2",
+      "WeaponName": "Warp vortex",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "47bc-89de-6dac-8685",
+      "WeaponName": "Warp vortex",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "ed81-7c6e-76e6-4836",
+      "WeaponName": "Warp vortex",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c9f0-af24-3731-bde8",
+      "WeaponName": "Betentacled maw",
+      "Attacks": "15",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "55bd-041f-e5eb-cedb",
+      "WeaponName": "Mutalith claws",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "4"
+    }
+  ]
+}

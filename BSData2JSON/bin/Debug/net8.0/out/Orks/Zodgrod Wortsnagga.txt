@@ -1,0 +1,40 @@
+{
+  "id": "238f-f38b-1614-a849",
+  "UnitName": "Zodgrod Wortsnagga",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "950a-82f7-79fd-342a",
+      "AbilityName": "Super Runts",
+      "AbilityText": "While this model is leading a unit:\r\n- Models in that unit have the Scouts 9\" ability.\r\n- Each time a model in that unit makes an attack, add 1 to the Hit roll and add 1 to the Wound roll.\r\n- Each time an attack targets that unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "d247-c00f-3a26-192e",
+      "AbilityName": "Special Dose",
+      "AbilityText": "When you call a Waaagh!, until the start of the next battle round, add 6\" to the Move characteristic of models in this model’s unit."
+    },
+    {
+      "Id": "8c02-8-da90-38b4",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- GRETCHIN"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "154-52b5-4abb-7c48",
+      "WeaponName": "Da Grabzappa",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

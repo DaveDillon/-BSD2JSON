@@ -1,0 +1,14 @@
+{
+  "id": "5d7b-c048-8c24-5043",
+  "UnitName": "Defence Emplacement",
+  "Movement": "-",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

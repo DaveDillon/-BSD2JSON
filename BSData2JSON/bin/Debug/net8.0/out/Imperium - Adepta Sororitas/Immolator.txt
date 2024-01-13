@@ -1,0 +1,75 @@
+{
+  "id": "60e-96a-1211-8c55",
+  "UnitName": "Immolator",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has an invulnerable save of 6+",
+  "Abilities": [
+    {
+      "Id": "74fa-feaf-4339-1a97",
+      "AbilityName": "Deadly Demise",
+      "AbilityText": "D3"
+    },
+    {
+      "Id": "cf41-7ae4-6a73-5490",
+      "AbilityName": "Transport",
+      "AbilityText": "This model has a transport capacity of 6 ADEPTA SORORITAS INFANTRY models. It cannot transport JUMP PACK models or the Triumph of Saint Katherine.\r\n\r\nAt the start of the Declare Battle Formations step, you can select one BATTLE SISTERS SQUAD, DOMINION SQUAD or SISTERS NOVIATIATE SQUAD from your army. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this Transport; the other can start the battle embarked within another Transport, or it can be deployed as a separate unit."
+    },
+    {
+      "Id": "5def-c759-39f-94ca",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9c67-cd11-29f0-1b5e",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "f061-12a-5d87-3418",
+      "WeaponName": "Immolation Flamers",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "b59-e057-6cdf-fe5a",
+      "WeaponName": "Twin Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-Linked"
+    },
+    {
+      "id": "7fbf-ceb5-24d6-ff9f",
+      "WeaponName": "Twin Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": []
+}

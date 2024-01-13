@@ -1,0 +1,47 @@
+{
+  "id": "c2ad-1025-acf0-324f",
+  "UnitName": "The Archivist",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "128a-9f8e-e659-fa7e",
+      "AbilityName": "Fearsome Assault",
+      "AbilityText": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test."
+    },
+    {
+      "Id": "6e34-22d9-a4ab-22ad",
+      "AbilityName": "Disruptive Influence (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ccfb-da5f-6573-19a8",
+      "WeaponName": "Atomic disassembler",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Ignores Cover, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9a27-5f9b-48bb-f529",
+      "WeaponName": "Eradicator glove",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

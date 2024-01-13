@@ -1,0 +1,72 @@
+{
+  "id": "6928-471e-41da-01a7",
+  "UnitName": "Magnus the Red",
+  "Movement": "14\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "16",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "d945-cdae-f7c4-b964",
+      "AbilityName": "Damaged: 1-6 wounds remaining",
+      "AbilityText": "While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "5a62-494d-e767-a4ea",
+      "AbilityName": "Unearthly Power",
+      "AbilityText": "At the start of the battle round, select one of the abilities in the Crimson King section. Until the start of the next battle round, this model has that ability."
+    },
+    {
+      "Id": "fa66-e8ff-f857-f176",
+      "AbilityName": "Lord of the Planet of the Sorcerers (Aura)",
+      "AbilityText": "While a friendly THOUSAND SONS PSYKER unit is within 6\" of this model, each time a model in that unit makes a Psychic Attack, add 1 to the Hit roll and add 1 to the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "94f1-241b-40f9-3834",
+      "WeaponName": "Gaze of Magnus",
+      "Range": "24\"",
+      "Attacks": "3D3",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Devastating Wounds, Psychic"
+    },
+    {
+      "id": "e19f-5228-a35f-dd2f",
+      "WeaponName": "Tzeentch's Firestorm",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d294-9e82-c38c-1816",
+      "WeaponName": "Blade of Magnus",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    },
+    {
+      "id": "8833-4644-ff76-c0b2",
+      "WeaponName": "Blade of Magnus",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

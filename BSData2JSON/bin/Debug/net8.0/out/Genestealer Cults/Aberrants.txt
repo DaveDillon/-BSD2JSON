@@ -1,0 +1,53 @@
+{
+  "id": "e919-694c-97ac-c174",
+  "UnitName": "Aberrants",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "cc70-2470-1cb3-952c",
+      "AbilityName": "Feel No Pain 4+",
+      "AbilityText": "This unit has a 4+ Feel No Pain"
+    },
+    {
+      "Id": "ae25-dce3-9c2e-2e38",
+      "AbilityName": "Hulking Bodyguards",
+      "AbilityText": "While a CHARACTER is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "1098-a3cf-cc42-b4c8",
+      "WeaponName": "Heavy Power Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "23b4-d310-912e-3166",
+      "WeaponName": "Hypermorph Tail",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "95e8-b0a4-fd42-5dbf",
+      "WeaponName": "Heavy Power Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

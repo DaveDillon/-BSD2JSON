@@ -1,0 +1,217 @@
+{
+  "id": "b6d3-1a49-8a2a-b157",
+  "UnitName": "Cerastus",
+  "Movement": "14\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "25",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5053-d4f1-9f6-a113",
+      "AbilityName": "Shock Charge",
+      "AbilityText": "You can target this model with the Tank Shock Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    },
+    {
+      "Id": "d211-dc16-2bb6-90f7",
+      "AbilityName": "Dark Fervour (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the [ASSAULT] ability."
+    },
+    {
+      "Id": "8ee2-d7a7-c821-24fa",
+      "AbilityName": "Storm of Bolts",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "75f4-754b-632e-ccb7",
+      "AbilityName": "Offerings for the Dark Gods (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "87e2-fd19-7923-c24",
+      "AbilityName": "Searing Flames",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+    },
+    {
+      "Id": "fba5-f8cf-a268-d9d7",
+      "AbilityName": "Unrestrained Terror (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 6\" of this model, it is affected by this ability. At the start of the Fight phase, each enemy unit within Engagement Range of one or more WAR DOG units affected by this ability must take a Battle-shock test."
+    },
+    {
+      "Id": "c0a2-6cfb-3e11-6316",
+      "AbilityName": "Macro-extinction Protocols",
+      "AbilityText": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll. If that target is TITANIC or TOWERING, add 1 to the Wound roll as well."
+    },
+    {
+      "Id": "c43b-6529-75b4-457a",
+      "AbilityName": "Consumed with Hunger (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 6\" of this model, each time that WAR DOG model makes an attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8c6d-af66-a0aa-cea6",
+      "WeaponName": "Cerastus shock lance",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Assault, Sustained Hits 2"
+    },
+    {
+      "id": "94c3-ace-1f3c-87ee",
+      "WeaponName": "Castigator bolt cannon",
+      "Range": "36\"",
+      "Attacks": "18",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "a166-c3be-78c2-5dd9",
+      "WeaponName": "Acheron flame cannon",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "a701-7b9a-ff40-af1f",
+      "WeaponName": "Twin heavy bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3_",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-linked"
+    },
+    {
+      "id": "4e9-f5e5-9f32-520e",
+      "WeaponName": "Atrapos lascutter",
+      "Range": "24\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "1105-7920-ddf8-4cae",
+      "WeaponName": "Atrapos lascutter",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "458a-6dc-7607-2669",
+      "WeaponName": "Graviton singularity cannon",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Blast"
+    },
+    {
+      "id": "6b03-8129-9435-adbb",
+      "WeaponName": "Graviton singularity cannon",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Blast, Devastating Wounds, Hazardous"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "da4d-3a50-d9a6-bb1d",
+      "WeaponName": "Cerastus shock lance",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "a0a8-3a3-bfce-777a",
+      "WeaponName": "Cerastus shock lance",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "7ab9-95e4-95f3-6736",
+      "WeaponName": "Tempest warblade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "e651-a733-cc20-c647",
+      "WeaponName": "Tempest warblade",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "1787-669c-9ba8-465f",
+      "WeaponName": "Reaper chainfist",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "59dc-5722-7844-79a6",
+      "WeaponName": "Reaper chainfist",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "b582-f54d-7ba2-17b5",
+      "WeaponName": "Atrapos lascutter",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "2f08-1615-1fe4-5531",
+      "WeaponName": "Atrapos lascutter",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "4f49-11ac-ce05-5a31",
+  "UnitName": "Bunker",
+  "Movement": "-",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f194-faba-c927-ba75",
+      "AbilityName": "Inviolable Bastion",
+      "AbilityText": "Each time an attack is allocated to this Fortification, subtract 1 from the Damage characteristic of that attack."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

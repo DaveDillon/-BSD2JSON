@@ -1,0 +1,49 @@
+{
+  "id": "dd27-74f3-9b5b-7908",
+  "UnitName": "Sir Hekhtur",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7f8-ef35-95d5-6fc7",
+      "AbilityName": "Chainbreaker",
+      "AbilityText": "Each time this model makes an attack, an unmodified successful Hit roll of 5+ scores a Critical Hit."
+    },
+    {
+      "Id": "b927-9dc2-5b23-19dd",
+      "AbilityName": "Legendary Freeblade",
+      "AbilityText": "Once per turn, you can target this model with a Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem in the same phase."
+    },
+    {
+      "Id": "15a9-48ef-5f10-106",
+      "AbilityName": "Using Sir Hekhtur",
+      "AbilityText": "When your Canis Rex model is destroyed, Sir Hekhtur is treated as a model disembarking from a destroyed TRANSPORT – set him up within 3\" of your Canis Rex model before it is removed. Sir Hekhtur then uses the profile, wargear, abilities and keywords shown on this side of the card, but cannot be selected as the target of any of your Stratagems other than Core Stratagems. Your Canis Rex unit is not considered to be destroyed until Sir Hekhtur is also destroyed."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "74ec-e144-10c4-7ece",
+      "WeaponName": "Freedom's Hand",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "9"
+    },
+    {
+      "id": "51c7-ad78-6365-91ee",
+      "WeaponName": "Freedom's Hand",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

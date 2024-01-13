@@ -1,0 +1,44 @@
+{
+  "id": "475b-bb84-f2c7-111d",
+  "UnitName": "Wraithblades",
+  "Movement": "6\"",
+  "Toughness": "7",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2e7d-c58b-febe-4e0e",
+      "AbilityName": "Forceshield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "42be-9bc0-e8fa-756a",
+      "AbilityName": "Malevolent Souls",
+      "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "da7c-3c9b-2817-b68c",
+      "WeaponName": "Ghostswords",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "f598-e016-e2db-e725",
+      "WeaponName": "Ghostaxe and Forceshield",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

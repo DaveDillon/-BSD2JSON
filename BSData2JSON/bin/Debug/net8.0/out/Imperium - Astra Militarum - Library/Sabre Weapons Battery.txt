@@ -1,0 +1,30 @@
+{
+  "id": "ebd4-1b78-a46-6eb4",
+  "UnitName": "Sabre Weapons Battery",
+  "Movement": "-",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "7",
+  "ObjectControl": "7",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1e8a-8854-9520-1956",
+      "AbilityName": "Sentinel Directives",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+    },
+    {
+      "Id": "a3bb-3f9-8b2d-d641",
+      "AbilityName": "Fortification",
+      "AbilityText": "While an enemy unit is only within Engagement Range of one or more Fortifications from your army:\r\n■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\r\n■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so."
+    },
+    {
+      "Id": "a795-478d-7553-4dcc",
+      "AbilityName": "Defence Searchlight",
+      "AbilityText": "At the start of your Shooting phase, you can select one enemy unit within 24\" and visible to the bearer. Until the end of the phase, that unit cannot have the Benefit of Cover."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

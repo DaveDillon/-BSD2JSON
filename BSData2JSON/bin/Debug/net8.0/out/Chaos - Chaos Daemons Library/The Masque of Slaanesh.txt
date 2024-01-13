@@ -1,0 +1,35 @@
+{
+  "id": "7750-481d-9ad-7b3c",
+  "UnitName": "The Masque of Slaanesh",
+  "Movement": "9\"",
+  "Toughness": "3",
+  "Save": "7+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "8b1b-ebfa-1032-f615",
+      "AbilityName": "The Eternal Dance",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within 6\" of this model. Until the end of the phase:\r\n■ Each time a friendly SLAANESH LEGIONES DAEMONICA model makes a melee attack that targets that enemy unit, add 1 to the Wound roll.\r\n■ Each time a model in that enemy unit makes a melee attack, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "b12d-9aee-1920-6565",
+      "AbilityName": "Dazzling Acrobatics",
+      "AbilityText": "This model is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "667c-a741-40a4-5ce8",
+      "WeaponName": "Serrated claws",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

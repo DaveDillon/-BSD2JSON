@@ -1,0 +1,70 @@
+{
+  "id": "dd52-7f43-ecb1-252e",
+  "UnitName": "Drone Sentry Turret",
+  "Movement": "-",
+  "Toughness": "8",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c353-23d0-a951-e186",
+      "AbilityName": "Reinforced Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+    },
+    {
+      "Id": "725-b02-c08c-f668",
+      "AbilityName": "Sentinel Protocols",
+      "AbilityText": "Each time you select this FORTIFICATION for the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "119d-1bb9-fd2b-fe76",
+      "WeaponName": "Twin plasma rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "3518-3c41-cb18-5a49",
+      "WeaponName": "Twin burst cannon",
+      "Range": "18\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "1bf-bc0b-bcd8-cb66",
+      "WeaponName": "Twin fusion blaster",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Twin-linked"
+    },
+    {
+      "id": "9240-1cce-5be7-570a",
+      "WeaponName": "Twin missile pod",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

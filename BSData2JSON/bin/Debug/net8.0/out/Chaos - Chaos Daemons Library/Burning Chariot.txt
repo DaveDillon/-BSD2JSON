@@ -1,0 +1,39 @@
+{
+  "id": "d6d1-fb0d-2bdd-7aaa",
+  "UnitName": "Burning Chariot",
+  "Movement": "12\"",
+  "Toughness": "8",
+  "Save": "7+",
+  "Wounds": "9",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "98b9-3159-d905-a9d1",
+      "AbilityName": "Eldritch Flames (Psychic)",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "17e4-97cc-21a5-445d",
+      "WeaponName": "Flamer mouths",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c688-95b-d5a7-a69a",
+      "WeaponName": "Screamer bites",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

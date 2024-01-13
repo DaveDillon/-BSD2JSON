@@ -1,0 +1,68 @@
+{
+  "id": "d30a-a7c5-389a-e78",
+  "UnitName": "Sanguinary Guard",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5a4f-9341-88c9-9038",
+      "AbilityName": "Angelic Visage",
+      "AbilityText": "Each time a melee attack targets this unit, subtract 1 from the Hit roll"
+    },
+    {
+      "Id": "48cf-9858-89c4-f598",
+      "AbilityName": "Heirs of Azkaellon",
+      "AbilityText": "While a Warlord model is leading this unit, each time a melee attack targets this unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "62ff-e5e0-9783-7024",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Captain model from your army with the Leader ability can be attached to Assault Intercessors with Jump Packs or an Assault Squad with Jump Packs, it can be attached to this unit instead."
+    },
+    {
+      "Id": "a344-31d1-3cec-1aa4",
+      "AbilityName": "Sanguinary Banner",
+      "AbilityText": "Add 1 to the Objective Control characteristic of models in the bearer’s unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "13c6-39cb-bc57-3ee0",
+      "WeaponName": "Angelus Boltgun",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "650b-407c-dbe0-a66f",
+      "WeaponName": "Angelus Boltgun",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5315-e49c-146b-c157",
+      "WeaponName": "Encarmine Blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

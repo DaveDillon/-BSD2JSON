@@ -1,0 +1,51 @@
+{
+  "id": "c5b5-db18-df79-7927",
+  "UnitName": "Plague Drones",
+  "Movement": "10\"",
+  "Toughness": "8",
+  "Save": "6+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "da5a-dc69-cf73-3b7",
+      "AbilityName": "Death’s Heads",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly NURGLE LEGIONES DAEMONICA unit makes an attack that targets that unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5d47-e721-3447-5432",
+      "WeaponName": "Death's heads",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Lethal Hits"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "6a59-74df-df85-cdf9",
+      "WeaponName": "Foul mouthparts",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "43c4-68da-a715-727b",
+      "WeaponName": "Plaguesword",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

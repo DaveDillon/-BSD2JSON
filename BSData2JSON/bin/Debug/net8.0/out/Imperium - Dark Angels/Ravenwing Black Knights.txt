@@ -1,0 +1,153 @@
+{
+  "id": "1d42-6a24-1842-b424",
+  "UnitName": "Ravenwing Black Knights",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "9aa9-7a1a-e930-a53b",
+      "AbilityName": "Knights of Caliban",
+      "AbilityText": "Each time this unit is selected to fight, if it made a Charge move this turn, until the end of the phase, melee weapons equipped by models in this unit have the [ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities."
+    },
+    {
+      "Id": "d659-103f-7990-1d94",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Character unit from your army with the Leader ability can be attached to an Outrider Squad, it can be attached to this unit instead."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b783-3f35-aa03-4da4",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "e485-a67b-e15a-d4f0",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "d6d6-4b62-66a9-a657",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "5b8e-4321-9c5c-32db",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "f294-f08f-abd5-c4f4",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "bd60-6355-a5af-e3f0",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "426c-ca25-a4e6-5873",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "38e2-f1-41b1-7107",
+      "WeaponName": "Astartes grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "973b-3f94-971-5c56",
+      "WeaponName": "Astartes grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c7d-99ea-da7-2f6b",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "43b2-e79d-c236-67ca",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "41f0-a240-7532-30a9",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

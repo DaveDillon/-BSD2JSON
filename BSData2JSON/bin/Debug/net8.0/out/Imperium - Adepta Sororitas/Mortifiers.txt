@@ -1,0 +1,107 @@
+{
+  "id": "cc6-3f2a-8a-ca72",
+  "UnitName": "Mortifiers",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has an invulnerable save of 6+",
+  "Abilities": [
+    {
+      "Id": "e650-bbf0-a74f-44c0",
+      "AbilityName": "Anchorite Sarcophagus",
+      "AbilityText": "One Mortifier in this unit has a Save characteristic of 3+."
+    },
+    {
+      "Id": "b337-3b2d-d22b-9ca9",
+      "AbilityName": "Anguish of the Unredeemed",
+      "AbilityText": "Each time this unit makes a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the\r\n[SUSTAINED HITS 1] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a03b-6e58-a0f2-a574",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "fb7-b143-3cca-fd51",
+      "WeaponName": "Mortimer Heavy Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "n/a",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-Linked"
+    },
+    {
+      "id": "cbfc-45bd-e979-aefb",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "bfc9-fe69-8219-a216",
+      "WeaponName": "Mortimer Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "n/a",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5ece-e35d-dd7f-e5a1",
+      "WeaponName": "Twin Penitent Buzz-Blades",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "2a1f-78e0-3712-bf10",
+      "WeaponName": "Twin Penitent Flails",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "ed82-9e2d-74e0-61d7",
+      "WeaponName": "Penitent Buzz-Blade and Penitent Flail",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "b5b4-179c-f929-4eff",
+      "WeaponName": "Penitent Buzz-Blade and Penitent Flail",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

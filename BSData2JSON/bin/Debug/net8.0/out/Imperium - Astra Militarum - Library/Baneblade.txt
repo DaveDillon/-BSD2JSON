@@ -1,0 +1,32 @@
+{
+  "id": "b3af-24d9-8ca6-369",
+  "UnitName": "Baneblade",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "428-ed57-e316-6110",
+      "AbilityName": "Rolling Fortress",
+      "AbilityText": "Each time a ranged attack is allocated to an Astra Militarum model from your army, if that model is not fully visible to every model in the attacking unit because of this Baneblade model, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b239-8008-22fc-bfc2",
+      "WeaponName": "Baneblade Cannon",
+      "Range": "72\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": []
+}

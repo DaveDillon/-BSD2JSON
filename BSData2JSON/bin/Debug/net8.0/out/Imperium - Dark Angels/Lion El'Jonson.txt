@@ -1,0 +1,77 @@
+{
+  "id": "42a0-db93-ff81-d939",
+  "UnitName": "Lion El'Jonson",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d7-26f-1f5c-5d7b",
+      "AbilityName": "Primarch of the First Legion",
+      "AbilityText": "In your Command phase, select one Primarch of the First Legion abilities (see left). Until the start of your next Command phase, this model has that ability."
+    },
+    {
+      "Id": "525f-c5d8-d135-e7a1",
+      "AbilityName": "The Emperor's Shield",
+      "AbilityText": "Each time an attack targets this model, subtract 1 from the Wound roll. In addition, each time a melee attack is allocated to this model, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks."
+    },
+    {
+      "Id": "330c-47ba-cddb-1910",
+      "AbilityName": "Dark Angels Bodyguard",
+      "AbilityText": "While this model is within 3\" of one or more friendly Adeptus Astartes Infantry units, this model has the Lone Operative ability."
+    },
+    {
+      "Id": "e25a-6293-2852-6904",
+      "AbilityName": "Invulnerable save",
+      "AbilityText": "3+"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f6e1-fa37-f674-3966",
+      "WeaponName": "Arma Luminis",
+      "Range": "12\"",
+      "Attacks": "4",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Pistol"
+    },
+    {
+      "id": "708a-4618-fdfd-8775",
+      "WeaponName": "Arma Luminis",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9008-3db1-12b7-6d88",
+      "WeaponName": "Fealty",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "4"
+    },
+    {
+      "id": "246b-3626-72d1-6262",
+      "WeaponName": "Fealty",
+      "Attacks": "16",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

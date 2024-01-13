@@ -1,0 +1,53 @@
+{
+  "id": "2f85-11ec-263f-b1dc",
+  "UnitName": "Marshal",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7985-3a9a-2b9e-6c17",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Primaris Crusader Squad\r\n■ Primaris Sword Brethren\r\n■ Sternguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3844-3c6d-1d29-d804",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "78bf-495d-5438-d37e",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "646c-a341-f427-32bf",
+      "WeaponName": "Master-crafted Power Weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

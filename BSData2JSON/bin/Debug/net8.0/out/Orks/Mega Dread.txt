@@ -1,0 +1,76 @@
+{
+  "id": "90c4-e2e5-1688-669",
+  "UnitName": "Mega Dread",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "688-8033-f928-61c8",
+      "AbilityName": "Mega Carnage",
+      "AbilityText": "Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if this model made a Charge move this turn: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers 3 mortal wounds."
+    },
+    {
+      "Id": "5108-c16c-3fdf-721f",
+      "AbilityName": "Dead Rippy",
+      "AbilityText": "If this model is equipped with 2 dread killsaws, those weapons have the [TWIN-LINKED] ability. If this model is equipped with 2 dread rippa klaws, those weapons have the [TWIN-LINKED] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "edd1-533-fb4c-7a5e",
+      "WeaponName": "Boombits",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Torrent"
+    },
+    {
+      "id": "ee4e-10d4-2607-4cc6",
+      "WeaponName": "Killkannon",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5527-24e-ca6c-6aba",
+      "WeaponName": "Stompy feet",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ad8c-9694-bd6c-2a27",
+      "WeaponName": "Dread killsaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "4"
+    },
+    {
+      "id": "a9d2-9bd0-44b7-1d04",
+      "WeaponName": "Dread rippa klaw",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

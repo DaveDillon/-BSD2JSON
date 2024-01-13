@@ -1,0 +1,78 @@
+{
+  "id": "ed82-6dbf-5c8e-ce74",
+  "UnitName": "Great Knarloc",
+  "Movement": "9\"",
+  "Toughness": "8",
+  "Save": "4+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7f50-eb0b-64e6-928f",
+      "AbilityName": "Loping Stride",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+    },
+    {
+      "Id": "b14f-7290-da41-f865",
+      "AbilityName": "Baggage Harness (Aura)",
+      "AbilityText": "While a friendly KROOT unit is within 3\" of the bearer, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "700f-556e-ba35-5424",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Hooked"
+    },
+    {
+      "id": "1148-4286-305f-66f7",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "97a5-d645-763d-f137",
+      "WeaponName": "Twin Kroot gun",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5d63-1f21-637b-56db",
+      "WeaponName": "Great Knarloc beak and talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "6cd-51fc-5ee0-9346",
+      "WeaponName": "Kroot bolt thrower and Kroot rifle",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

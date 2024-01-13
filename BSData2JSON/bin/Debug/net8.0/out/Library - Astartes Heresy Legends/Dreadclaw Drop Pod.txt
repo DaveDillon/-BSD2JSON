@@ -1,0 +1,30 @@
+{
+  "id": "a79d-1828-aa82-93a6",
+  "UnitName": "Dreadclaw Drop Pod",
+  "Movement": "12\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "9",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ed9f-5e9a-29d7-6a5",
+      "AbilityName": "Dreadclaw Assault",
+      "AbilityText": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "1af2-e131-8a62-868d",
+      "WeaponName": "Blade struts",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f6ad-58ab-74f5-80ea",
+  "UnitName": "The Visarch",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ad26-a7ff-16a4-6aac",
+      "AbilityName": "Invulnerable Save (The Visarch)",
+      "AbilityText": "This unit has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "18b8-61e7-e1af-fca9",
+      "AbilityName": "Way of the Blade",
+      "AbilityText": "While this model is leading a unit, that unit has the Fights First ability"
+    },
+    {
+      "Id": "a75b-c4fb-aef5-6f32",
+      "AbilityName": "Champion of Ynnead",
+      "AbilityText": "Each time this model is selected to fight, select one of the abilities below for Asu-var, the Sword of Silent Screams, to gain until the end of the phase:\r\n■ [SUSTAINED HITS 2]\r\n■ [DEVASTATING WOUNDS]\r\n■ [LETHAL HITS]"
+    },
+    {
+      "Id": "b762-ef83-2f56-ded",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Corsair Voidreavers\r\n■ Corsair Voidscarred\r\n■ Guardian Defenders\r\n■ Kabalite Warriors (see Drukhari)\r\n■ Storm Guardians\r\n■ Troupe\r\n■ Wyches (see Drukhari)\r\nYou can attach this unit to one of the above units, even if \r\nYvraine has already been attached to it. If you do, and that \r\nBodyguard unit is destroyed, the Leader units attached to it \r\nbecome separate units, with their original Starting Strengths."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "32e0-5d13-656a-219e",
+      "WeaponName": "Asu-var, The Sword of Silent Screams",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-4",
+      "Damage": "2"
+    }
+  ]
+}

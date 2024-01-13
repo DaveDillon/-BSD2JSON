@@ -1,0 +1,48 @@
+{
+  "id": "1256-8491-2de0-6f0",
+  "UnitName": "Tank Commander",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "13",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c082-8d5a-82a8-68dc",
+      "AbilityName": "Death Befitting An Office",
+      "AbilityText": "When this model is destroyed , roll one D6: on a 2+, do not remove it from play – it can, after the attacking model’s unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining. This model is then removed from play."
+    },
+    {
+      "Id": "4ff0-53df-403a-f934",
+      "AbilityName": "Vox-net",
+      "AbilityText": "Each time this model issues an Order, it can issue it to an eligible unit up to 12\" away"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "be94-4193-91f9-e4f3",
+      "WeaponName": "Militarum Plasma Cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "6fac-fb10-3935-a472",
+      "WeaponName": "Militarum Plasma Cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Blast, Hazardous"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "de05-aa6e-fc97-c400",
+  "UnitName": "Terminator",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Model in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "cabc-c518-5262-d65e",
+      "AbilityName": "Bloody Fury",
+      "AbilityText": "Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2db4-7c20-3e1d-77ff",
+      "WeaponName": "Reaper autocannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

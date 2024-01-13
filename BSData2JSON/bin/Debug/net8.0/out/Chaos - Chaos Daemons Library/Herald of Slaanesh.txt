@@ -1,0 +1,49 @@
+{
+  "id": "3454-872d-df3-914c",
+  "UnitName": "Herald of Slaanesh",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "7+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "63b6-6d43-2592-7306",
+      "AbilityName": "Lethal Caress",
+      "AbilityText": "While this model is leading a unit, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
+    },
+    {
+      "Id": "1fc1-36f5-8b8c-20d2",
+      "AbilityName": "Symphony of Pain (Psychic)",
+      "AbilityText": "At the end of your Movement phase, you can select one enemy unit that is Battle-shocked and within 12\" of this model. Until the end of the turn, each time a SLAANESH LEGIONES DAEMONICA model from your army makes an attack that targets that enemy unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    },
+    {
+      "Id": "cb79-db55-e77-b13f",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ SEEKERS"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "39cb-22ec-74c1-b9f",
+      "WeaponName": "Lashing tongue",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8c7a-28a-b850-83fa",
+      "WeaponName": "Ravaging claws",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

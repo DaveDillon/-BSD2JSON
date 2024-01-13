@@ -1,0 +1,35 @@
+{
+  "id": "f826-1ad1-a542-2058",
+  "UnitName": "Archaeopter Fusilave",
+  "Movement": "20\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4da0-e504-738b-5c6b",
+      "AbilityName": "Damaged: 1-3 wounds remaining",
+      "AbilityText": "While this mdel has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "42dc-6183-5dd1-29cf",
+      "AbilityName": "Bomb Rack",
+      "AbilityText": "Each time this model finishes a Normal move, you can select one enemy unit it moved across and roll six D6: for each 4+, that unit suffers 1 mortal wound."
+    },
+    {
+      "Id": "d2a1-8e6f-a969-19fb",
+      "AbilityName": "Chaff Launcher",
+      "AbilityText": "The bearer has the Smoke keyword."
+    },
+    {
+      "Id": "cf82-0b93-d441-d3cd",
+      "AbilityName": "Command Uplink",
+      "AbilityText": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

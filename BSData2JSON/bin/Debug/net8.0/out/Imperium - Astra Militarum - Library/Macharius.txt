@@ -1,0 +1,32 @@
+{
+  "id": "412a-a6de-6536-850",
+  "UnitName": "Macharius",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "20",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c14f-4e5e-3adc-9fa",
+      "AbilityName": "Battlefield Control",
+      "AbilityText": "Each time this model makes a ranged attack, if it is within range of an objective marker you control, re-roll a Hit roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "325-9920-499e-fe7e",
+      "WeaponName": "Macharius twin battlecannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

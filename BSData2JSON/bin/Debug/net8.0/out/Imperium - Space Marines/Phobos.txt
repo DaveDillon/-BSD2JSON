@@ -17,7 +17,7 @@
     {
       "Id": "707b-cbab-54ac-96eb",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Eliminator Squad\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n■ Scout Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Eliminator Squad\r\n■ Incursor Squad\r\n■ Infiltrator Squad\r\n■ Reiver Squad\r\n■ Scout Squad"
     },
     {
       "Id": "bdf4-e126-138d-d0e5",
@@ -57,7 +57,7 @@
     {
       "Id": "85a4-4177-8c1b-e355",
       "AbilityName": "Grapnel Launchers",
-      "AbilityText": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the\nbearer can be moved during that move"
+      "AbilityText": "Each time the bearer’s unit makes a Normal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the\r\nbearer can be moved during that move"
     },
     {
       "Id": "d035-b128-7039-4b37",
@@ -72,7 +72,7 @@
     {
       "Id": "d2ad-d0a2-4079-f902",
       "AbilityName": "Reposition Under Covering Fire",
-      "AbilityText": "In your Shooting phase, after this unit has shot, if it contains an Eliminator Sergeant equipped with an instigator bolt carbine, this unit can make a\nNormal move. If it does so, until the end of the turn, this unit is not eligible to declare a charge."
+      "AbilityText": "In your Shooting phase, after this unit has shot, if it contains an Eliminator Sergeant equipped with an instigator bolt carbine, this unit can make a\r\nNormal move. If it does so, until the end of the turn, this unit is not eligible to declare a charge."
     },
     {
       "Id": "bda1-520a-6fd7-c422",
@@ -87,7 +87,7 @@
     {
       "Id": "42b2-7d1e-f1c-abdd",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n\n■ Reiver Squad\n\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Reiver Squad\r\n\r\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "eec8-a500-c73f-95d7",
@@ -97,17 +97,17 @@
     {
       "Id": "6071-4e16-eb0f-63a6",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Incursor Squad\r\n■ Infiltrator Squad\r\n■ Reiver Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "3f4a-63fb-254-9364",
       "AbilityName": "Shrouding [Psychic]",
-      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\nmodel is within 12\"."
+      "AbilityText": "While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking\r\nmodel is within 12\"."
     },
     {
       "Id": "2b01-240c-52a6-88e7",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Eliminator Squad\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Eliminator Squad\r\n■ Incursor Squad\r\n■ Infiltrator Squad\r\n■ Reiver Squad"
     },
     {
       "Id": "2288-75ee-5b84-2775",

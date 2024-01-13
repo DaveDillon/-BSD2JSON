@@ -1,0 +1,49 @@
+{
+  "id": "9f-8a9b-b35c-19a9",
+  "UnitName": "Drazhar",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "fde8-a97e-44d9-3edf",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Incubi"
+    },
+    {
+      "Id": "61a8-eb62-856-ad73",
+      "AbilityName": "Master of Blades",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
+    },
+    {
+      "Id": "1ec9-e80b-2220-1d38",
+      "AbilityName": "Vicious Execution",
+      "AbilityText": "Once per battle, when this model’s unit is selected to fight, it can use this ability. If it does, until the end of the phase, melee weapons equipped by this model have the [PRECISION] ability, and each time an enemy Character model is destroyed by this model, you gain D3 Pain tokens. If that destroyed Character model was the enemy Warlord, you gain 3 Pain tokens instead."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "278c-4236-65da-5573",
+      "WeaponName": "The Executioner's demiklaives",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "ea00-e5fc-5995-1a82",
+      "WeaponName": "The Executioner's demiklaives",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "f6cb-6287-1d9d-ed48",
+  "UnitName": "Tesseract Vault",
+  "Movement": "8\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "fb71-ce0a-b73c-cd9d",
+      "AbilityName": "Damaged: 1-8 wounds remaining",
+      "AbilityText": "While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "e526-90ef-5531-526f",
+      "AbilityName": "Powers of the C’tan",
+      "AbilityText": "In your Shooting phase, when this model is selected to shoot, first select up to 2 different C’tan Powers weapons. Until the end of the phase, this model is equipped with those weapons in addition to its other weapons (this model cannot make attacks with any other C’tan Powers weapon you did not select in this way this phase)."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8f-4479-602e-6ea9",
+      "WeaponName": "Tesla sphere",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4403-8e68-73cb-d247",
+      "WeaponName": "Armoured bulk",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

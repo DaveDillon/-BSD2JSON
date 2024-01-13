@@ -1,0 +1,40 @@
+{
+  "id": "3311-d741-5a07-847d",
+  "UnitName": "Varguard Obyron",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6c1-e306-7422-f026",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMMORTALS\r\n■ LYCHGUARD\r\n■ NECRON WARRIORS\r\nYou can attach this model to one of the above units even if NEMESOR ZAHNDREKH has already been attached to it. If it is, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "d6ff-586b-5829-295b",
+      "AbilityName": "Ghostwalk Mantle",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
+    },
+    {
+      "Id": "bcff-d655-2af7-c51a",
+      "AbilityName": "The Vargard’s Duty",
+      "AbilityText": "While this model is in the same unit as NEMESOR ZAHNDREKH, CHARACTER models in that unit have the Feel No Pain 4+ ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "21e4-9b9-8775-a564",
+      "WeaponName": "Warscythe",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "4af6-f666-3fa0-e3d",
+  "UnitName": "Tomb Blades",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6659-892-f296-90ef",
+      "AbilityName": "Evasion Engrams",
+      "AbilityText": "In your Shooting phase, after this unit has shot, it can make a Normal Move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+    },
+    {
+      "Id": "3816-f555-728b-9a3b",
+      "AbilityName": "Shadowloom",
+      "AbilityText": "The bearer has the Stealth ability."
+    },
+    {
+      "Id": "32c-463b-ec70-ebc2",
+      "AbilityName": "Nebuloscope",
+      "AbilityText": "Ranged weapons equipped by the bearer have the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "d6d-bb49-bf4c-d1d",
+      "AbilityName": "Shieldvanes",
+      "AbilityText": "The bearer has a Save characteristic of 3+ and a Move characteristic of 8\"."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bf8a-cce3-4fb2-4356",
+      "WeaponName": "Twin gauss blaster",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Lethal Hits, Twin-linked"
+    },
+    {
+      "id": "2791-9fe6-3479-547",
+      "WeaponName": "Particle beamer",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "551a-9c49-858c-f83d",
+      "WeaponName": "Twin tesla carbine",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Sustained Hits 2, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "68dd-cc96-b5c0-8010",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

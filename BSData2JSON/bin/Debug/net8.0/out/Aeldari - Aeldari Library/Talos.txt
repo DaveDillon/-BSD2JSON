@@ -1,0 +1,122 @@
+{
+  "id": "d11c-e864-a85-9c9e",
+  "UnitName": "Talos",
+  "Movement": "7\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "7",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 6+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "8f3f-ac82-a1cc-c30e",
+      "AbilityName": "Pain Engine",
+      "AbilityText": "If this unit destroys an enemy unit, until the end of the battle, it is Empowered."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ffc0-37b8-452a-d83d",
+      "WeaponName": "Twin Liquifier Gun",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent, Twin-Linked"
+    },
+    {
+      "id": "fd40-da5a-79dd-cb5d",
+      "WeaponName": "Twin Splinter Cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Infantry 3+, Sustained hits 1, Twin-Linked"
+    },
+    {
+      "id": "3024-e635-ec49-a675",
+      "WeaponName": "Twin Haywire Blasters",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds, Twin-Linked"
+    },
+    {
+      "id": "3dd7-ffd0-a86a-fe2d",
+      "WeaponName": "Twin Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3, Twin-Linked"
+    },
+    {
+      "id": "d9a5-dd35-4192-d5b",
+      "WeaponName": "Stinger Pod",
+      "Range": "24\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d94a-9048-69f0-fd75",
+      "WeaponName": "Chain-flails",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ad2d-d40c-6967-edcd",
+      "WeaponName": "Talos Gauntlet",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "7798-d69-e8d0-9e55",
+      "WeaponName": "Macro-Scalpel",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "fa89-f7e1-ea1e-5233",
+      "WeaponName": "Macro-Scalpel",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "675a-591f-9994-3e6d",
+      "WeaponName": "Talos Ichor Injector",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

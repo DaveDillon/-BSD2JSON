@@ -1,0 +1,63 @@
+{
+  "id": "14c6-7790-6e57-92b9",
+  "UnitName": "Infernal Master",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "1ddc-603c-d82f-9ff1",
+      "AbilityName": "Malefic Maelstrom (Psychic)",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "dd43-4cf0-2cac-a361",
+      "AbilityName": "Glimpse of Eternity (Psychic)",
+      "AbilityText": "Once per turn, you can change the result of one Hit roll, one Wound roll, one Damage roll or one saving throw made for this model to an unmodified 6."
+    },
+    {
+      "Id": "ae0d-0e92-6f67-700b",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- RUBRIC MARINES"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8aac-375c-8981-3bc5",
+      "WeaponName": "Screamer Invocation",
+      "Range": "18\"",
+      "Attacks": "2D3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Psychic, Torrent"
+    },
+    {
+      "id": "26e3-1e10-8c8a-2d51",
+      "WeaponName": "Screamer Invocation",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Hazardous, Psychic, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3665-b88e-7593-b806",
+      "WeaponName": "Force weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

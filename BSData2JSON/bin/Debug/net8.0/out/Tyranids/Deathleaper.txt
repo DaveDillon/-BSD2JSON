@@ -1,0 +1,25 @@
+{
+  "id": "6467-972f-c95c-d414",
+  "UnitName": "Deathleaper",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5bd7-b7c-42a4-3055",
+      "AbilityName": "Fear of the Unseen (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1. In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test."
+    },
+    {
+      "Id": "e3fa-da84-9809-3099",
+      "AbilityName": "Hunter Organism",
+      "AbilityText": "This model cannot be your Warlord"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

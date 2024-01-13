@@ -1,0 +1,44 @@
+{
+  "id": "4bb4-1a6e-13bb-e02f",
+  "UnitName": "Mozrog Skragbad",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "9",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2c6f-ba8c-f678-9517",
+      "AbilityName": "Da Bigger Dey iz…",
+      "AbilityText": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes an attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+    },
+    {
+      "Id": "21eb-cf3f-382-aae9",
+      "AbilityName": "Hungry Chompa",
+      "AbilityText": "Each time this model declares a charge, until the end of the turn, each time this model makes an attack, an unmodified successful Wound roll of 5+ scores a Critical Wound."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "7b6b-3f19-3fb1-2bb",
+      "WeaponName": "Big Chompa’s jaws",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "4"
+    },
+    {
+      "id": "3793-4b1d-ea52-bf53",
+      "WeaponName": "Gutrippa",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    }
+  ]
+}

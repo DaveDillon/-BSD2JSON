@@ -1,0 +1,30 @@
+{
+  "id": "7f64-b4fb-d85c-7f31",
+  "UnitName": "Dakkajet",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "276f-2632-2303-3c9a",
+      "AbilityName": "Dakkastorm",
+      "AbilityText": "Each time this model makes a ranged attack, every successful Hit roll scores a Critical Hit."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "be22-fbc-5ac-f983",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

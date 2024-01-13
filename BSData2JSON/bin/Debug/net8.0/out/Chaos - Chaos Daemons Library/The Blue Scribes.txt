@@ -1,0 +1,35 @@
+{
+  "id": "f4bc-2f2e-34f8-3029",
+  "UnitName": "The Blue Scribes",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "6+",
+  "Wounds": "6",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "b2a9-fcc3-5662-e61d",
+      "AbilityName": "P’tarix’s Sorcerous Syphon (Aura)",
+      "AbilityText": "While an enemy unit is within 12\" of this model, each time a model in that unit makes a Psychic Attack, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "ea5-d6eb-c1-840e",
+      "AbilityName": "Xirat’p’s Sorcerous Barrages (Psychic)",
+      "AbilityText": "At the end of your Movement phase, roll one D6 for each enemy unit within 6\" of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "873f-7b5b-313e-50cf",
+      "WeaponName": "Sharp quills",
+      "Attacks": "4",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

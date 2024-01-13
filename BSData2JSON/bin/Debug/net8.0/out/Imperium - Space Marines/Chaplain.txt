@@ -12,7 +12,7 @@
     {
       "Id": "26af-8c8a-8691-a425",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "e92-f61-1c8f-4af6",
@@ -22,17 +22,17 @@
     {
       "Id": "1f58-f4ff-f878-127d",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Terminator Assault Squad\n■ Terminator Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Terminator Assault Squad\r\n■ Terminator Squad"
     },
     {
       "Id": "b1c1-d1fc-c3b8-e455",
       "AbilityName": "Catechism of Fire",
-      "AbilityText": "Each time this model’s unit is selected to shoot, you can select one enemy unit within 12\" of and visible to this model. Until the end of the phase, ranged\nweapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS] ability when targeting that enemy unit."
+      "AbilityText": "Each time this model’s unit is selected to shoot, you can select one enemy unit within 12\" of and visible to this model. Until the end of the phase, ranged\r\nweapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS] ability when targeting that enemy unit."
     },
     {
       "Id": "e5b9-b9-e6bf-b25",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Bike Squad\r\n■ Outrider Squad"
     },
     {
       "Id": "e4df-4a6e-1e6-3eb3",
@@ -42,7 +42,7 @@
     {
       "Id": "62b0-76a-eacb-ee30",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessors with Jump Packs\n■ Vanguard Veteran Squad with Jump Packs"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessors with Jump Packs\r\n■ Vanguard Veteran Squad with Jump Packs"
     }
   ],
   "RangedSkills": [

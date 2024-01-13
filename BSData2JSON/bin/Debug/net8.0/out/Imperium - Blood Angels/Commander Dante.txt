@@ -1,0 +1,52 @@
+{
+  "id": "742d-f2f8-2cec-67b3",
+  "UnitName": "Commander Dante",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "edcb-c05a-9bcb-12c7",
+      "AbilityName": "Death Mask of Sanguinius",
+      "AbilityText": "At the start of the Fight phase, each enemy unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test when they do"
+    },
+    {
+      "Id": "56e5-d5ec-38c6-e113",
+      "AbilityName": "Lord Regent of the Imperium Nihilus",
+      "AbilityText": "While this model is leading a unit, add 1 to Charge rolls made for that unit and each time a model in that unit makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "b139-df4f-7162-cce8",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad with Jump Packs\r\n■ Sanguinary Guard\r\n■ Vanguard Veteran Squad with Jump Packs\r\n■ Assault Intercessors with Jump Packs"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8a9c-58f8-e882-c7d",
+      "WeaponName": "Perdition",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Pistol, Sustained Hits D3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "49e5-830e-9a2d-1b9a",
+      "WeaponName": "The Axe Mortalis",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

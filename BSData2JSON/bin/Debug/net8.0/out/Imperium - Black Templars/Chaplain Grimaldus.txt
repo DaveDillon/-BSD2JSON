@@ -1,0 +1,77 @@
+{
+  "id": "a4ce-23d9-7110-8609",
+  "UnitName": "Chaplain Grimaldus",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a5bc-5224-a2e5-6173",
+      "AbilityName": "Litanies of the Devout",
+      "AbilityText": "While Chaplain Grimaldus is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "2e00-2ac9-9892-856",
+      "AbilityName": "Temple Relics",
+      "AbilityText": "In your Command phase, if this unit contains one or more Cenobyte Servitor models, select one Relics of the Emperor Ascendant ability (see left). Until the start of your next Command phase, this unit’s Chaplain Grimaldus model has that ability."
+    },
+    {
+      "Id": "daaa-6a55-7d03-a728",
+      "AbilityName": "Relics of the Emperor Asdendant",
+      "AbilityText": "Banner of Fallen Crusaders: This unit is eligible to declare a charge in a turn in which it Advanced or Fell Back.\r\n\r\n\r\nRemnant of the Fallen Temple: Models in this unit have the Feel No Pain 5+ ability.\r\n\r\n\r\nSceptre of Anointing: Improve the Armour Penetration characteristic of melee weapons equipped by models in this unit by 1."
+    },
+    {
+      "Id": "77d4-dfb9-b00-6384",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Primaris Crusader Squad\r\n■ Primaris Sword Brethren"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "84d8-bf12-1aa8-a21c",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "5a7f-a6fe-4efc-5a7d",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "283e-2aaa-390b-d7a8",
+      "WeaponName": "Artificer Crozius",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "1d38-e7de-aae0-1f0e",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

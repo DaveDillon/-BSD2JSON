@@ -1,0 +1,47 @@
+{
+  "id": "1880-69f1-aa1e-f33c",
+  "UnitName": "Guardian Defenders",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b52d-d46c-dd8c-a825",
+      "AbilityName": "Defenders of Fate",
+      "AbilityText": "At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
+    },
+    {
+      "Id": "20e4-a0c1-1706-6030",
+      "AbilityName": "Guardian Defenders",
+      "AbilityText": "When the last Guardian Defender model in this unit is destroyed, any remaining Heavy Weapon Platform models in this unit are also destroyed."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2e20-80c3-da0b-b8d8",
+      "WeaponName": "Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f1ef-88ac-e523-57ab",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

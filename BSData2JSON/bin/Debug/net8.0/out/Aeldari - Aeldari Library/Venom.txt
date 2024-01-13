@@ -1,0 +1,64 @@
+{
+  "id": "6581-bff-6e82-1a8b",
+  "UnitName": "Venom",
+  "Movement": "14\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 6+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "43b6-5010-cc0e-70f9",
+      "AbilityName": "Athletic Aerialists",
+      "AbilityText": "At the end of the Fight phase, if there are no models currently embarked within this Transport, you can select one friendly Drukhari Infantry unit that has 6 or fewer models that is wholly within 6\" of this Transport (you cannot select a Grotesques unit or a unit that can Fly). Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "db42-4bfc-561c-9ada",
+      "WeaponName": "Splinter Cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Infantry 3+, Sustained hits 1"
+    },
+    {
+      "id": "b4c8-23bb-724a-e97a",
+      "WeaponName": "Twin Splinter Rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Rapid Fire 1, Twin Linked"
+    },
+    {
+      "id": "c099-b674-6dd5-43d8",
+      "WeaponName": "Splinter Cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Infantry 3+, Sustained hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e591-aeec-d8f0-eedb",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

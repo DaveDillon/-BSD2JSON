@@ -1,0 +1,43 @@
+{
+  "id": "587d-d85b-8af-f640",
+  "UnitName": "Lokhust Heavy Destroyers",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "627-120b-3ae8-df3b",
+      "AbilityName": "Optimised for Slaughter",
+      "AbilityText": "Each time a model in this unit makes an attack with an enmitic exterminator that targets a unit (excluding MONSTERS and VEHICLES), re-roll a Wound roll of 1. Each time a model in this unit makes an attack with a gauss destructor against a MONSTER or VEHICLE unit, re-roll a Wound roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "352f-e231-877a-fc51",
+      "WeaponName": "Enmitic exterminator",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Heavy, Rapid Fire 6, Sustained Hits 1"
+    },
+    {
+      "id": "4160-7fc0-75c0-535",
+      "WeaponName": "Gauss destructor",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6",
+      "Text": "Heavy, Lethal Hits"
+    }
+  ],
+  "MeleeSkills": []
+}

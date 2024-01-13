@@ -1,0 +1,161 @@
+{
+  "id": "6957-5c6d-824d-8804",
+  "UnitName": "Terminator",
+  "Movement": "5+",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c2fe-faec-47bc-82e8",
+      "AbilityName": "Implacable Guardians",
+      "AbilityText": "While this unit contains one or more PSYKER models, each time an attack is made against this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the\r\nWound roll."
+    },
+    {
+      "Id": "f69f-b275-2ada-7881",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- SCARAB OCCULT TERMINATORS"
+    },
+    {
+      "Id": "8c56-bbd9-5aa5-21f0",
+      "AbilityName": "Marked by Fate (Psychic)",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of and visible to this model. Until the end of the turn, each time a friendly THOUSAND SONS model makes an attack that targets that unit, re-roll a Hit roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "63f6-b7a3-6d83-2718",
+      "WeaponName": "Warpsmite",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Pistol, Psychic"
+    },
+    {
+      "id": "2449-72bc-7ec7-81f9",
+      "WeaponName": "Hellfyre missile rack",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "1ef6-c2d5-8899-2e45",
+      "WeaponName": "Inferno combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "a577-a5a8-8341-7712",
+      "WeaponName": "Heavy warpflamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "af0c-7bd2-96b0-7dad",
+      "WeaponName": "Soulreaper cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "e0f8-392d-1f3e-fd0c",
+      "WeaponName": "Coruscating Flames",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Anti-MONSTER 4+, Anti-VEHICLE 4+, Devastating Wounds, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f079-d876-f215-72de",
+      "WeaponName": "Force weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "1284-a39a-bd75-41fd",
+      "WeaponName": "Prosperine khopesh",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "382c-409b-9bd-1b7f",
+      "WeaponName": "Prosperine khopesh",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "ac32-f47d-ea56-daa5",
+      "WeaponName": "Prosperine khopesh",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "105f-60e8-25d7-b240",
+      "WeaponName": "Prosperine khopesh",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "f26f-aba-fb5a-b2ad",
+      "WeaponName": "Force weapon",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "d361-d27c-a26b-2e94",
+      "WeaponName": "Prosperine khopesh",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

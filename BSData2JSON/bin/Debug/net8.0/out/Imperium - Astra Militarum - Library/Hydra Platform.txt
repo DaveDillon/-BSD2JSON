@@ -1,0 +1,37 @@
+{
+  "id": "d21-95c4-2464-1ca4",
+  "UnitName": "Hydra Platform",
+  "Movement": "-",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "8",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fffa-2217-e64e-3ce9",
+      "AbilityName": "Flak Battery",
+      "AbilityText": "Each time this model makes an attack that targets a unit that can Fly, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "d2d9-e008-cc9d-d43",
+      "AbilityName": "Reinforced Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "271b-20d5-ba56-72f4",
+      "WeaponName": "Hydra Quad Autocannon",
+      "Range": "72\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-fly 2+, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

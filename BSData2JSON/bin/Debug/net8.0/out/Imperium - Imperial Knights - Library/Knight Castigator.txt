@@ -1,0 +1,56 @@
+{
+  "id": "869c-9d9e-5aa6-93bd",
+  "UnitName": "Knight Castigator",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "25",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1cd4-b9f4-4c51-c589",
+      "AbilityName": "Storm of Bolts",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "bf07-1fc3-a51f-b9f2",
+      "AbilityName": "Castigator’s Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, its ranged weapons have the [SUSTAINED HITS 1] ability and the Armour Penetration characteristic of its ranged weapons is improved by 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "68fa-efa8-4959-bdc6",
+      "WeaponName": "Castigator bolt cannon",
+      "Range": "36\"",
+      "Attacks": "18",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5fbe-9cfd-dbf8-6752",
+      "WeaponName": "Tempest warblade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "79af-f718-ea61-3240",
+      "WeaponName": "Tempest warblade",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

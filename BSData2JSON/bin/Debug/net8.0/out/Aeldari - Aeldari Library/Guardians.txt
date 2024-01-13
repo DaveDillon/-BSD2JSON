@@ -1,0 +1,124 @@
+{
+  "id": "f71f-8079-2bf3-d4da",
+  "UnitName": "Guardians",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b52d-d46c-dd8c-a825",
+      "AbilityName": "Defenders of Fate",
+      "AbilityText": "At the end of your Command phase, for each objective marker you control that has one or more units from your army with this ability within range of it, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
+    },
+    {
+      "Id": "20e4-a0c1-1706-6030",
+      "AbilityName": "Guardian Defenders",
+      "AbilityText": "When the last Guardian Defender model in this unit is destroyed, any remaining Heavy Weapon Platform models in this unit are also destroyed."
+    },
+    {
+      "Id": "506d-483f-7ff9-117a",
+      "AbilityName": "Serpent Shield",
+      "AbilityText": "Models in the bearer’s unit have a 5+ invulnerable save."
+    },
+    {
+      "Id": "c276-a9a6-499d-6d3d",
+      "AbilityName": "Stormblades",
+      "AbilityText": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+    },
+    {
+      "Id": "163e-43a9-badc-ab16",
+      "AbilityName": "Crewed Platform",
+      "AbilityText": "When the last Storm Guardian model in this unit is destroyed, any remaining Serpent’s Scale Platform models in this unit are also destroyed."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2e20-80c3-da0b-b8d8",
+      "WeaponName": "Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "895f-b473-f91d-5194",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "9dcc-347-c99f-3db6",
+      "WeaponName": "Aeldari Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Ignores Cover, Torrent"
+    },
+    {
+      "id": "6ff1-3647-9b24-5187",
+      "WeaponName": "Guardian Fusion Gun",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 2"
+    },
+    {
+      "id": "b291-5639-46fb-c062",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f1ef-88ac-e523-57ab",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "fc92-e7a4-3b82-2b47",
+      "WeaponName": "Guardian Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e38d-9485-ec34-5c0b",
+      "WeaponName": "Aeldari power sword",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

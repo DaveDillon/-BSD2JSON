@@ -1,0 +1,47 @@
+{
+  "id": "1b23-b921-2038-28d3",
+  "UnitName": "Orca Dropship",
+  "Movement": "20+\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "28",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "46c2-c2bc-f0bf-8229",
+      "AbilityName": "Jet Pack Insertion",
+      "AbilityText": "At the end of your opponent’s Movement phase, one or more units embarked within this TRANSPORT can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability."
+    },
+    {
+      "Id": "47ad-d3d0-b44e-2b05",
+      "AbilityName": "Damaged: 1-9 Wounds Remaining",
+      "AbilityText": "While this model has 1-9 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6188-36d-b521-fd9a",
+      "WeaponName": "Long-barrelled burst cannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d68c-6743-415f-b4df",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

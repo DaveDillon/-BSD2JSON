@@ -1,0 +1,265 @@
+{
+  "id": "f2d9-b5e8-4183-cb0b",
+  "UnitName": "Abhorrent",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "246f-e1c4-6335-20d1",
+      "AbilityName": "Dread Dominion (Aura)",
+      "AbilityText": "While a friendly WAR DOG is within 9\" of this model, each time that WAR DOG takes a Battle-shock test, add 1 to that test."
+    },
+    {
+      "Id": "8d65-776a-67a4-e925",
+      "AbilityName": "Seething Hatred",
+      "AbilityText": "Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
+    },
+    {
+      "Id": "fe14-c4c9-0210-2cd0",
+      "AbilityName": "Taskmaster (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a ranged attack, re-roll a Hit roll of 1."
+    },
+    {
+      "Id": "dd85-4783-c495-ca01",
+      "AbilityName": "Obsessive Ruthlessness",
+      "AbilityText": "Each time this model makes a ranged attack against a MONSTER or VEHICLE unit, that attack has the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "0e4f-8cca-c666-dbf8",
+      "AbilityName": "Frenzied Rampage (Aura)",
+      "AbilityText": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a melee attack, re-roll a Hit roll of 1."
+    },
+    {
+      "Id": "eb59-fb5e-62ca-e829",
+      "AbilityName": "Bloodlust",
+      "AbilityText": "Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability. In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced."
+    },
+    {
+      "Id": "9552-ae5b-6be2-775d",
+      "AbilityName": "Vortex Terrors (Psychic)",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 12\" of this model. That enemy unit must take a Battle-shock test."
+    },
+    {
+      "Id": "cac0-b733-e4cf-d88e",
+      "AbilityName": "Warp Storms (Psychic)",
+      "AbilityText": "At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds."
+    },
+    {
+      "Id": "1174-f573-83eb-2521",
+      "AbilityName": "Repair Auto-simulacra",
+      "AbilityText": "At the end of your Command phase, this model regains up to D3 lost wounds."
+    },
+    {
+      "Id": "2f08-fd49-520d-c001",
+      "AbilityName": "Grav-pinned",
+      "AbilityText": "In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent’s next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "54d1-9fb5-ea42-08c6",
+      "WeaponName": "Desecrator laser destructor",
+      "Range": "72\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+3",
+      "Text": "-"
+    },
+    {
+      "id": "ffc0-0726-99fb-fc11",
+      "WeaponName": "Diabolus heavy stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 3"
+    },
+    {
+      "id": "19b7-9d13-3590-27dc",
+      "WeaponName": "Volkite combustor",
+      "Range": "30\"",
+      "Attacks": "9",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "c59e-7343-2e7-6d7f",
+      "WeaponName": "Lightning cannon",
+      "Range": "48\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Sustained Hits 2"
+    },
+    {
+      "id": "dee7-d73f-44d4-9bda",
+      "WeaponName": "Phased plasma-fusil",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "98ba-a2b8-b11-bfc5",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent, Twin-linked"
+    },
+    {
+      "id": "bbc9-ae78-78d3-a91b",
+      "WeaponName": "Graviton crusher",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-VEHICLE 2+, Blast"
+    },
+    {
+      "id": "2554-21b4-d8e0-1b20",
+      "WeaponName": "Volkite chierovile",
+      "Range": "30\"",
+      "Attacks": "9",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "2506-2225-4443-9c7f",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c9d8-2338-850e-45c6",
+      "WeaponName": "Titanic feet",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "815-bc92-c750-fde7",
+      "WeaponName": "Reaper chainsword",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "c9aa-1054-c816-8c79",
+      "WeaponName": "Reaper chainsword",
+      "Attacks": "18",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "8a66-42f3-470-2067",
+      "WeaponName": "Warpstrike claw",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "5c72-6f33-e9c8-5d0f",
+      "WeaponName": "Warpstrike claw",
+      "Attacks": "12",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "90db-08d8-a005-310e",
+      "WeaponName": "Electroscourge",
+      "Attacks": "9",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "76d6-265c-e9e8-cada",
+      "WeaponName": "Balemace",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "c53-7ad0-5caa-3ea6",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "852d-d0b2-871f-59d7",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "7e38-7a9c-7d64-cd8",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "19cc-6025-f8d6-b91",
+      "WeaponName": "Hekaton siege claw and twin rad cleanser",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

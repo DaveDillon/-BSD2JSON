@@ -12,7 +12,7 @@
     {
       "Id": "13f1-27da-509b-815f",
       "AbilityName": "Bladeguard",
-      "AbilityText": "At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\n\n■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\n■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
+      "AbilityText": "At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\r\n\r\n■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\r\n■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
     }
   ],
   "RangedSkills": [

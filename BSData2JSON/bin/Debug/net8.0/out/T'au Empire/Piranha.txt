@@ -1,0 +1,53 @@
+{
+  "id": "69ad-9250-6e74-46ff",
+  "UnitName": "Piranha",
+  "Movement": "14\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9957-13e2-50a0-163c",
+      "AbilityName": "Piranha",
+      "AbilityText": "At the end of your Movement phase, select one enemy unit within 12\" of this unit; that enemy unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5907-8e6e-e23c-f975",
+      "WeaponName": "Piranha burst cannon",
+      "Range": "18\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "13bb-2136-6885-d9cf",
+      "WeaponName": "Piranha fusion blaster",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 4"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "38ae-67cb-558d-ee86",
+      "WeaponName": "Armoured hull",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

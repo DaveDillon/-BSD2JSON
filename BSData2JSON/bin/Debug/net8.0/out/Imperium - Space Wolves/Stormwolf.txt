@@ -1,0 +1,43 @@
+{
+  "id": "a74f-5075-eafd-57c7",
+  "UnitName": "Stormwolf",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e493-6a08-ade-c36e",
+      "AbilityName": "Into the Foe",
+      "AbilityText": "If a unit disembarks from this TRANSPORT before it moves, until the end of the turn, that unit is eligible to charge in a turn in which it Advanced."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bda4-8f56-33d9-5dd1",
+      "WeaponName": "Twin helfrost cannon",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Torrent, Twin-linked"
+    },
+    {
+      "id": "809b-af8e-315a-9df1",
+      "WeaponName": "Twin helfrost cannon",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "5",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

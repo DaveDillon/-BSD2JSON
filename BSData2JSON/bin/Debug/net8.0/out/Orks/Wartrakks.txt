@@ -1,0 +1,62 @@
+{
+  "id": "4950-6488-ea91-1dcf",
+  "UnitName": "Wartrakks",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1bd1-1e2e-2783-15b4",
+      "AbilityName": "Drive-by Dakka",
+      "AbilityText": "Each time a model in this unit makes a ranged attack that targets a unit within 9\", improve the Armour Penetration characteristic of that attack by 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fb61-9505-17c6-8ac3",
+      "WeaponName": "Twin big shoota",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2, Twin-linked"
+    },
+    {
+      "id": "4aea-d83e-830d-778",
+      "WeaponName": "Rack of rokkits",
+      "Range": "24\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "285d-efa4-fa2b-9db4",
+      "WeaponName": "Spiked wheel",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "31c1-77a5-8c14-fd64",
+      "WeaponName": "Spiked wheel",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

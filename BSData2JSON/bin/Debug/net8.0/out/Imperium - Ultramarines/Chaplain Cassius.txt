@@ -22,7 +22,7 @@
     {
       "Id": "e2c1-7cbf-bfcd-716a",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Squad\n■ Command Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n■ Tyrannic War Veterans\n■ Vanguard Veteran Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad\r\n■ Command Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad\r\n■ Tyrannic War Veterans\r\n■ Vanguard Veteran Squad"
     }
   ],
   "RangedSkills": [

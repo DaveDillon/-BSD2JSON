@@ -1,0 +1,40 @@
+{
+  "id": "9276-a8c8-908a-463d",
+  "UnitName": "Gabriel Seth",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "82e7-b329-1f35-91e7",
+      "AbilityName": "Lord of Slaughter",
+      "AbilityText": "While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced"
+    },
+    {
+      "Id": "6ff5-66f5-8a9f-2834",
+      "AbilityName": "Whirlwind of Rage",
+      "AbilityText": "Each time this model fights, until that fight is resolved, add 1 to the Attacks characteristic of this model’s Blood Reaver for every 5 enemy models within 6\" of this model."
+    },
+    {
+      "Id": "4be3-3742-bb89-5787",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad\r\n■ Command Squad\r\n■ Tactical Squad\r\n■ Vanguard Veteran Squad\r\n■ Assault Intercessor Squad\r\n■ Company Heroes\r\n■ Sternguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "4915-f290-da68-c417",
+      "WeaponName": "Blood Reaver",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "7925-76e2-7700-68e4",
+  "UnitName": "Doomsday Ark",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "7237-d974-c99b-df40",
+      "AbilityName": "Damaged: 1-5 wounds remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "8e12-af7c-5f2c-50d5",
+      "AbilityName": "Overwhelming Obliteration",
+      "AbilityText": "In your Movement phase, if this model Remains Stationary, until the end of the turn, its doomsday cannon has the [DEVASTATING WOUNDS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "95b8-61a6-b225-fe78",
+      "WeaponName": "Doomsday cannon",
+      "Range": "72\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "3+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "4",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "5758-94f7-19de-b941",
+      "WeaponName": "Gauss flayer array",
+      "Range": "24\"",
+      "Attacks": "5",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits, Rapid Fire 5"
+    }
+  ],
+  "MeleeSkills": []
+}

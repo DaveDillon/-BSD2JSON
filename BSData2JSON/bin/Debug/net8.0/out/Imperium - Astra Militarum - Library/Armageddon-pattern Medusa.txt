@@ -1,0 +1,32 @@
+{
+  "id": "8cdc-3e86-4074-9c01",
+  "UnitName": "Armageddon-pattern Medusa",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c889-4740-aa6f-d9be",
+      "AbilityName": "Pinning Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its Medusa siege cannon scored a hit against an enemy Infantry unit, that unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f156-2c4-e4ef-1229",
+      "WeaponName": "Medusa Siege Cannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "4",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

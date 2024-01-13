@@ -1,0 +1,54 @@
+{
+  "id": "51c2-a4c3-f32d-b0b1",
+  "UnitName": "Arkurian Stormhammer",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "af2c-582b-6a94-dc39",
+      "AbilityName": "Rolling Fortress",
+      "AbilityText": "Each time a ranged attack is allocated to an ASTRA MILITARUM model from your army, if that model is not fully visible to every model in the attacking unit because of this Arkurian Stormhammer model, that model has the Benefit of Cover against that attack"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "49ff-a1ba-78fc-e44f",
+      "WeaponName": "Multi-laser",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "3c21-9604-9b0b-d923",
+      "WeaponName": "Twin Battle Cannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "6537-c78c-63bc-3969",
+      "WeaponName": "Stormhammer Cannon",
+      "Range": "72\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,148 @@
+{
+  "id": "33d4-b50a-18e8-16e8",
+  "UnitName": "Grey Knights Venerable Dreadnought",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9b3c-49ee-2ca0-7bcf",
+      "AbilityName": "Wisdom of the Ancients (Aura)",
+      "AbilityText": "While a friendly Grey Knights Infantry unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9974-bfd2-757-865f",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "2327-f677-66cd-2db0",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "87fc-a06a-e5c7-ffea",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "4c9d-bbd1-160-44e1",
+      "WeaponName": "Twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "3cf-6bdf-96f9-d9f1",
+      "WeaponName": "Assault cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "305d-46af-379d-5b25",
+      "WeaponName": "Dreadnought combat weapon and heavy flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Torrent, Ignores Cover"
+    },
+    {
+      "id": "2f24-c972-5ed1-7874",
+      "WeaponName": "Dreadnought combat weapon and storm bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "d27c-85a5-1207-59cf",
+      "WeaponName": "Missile launcher and armoured feet",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "a9fc-7c8d-21f5-e12d",
+      "WeaponName": "Missile launcher and armoured feet",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7f08-440d-48ef-3463",
+      "WeaponName": "Dreadnought combat weapon and heavy flamer",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "d810-2268-d24a-8922",
+      "WeaponName": "Dreadnought combat weapon and storm bolter",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "29fc-8ca2-93d7-d35e",
+      "WeaponName": "Missile launcher and armoured feet",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

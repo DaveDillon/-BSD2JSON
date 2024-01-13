@@ -1,0 +1,30 @@
+{
+  "id": "2373-df61-e37e-7376",
+  "UnitName": "Poxwalkers",
+  "Movement": "4\"",
+  "Toughness": "4",
+  "Save": "7+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ad92-6478-18b8-6222",
+      "AbilityName": "Curse of the Walking Pox",
+      "AbilityText": "Each time a model in this unit makes an attack that destroys an enemy model (excluding MONSTER and VEHICLE models), you can return one destroyed Poxwalker model to this unit.\r\n\r\nWhile TYPHUS is leading this unit, enemy models destroyed as a result of TYPHUS’ The Eater Plague ability count as enemy models destroyed by an attack made by a model in this unit for the purposes of this ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "a087-349f-b3ba-484e",
+      "WeaponName": "Improvised weapons",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

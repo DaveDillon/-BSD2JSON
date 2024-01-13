@@ -1,0 +1,42 @@
+{
+  "id": "d975-1963-1946-b7cd",
+  "UnitName": "Hell Talon",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "d5d-4b76-1713-27a2",
+      "AbilityName": "Bomb Rack",
+      "AbilityText": "Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "660c-1fcb-c1c-74e8",
+      "WeaponName": "Autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "864d-74bd-d985-ef9f",
+      "WeaponName": "Armoured hull",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

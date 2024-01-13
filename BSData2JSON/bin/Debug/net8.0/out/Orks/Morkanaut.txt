@@ -1,0 +1,56 @@
+{
+  "id": "1074-5be7-326a-af90",
+  "UnitName": "Morkanaut",
+  "Movement": "8\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "20",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "248b-1e4b-5c37-b49",
+      "AbilityName": "Clankin’ Forward",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over enemy models (excluding MONSTER and VEHICLE models) and terrain features that are 4\" or less in height as if they were not there."
+    },
+    {
+      "Id": "486b-a9a7-402c-ab9d",
+      "AbilityName": "Big an’ Shooty",
+      "AbilityText": "Each time this model makes a ranged attack during the battle round in which you called a Waaagh!, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fb65-4600-380f-8800",
+      "WeaponName": "Kustom mega-zappa",
+      "Range": "36\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Blast, Hazardous"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2a8-5e21-cd76-3e00",
+      "WeaponName": "Klaw of Mork",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "18",
+      "ArnorPirecing": "-3",
+      "Damage": "6"
+    },
+    {
+      "id": "b67e-7113-bc07-786e",
+      "WeaponName": "Klaw of Mork",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

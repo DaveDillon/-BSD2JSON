@@ -1,0 +1,53 @@
+{
+  "id": "dd4f-5c6b-d535-9e8c",
+  "UnitName": "Kill Krusha",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f565-2e00-6a76-8e8b",
+      "AbilityName": "Da Biggest Booms",
+      "AbilityText": "In your Shooting phase, just after selecting a target for this model’s krusha kannon, the target unit and every other enemy INFANTRY unit within 3\" of that unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a817-2d4b-5a1a-89b0",
+      "WeaponName": "Krusha kannon",
+      "Range": "60\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "6",
+      "Text": "Heavy"
+    },
+    {
+      "id": "22f3-8ebb-50ee-6e42",
+      "WeaponName": "Krusha kannon",
+      "Range": "48\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "610b-ab7-8c94-b037",
+      "WeaponName": "Tracks and wheels",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

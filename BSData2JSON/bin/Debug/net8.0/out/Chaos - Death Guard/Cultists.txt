@@ -1,0 +1,59 @@
+{
+  "id": "968f-9957-d230-c10f",
+  "UnitName": "Cultists",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [
+    {
+      "id": "ba8b-a838-eb29-2bf",
+      "WeaponName": "Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "ea3-bd88-2824-97fe",
+      "WeaponName": "Heavy stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 3"
+    },
+    {
+      "id": "bfa4-b708-b6d1-9705",
+      "WeaponName": "Grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "fcdc-3914-9cde-bff7",
+      "WeaponName": "Grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": []
+}

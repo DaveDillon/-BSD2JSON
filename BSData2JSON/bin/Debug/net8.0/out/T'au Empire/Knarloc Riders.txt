@@ -1,0 +1,30 @@
+{
+  "id": "d40a-20b-185d-cdc2",
+  "UnitName": "Knarloc Riders",
+  "Movement": "7\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "882a-abc5-f5cf-ae5",
+      "AbilityName": "Thunderous Pounce",
+      "AbilityText": "Each time this unit ends a Charge move, until the end of the turn, Knarloc beak and talons equipped by models in this unit have the [LANCE] ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "9eff-c2c3-1bbf-c888",
+      "WeaponName": "Knarloc beak and talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

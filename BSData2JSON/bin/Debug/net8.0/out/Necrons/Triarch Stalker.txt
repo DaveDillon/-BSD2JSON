@@ -1,0 +1,75 @@
+{
+  "id": "1124-c60-ce6-631",
+  "UnitName": "Triarch Stalker",
+  "Movement": "8\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "7b32-dc36-258c-1b9c",
+      "AbilityName": "Targeting Relay",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "619d-1c81-7792-b712",
+      "WeaponName": "Heat ray",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "4ce4-6834-7f86-1815",
+      "WeaponName": "Heat ray",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 4"
+    },
+    {
+      "id": "368a-9e23-69ff-75a7",
+      "WeaponName": "Particle shredder",
+      "Range": "18\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "231d-94d0-55e7-9098",
+      "WeaponName": "Heavy gauss cannon array",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Lethal Hits"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b9ff-de53-d39f-c6d0",
+      "WeaponName": "Stalker's forelimbs",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    }
+  ]
+}

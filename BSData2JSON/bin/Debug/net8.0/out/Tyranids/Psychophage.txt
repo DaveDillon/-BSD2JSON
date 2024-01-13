@@ -1,0 +1,52 @@
+{
+  "id": "ad6-e3cd-6f94-3f77",
+  "UnitName": "Psychophage",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ee87-2dbd-843f-7179",
+      "AbilityName": "Feel No Pain 5+",
+      "AbilityText": "This Model has a 5+ Feel No Pain"
+    },
+    {
+      "Id": "5171-dc2c-e7b0-2d4",
+      "AbilityName": "Bio-stimulus (Aura)",
+      "AbilityText": "While a friendly Tyranids unit is within 6\" of this model, models in that unit have the Feel No Pain 6+ ability."
+    },
+    {
+      "Id": "34b3-35ff-995a-560d",
+      "AbilityName": "Feeding Frenzy",
+      "AbilityText": "Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half strength, add 1 to the Wound roll as well."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "208d-6af9-f50c-f4f2",
+      "WeaponName": "Psycholastic Torrent",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1e16-7665-679d-7462",
+      "WeaponName": "Talons and Betentacled Maw",
+      "Attacks": "D6+1",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

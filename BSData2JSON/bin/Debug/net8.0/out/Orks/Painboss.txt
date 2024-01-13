@@ -1,0 +1,45 @@
+{
+  "id": "697d-7e4d-e117-fd5d",
+  "UnitName": "Painboss",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ca5b-4050-c32a-7fa",
+      "AbilityName": "Dok’s Toolz",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "5af7-1b55-1bcf-a1be",
+      "AbilityName": "Sawbonez",
+      "AbilityText": "At the end of your Movement phase, select one friendly BEAST SNAGGA CHARACTER model within 3\" of this model. That model is healed and regains up to 3 lost wounds. Each model can only be healed once per turn"
+    },
+    {
+      "Id": "43ae-3b0d-b1fc-6539",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- BEAST SNAGGA BOYZ"
+    },
+    {
+      "Id": "aa0b-de90-58e2-2e41",
+      "AbilityName": "Grot Orderly",
+      "AbilityText": "Once per battle, in your Command phase, if the bearer is leading a unit that is below its Starting Strength, you can return up to D3 destroyed Bodyguard models to that unit.\r\nDesigner’s Note: Place a Grot Orderly token next to the unit, removing it once this ability has been used."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "f02b-3f98-414c-38e5",
+      "WeaponName": "Beast Snagga klaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

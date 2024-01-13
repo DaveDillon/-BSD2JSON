@@ -1,0 +1,51 @@
+{
+  "id": "3949-dc4a-2fa3-7e3",
+  "UnitName": "Exalted Seeker Chariot",
+  "Movement": "14\"",
+  "Toughness": "6",
+  "Save": "5+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "6cd4-527b-d9cd-107f",
+      "AbilityName": "Infernal Engines of Torment",
+      "AbilityText": "In the Fight phase, after this model has finished making its attacks, if one or more enemy units were destroyed as a result of those attacks, every enemy unit within 6\" of this model must take a Battleshock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "329d-dd45-376f-2ec3",
+      "WeaponName": "Lashes of torment",
+      "Range": "6\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 3+, Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "495f-64d3-74e5-406b",
+      "WeaponName": "Seeker tongues",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1daa-f80c-65b7-91f1",
+      "WeaponName": "Slashing claws",
+      "Attacks": "14",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

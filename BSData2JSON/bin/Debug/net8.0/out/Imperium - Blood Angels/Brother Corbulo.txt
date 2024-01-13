@@ -1,0 +1,40 @@
+{
+  "id": "3ab-66f3-c313-f621",
+  "UnitName": "Brother Corbulo",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "997a-75ae-da4b-a534",
+      "AbilityName": "Sanguinary Priest",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "ba5c-785b-b694-3943",
+      "AbilityName": "The Red Grail",
+      "AbilityText": "While this model is leading a unit, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit."
+    },
+    {
+      "Id": "1a2a-a768-270-a49b",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad\r\n■ Assault Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Devastator Squad\r\n■ Tactical Squad\r\n■ Vanguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "ae01-73c6-5ee7-62e4",
+      "WeaponName": "Heaven's Teeth",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

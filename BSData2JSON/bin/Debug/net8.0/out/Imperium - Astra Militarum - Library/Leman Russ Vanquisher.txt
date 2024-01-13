@@ -1,0 +1,20 @@
+{
+  "id": "f712-1f95-cfea-76b0",
+  "UnitName": "Leman Russ Vanquisher",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "cc47-c40a-1c64-73e7",
+      "AbilityName": "Tank-killer",
+      "AbilityText": "Each time this model makes a ranged attack with its vanquisher battle cannon that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

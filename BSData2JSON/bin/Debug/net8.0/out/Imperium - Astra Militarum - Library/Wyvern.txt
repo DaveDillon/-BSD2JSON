@@ -1,0 +1,32 @@
+{
+  "id": "2ec-4ea-2496-aeaf",
+  "UnitName": "Wyvern",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6e74-fe3e-7f84-91cd",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) that was hit by one or more attacks made with this model’s Wyvern quad stormshard mortar this phase. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3b22-4b74-ae21-93db",
+      "WeaponName": "Wyvern Quad Stormshard Mortar",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Ignores Cover, Indirect Fire, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

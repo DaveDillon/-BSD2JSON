@@ -1,0 +1,20 @@
+{
+  "id": "c34d-50b5-f24d-f2f7",
+  "UnitName": "Bullgryn Squad",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "15e4-32cb-fc3d-7858",
+      "AbilityName": "Wall of Muscle",
+      "AbilityText": "Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack (to a minimum of 1)."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

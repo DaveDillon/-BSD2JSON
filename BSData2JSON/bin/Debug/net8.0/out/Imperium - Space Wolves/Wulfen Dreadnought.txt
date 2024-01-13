@@ -1,0 +1,30 @@
+{
+  "id": "d8f-dda1-f160-f0a0",
+  "UnitName": "Wulfen Dreadnought",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "efc2-686b-6a7a-4f29",
+      "AbilityName": "Bestial Rage",
+      "AbilityText": "Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if this model made a Charge move this turn: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8981-66cb-3ba2-f470",
+      "WeaponName": "Great wolf claw",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    }
+  ]
+}

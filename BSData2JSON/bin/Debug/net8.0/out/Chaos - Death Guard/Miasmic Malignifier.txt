@@ -1,0 +1,37 @@
+{
+  "id": "bc3f-8250-48e4-22aa",
+  "UnitName": "Miasmic Malignifier",
+  "Movement": "-",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f006-4a66-c5fb-edcd",
+      "AbilityName": "Putrescent Fog (Aura)",
+      "AbilityText": "While a friendly DEATH GUARD unit is wholly within 6\" of this Fortification, each time an attack targets that unit, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "7d03-829f-56a1-940d",
+      "AbilityName": "Diseased Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "434d-d0e-dbd8-8a6a",
+      "WeaponName": "Noxious stink",
+      "Range": "6\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

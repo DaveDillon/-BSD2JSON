@@ -1,0 +1,52 @@
+{
+  "id": "c986-d8ad-587a-bfe8",
+  "UnitName": "Spoilpox Scrivener",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "7+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "1466-1f07-7920-7269",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUE BEARERS"
+    },
+    {
+      "Id": "f1d0-f2ce-6a7c-5f43",
+      "AbilityName": "Keep Counting!",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "f43-1748-2db7-4f39",
+      "AbilityName": "Meet Your Quota!",
+      "AbilityText": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "32-af9-e2a5-52e1",
+      "WeaponName": "Disgusting Sneezes",
+      "Range": "6\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1317-1831-db19-450e",
+      "WeaponName": "Plaguesword and distended maw",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

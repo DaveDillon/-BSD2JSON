@@ -1,0 +1,35 @@
+{
+  "id": "4184-cab9-b99a-d510",
+  "UnitName": "Noxious Blightbringer",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "67fb-5245-68ef-56de",
+      "AbilityName": "Sickening Vitality",
+      "AbilityText": "While this model is leading a unit, you can re-roll Advance and Charge rolls made for that unit."
+    },
+    {
+      "Id": "617e-b283-8a90-df5a",
+      "AbilityName": "The Bell Tolls (Aura)",
+      "AbilityText": "While an enemy unit is within Contagion Range of this model, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 2 from that test."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "800-ba00-5b7b-7b70",
+      "WeaponName": "Cursed plague bell",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    }
+  ]
+}

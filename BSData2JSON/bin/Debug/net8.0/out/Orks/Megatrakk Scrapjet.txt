@@ -1,0 +1,53 @@
+{
+  "id": "38c7-a600-3893-848b",
+  "UnitName": "Megatrakk Scrapjet",
+  "Movement": "12\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "9",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "78a6-74f6-a23-6ae",
+      "AbilityName": "Drill Through",
+      "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8387-22e-7ae-5b92",
+      "WeaponName": "Rokkit cannon",
+      "Range": "24\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "b156-2885-3ec-d645",
+      "WeaponName": "Wing missiles",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "730d-dd60-5873-c738",
+      "WeaponName": "Nose drill",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

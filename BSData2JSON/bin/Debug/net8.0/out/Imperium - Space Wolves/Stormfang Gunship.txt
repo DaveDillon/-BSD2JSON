@@ -1,0 +1,54 @@
+{
+  "id": "efac-d25e-517-1ea5",
+  "UnitName": "Stormfang Gunship",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8bed-8c56-baf8-1bc6",
+      "AbilityName": "Frozen Prey",
+      "AbilityText": "In your Shooting phase, after this model has shot, if an enemy MONSTER or VEHICLE unit was hit by one or more of those attacks made with this model’s helfrost destructor, until the end of your opponent’s next turn, that enemy unit is Frozen. While a unit is Frozen, subtract 2 from that unit’s Move characteristic, and  subtract 2 from Advance and Charge rolls made for that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ea3f-1db5-a2e-bc19",
+      "WeaponName": "Helfrost destructor",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "11",
+      "ArnorPirecing": "-3",
+      "Damage": "7",
+      "Text": "Sustained Hits D3"
+    },
+    {
+      "id": "5803-c210-5535-dcdd",
+      "WeaponName": "Helfrost destructor",
+      "Range": "12\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Torrent"
+    },
+    {
+      "id": "772f-567b-e3fb-e2",
+      "WeaponName": "Twin stormstrike missile launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

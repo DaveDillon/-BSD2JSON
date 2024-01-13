@@ -1,0 +1,125 @@
+{
+  "id": "d4bd-9928-e74e-9605",
+  "UnitName": "Farstalkers",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7899-d388-f303-592",
+      "AbilityName": "Bounty Hunters",
+      "AbilityText": "At the start of the battle, select one unit from your opponent’s army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities."
+    },
+    {
+      "Id": "567d-867a-3de8-fcab",
+      "AbilityName": "Pech'ra",
+      "AbilityText": "Ranged weapons equipped by the bearer’s unit have the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3d83-77bd-3f68-949b",
+      "WeaponName": "Farstalker firearm",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "8a39-7e4b-457a-ca38",
+      "WeaponName": "Pulse carbine",
+      "Range": "20\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "a49e-69cc-7f9f-49cb",
+      "WeaponName": "Dvorgite skinner",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "da44-fef6-a176-793c",
+      "WeaponName": "Londaxi tribalest",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds, Heavy"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "67eb-a8ac-afd1-dfc",
+      "WeaponName": "Ritual blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b029-518a-1e5b-f465",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c24f-f411-c617-6f57",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3a10-944d-cdba-94b0",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c501-3dd1-b0b1-ea0f",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8dba-629-1888-7625",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

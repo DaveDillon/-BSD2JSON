@@ -1,0 +1,42 @@
+{
+  "id": "9b0-3c53-1484-3843",
+  "UnitName": "Devilfish",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "13",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6109-8d9d-d74-423f",
+      "AbilityName": "Rapid Deployment",
+      "AbilityText": "Units can disembark from this TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3da7-26b8-c359-76b",
+      "WeaponName": "Twin smart missile system",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Indirect Fire, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7961-5020-b359-7edd",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

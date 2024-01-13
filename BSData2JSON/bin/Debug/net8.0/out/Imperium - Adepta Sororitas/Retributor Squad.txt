@@ -1,0 +1,25 @@
+{
+  "id": "cf6-ceb9-5c73-2bb3",
+  "UnitName": "Retributor Squad",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this units have an invulnerable save of 6+",
+  "Abilities": [
+    {
+      "Id": "e9c6-6fd8-b88e-39d1",
+      "AbilityName": "Cherubs",
+      "AbilityText": "Twice per battle, after this unit has performed an Act of Faith, you gain 1 Miracle dice."
+    },
+    {
+      "Id": "8eef-f65c-7895-183f",
+      "AbilityName": "Storm of Retribution",
+      "AbilityText": "Each time a model in this unit makes a ranged attack, re-roll a Wound roll of 1."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

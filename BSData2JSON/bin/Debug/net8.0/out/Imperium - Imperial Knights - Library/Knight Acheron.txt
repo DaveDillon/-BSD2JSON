@@ -1,0 +1,72 @@
+{
+  "id": "3de8-a9ae-d1e2-2e5",
+  "UnitName": "Knight Acheron",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "25",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4ba0-261-d552-3e71",
+      "AbilityName": "Searing Flames",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with an Acheron flame cannon. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+    },
+    {
+      "Id": "7afa-5443-53e3-5707",
+      "AbilityName": "Cerastus Knight Acheron",
+      "AbilityText": "This model has a 5+ invulnerable save against ranged attacks only."
+    },
+    {
+      "Id": "30be-bd04-b903-2d25",
+      "AbilityName": "Acheron’s Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, at the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test, subtracting 1 from the result when they do."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "20a7-a693-187c-3cff",
+      "WeaponName": "Acheron flame cannon",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Torrent, Ignores Cover"
+    },
+    {
+      "id": "c2bd-d1fa-d106-19ec",
+      "WeaponName": "Twin heavy bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3267-9d45-fb27-929d",
+      "WeaponName": "Reaper chainfist",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "ae19-5f40-8f99-8d1b",
+      "WeaponName": "Reaper chainfist",
+      "Attacks": "12",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

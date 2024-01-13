@@ -1,0 +1,57 @@
+{
+  "id": "54c0-dc92-7373-55fc",
+  "UnitName": "Valerian",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "70f8-f339-f1a0-7ade",
+      "AbilityName": "Feel No Pain",
+      "AbilityText": "6+"
+    },
+    {
+      "Id": "7591-8f8b-3b46-ede2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Custodian Guard\r\n■ Custodian Wardens"
+    },
+    {
+      "Id": "2397-a41d-fe9e-ed6d",
+      "AbilityName": "Golden Laurels",
+      "AbilityText": "While this model is leading a unit, each time a melee attack targets that unit, worsen that Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "f775-c5a7-e958-0496",
+      "AbilityName": "Hero of Lion's Gate",
+      "AbilityText": "Once per battle round, you can re-roll one Hit roll, one Would roll or one saving throw made for this model. In addition, once per battle, after making a Hit roll, Wound roll or saving throw or this model, you can change the result of that roll to an unmodified 6."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "db73-262f-db12-a93f",
+      "WeaponName": "Gnosis",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "fc56-bc75-6406-6fd4",
+      "WeaponName": "Gnosis",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

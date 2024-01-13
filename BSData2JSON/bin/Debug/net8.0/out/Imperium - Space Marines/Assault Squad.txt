@@ -17,7 +17,7 @@
     {
       "Id": "e865-1963-3fc1-1d05",
       "AbilityName": "Chainsword Doctrines",
-      "AbilityText": "Each time this unit is selected to fight, select one of the following abilities to apply to all Astartes chainswords equipped by models in this unit until the end of the phase: \n\n■ [SUSTAINED HITS 1]\n■ [LETHAL HITS]\n■ [LANCE]"
+      "AbilityText": "Each time this unit is selected to fight, select one of the following abilities to apply to all Astartes chainswords equipped by models in this unit until the end of the phase: \r\n\r\n■ [SUSTAINED HITS 1]\r\n■ [LETHAL HITS]\r\n■ [LANCE]"
     }
   ],
   "RangedSkills": [],

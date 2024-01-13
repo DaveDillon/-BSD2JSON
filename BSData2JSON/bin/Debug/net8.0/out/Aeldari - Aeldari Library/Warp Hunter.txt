@@ -1,0 +1,80 @@
+{
+  "id": "b5af-bcf2-fed9-a22e",
+  "UnitName": "Warp Hunter",
+  "Movement": "14\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d8e8-ceac-9427-bef1",
+      "AbilityName": "Damaged: 1-4 Wounds Remaining",
+      "AbilityText": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "926c-2fff-e142-2d50",
+      "AbilityName": "Devastating Assault",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ee30-7af7-6ffc-1af7",
+      "WeaponName": "Twin Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Twin Linked"
+    },
+    {
+      "id": "48fd-264c-262d-74b9",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "3fc9-f0f6-2814-9b4a",
+      "WeaponName": "D-Flail",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "3",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "e8be-db9d-43dc-5859",
+      "WeaponName": "D-Flail",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "N/A",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "3",
+      "Text": "Devastating Wounds, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f0a6-ac70-408f-92a9",
+      "WeaponName": "Wraithbone hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

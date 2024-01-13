@@ -1,0 +1,49 @@
+{
+  "id": "2c46-1db8-f41b-29f2",
+  "UnitName": "Harald Deathwolf",
+  "Movement": "10\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "7",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a794-a4ad-dc6c-4619",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Thunderwolf Cavalry"
+    },
+    {
+      "Id": "2734-7402-ba72-8244",
+      "AbilityName": "Lord of the Wolfkin",
+      "AbilityText": "While this model is leading a unit, each time that unit makes a Charge move, until the end of the turn, crushing teeth and claws equipped by models in that unit have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "15ef-da73-e7e6-b4b7",
+      "AbilityName": "Mantle of the Troll King",
+      "AbilityText": "Once per phase, when resolving an attack made against this model, after you make a saving throw for this model, you can change the Damage characteristic of that attack to 0."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "c636-e6d5-f648-4f5b",
+      "WeaponName": "Glacius",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "3a1-7bf8-2ea5-8380",
+      "WeaponName": "Crushing teeth and claws",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2236-d428-61e-fa4f",
+  "UnitName": "Exorcist",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has an invulnerable save of 6+",
+  "Abilities": [
+    {
+      "Id": "ee16-3107-24be-b39d",
+      "AbilityName": "Deadly Demise",
+      "AbilityText": "D3"
+    },
+    {
+      "Id": "7e22-e24b-fe39-5f51",
+      "AbilityName": "Damaged: 1-4 Wounds Remaining",
+      "AbilityText": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "62d8-4f1-3996-bcb9",
+      "AbilityName": "Mobile Shrine",
+      "AbilityText": "While a friendly ADEPTA SORORITAS INFANTRY unit is within 6\" of this model, improve the Leadership characteristic of models in that unit by 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ce7d-c52a-dd48-555c",
+      "WeaponName": "Exorcist Missile Launcher",
+      "Range": "36\"",
+      "Attacks": "D6+2",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Heavy, Indirect Fire"
+    },
+    {
+      "id": "c85d-6813-6ef3-e513",
+      "WeaponName": "Exorcist Conflagration Rockets",
+      "Range": "36\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Ignores Cover, Indirect Fire"
+    },
+    {
+      "id": "eb73-300c-1234-9cc7",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

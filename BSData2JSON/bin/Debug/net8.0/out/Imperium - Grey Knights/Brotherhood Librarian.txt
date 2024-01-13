@@ -1,0 +1,85 @@
+{
+  "id": "bd80-12a6-cd23-96c9",
+  "UnitName": "Brotherhood Librarian",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3dec-ee8c-120d-4010",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Brotherhood Terminator Squad\r\n■ Paladin Squad"
+    },
+    {
+      "Id": "9d41-eb97-8f61-fb85",
+      "AbilityName": "Sanctic Hood",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    },
+    {
+      "Id": "f49c-a3e0-29e8-7304",
+      "AbilityName": "Vortex of Doom (Psychic)",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 1, this Psyker’s unit suffers D6 mortal wounds; on a 2-5, that enemy unit suffers 2D3 mortal wounds; on a 6, that enemy unit suffers 2D6 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3820-e568-e53-96f2",
+      "WeaponName": "Purge Soul",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Psychic"
+    },
+    {
+      "id": "65d8-79ca-e784-b480",
+      "WeaponName": "Purge Soul",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Precision, Psychic, Hazardous"
+    },
+    {
+      "id": "2148-2720-3189-df67",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "d680-44f9-1df9-8e42",
+      "WeaponName": "Combi-Weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-infantry 4+, Devastating Wounds, Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8404-b7bc-4d0f-6136",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

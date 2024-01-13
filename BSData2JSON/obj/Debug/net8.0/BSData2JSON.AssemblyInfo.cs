@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSData2JSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75fbc115f3f66aad17a4c47f0daf9a1e3d9fc0cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6633660097ead5099cda19d4fd70dc21ab298213")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSData2JSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSData2JSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

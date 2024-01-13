@@ -1,0 +1,56 @@
+{
+  "id": "e18a-bfc1-a234-a183",
+  "UnitName": "Daemon Prince of Chaos with wings",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "1c90-5f23-d62b-f9f0",
+      "AbilityName": "Malefic Destruction",
+      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, add 3 to the Attacks characteristic of this model’s hellforged weapons."
+    },
+    {
+      "Id": "2c04-568d-8702-a2dd",
+      "AbilityName": "Harbinger of Death",
+      "AbilityText": "Each time this model is selected to fight, select one of the following abilities. Until the end of the phase, this model’s hellforged weapons have that ability:\r\n■ [LETHAL HITS]\r\n■ [PRECISION]\r\n■ [SUSTAINED HITS 1]"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2fa4-52d1-a254-1515",
+      "WeaponName": "Infernal cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "54a0-4830-4cd0-fae",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "a1e6-a09b-275-609b",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

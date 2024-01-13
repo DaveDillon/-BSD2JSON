@@ -1,0 +1,56 @@
+{
+  "id": "44f2-f864-3a76-f234",
+  "UnitName": "An'ggrath the Unbound",
+  "Movement": "12\"",
+  "Toughness": "11",
+  "Save": "4+",
+  "Wounds": "24",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "db49-1338-fd82-baea",
+      "AbilityName": "Emissary of the Blood God (Aura)",
+      "AbilityText": "While a friendly KHORNE LEGIONES DAEMONICA unit is within 6\" of this model, you can re-roll Battle-shock tests taken for that unit."
+    },
+    {
+      "Id": "d962-13a6-8f33-71d0",
+      "AbilityName": "Relentless Carnage",
+      "AbilityText": "At the end of the Fight phase, you can select one enemy unit within Engagement Range of this model and roll eight D6: for each 4+, that enemy unit suffers 1 mortal wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1e79-cbf6-5d88-76a6",
+      "WeaponName": "Bloodlash",
+      "Range": "12\"",
+      "Attacks": "9",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "770c-61a6-a7fb-be59",
+      "WeaponName": "Axe of Khorne",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2"
+    },
+    {
+      "id": "7d19-f25e-70ef-1669",
+      "WeaponName": "Axe of Khorne",
+      "Attacks": "16",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

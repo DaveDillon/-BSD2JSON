@@ -1,0 +1,232 @@
+{
+  "id": "851f-4e16-2f8d-17ae",
+  "UnitName": "Farseer",
+  "Movement": "7\"",
+  "Toughness": "4",
+  "Save": "6+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e5fe-bd04-433b-8c90",
+      "AbilityName": "Invulnerable Save (Eldrad)",
+      "AbilityText": "Eldrad Ulthran has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "c1d3-7a60-1ab-7cce",
+      "AbilityName": "Diviner of the Futures",
+      "AbilityText": "At the start of the battle, when making your first Strands of Fate roll, roll an additional three D6 (this means that roll will consist of fifteen D6)."
+    },
+    {
+      "Id": "98aa-81a5-6eaf-b4d1",
+      "AbilityName": "Doom (Psychic)",
+      "AbilityText": "At the start of your Shooting phase, you can select one enemy unit within 18\" of and visible to this Psyker and roll one D6: on a 2+, until the end of the turn, each time a friendly Aeldari model makes an attack that targets that enemy unit, add 1 to the Wound roll"
+    },
+    {
+      "Id": "8e59-8a27-382f-ebbb",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Guardian Defenders\r\n■ Storm Guardians\r\n■ Warlock Conclave"
+    },
+    {
+      "Id": "1db8-859e-c4c7-d8b2",
+      "AbilityName": "Branching Fates (psychic)",
+      "AbilityText": "Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12\" of a Farseer model from your army, one model from your army with this ability can use it. If it does, the result of that Fate dice is first changed to a 6."
+    },
+    {
+      "Id": "5ee2-f2d0-472b-274c",
+      "AbilityName": "Invulnerable Save (Farseer)",
+      "AbilityText": "A Farseer has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "9aa5-e161-4264-9617",
+      "AbilityName": "Fortune (Psychic)",
+      "AbilityText": "In your Command phase, you can roll one D6: on a 2+, select one friendly AELDARI unit within 12\" of this PSYKER. Until the start of your next Command phase, each time an attack targets that unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "b5a6-cb04-951e-3c0e",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Guardian Defenders\r\n■ Storm Guardians\r\n■ Warlock Conclave"
+    },
+    {
+      "Id": "a5f6-a46f-82c2-cdfb",
+      "AbilityName": "Invulnerable Save (Farseer)",
+      "AbilityText": "A Farseer Skyrunner has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "47ca-e9d7-e55f-17f8",
+      "AbilityName": "Branching Fates (Psychic)",
+      "AbilityText": "Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12\" of a Farseer model from your army, one model from your army with this ability can use it. If it does, the result of that Fate dice is first changed to a 6."
+    },
+    {
+      "Id": "5845-10af-ea52-4dd3",
+      "AbilityName": "Guide (Psychic)",
+      "AbilityText": "In your Command phase, you can roll one D6: on a 2+, select one friendly Aeldari unit within 12\" of this Psyker. Until the start of your next Command phase, each time a model in that unit makes an attack, you can re-roll the Hit roll"
+    },
+    {
+      "Id": "60c7-3eec-1396-ae4d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Warlock Skyrunner Conclave\r\n■ Windriders"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6ad4-b734-dfde-3a85",
+      "WeaponName": "Eldrad Ulthran",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Anti-character 4+, Precision, Psychic"
+    },
+    {
+      "id": "b09f-1dc6-5ddb-fe9a",
+      "WeaponName": "Eldrad Ulthran",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "b09f-1dc6-5ddb-fe9a",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "f5b9-c818-3551-304c",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "bbcb-fbad-23ee-79e9",
+      "WeaponName": "Eldritch Storm",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Psychic"
+    },
+    {
+      "id": "2d1f-f377-6bc3-40f6",
+      "WeaponName": "Singing Spear",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Assault, Psychic"
+    },
+    {
+      "id": "a4b8-2ce3-93a2-f98b",
+      "WeaponName": "Singing Spear",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Assault, Psychic"
+    },
+    {
+      "id": "7825-a114-ca5f-1bc2",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "5fa6-19eb-f75e-a41",
+      "WeaponName": "Twin Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Twin Linked"
+    },
+    {
+      "id": "b718-46ea-b550-2352",
+      "WeaponName": "Eldritch Storm",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a27-a636-463e-30a8",
+      "WeaponName": "Staff of Ulthamar and witchblade",
+      "Attacks": "3",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "6679-e605-1314-bac4",
+      "WeaponName": "Witchblade",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    },
+    {
+      "id": "8cca-f1e9-21d6-87da",
+      "WeaponName": "Singing Spear",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "3"
+    },
+    {
+      "id": "aa4c-c850-5606-3153",
+      "WeaponName": "Witchblade",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    },
+    {
+      "id": "938f-d1ee-fb90-c89c",
+      "WeaponName": "Singing Spear",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "3"
+    }
+  ]
+}

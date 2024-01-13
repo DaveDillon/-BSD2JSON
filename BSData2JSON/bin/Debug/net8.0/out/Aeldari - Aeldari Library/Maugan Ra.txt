@@ -1,0 +1,57 @@
+{
+  "id": "57b2-11b4-3734-e3b1",
+  "UnitName": "Maugan Ra",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fafe-182b-3e5d-ff24",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Dark Reapers"
+    },
+    {
+      "Id": "65b8-249d-5400-3e1a",
+      "AbilityName": "Invulnerable Save (Phoenix Lord)",
+      "AbilityText": "Maugan Ra has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "a8f3-2713-fe69-43ef",
+      "AbilityName": "Harvester of Souls",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll"
+    },
+    {
+      "Id": "1724-8784-29f7-515b",
+      "AbilityName": "Face of Death",
+      "AbilityText": "Each time this model makes an attack that targets a unit that is Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8919-d0aa-fab9-ac56",
+      "WeaponName": "The Maugetar",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Devastating wounds, Ignores cover"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "378-72f-528c-efe7",
+      "WeaponName": "The Maugetar",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

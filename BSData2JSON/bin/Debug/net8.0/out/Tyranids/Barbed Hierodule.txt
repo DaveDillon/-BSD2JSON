@@ -1,0 +1,42 @@
+{
+  "id": "4c30-3dbf-b2b7-3a7",
+  "UnitName": "Barbed Hierodule",
+  "Movement": "8\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a1bc-d961-dde5-52c4",
+      "AbilityName": "Overgrown Barbs",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Titanic units) that was hit by one or more of those attacks. Until the start of your next turn, while this model is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "581d-3649-e097-b6e5",
+      "WeaponName": "Bio-cannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "18f4-4462-750-11fb",
+      "WeaponName": "Hierodule scything talons",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D3+3"
+    }
+  ]
+}

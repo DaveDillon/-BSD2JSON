@@ -1,0 +1,78 @@
+{
+  "id": "691c-54b4-bfa5-be5c",
+  "UnitName": "Greater Brass Scorpion",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "26",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "7a21-d7fb-1f83-f292",
+      "AbilityName": "Runes of the Blood God",
+      "AbilityText": "This model has the Feel No Pain 4+ ability against mortal wounds and Psychic Attacks."
+    },
+    {
+      "Id": "9554-75c1-895-c090",
+      "AbilityName": "Damaged: 1-9 wounds remaining",
+      "AbilityText": "While this model has 1-9 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bf44-c4f5-d4ec-a53e",
+      "WeaponName": "Demolisher cannon",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Blast"
+    },
+    {
+      "id": "352-8efc-9678-ecd3",
+      "WeaponName": "Hellmaw flame cannons",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "f13a-b73f-c07f-dd38",
+      "WeaponName": "Scorpion cannon",
+      "Range": "36\"",
+      "Attacks": "15",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4bb8-9487-b9ec-93d6",
+      "WeaponName": "Hellcrusher claws",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "6"
+    },
+    {
+      "id": "f28f-d390-c6c6-f70b",
+      "WeaponName": "Hellcrusher claws",
+      "Attacks": "18",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

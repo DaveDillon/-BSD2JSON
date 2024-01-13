@@ -17,7 +17,7 @@
     {
       "Id": "16d0-eff3-f5d2-a2cf",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n\n■ Bladeguard Veteran Squad\n\nYou can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Bladeguard Veteran Squad\r\n\r\nYou can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [],

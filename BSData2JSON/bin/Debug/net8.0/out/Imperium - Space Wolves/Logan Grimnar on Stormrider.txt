@@ -1,0 +1,35 @@
+{
+  "id": "8775-713f-8b6c-f54f",
+  "UnitName": "Logan Grimnar on Stormrider",
+  "Movement": "10\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "bac4-1b4c-7726-15d3",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Thunderwolf Cavalry"
+    },
+    {
+      "Id": "4637-2fb1-ef9a-7704",
+      "AbilityName": "Logan Grimnar",
+      "AbilityText": "Your army cannot contain both Logan Grimnar and Logan Grimnar on Stormrider"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8f07-fc0b-88f6-6c1d",
+      "WeaponName": "Flurry of teeth and claws",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

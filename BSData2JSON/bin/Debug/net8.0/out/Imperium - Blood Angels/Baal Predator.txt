@@ -1,0 +1,32 @@
+{
+  "id": "6305-2974-3890-6ba0",
+  "UnitName": "Baal Predator",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "acf-498-6031-bf2f",
+      "AbilityName": "Overcharged Engines",
+      "AbilityText": "You can re-roll Advance rolls made for this model. Each time this model Advances, until the end of the turn, ranged weapons equipped by this model have the [ASSAULT] ability but they can only target Infantry units."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f5ac-b675-9bd2-ac92",
+      "WeaponName": "Baal Flamestorm Cannon",
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

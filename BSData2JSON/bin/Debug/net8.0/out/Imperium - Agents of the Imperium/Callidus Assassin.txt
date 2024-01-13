@@ -1,0 +1,47 @@
+{
+  "id": "9063-fa49-9ba2-9350",
+  "UnitName": "Callidus Assassin",
+  "Movement": "7\"",
+  "Toughness": "4",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "d262-7a63-4838-828a",
+      "AbilityName": "Reign of Confusion",
+      "AbilityText": "Once per battle, after your opponent uses a Stratagem, this model can use this ability. If it does, until the end of the battle, the CP cost your opponent must pay to use that Stratagem again is increased by 1CP."
+    },
+    {
+      "Id": "812f-ed2e-6abf-35be",
+      "AbilityName": "Polymorphine",
+      "AbilityText": "At the end of your opponent’s turn, if this model is not within Engagement Range of any enemy units, you can remove it from the battlefield and then, in the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and this model is not on the battlefield, it is destroyed."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3e29-79b2-e811-eca8",
+      "WeaponName": "Neural shredder",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Precision, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "dd6b-cdca-1a78-7545",
+      "WeaponName": "Phase sword and poison blades",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-4",
+      "Damage": "2"
+    }
+  ]
+}

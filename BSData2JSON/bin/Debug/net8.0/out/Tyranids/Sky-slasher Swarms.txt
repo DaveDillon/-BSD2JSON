@@ -1,0 +1,51 @@
+{
+  "id": "617e-a830-65fe-7b64",
+  "UnitName": "Sky-slasher Swarms",
+  "Movement": "12\"",
+  "Toughness": "2",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b9cf-6189-5e16-a81a",
+      "AbilityName": "Chitinous Horrors",
+      "AbilityText": "While an enemy unit is within Engagement Range of one or more units with this ability, halve the Objective Control characteristic of models in that enemy unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4c22-1f53-df3b-d3e0",
+      "WeaponName": "Spinemaws",
+      "Range": "6\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c08a-b36-9f24-ee67",
+      "WeaponName": "Claws and teeth",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e54c-283d-776c-4f26",
+      "WeaponName": "Claws and teeth",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

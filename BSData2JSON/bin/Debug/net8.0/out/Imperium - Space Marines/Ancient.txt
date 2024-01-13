@@ -17,7 +17,7 @@
     {
       "Id": "ab49-936e-921e-b30b",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Terminator Squad\n■ Terminator Assault Squad\n\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Terminator Squad\r\n■ Terminator Assault Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "ff00-af01-4169-de2a",
@@ -27,7 +27,7 @@
     {
       "Id": "bb08-858e-9634-9515",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Bike Squad\r\n■ Outrider Squad"
     },
     {
       "Id": "57ab-cc79-bce4-f9ff",

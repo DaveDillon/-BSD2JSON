@@ -27,7 +27,7 @@
     {
       "Id": "13f1-27da-509b-815f",
       "AbilityName": "Bladeguard",
-      "AbilityText": "At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\n\n■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\n■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
+      "AbilityText": "At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\r\n\r\n■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\r\n■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
     },
     {
       "Id": "f7ef-79f2-60c-8568",
@@ -52,7 +52,7 @@
     {
       "Id": "ba72-8a45-4bf0-d10c",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Company Heroes\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Company Heroes\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "bb55-61bd-98d2-9b40",
@@ -62,12 +62,12 @@
     {
       "Id": "fbef-6d32-361e-9163",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Desolation Squad\r\n■ Devastator Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "26af-8c8a-8691-a425",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "40d5-dc4a-5c0a-fe2e",
@@ -82,12 +82,12 @@
     {
       "Id": "6bc9-9c39-2271-1f1e",
       "AbilityName": "Vengeance of the Omnissiah",
-      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7."
+      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\r\nAttacks characteristic of 7."
     },
     {
       "Id": "237c-15f3-c241-2ae1",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Intercessor Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Desolation Squad\r\n■ Intercessor Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "c13d-1672-b49b-371d",
@@ -102,7 +102,7 @@
     {
       "Id": "f866-2e66-d276-7cc0",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad"
     },
     {
       "Id": "1b7d-5cf9-f91f-3938",
@@ -117,7 +117,7 @@
     {
       "Id": "a19-ea12-9d03-65c4",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Desolation Squad\r\n■ Devastator Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "29e1-1525-b058-e9ad",
@@ -127,7 +127,7 @@
     {
       "Id": "d9f5-17f1-fc0c-cb61",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Desolation Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Devastator Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Desolation Squad\r\n■ Tactical Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "80e9-b186-e4ce-2ae5",
@@ -137,7 +137,7 @@
     {
       "Id": "16d0-eff3-f5d2-a2cf",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n\n■ Bladeguard Veteran Squad\n\nYou can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Bladeguard Veteran Squad\r\n\r\nYou can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "e8ec-5b94-53b2-1229",
@@ -152,17 +152,17 @@
     {
       "Id": "3a9c-eadb-624f-6d6b",
       "AbilityName": "Invulnerable Save*",
-      "AbilityText": "4+\n* This model has a 4+ invulnerable save against melee attacks."
+      "AbilityText": "4+\r\n* This model has a 4+ invulnerable save against melee attacks."
     },
     {
       "Id": "9839-fe55-3fc2-c9e7",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "6e66-2c98-4726-d12d",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad*\n■ Hellblaster Squad*\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Company Heroes\n■ Tactical Squad\n\n* This model cannot be attached to a Bladeguard Veteran Squad unless it is equipped with a relic shield, and cannot be attached to a Hellblaster Squad unless it is equipped with a plasma pistol."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad*\r\n■ Hellblaster Squad*\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Company Heroes\r\n■ Tactical Squad\r\n\r\n* This model cannot be attached to a Bladeguard Veteran Squad unless it is equipped with a relic shield, and cannot be attached to a Hellblaster Squad unless it is equipped with a plasma pistol."
     },
     {
       "Id": "cbc5-87e5-a711-57f9",

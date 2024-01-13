@@ -1,0 +1,42 @@
+{
+  "id": "791e-feed-fa6d-af79",
+  "UnitName": "Earthshaker Carriage Battery",
+  "Movement": "4\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d54-11fb-5b7d-cbd6",
+      "AbilityName": "Earthshaker Rounds",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an INFANTRY unit, until the end of your opponent’s next turn, that INFANTRY unit is shaken. While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c69e-f348-d8b9-dd8a",
+      "WeaponName": "Earthshaker cannon",
+      "Range": "240\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "fb8a-bf3b-735f-1737",
+      "WeaponName": "Battery close combat weapons",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

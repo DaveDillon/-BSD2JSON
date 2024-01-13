@@ -1,0 +1,62 @@
+{
+  "id": "36a1-9a32-7db1-dda7",
+  "UnitName": "Knight Gallant",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "aa56-4384-8f12-cc31",
+      "AbilityName": "Martial Pride",
+      "AbilityText": "Each time a melee attack targets this model, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "1d35-f0ed-8ef8-a52d",
+      "AbilityName": "Gallant's Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "a8ae-6973-4131-ab78",
+      "WeaponName": "Reaper chainsword",
+      "Attacks": "18",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "17bb-6ba0-56b1-3d3",
+      "WeaponName": "Reaper chainsword",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "6"
+    },
+    {
+      "id": "cea7-7bb7-44c4-89d4",
+      "WeaponName": "Thunderstrike gauntlet",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "8"
+    },
+    {
+      "id": "f123-9d4-e554-1559",
+      "WeaponName": "Thunderstrike gauntlet",
+      "Attacks": "12",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

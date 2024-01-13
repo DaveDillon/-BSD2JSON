@@ -1,0 +1,35 @@
+{
+  "id": "424d-d203-959f-8cdd",
+  "UnitName": "Rendmaster on Blood Throne",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "4+",
+  "Wounds": "9",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "25ee-74b5-c6e8-674a",
+      "AbilityName": "Blood Throne",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within 18\" of and visible to this model. Until the end of the phase, each time a friendly KHORNE LEGIONES DAEMONICA unit makes an attack that targets that unit, improve the Strength, Armour Penetration and Damage characteristics of that attack by 1."
+    },
+    {
+      "Id": "31a5-10b2-e55d-9eff",
+      "AbilityName": "Champion Slayer",
+      "AbilityText": "Each time this model makes a melee attack that targets a CHARACTER or MONSTER unit, you can re-roll the Wound roll. Each time this model destroys an enemy CHARACTER or MONSTER unit, this model regains up to D6 lost wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "9e5e-dd1-2411-5587",
+      "WeaponName": "Attendant's hellblades",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "88c0-f898-8500-5639",
+  "UnitName": "Scythed Hierodule",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4510-7130-a4d1-7da2",
+      "AbilityName": "Irresistible Force",
+      "AbilityText": "This model is eligible to declare a charge in a turn in which it Fell Back."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6125-bd5f-4e70-554e",
+      "WeaponName": "Bio-acid spray",
+      "Range": "18\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "956e-76a1-b1ce-4526",
+      "WeaponName": "Hierodule scything talons",
+      "Attacks": "10",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D3+3"
+    }
+  ]
+}

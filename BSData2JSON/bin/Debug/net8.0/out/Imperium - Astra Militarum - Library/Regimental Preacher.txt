@@ -1,0 +1,64 @@
+{
+  "id": "fbc0-10db-204-9142",
+  "UnitName": "Regimental Preacher",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1b38-efb9-5c45-f30c",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- Cadian Shock Troops\r\n- Catachan Jungle Fighters\r\n- Death Korps of Krieg\r\n- Infantry Squad\r\n- Kasrkin\r\n- Tempestus Scions"
+    },
+    {
+      "Id": "4d55-ded7-a541-492f",
+      "AbilityName": "War Hymns",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "1b3d-358b-34c4-73",
+      "AbilityName": "Holy Piety",
+      "AbilityText": "Each time this model makes a melee attack, unless this model’s unit is Battle-shocked, you can re-roll the Hit roll"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8616-4949-d2b4-e2c9",
+      "WeaponName": "Holy Pistol",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "7fb3-3f5d-ec04-164c",
+      "WeaponName": "Autogun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "6511-f3af-4a02-fff8",
+      "WeaponName": "Preacher Shotgun",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": []
+}

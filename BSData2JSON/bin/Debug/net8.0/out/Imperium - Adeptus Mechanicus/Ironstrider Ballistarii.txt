@@ -1,0 +1,48 @@
+{
+  "id": "d167-10dc-5abd-d01a",
+  "UnitName": "Ironstrider Ballistarii",
+  "Movement": "10\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "73f8-f7d8-641f-90ca",
+      "AbilityName": "Elevated Strider",
+      "AbilityText": "This unit is eligible to shoot in a turn in which it Fell Back or Advanced, and you can re-roll Desperate Escape tests taken for models in this unit."
+    },
+    {
+      "Id": "0f3a-39ef-62b9-5b76",
+      "AbilityName": "Broad Spectrum Data-tether",
+      "AbilityText": "Each time you select this unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b102-f53d-9159-72b4",
+      "WeaponName": "Twin cognis autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Sustained Hits 1, Twin-linked"
+    },
+    {
+      "id": "cc50-54e8-9816-7a1c",
+      "WeaponName": "Twin cognis lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Sustained Hits 1, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

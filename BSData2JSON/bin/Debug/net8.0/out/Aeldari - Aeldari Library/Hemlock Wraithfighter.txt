@@ -1,0 +1,42 @@
+{
+  "id": "fe64-d416-98f8-a455",
+  "UnitName": "Hemlock Wraithfighter",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6723-452c-f397-3431",
+      "AbilityName": "Mindshock Pod (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a9ec-e576-4eb4-a235",
+      "WeaponName": "Heavy D-Scythe",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "2",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1037-8981-d5d1-7918",
+      "WeaponName": "Hemlock Wraithfighter",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

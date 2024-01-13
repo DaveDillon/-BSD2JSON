@@ -1,0 +1,76 @@
+{
+  "id": "5386-42fc-f4d0-7d64",
+  "UnitName": "Allarus Custodians",
+  "Movement": "5\"",
+  "Toughness": "7",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d569-61db-406d-1d42",
+      "AbilityName": "Slayers of Tyrants",
+      "AbilityText": "Each time a model in this unit makes an attack that targets a CHARACTER, MONSTER or VEHICLE unit, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "0a36-c494-baad-91db",
+      "AbilityName": "From Golden Light",
+      "AbilityText": "Once per battle, at the end of your opponent's turn, if this unit is not whithin Engagement Range of one or more enemy units, you can remove it from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ea05-b86a-223e-6ffe",
+      "WeaponName": "Guardian Spear",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "76c0-ea97-5a33-2b52",
+      "WeaponName": "Castellan Axe",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "37d5-f2f2-cfed-7ab1",
+      "WeaponName": "Guardian Spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "1fde-760c-17e2-4fd1",
+      "WeaponName": "Castellan Axe",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "6fed-22cf-99ad-96c2",
+      "WeaponName": "Misericordia",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

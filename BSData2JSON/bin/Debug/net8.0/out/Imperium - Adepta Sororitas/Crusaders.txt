@@ -1,0 +1,20 @@
+{
+  "id": "7623-c20e-f284-39d9",
+  "UnitName": "Crusaders",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "Models in this unit have an Invulnerable save of 4+.",
+  "Abilities": [
+    {
+      "Id": "3a47-84c9-767e-fe13",
+      "AbilityName": "Spiritual Fortitude",
+      "AbilityText": "While a MISSIONARY or PREACHER model is leading this unit, models in this unit have the Feel No Pain 4+ ability against mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

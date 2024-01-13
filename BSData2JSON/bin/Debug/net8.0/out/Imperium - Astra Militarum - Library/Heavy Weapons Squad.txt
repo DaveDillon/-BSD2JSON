@@ -1,0 +1,20 @@
+{
+  "id": "7d4a-c150-39c3-b89d",
+  "UnitName": "Heavy Weapons Squad",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3b80-3fee-3cf7-9bb",
+      "AbilityName": "Covering Fire",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or on unmodified Hit rolls of 4+ instead if this unit is within 6\" of one or more friendly Platoon units."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

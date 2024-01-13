@@ -22,7 +22,7 @@
     {
       "Id": "cf8c-292d-1477-cc54",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ TRAITOR GUARDSMEN SQUAD\n■ RENEGADE HEAVY WEAPONS SQUAD"
+      "AbilityText": "This model can be attached to the following units:\r\n■ TRAITOR GUARDSMEN SQUAD\r\n■ RENEGADE HEAVY WEAPONS SQUAD"
     }
   ],
   "RangedSkills": [

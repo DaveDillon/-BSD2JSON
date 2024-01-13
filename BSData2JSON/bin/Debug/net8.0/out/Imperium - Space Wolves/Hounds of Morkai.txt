@@ -1,0 +1,47 @@
+{
+  "id": "722a-5e29-9d6f-61b1",
+  "UnitName": "Hounds of Morkai",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 6+ invulnerable save. This invulnerable save is improved to 4+ against Psychic Attacks.",
+  "Abilities": [
+    {
+      "Id": "1036-9395-903e-6420",
+      "AbilityName": "Morkai’s Howl",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 12\" of this unit (if a LIEUTENANT IN REIVER ARMOUR is leading this unit, you can select one enemy unit within 18\" instead). That unit must take a Battle-shock test, subtracting 1 from the result if it is a PSYKER unit. If that test is failed, in addition to being Battle-shocked, that unit is Stunned until the start of your next Shooting phase. While a unit is Stunned, each time a model in that unit makes a Psychic Attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "ade8-4dc6-a974-5ce8",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a CHARACTER unit from your army with the Leader ability can be attached to a REIVER SQUAD, it can instead be attached to this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f039-e1f4-5f8c-5186",
+      "WeaponName": "Morkai bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-PSYKER 4+, Devastating Wounds, Pistol, Precision"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "93f7-621c-4923-8d77",
+      "WeaponName": "Morkai combat knife",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

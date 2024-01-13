@@ -12,7 +12,7 @@
     {
       "Id": "2e18-73a0-a8ca-130d",
       "AbilityName": "Guerrilla Tactics",
-      "AbilityText": "At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy models, you can remove this unit from the battlefield and place it into\nStrategic Reserves."
+      "AbilityText": "At the end of your opponent’s turn, if this unit is more than 6\" away from all enemy models, you can remove this unit from the battlefield and place it into\r\nStrategic Reserves."
     }
   ],
   "RangedSkills": [

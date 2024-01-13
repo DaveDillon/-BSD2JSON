@@ -1,0 +1,44 @@
+{
+  "id": "669e-53ad-e9a6-c970",
+  "UnitName": "Daemonifuge",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this units have an Invulnerable save of 4+",
+  "Abilities": [
+    {
+      "Id": "4851-2e87-7de3-f265",
+      "AbilityName": "Holy Judgement",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 12\" of and visible to Ephrael Stern. That unit must take a Leadership test, subtracting 2 from the result if it is a Chaos unit. If the test is failed, that enemy unit suffers 3 mortal wounds."
+    },
+    {
+      "Id": "6a83-9f06-f020-25bf",
+      "AbilityName": "Mysterious Savious",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "76d3-4d01-3b30-62c4",
+      "WeaponName": "Sanctity",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "c12e-e65d-d748-7a97",
+      "WeaponName": "The Outcast's Blades",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

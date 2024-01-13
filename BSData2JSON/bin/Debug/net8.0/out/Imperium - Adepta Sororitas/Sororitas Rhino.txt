@@ -1,0 +1,63 @@
+{
+  "id": "57d4-7917-5095-e513",
+  "UnitName": "Sororitas Rhino",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fb9d-4606-f887-5967",
+      "AbilityName": "Transport",
+      "AbilityText": "This model has a transport capacity of 12 ADEPTA SORORITAS INFANTRY models. It cannot transport JUMP PACK models or\r\nthe Triumph of Saint Katherine."
+    },
+    {
+      "Id": "9627-db7d-202c-4bfb",
+      "AbilityName": "Transport",
+      "AbilityText": "This model has a transport capacity of 12 ADEPTA SORORITAS INFANTRY models. It cannot transport JUMP PACK models or the Triumph of Saint Katherine."
+    },
+    {
+      "Id": "2ef3-61bf-fe5-434c",
+      "AbilityName": "Emergency Combat Embarkation",
+      "AbilityText": "Once per turn, in your opponent’s Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one ADEPTA SORORITAS unit from your army that was selected as a target of that charge. Provided that unit is not within Engagement Range of any enemy units and every model in that unit is within 3\" of this TRANSPORT, it can embark within this TRANSPORT."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "214c-3b92-3367-a74e",
+      "WeaponName": "Heavy flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "5c8f-4727-31c9-c590",
+      "WeaponName": "Repressor twin heavy flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "89b9-db4e-224f-961c",
+      "WeaponName": "Dozer Ram",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

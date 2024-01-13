@@ -1,0 +1,56 @@
+{
+  "id": "79e8-a88c-ad73-2a94",
+  "UnitName": "Tormentbringer on Exalted Seeker Chariot",
+  "Movement": "14\"",
+  "Toughness": "6",
+  "Save": "5+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "6563-fd19-91d4-8074",
+      "AbilityName": "Tormentbringer (Aura)",
+      "AbilityText": "While a friendly SLAANESH LEGIONES DAEMONICA unit is within 6\" of this model, melee weapons in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "a132-d15f-e3fb-346c",
+      "AbilityName": "Hysterical Frenzy (Psychic)",
+      "AbilityText": "Once per Fight phase, just after an enemy unit selects a SLAANESH LEGIONES DAEMONICA unit from your army as a target, one friendly PSYKER that is within 6\" of that SLAANESH unit and has this ability can use it. If it does, until the end of the phase, each time a model in that SLAANESH unit is destroyed, roll one D6: on a 4+, do not remove it from play. That model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "60ae-8126-dd79-982b",
+      "WeaponName": "Lashes of torment",
+      "Range": "6\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 3+, Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "93f2-bbc6-9ff0-ef4a",
+      "WeaponName": "Exalted Seeker tongues",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7acd-df2-bb6a-275b",
+      "WeaponName": "Ravaging claws",
+      "Attacks": "15",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "b9d4-b41a-28ae-aa30",
+  "UnitName": "Support Weapons",
+  "Movement": "3\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "eea2-9d2e-6356-4f46",
+      "AbilityName": "Artillery Barrage",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit (excluding MONSTER and VEHICLE units) that was hit by one or more of those attacks. Until the start of your next turn, while this unit is on the battlefield, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d3cc-2057-4c39-d51d",
+      "WeaponName": "Shadow weaver",
+      "Range": "48\"",
+      "Attacks": "D6+2",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds, Heavy, Indirect Fire"
+    },
+    {
+      "id": "d9b1-ed33-1704-82b",
+      "WeaponName": "D-cannon",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2",
+      "Text": "Blast, Devastating Wounds, Heavy, Indirect Fire"
+    },
+    {
+      "id": "c672-7257-4e93-1c05",
+      "WeaponName": "Vibro Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy"
+    },
+    {
+      "id": "7fe1-79a6-355d-ddf1",
+      "WeaponName": "Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3537-9388-7bb2-9696",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "49a1-f5d-c162-cd36",
+  "UnitName": "Foetid Bloat-drone",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "b2e1-4694-48b-7f46",
+      "AbilityName": "Hovering Death",
+      "AbilityText": "This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bc31-b203-f752-9c5d",
+      "WeaponName": "Heavy blight launcher",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Lethal Hits"
+    },
+    {
+      "id": "eb42-265a-1ce3-6c97",
+      "WeaponName": "Plaguespitter",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3438-f1fa-5a60-61b3",
+      "WeaponName": "Plague probe",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7a47-b8d5-50a1-a51f",
+      "WeaponName": "Fleshmower",
+      "Attacks": "10",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

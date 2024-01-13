@@ -1,0 +1,78 @@
+{
+  "id": "514c-bed8-b9d3-7e0f",
+  "UnitName": "Lord of Change",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "6+",
+  "Wounds": "18",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "36a5-9438-9d6f-b0d7",
+      "AbilityName": "Daemon Lord of Tzeentch (Aura)",
+      "AbilityText": "While a friendly TZEENTCH LEGIONES DAEMONICA unit is within 6\" of this model, each time a model in that unit makes a ranged attack, add 1 to the Strength characteristic of that attack."
+    },
+    {
+      "Id": "6aa0-e151-22f-8d66",
+      "AbilityName": "Master of Magicks (Psychic)",
+      "AbilityText": "In your Shooting phase, select one of the following abilities: [IGNORES COVER]; [LETHAL HITS]; [SUSTAINED HITS D3]. Until the end of the phase, this model’s Bolt of Change has that ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "896c-f294-b33b-5637",
+      "WeaponName": "Bolt of Change",
+      "Range": "18\"",
+      "Attacks": "9",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "669a-8c3e-d90a-8a71",
+      "WeaponName": "Bolt of Change",
+      "Range": "18\"",
+      "Attacks": "9",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Hazardous, Psychic"
+    },
+    {
+      "id": "799-d455-b0a9-a9b1",
+      "WeaponName": "Rod of sorcery",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3acd-48e5-e34b-b98c",
+      "WeaponName": "Staff of Tzeentch",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "ccc4-dc6c-e8f0-f374",
+      "WeaponName": "Baleful sword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

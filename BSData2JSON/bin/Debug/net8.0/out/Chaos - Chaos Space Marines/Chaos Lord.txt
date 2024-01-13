@@ -12,17 +12,17 @@
     {
       "Id": "d0c2-c293-3921-2275",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES"
     },
     {
       "Id": "65b0-1aae-9190-2d6e",
       "AbilityName": "Chance for Glory",
-      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, improve the Strength, Attacks, Armour\nPenetration and Damage characteristics of melee weapons equipped by this model by 1."
+      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, improve the Strength, Attacks, Armour\r\nPenetration and Damage characteristics of melee weapons equipped by this model by 1."
     },
     {
       "Id": "257a-37b6-4155-9e35",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHOSEN\n■ LEGIONARIES\n■ PLAGUE MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ PLAGUE MARINES"
     },
     {
       "Id": "f6e0-919a-edb9-cf88",
@@ -32,7 +32,7 @@
     {
       "Id": "d341-9ddf-6c27-7710",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHOSEN\n■ LEGIONARIES\n■ RUBRIC MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ RUBRIC MARINES"
     },
     {
       "Id": "90fa-2921-2676-8ef2",
@@ -42,7 +42,7 @@
     {
       "Id": "a95e-1bbe-8a69-fb65",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHAOS BIKERS\n■ KHORNE BERSERKERS"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHAOS BIKERS\r\n■ KHORNE BERSERKERS"
     },
     {
       "Id": "31a3-c206-25b0-1bdd",
@@ -52,7 +52,7 @@
     {
       "Id": "53e6-26a4-2db4-2769",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHAOS BIKERS"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHAOS BIKERS"
     },
     {
       "Id": "9b52-dd5f-4634-cd81",

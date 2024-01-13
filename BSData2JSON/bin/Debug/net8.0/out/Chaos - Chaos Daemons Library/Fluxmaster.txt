@@ -1,0 +1,35 @@
+{
+  "id": "8746-ab0d-34d-77b9",
+  "UnitName": "Fluxmaster",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "57a0-377c-e548-376",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ PINK HORRORS\r\n■ BLUE HORRORS"
+    },
+    {
+      "Id": "4f3e-74ec-5c46-1fea",
+      "AbilityName": "Fluxmaster",
+      "AbilityText": "While this model is leading a unit, each time an attack is made against that unit, subtract 1 form the Hit roll."
+    },
+    {
+      "Id": "8ed5-4270-6a08-16d2",
+      "AbilityName": "Altered Reality (Psychic)",
+      "AbilityText": "Once per battle round, after a Hit roll, a Wound roll or a saving throw is made for this model, you can change the result of that roll to a 6."
+    },
+    {
+      "Id": "471e-5e4b-fba7-1463",
+      "AbilityName": "Invulnerable Save: Fluxmaster",
+      "AbilityText": "This model has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

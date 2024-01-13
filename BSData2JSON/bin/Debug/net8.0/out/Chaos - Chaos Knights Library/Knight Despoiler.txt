@@ -1,0 +1,35 @@
+{
+  "id": "8eb7-f737-7228-1ba4",
+  "UnitName": "Knight Despoiler",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "246f-e1c4-6335-20d1",
+      "AbilityName": "Dread Dominion (Aura)",
+      "AbilityText": "While a friendly WAR DOG is within 9\" of this model, each time that WAR DOG takes a Battle-shock test, add 1 to that test."
+    },
+    {
+      "Id": "8d65-776a-67a4-e925",
+      "AbilityName": "Seething Hatred",
+      "AbilityText": "Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "c9d8-2338-850e-45c6",
+      "WeaponName": "Titanic feet",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

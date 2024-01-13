@@ -1,0 +1,63 @@
+{
+  "id": "5b1c-f22a-438d-be29",
+  "UnitName": "Coteaz",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "7473-5420-18f-e831",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMPERIUM BATTLELINE INFANTRY\r\n■ INQUISTORIAL HENCHMEN"
+    },
+    {
+      "Id": "3236-3866-ec87-2be6",
+      "AbilityName": "Malefic Wardings (Psychic)",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against Psychic Attacks and attacks made by DAEMON models."
+    },
+    {
+      "Id": "19cd-fd4e-a442-e532",
+      "AbilityName": "Spy Network",
+      "AbilityText": "Each time your opponent gains a CP as the result of an ability, roll one D6: on a 2+, you also gain 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "cde3-1720-9bc2-2579",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "66ba-5f51-fb20-931d",
+      "WeaponName": "Psychic Blast",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9198-35a0-5e96-c4d0",
+      "WeaponName": "Nemesis daemon hammer",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    }
+  ]
+}

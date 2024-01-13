@@ -1,0 +1,40 @@
+{
+  "id": "f797-f718-df7d-8545",
+  "UnitName": "Darnath Lysander",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fd8a-2e51-e8c6-b34d",
+      "AbilityName": "Icon of Obstinacy",
+      "AbilityText": "While this model is leading a unit, each time an attack targets that unit, if the Strength characteristic of that attack is greater than or equal to the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "d463-8c1e-f1ef-ce55",
+      "AbilityName": "Rampart",
+      "AbilityText": "Once per battle, at the start of any phase, this model can use this ability. If it does, until the end of the phase, this model has a 2+ invulnerable save."
+    },
+    {
+      "Id": "e9c8-e6ff-83d4-afee",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Relic Terminator Squad\r\n■ Terminator Assault Squad\r\n■ Terminator Squad"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "2ac6-e240-55c0-1e34",
+      "WeaponName": "Fist of Dorn",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    }
+  ]
+}

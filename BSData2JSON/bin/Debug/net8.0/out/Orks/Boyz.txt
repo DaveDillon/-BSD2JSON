@@ -1,0 +1,74 @@
+{
+  "id": "1c75-96a5-5598-2cd",
+  "UnitName": "Boyz",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ab60-c8c9-453a-2345",
+      "AbilityName": "Breakin’ Heads",
+      "AbilityText": "While a WARBOSS model is leading this unit, in your Command phase, the first time a Battle-shock test is failed for this unit that phase, if it is within range of an objective marker, you can choose to break some heads. If you do, 1 Bodyguard model in this unit is destroyed and you can re-roll that test."
+    },
+    {
+      "Id": "4e0-4f2f-eacc-24a0",
+      "AbilityName": "Bodyguard",
+      "AbilityText": "If this unit has a Starting Strength of 20, you can attach up to two Leader units to it instead of one (but only if one of those is a WARBOSS model). If you do, and this unit is destroyed, the Leader units attached to it become separate units with their original Starting Strengths."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bcc2-cc85-b6f1-b477",
+      "WeaponName": "Shoota",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f7b-c1e8-b545-ed0e",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b6a8-5acb-8706-1b87",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e51f-3b82-1ab8-7e82",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e872-c88e-8d0c-f493",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

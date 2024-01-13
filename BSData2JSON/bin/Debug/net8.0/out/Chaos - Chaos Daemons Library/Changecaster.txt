@@ -1,0 +1,35 @@
+{
+  "id": "2375-a41b-a24f-74c5",
+  "UnitName": "Changecaster",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5842-bfd2-5eaa-93ea",
+      "AbilityName": "Changecaster",
+      "AbilityText": "While this model is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "62b8-c884-90d2-ab1f",
+      "AbilityName": "Storm of Mutating Sorcery (Psychic)",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy Infantry unit hit by one or more of those attacks. That unit must take a Battle-shock test."
+    },
+    {
+      "Id": "5fe7-3f48-2f6c-bd62",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ PINK HORRORS\r\n■ BLUE HORRORS"
+    },
+    {
+      "Id": "e256-bca1-c8b0-9997",
+      "AbilityName": "Invulnerable Save: Changecaster",
+      "AbilityText": "This model has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

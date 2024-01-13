@@ -1,0 +1,98 @@
+{
+  "id": "d9f7-bb41-2ea2-29a4",
+  "UnitName": "Big Gunz",
+  "Movement": "3\"",
+  "Toughness": "4",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3ea8-263-81a7-60fe",
+      "AbilityName": "Splat!",
+      "AbilityText": "Each time a model in this unit makes a ranged attack that targets a unit containing 10 or more models, re-roll a Hit roll of 1."
+    },
+    {
+      "Id": "53a5-2ff7-9371-cc94",
+      "AbilityName": "Big Gunz",
+      "AbilityText": "Designer’s Note: Place two Grot Crew tokens next to each Mek Gun model when this unit is first set up, removing one each time its Big Gun model loses a wound (a Big Gun model itself is considered to represent its final wound)."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "791d-6ad8-dc07-f99",
+      "WeaponName": "Kannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "6+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "d00a-dbd0-93ba-f6eb",
+      "WeaponName": "Kannon",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "6+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Heavy"
+    },
+    {
+      "id": "fe32-9795-75ba-1e8f",
+      "WeaponName": "Lobba",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "6+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "bdb3-7a52-dd62-3f72",
+      "WeaponName": "Zzap gun",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "6+",
+      "Strength": "2D6",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Devastating Wounds, Heavy"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e44c-acad-f7c7-2bf",
+      "WeaponName": "Close combat weapons",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "84f-e1f5-8ef0-ba9a",
+      "WeaponName": "Close combat weapons",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3032-5950-3ea4-db07",
+      "WeaponName": "Close combat weapons",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

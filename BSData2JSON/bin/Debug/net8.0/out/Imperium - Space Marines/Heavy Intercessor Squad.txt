@@ -12,7 +12,7 @@
     {
       "Id": "a59e-1577-d519-dcc2",
       "AbilityName": "Unyielding in the Face of the Foe",
-      "AbilityText": "While this unit is within range of an objective marker you control, each time an attack with a Damage characteristic of 1 is allocated to a model in \nthis unit, add 1 to any armour saving throw made against that attack."
+      "AbilityText": "While this unit is within range of an objective marker you control, each time an attack with a Damage characteristic of 1 is allocated to a model in \r\nthis unit, add 1 to any armour saving throw made against that attack."
     }
   ],
   "RangedSkills": [

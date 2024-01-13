@@ -1,0 +1,58 @@
+{
+  "id": "7f34-c3ed-cc4b-a273",
+  "UnitName": "Ravenwing Dark Talon",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "4821-326d-103b-a38c",
+      "AbilityName": "Stasis Bomb",
+      "AbilityText": "Once per battle, after this model ends a Normal move, you can select one enemy unit (excluding Aircraft) it moved over this phase. That unit suffers D3 mortal wounds and you must roll one D6: on a 1-3, that unit cannot Advance or Fall Back in your opponent’s next Movement phase; on a 4-6, that unit must Remain Stationary in your opponent’s next Movement phase."
+    },
+    {
+      "Id": "c8eb-9594-8256-8c40",
+      "AbilityName": "DAMAGED: 1-3 WOUNDS REMAINING",
+      "AbilityText": "While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "61b-8473-2e5a-ff5e",
+      "WeaponName": "Hurricane bolter",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 6, Twin-Linked"
+    },
+    {
+      "id": "96ce-acc2-fe8d-f7e1",
+      "WeaponName": "Rift cannon",
+      "Range": "18\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "3",
+      "Text": "Blast, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2bf-8f35-b42-c432",
+      "WeaponName": "Armoured Hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

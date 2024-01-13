@@ -1,0 +1,79 @@
+{
+  "id": "5c24-4529-89d6-8139",
+  "UnitName": "Achilles Ridgerunners",
+  "Movement": "12\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "8",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "db52-3838-1974-508f",
+      "AbilityName": "Flare Launcher",
+      "AbilityText": "The bearer’s unit has the SMOKE keyword"
+    },
+    {
+      "Id": "1384-e4e8-a223-948f",
+      "AbilityName": "Spotter",
+      "AbilityText": "The bearer’s ranged weapons have a Ballistic Skill characteristic of 3+."
+    },
+    {
+      "Id": "9cd2-9285-328c-2b1",
+      "AbilityName": "Survey Augur",
+      "AbilityText": "Each time the bearer’s unit has shot, select one enemy unit that was hit by one or more attacks made by the bearer this phase. Until the end of the phase, each time a friendly GENESTEALER CULTS model makes an attack against that unit, that attack has the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "672c-fcd1-2183-179c",
+      "AbilityName": "Crossfire",
+      "AbilityText": "Each time this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly GENESTEALER CULTS unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per phase"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "445c-216b-baa5-214",
+      "WeaponName": "Achilles Missile Launcher",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "ea6f-9f30-3a62-379",
+      "WeaponName": "Heavy Mortar",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "de2a-3439-ed47-c77c",
+      "WeaponName": "Twin Heavy Stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked, Rapid Fire 3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "178-e832-5837-5f5",
+      "WeaponName": "Ridgerunner Wheels",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

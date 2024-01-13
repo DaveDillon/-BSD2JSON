@@ -1,0 +1,76 @@
+{
+  "id": "ae9d-f74f-769c-5fc",
+  "UnitName": "Ghazghkull Thraka",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2f00-e987-7aef-ca5d",
+      "AbilityName": "Supreme Commander",
+      "AbilityText": "If this unit is in your army, its Ghazghkull Thraka model must be your WARLORD."
+    },
+    {
+      "Id": "1f74-9a0a-cff7-fc6e",
+      "AbilityName": "Prophet of Da Great Waaagh!",
+      "AbilityText": "While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll."
+    },
+    {
+      "Id": "da6a-e2b0-b8db-f3b3",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following unit:\r\n- MEGANOBZ\r\nIf this unit’s Bodyguard unit is destroyed, Ghazghkull Thraka and Makari become a single unit with their original Starting Strength."
+    },
+    {
+      "Id": "931a-8c1c-92fc-cba",
+      "AbilityName": "Ghazghkull’s Waaagh! Banner (Aura)",
+      "AbilityText": "While a friendly ORKS unit is within 12\" of Makari, if you have called a Waaagh! this battle round, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
+    },
+    {
+      "Id": "f19f-2f59-7438-c554",
+      "AbilityName": "Invulnerable Save (4+): Ghazghkull",
+      "AbilityText": "This model has a 4+ invulnerable save."
+    },
+    {
+      "Id": "4f84-fb39-6ffe-dc16",
+      "AbilityName": "Invulnerable Save (2+*): Makari",
+      "AbilityText": "This model has a 2+ invulnerable save. You cannot re-roll invulnerable saving throws made for this model."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2b34-6be2-6c96-75de",
+      "WeaponName": "Mork’s Roar",
+      "Range": "36\"",
+      "Attacks": "12",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 4"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e688-c82d-9852-48ab",
+      "WeaponName": "Gork’s Klaw",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "4"
+    },
+    {
+      "id": "7758-d06f-5fe6-54ff",
+      "WeaponName": "Makari’s stabba",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "4554-88b1-466c-d9f5",
+  "UnitName": "Wolf Guard Terminators",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b2ea-319f-b86-ab13",
+      "AbilityName": "Wolf Guard",
+      "AbilityText": "Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack’s Ballistic Skill or Weapon Skill characteristic and/or to the hit roll. In addition, each time a model in this unit makes an attack that targets the enemy unit you selected for the Oath of Moment ability this turn, add 1 to the Hit roll."
+    },
+    {
+      "Id": "1015-2eca-30e1-61b4",
+      "AbilityName": "Attached Leaders",
+      "AbilityText": "If a CHARACTER unit from your army with the Leader ability can be attached to a TERMINATOR SQUAD, it can instead be attached to this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3b72-1618-bf67-a6cb",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "4266-fe62-85e3-497f",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": []
+}

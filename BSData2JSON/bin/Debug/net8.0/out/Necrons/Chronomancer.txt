@@ -1,0 +1,76 @@
+{
+  "id": "1ea8-946a-4ac8-a74f",
+  "UnitName": "Chronomancer",
+  "Movement": "5\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4c02-411-e9be-6773",
+      "AbilityName": "Master Chronomancer",
+      "AbilityText": "While this model is leading a unit, models in that unit have a 4+ invulnerable save."
+    },
+    {
+      "Id": "7003-283b-1b84-c602",
+      "AbilityName": "The Stars Are Right",
+      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, triple the Attacks and Strength characteristics of this model’s Staff of Tomorrow and every successful Wound roll made for this model’s attacks scores a Critical Wound."
+    },
+    {
+      "Id": "b567-98ec-597b-f8c9",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMMORTALS\r\n■ NECRON WARRIORS\r\nYou can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "62a7-3930-9c4b-1e98",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMMORTALS\r\n■ NECRON WARRIORS\r\nYou can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "5d95-fc94-f268-c2ac",
+      "AbilityName": "Timesplinter Mantle",
+      "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "eb1e-dd99-1745-54b2",
+      "AbilityName": "Chronometron",
+      "AbilityText": "In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 5\". If it does, until the end of the turn, that unit is not eligible to declare a charge."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6c9d-d231-c92e-45fa",
+      "WeaponName": "Chronomancer's stave",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e091-87a3-25fd-3d92",
+      "WeaponName": "Staff of Tomorrow",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "D3"
+    },
+    {
+      "id": "e665-4c61-8e94-15a0",
+      "WeaponName": "Chronomancer's stave",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

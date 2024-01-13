@@ -1,0 +1,63 @@
+{
+  "id": "2429-e1e2-64a3-acb",
+  "UnitName": "Munitorum Servitors",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "75cb-f288-a178-f6bb",
+      "AbilityName": "Mindlock",
+      "AbilityText": "While a friendly Regimental Enginseer model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Munitorum Servitor models in this unit by 1."
+    },
+    {
+      "Id": "4b58-b822-1eee-335b",
+      "AbilityName": "Servitor Retinue",
+      "AbilityText": "At the start of the Declare Battle Formations step, this unit can join one other unit from your army that is being led by a Regimental Enginseer (a unit cannot have more than one Munitorum Servitors unit joined to it). If it does, until the end of the battle, every model in this unit counts as being part of that Bodyguard unit, and that Bodyguard unit’s Starting Strength is increased accordingly."
+    },
+    {
+      "Id": "aed9-b8e7-403f-15cb",
+      "AbilityName": "Invulnerable Save 6+: Munitorum Servitors",
+      "AbilityText": ""
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e888-8995-1e9d-218c",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "6+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Sustained Hits 1"
+    },
+    {
+      "id": "e598-68ce-94ee-7592",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "6+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Heavy, Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a02c-132c-c5ed-f928",
+      "WeaponName": "Servitor's Servo Arm",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

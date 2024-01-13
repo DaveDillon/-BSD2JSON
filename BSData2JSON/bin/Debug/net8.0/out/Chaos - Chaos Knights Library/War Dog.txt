@@ -1,0 +1,122 @@
+{
+  "id": "99dc-0f47-85e2-75da",
+  "UnitName": "War Dog",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7e36-46d2-4914-c4af",
+      "AbilityName": "Executioner",
+      "AbilityText": "Each time this model makes an attack that targets a unit Below Half-strength, add 1 to the Hit roll."
+    },
+    {
+      "Id": "56bf-6bad-83b7-3a78",
+      "AbilityName": "Stalker",
+      "AbilityText": "Each time this model makes an attack that targets an enemy unit, if there are no other units from your opponent’s army within 6\" of that target, add 1 to the Wound roll."
+    },
+    {
+      "Id": "dec4-f0af-5aee-9e79",
+      "AbilityName": "Karnivore",
+      "AbilityText": "You can re-roll Charge rolls made for this model."
+    },
+    {
+      "Id": "34ad-4a93-4309-03bd",
+      "AbilityName": "Brigand",
+      "AbilityText": "Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "6e59-6cc9-5270-3482",
+      "AbilityName": "Huntsman",
+      "AbilityText": "Each time this model makes an attack against a MONSTER or VEHICLE unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1."
+    },
+    {
+      "Id": "5f6b-e13c-2fb2-fdf7",
+      "AbilityName": "Protection Protocols",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem\r\nthis phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ffca-811e-9ca8-4222",
+      "WeaponName": "War Dog autocannon",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "2b0c-2aed-a612-c979",
+      "WeaponName": "Volkite veuglaire",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "e57-c0ec-4b65-d00c",
+      "WeaponName": "Conversion beam cannon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Conversion, Sustained Hits D3"
+    },
+    {
+      "id": "3558-5e50-322f-9ee6",
+      "WeaponName": "Graviton pulsar",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-VEHICLE 2+, Blast"
+    },
+    {
+      "id": "70e1-fd77-4d20-ef15",
+      "WeaponName": "Lightning lock",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Sustained Hits 2"
+    },
+    {
+      "id": "5721-8708-9e4f-d38b",
+      "WeaponName": "Siege claw and rad cleanser",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "97aa-6682-f52e-376f",
+      "WeaponName": "Siege claw and rad cleanser",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2"
+    }
+  ]
+}

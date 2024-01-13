@@ -1,0 +1,45 @@
+{
+  "id": "f043-abd2-a30c-d77b",
+  "UnitName": "Epidemius",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "6+",
+  "Wounds": "8",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1a1b-d519-cc19-7bf",
+      "AbilityName": "Invulnerable Save: Epidemius",
+      "AbilityText": "This model has a 5+ invulnerable save."
+    },
+    {
+      "Id": "ef8b-acf9-5073-7b2a",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUEBEARERS"
+    },
+    {
+      "Id": "89bf-e6e6-eb77-b355",
+      "AbilityName": "Blessed by the Plague God",
+      "AbilityText": "While this model is leading a unit, models in that unit have a 4+ invulnerable save."
+    },
+    {
+      "Id": "2e37-6a71-5941-d4c7",
+      "AbilityName": "Tally of Pestilence",
+      "AbilityText": "Keep a tally of how many enemy models are destroyed by NURGLE LEGIONES DAEMONICA models from your army during the battle. At the start of your Command phase, if this tally is 7 or more, you gain 1CP and the tally is reset to 0."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8cb7-cc2c-1c6b-e654",
+      "WeaponName": "Balesword and nurgling attendants",
+      "Attacks": "D6+3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

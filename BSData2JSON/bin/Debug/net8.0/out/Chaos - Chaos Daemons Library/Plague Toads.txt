@@ -1,0 +1,47 @@
+{
+  "id": "b3ce-e371-5841-1ced",
+  "UnitName": "Plague Toads",
+  "Movement": "7\"",
+  "Toughness": "8",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "fc90-521d-274b-983",
+      "AbilityName": "Grandfather's Blessing",
+      "AbilityText": "If a model from your army with the Leader ability can be attached to a BEASTS OF NURGLE unit, it can be attached to this unit instead."
+    },
+    {
+      "Id": "387b-eef6-e4eb-6f6d",
+      "AbilityName": "Pouncing Leap",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b195-3b40-3e38-3a89",
+      "WeaponName": "Grasping tongue",
+      "Range": "9\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5ca4-d38b-8995-7ad9",
+      "WeaponName": "Yawning maw",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

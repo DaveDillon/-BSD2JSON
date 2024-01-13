@@ -1,0 +1,187 @@
+{
+  "id": "aa8f-199d-3d36-ad05",
+  "UnitName": "Reavers",
+  "Movement": "16\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 6+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "708e-8e09-3430-210a",
+      "AbilityName": "Cluster Caltrops",
+      "AbilityText": "Each time you roll to inflict wounds using this unit’s Eviscerating Fly-by ability, you can re-roll one D6 for each model in this unit equipped with cluster caltrops."
+    },
+    {
+      "Id": "20a7-4c48-44ae-642d",
+      "AbilityName": "Grav Talon",
+      "AbilityText": "The bearer’s melee weapons have the [LANCE] ability."
+    },
+    {
+      "Id": "34cd-164d-decf-7a31",
+      "AbilityName": "Eviscerating Fly-by",
+      "AbilityText": "Each time this unit ends a Normal move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move. If you do, roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "cf5a-6114-7963-cfba",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "b2ee-d034-7f0c-ce4c",
+      "WeaponName": "Splinter Rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault"
+    },
+    {
+      "id": "279d-98bf-5b55-6292",
+      "WeaponName": "Blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "944f-56c1-8fdf-417a",
+      "WeaponName": "Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3"
+    },
+    {
+      "id": "bd1c-3375-6601-b60a",
+      "WeaponName": "Splinter Rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault"
+    },
+    {
+      "id": "52ab-7999-368e-e7f5",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "cf99-94cc-99a2-7dfb",
+      "WeaponName": "Blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "284-d619-e84-11d5",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "c2b7-66c9-4f94-8298",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "535d-b608-3bf-c0ae",
+      "WeaponName": "Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7d98-b759-c347-34e7",
+      "WeaponName": "Agonizer",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "42e7-6d65-7632-1b3c",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2cf3-b9cd-1c58-8bf0",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7705-29b-2e3d-7ca4",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "27c5-dbd9-6c0b-287b",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "b3fc-3d75-4ff1-5210",
+  "UnitName": "Weirdboy",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "868c-1a68-5e06-694f",
+      "AbilityName": "Da Jump (Psychic)",
+      "AbilityText": "Once per turn, at the end of your Movement phase, one WEIRDBOY from your army can use this ability. If it does, roll one D6: on a 1, that WEIRDBOY’s unit suffers D6 mortal wounds; on a 2+, remove this WEIRDBOY’s unit from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    },
+    {
+      "Id": "b454-678a-aab4-1b51",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- BOYZ"
+    },
+    {
+      "Id": "3d7-ae1b-665a-9b15",
+      "AbilityName": "Waaagh! Energy",
+      "AbilityText": "While this model is leading a unit, add 1 to the Strength and Damage characteristics of this model’s ’Eadbanger weapon for every 5 models in that unit (rounding down), but while that unit contains 10 or more models, that weapon has the [HAZARDOUS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fe1c-1348-708f-3501",
+      "WeaponName": "’Eadbanger",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "1",
+      "Text": "Precision, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2fed-34ef-f6a9-91bf",
+      "WeaponName": "Weirdboy staff",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

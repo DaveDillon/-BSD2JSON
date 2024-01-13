@@ -1,0 +1,63 @@
+{
+  "id": "966f-9cb8-39fe-450",
+  "UnitName": "Malignant Plaguecaster",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "20c4-9b25-4f77-852e",
+      "AbilityName": "Gift of Contagion (Psychic)",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of and visible to this PSYKER and roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the start of your next Shooting phase, each time a model in that enemy unit makes a melee attack, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "4108-2036-c473-aa46",
+      "AbilityName": "Pestilent Fallout (Psychic)",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its Plague Wind scored a wound against an enemy Infantry unit,\r\nuntil the start of your next turn, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
+    },
+    {
+      "Id": "290-e59f-d3bd-9a68",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Plague Marines"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c194-926-96cb-fb88",
+      "WeaponName": "Plague Wind",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Psychic, Torrent"
+    },
+    {
+      "id": "1b9c-f8f2-1119-ba08",
+      "WeaponName": "Plague Wind",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Hazardous, Psychic, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "126f-1a5d-9f30-8b9e",
+      "WeaponName": "Corrupted staff",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

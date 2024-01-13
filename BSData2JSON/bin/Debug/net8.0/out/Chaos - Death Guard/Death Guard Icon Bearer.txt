@@ -1,0 +1,35 @@
+{
+  "id": "483a-2919-74ca-338e",
+  "UnitName": "Death Guard Icon Bearer",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b063-b5e6-8bb1-83ab",
+      "AbilityName": "Unclean Icon",
+      "AbilityText": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit."
+    },
+    {
+      "Id": "57f2-2abe-dcb7-2355",
+      "AbilityName": "Seed the Disease",
+      "AbilityText": "Once per battle, at the end of your Movement phase, this model can use this ability. If it does, until the start of your next Command phase, this model’s unit is treated as having a Contagion Range of 12\"."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "6a59-41ba-2f2e-a7cf",
+      "WeaponName": "Plague knife",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

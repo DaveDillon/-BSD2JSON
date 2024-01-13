@@ -1,0 +1,62 @@
+{
+  "id": "156f-46c9-de79-247",
+  "UnitName": "Hive Guard",
+  "Movement": "6\"",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a0c-34d4-cdc0-6e62",
+      "AbilityName": "Defensive Stance",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or unmodified Hit rolls of 4+ instead if this unit is within range of an objective marker that you control."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "45f-9c9d-ae1-c93",
+      "WeaponName": "Shockcannon",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Vehicle 2+"
+    },
+    {
+      "id": "4296-8153-4146-2d5d",
+      "WeaponName": "Impaler Cannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Heavy, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "eb70-9b6b-6bfd-e4bc",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "159-de40-be0e-b0d4",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

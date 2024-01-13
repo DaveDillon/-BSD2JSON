@@ -1,0 +1,171 @@
+{
+  "id": "bdab-20b8-9690-34e9",
+  "UnitName": "Exo-armour",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a732-854e-79cd-0b70",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- EINHYR HEARTHGUARD"
+    },
+    {
+      "Id": "cce9-1dea-2bfb-0600",
+      "AbilityName": "Exemplar of the Einhyr",
+      "AbilityText": "While this model is leading a unit, you can re-roll Charge rolls made for that unit."
+    },
+    {
+      "Id": "666a-1075-30da-e3d6",
+      "AbilityName": "Mass Driver Accelerators",
+      "AbilityText": "Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this unit and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "Id": "91da-72d3-657b-ee7c",
+      "AbilityName": "Oathband Bodyguard",
+      "AbilityText": "While a CHARACTER is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "80e8-8ec7-90b9-1310",
+      "AbilityName": "Teleport crest",
+      "AbilityText": "Models in the bearer's unit have the Deep Strike ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a304-241f-99a7-a25e",
+      "WeaponName": "Exo-armour grenade launcher",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "e492-d6ee-0f43-d25c",
+      "WeaponName": "EtaCarn plasma gun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "-"
+    },
+    {
+      "id": "7719-4e90-1159-c873",
+      "WeaponName": "Volkanite disintegrator",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "5ead-2661-5e20-b7a7",
+      "WeaponName": "Exo-armour grenade launcher",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "4c66-e6ad-ab81-625e",
+      "WeaponName": "EtaCarn plasma gun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "-"
+    },
+    {
+      "id": "cfee-7156-f665-8803",
+      "WeaponName": "Volkanite disintegrator",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "afc9-caae-2b68-5ef1",
+      "WeaponName": "Mass hammer",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "0337-ed2f-e579-4e50",
+      "WeaponName": "Darkstar axe",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "5976-f4e8-a531-171b",
+      "WeaponName": "Concussion gauntlet",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "8da5-d8bc-482d-40b8",
+      "WeaponName": "Plasma blade gauntlet",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "cf96-2e05-c068-8786",
+      "WeaponName": "Concussion hammer",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "5eea-db94-ce5d-9775",
+      "WeaponName": "Concussion gauntlet",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "dc04-dad0-f6e1-4bfe",
+      "WeaponName": "Plasma blade gauntlet",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

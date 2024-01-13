@@ -1,0 +1,83 @@
+{
+  "id": "73a4-b8d3-ec74-8604",
+  "UnitName": "Grimnyr",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "63d6-d6ef-a1e8-b3ac",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- HEARTHKYN WARRIORS"
+    },
+    {
+      "Id": "467f-6b90-9fac-e6bc",
+      "AbilityName": "Fortify (Psychic)",
+      "AbilityText": "While this model is leading a unit, improve the Toughness characteristic of models in that unit by 1."
+    },
+    {
+      "Id": "fed0-9336-a1da-52b5",
+      "AbilityName": "Grimnyr's Regard",
+      "AbilityText": "Once per battle, after this model’s unit fails a Battle-shock test, this model can use this ability. If it does, that unit is no longer Battle-shocked."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7f34-b139-ef92-1436",
+      "WeaponName": "Ancestral Wrath",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Psychic"
+    },
+    {
+      "id": "5833-d0a9-60c3-0f5a",
+      "WeaponName": "Ancestral Wrath",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Hazardous, Psychic"
+    },
+    {
+      "id": "81b3-47f1-6d38-51ff",
+      "WeaponName": "Autoch-pattern bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "bba0-9a1e-e6f2-5fda",
+      "WeaponName": "Ancestral ward stave",
+      "Attacks": "1",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "b217-9a60-3b17-869b",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

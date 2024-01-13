@@ -1,0 +1,20 @@
+{
+  "id": "72cd-6281-73a-e0fc",
+  "UnitName": "Warglaive",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4bac-5c2a-5e23-d586",
+      "AbilityName": "Impetuous Glory",
+      "AbilityText": "Each time this model makes a Charge move, until the end of the turn, melee weapons equipped by this model have the [SUSTAINED HITS 1] ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "d6f5-5eb6-8b62-2743",
+  "UnitName": "Painboy on Warbike",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e047-b811-687c-5ca1",
+      "AbilityName": "Hold Still and Say ‘Aargh!’",
+      "AbilityText": "Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds."
+    },
+    {
+      "Id": "29be-fef0-9928-331",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- WARBIKERS"
+    },
+    {
+      "Id": "b339-20ed-75ec-eea5",
+      "AbilityName": "Dok’s Toolz",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "d30e-a05e-d991-df1c",
+      "WeaponName": "Killsaw",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "2492-f573-2dda-2fd",
+  "UnitName": "Ynnari",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "ad26-a7ff-16a4-6aac",
+      "AbilityName": "Invulnerable Save (The Visarch)",
+      "AbilityText": "This unit has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "18b8-61e7-e1af-fca9",
+      "AbilityName": "Way of the Blade",
+      "AbilityText": "While this model is leading a unit, that unit has the Fights First ability"
+    },
+    {
+      "Id": "a75b-c4fb-aef5-6f32",
+      "AbilityName": "Champion of Ynnead",
+      "AbilityText": "Each time this model is selected to fight, select one of the abilities below for Asu-var, the Sword of Silent Screams, to gain until the end of the phase:\r\n■ [SUSTAINED HITS 2]\r\n■ [DEVASTATING WOUNDS]\r\n■ [LETHAL HITS]"
+    },
+    {
+      "Id": "b762-ef83-2f56-ded",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Corsair Voidreavers\r\n■ Corsair Voidscarred\r\n■ Guardian Defenders\r\n■ Kabalite Warriors (see Drukhari)\r\n■ Storm Guardians\r\n■ Troupe\r\n■ Wyches (see Drukhari)\r\nYou can attach this unit to one of the above units, even if \r\nYvraine has already been attached to it. If you do, and that \r\nBodyguard unit is destroyed, the Leader units attached to it \r\nbecome separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "f745-3962-462c-6d2f",
+      "AbilityName": "Inevitable Death",
+      "AbilityText": "Once per phase, if this model is on the battlefield, when another unit is destroyed, just after removing the last model in that unit, you can remove this model from the battlefield and set it up again as close as possible to where that destroyed model was and not within Engagement Range of any enemy models."
+    },
+    {
+      "Id": "49aa-52f1-6804-1302",
+      "AbilityName": "Deathly Form",
+      "AbilityText": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+    },
+    {
+      "Id": "b503-b878-bfec-c516",
+      "AbilityName": "Invulnerable Save (Yvraine)",
+      "AbilityText": "Yvraine has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "527b-7d13-b4d6-bf7d",
+      "AbilityName": "Herald of Ynnead",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability"
+    },
+    {
+      "Id": "24e0-70bd-c36-34e",
+      "AbilityName": "Word of the Phoenix (Psychic)",
+      "AbilityText": "While this model is leading a unit, in your Command phase, you can roll one D6: on a 2+, D3 destroyed Bodyguard models are returned to that unit."
+    },
+    {
+      "Id": "f2b9-a861-22b3-57e0",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Corsair Voidscarred\r\n■ Corsair Voidreavers\r\n■ Guardian Defenders\r\n■ Kabalite Warriors (see Drukhari)\r\n■ Storm Guardians\r\n■ Troupe\r\n■ Wyches (see Drukhari)"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7228-c0ff-4629-1b0",
+      "WeaponName": "Swirling soul energy",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Ignores Cover, Psychic, Torrent"
+    },
+    {
+      "id": "7218-5090-419f-a395",
+      "WeaponName": "Storm of Whispers",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Anti-Infantry 2+, Devastating Wounds, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "32e0-5d13-656a-219e",
+      "WeaponName": "Asu-var, The Sword of Silent Screams",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-4",
+      "Damage": "2"
+    },
+    {
+      "id": "8ced-4b6-1340-a7d2",
+      "WeaponName": "Vilith-zhar, the Sword of Souls",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "70c5-69cc-1005-efca",
+      "WeaponName": "Vilith-zhar, the Sword of Souls",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-4",
+      "Damage": "1"
+    },
+    {
+      "id": "acd2-6cdf-7513-d110",
+      "WeaponName": "Kha-vir, the Sword of Sorrows",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "b9be-3ff5-d407-fbf0",
+  "UnitName": "Contemptor-Achillus Dreadnought",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b63c-74b0-7099-b509",
+      "AbilityName": "Dread Foe",
+      "AbilityText": "Each time this model is selected to fight, you can select one enemy unit within Engagement Range of it and roll one D6, adding 2 to the result if it made a Charge move this turn: on 4-5, hat enemy unit suffers D3 mortal wounds; on a 6+, that enemy suffers 3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c393-f1c0-a33b-5bc9",
+      "WeaponName": "Infernus incinerator",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "9cbb-2c6f-2ed8-b636",
+      "WeaponName": "Lastrum storm bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "0b87-bbb3-1dd8-dadb",
+      "WeaponName": "Twin adrathic destructor",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "3fdd-84bf-e173-68a2",
+      "WeaponName": "Achillus dreadspear",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "82f9-a397-1709-6800",
+      "WeaponName": "Achillus dreadspear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    }
+  ]
+}

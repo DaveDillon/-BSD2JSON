@@ -1,0 +1,56 @@
+{
+  "id": "50ce-baa9-3af1-2890",
+  "UnitName": "Daemon Prince of Chaos",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "9f4b-f27f-a2e5-4450",
+      "AbilityName": "Prince of Darkness (Aura)",
+      "AbilityText": "While a friendly LEGIONES DAEMONICA unit is within 6\" of this model, models in that unit have the Stealth ability."
+    },
+    {
+      "Id": "6896-fcc7-13ac-117a",
+      "AbilityName": "Unholy Vigour",
+      "AbilityText": "Once per battle, at the start of any phase, this model can use this ability. If it does, until the end of the phase, this model has a 3+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2940-89a7-4f9b-af33",
+      "WeaponName": "Infernal cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "78a7-1bd7-294f-12e2",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "6b21-6350-41-6ce0",
+      "WeaponName": "Hellforged weapons",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

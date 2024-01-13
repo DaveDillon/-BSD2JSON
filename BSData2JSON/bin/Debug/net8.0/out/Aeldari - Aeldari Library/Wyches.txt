@@ -1,0 +1,78 @@
+{
+  "id": "d357-8df3-b183-f757",
+  "UnitName": "Wyches",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 6+ Invulnerable save, The invulnerable save that models in this unit have is\r\nimproved to a 4+ against melee attacks.",
+  "Abilities": [
+    {
+      "Id": "97cc-7379-dcfa-a6c3",
+      "AbilityName": "Phantasm Grenade Launcher",
+      "AbilityText": "The bearer’s unit has the Grenades keyword."
+    },
+    {
+      "Id": "738e-6610-276b-db9f",
+      "AbilityName": "No Escape",
+      "AbilityText": "Each time an enemy unit (excluding Monsters and Vehicles) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "34d8-622-39c9-ab01",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "622-126-42bc-2901",
+      "WeaponName": "Blast Pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "D3",
+      "Text": "Pistol"
+    },
+    {
+      "id": "7fa1-81b3-288b-171f",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "813c-e40e-266c-ace6",
+      "WeaponName": "Hekatarii Blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "dc1a-26b8-9626-2f00",
+      "WeaponName": "Hekatarii Blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

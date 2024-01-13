@@ -1,0 +1,47 @@
+{
+  "id": "c043-d7fe-d0b2-6951",
+  "UnitName": "Commander in Enforcer Battlesuit",
+  "Movement": "8\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c575-5810-d5a-bfd0",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- CRISIS BATTLESUITS"
+    },
+    {
+      "Id": "a2d3-2ad-5805-8a37",
+      "AbilityName": "Enforcer Commander",
+      "AbilityText": "While this model is leading a unit, each time a ranged attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "1286-6475-344a-bdcb",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- CRISIS BATTLESUITS"
+    },
+    {
+      "Id": "e09d-50a0-b1a2-f705",
+      "AbilityName": "Coldstar Commander",
+      "AbilityText": "While this model is leading a unit, models in that unit have a Move characteristic of 12\" and ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "27cc-b6a6-632a-6fb5",
+      "WeaponName": "High-output burst cannon",
+      "Range": "18\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": []
+}

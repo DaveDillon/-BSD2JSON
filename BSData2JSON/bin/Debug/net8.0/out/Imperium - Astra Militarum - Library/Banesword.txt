@@ -1,0 +1,32 @@
+{
+  "id": "4e07-7960-7372-b334",
+  "UnitName": "Banesword",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9488-79da-f341-5163",
+      "AbilityName": "Armour Obliteration",
+      "AbilityText": "Each time an attack made with this model’s quake cannon destroys an enemy model that has the Deadly Demise ability, that model’s Deadly Demise ability inflicts mortal wounds on a D6 roll of 3+ instead of on a 6."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8665-569b-5ee2-45a5",
+      "WeaponName": "Quake Cannon",
+      "Range": "72\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "4+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "4",
+      "Text": "Blast, Ignores Cover"
+    }
+  ],
+  "MeleeSkills": []
+}

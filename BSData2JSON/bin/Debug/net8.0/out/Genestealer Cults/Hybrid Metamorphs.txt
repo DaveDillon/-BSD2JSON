@@ -1,0 +1,30 @@
+{
+  "id": "d117-9319-7f52-f4c3",
+  "UnitName": "Hybrid Metamorphs",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1d1-7a6-c41f-1e86",
+      "AbilityName": "Savage Amalgam",
+      "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 3+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and it is then removed from play."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "fed4-54c0-b413-c29b",
+      "WeaponName": "Leader's Cult Weapons",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

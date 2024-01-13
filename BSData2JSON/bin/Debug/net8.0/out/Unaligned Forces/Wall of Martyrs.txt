@@ -1,0 +1,58 @@
+{
+  "id": "fc43-1a6a-44bd-4350",
+  "UnitName": "Wall of Martyrs",
+  "Movement": "-",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "421e-7675-b24f-751e",
+      "AbilityName": "Tremor Quake",
+      "AbilityText": "In your Shooting phase, just after selecting a target for this model’s Aquila macro-cannon, the target unit and every other enemy INFANTRY unit within 3\" of that unit must take a Battle-shock test."
+    },
+    {
+      "Id": "8d74-c7e8-9992-a0b0",
+      "AbilityName": "Automated Defences",
+      "AbilityText": "Each time this model makes a ranged attack that targets the closest enemy unit:\r\n- If that attack is made with a Punisher gatling cannon and the target is not a MONSTER or VEHICLE, add 1 to the Hit roll.\r\n- If that attack is made with a battle cannon and the target is a MONSTER or VEHICLE, add 1 to the Hit roll.\r\n- If that attack is made with a quad-lascannon and the target can FLY, add 1 to the Hit roll."
+    },
+    {
+      "Id": "2c0e-c408-e9a-75b7",
+      "AbilityName": "Vortex",
+      "AbilityText": "In your Shooting phase, each time you select a target for this model’s vortex missile battery, roll one D6 for the target unit and one D6 for every other enemy unit within 3\" of the target unit. On a 4+, the unit being rolled for is struck by the vortex; after resolving all of this model’s attacks against the target unit, each unit struck by the vortex suffers D3 mortal wounds."
+    },
+    {
+      "Id": "f194-faba-c927-ba75",
+      "AbilityName": "Inviolable Bastion",
+      "AbilityText": "Each time an attack is allocated to this Fortification, subtract 1 from the Damage characteristic of that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "700c-9476-95d1-4339",
+      "WeaponName": "Aquila macro-cannon",
+      "Range": "72\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "5+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "4",
+      "Text": ""
+    },
+    {
+      "id": "258f-6186-726f-3617",
+      "WeaponName": "Vortex missile battery",
+      "Range": "72\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Blast, Devastating Wounds, Hazardous, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

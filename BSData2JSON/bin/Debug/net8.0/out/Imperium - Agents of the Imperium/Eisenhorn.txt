@@ -1,0 +1,63 @@
+{
+  "id": "673b-fa00-24a6-28ad",
+  "UnitName": "Eisenhorn",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "8611-4228-ef56-ce00",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMPERIUM BATTLELINE INFANTRY\r\n■ INQUISTORIAL HENCHMEN"
+    },
+    {
+      "Id": "3aa6-2e1e-cf55-6803",
+      "AbilityName": "Malus Codicium",
+      "AbilityText": "While this model is leading a unit, double the Attacks characteristic of weapons equipped by Daemonhost models in that unit."
+    },
+    {
+      "Id": "3a2c-ca3d-1282-c6aa",
+      "AbilityName": "Dominate Will (Psychic)",
+      "AbilityText": "At the start of your opponent’s Shooting phase, select one enemy INFANTRY unit that is within 12\" of and visible to this model and roll one D6: on a 1, this model suffers D3 mortal wounds; on a 2-5, until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll; on a 6, until the end of the phase, that unit is not eligible to shoot."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a7-f8f1-807c-8b16",
+      "WeaponName": "Artificer bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Pistol"
+    },
+    {
+      "id": "a1c1-3cbf-a282-c5ae",
+      "WeaponName": "Mind Assault",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Devastating Wounds, Precision, Psychic, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7af4-ce1a-27ad-5e3b",
+      "WeaponName": "Runestaff and Barbarisater",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

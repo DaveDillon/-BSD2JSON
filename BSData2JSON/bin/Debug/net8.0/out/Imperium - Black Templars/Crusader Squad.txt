@@ -1,0 +1,78 @@
+{
+  "id": "9e2c-48af-8c2b-ea68",
+  "UnitName": "Crusader Squad",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1e7e-4aca-4c83-4e2d",
+      "AbilityName": "Righteous Zeal",
+      "AbilityText": "You can re-roll Advance and Charge rolls made for this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "290e-7a78-ba7c-64ec",
+      "WeaponName": "Astartes Shotgun",
+      "Range": "18",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "404-2bdc-5618-d439",
+      "WeaponName": "Combat Knife",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "de05-3620-4282-d49f",
+      "WeaponName": "Astartes Chainsword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "cb3c-930b-4835-30c9",
+      "WeaponName": "Astartes Chainsword",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "e6ed-2c2a-e207-7707",
+      "WeaponName": "Twin Lightning Claws",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "5889-8fde-c70a-5495",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

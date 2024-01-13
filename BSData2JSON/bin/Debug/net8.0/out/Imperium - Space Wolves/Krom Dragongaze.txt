@@ -1,0 +1,40 @@
+{
+  "id": "3658-9233-93cb-c8b",
+  "UnitName": "Krom Dragongaze",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8839-87e-19fe-cc1a",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Blood Claws\r\n■ Grey Hunters\r\n■ Wolf Guard"
+    },
+    {
+      "Id": "88f4-7da8-b865-265b",
+      "AbilityName": "Refuse to Accept Defeat",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+    },
+    {
+      "Id": "6826-5564-30f4-5ea2",
+      "AbilityName": "The Fierce Eye",
+      "AbilityText": "In your Shooting phase, you can select one enemy INFANTRY unit within 12\" of and visible to this model. That enemy unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "4e5b-b353-afa5-3d4f",
+      "WeaponName": "Wyrmclaw",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

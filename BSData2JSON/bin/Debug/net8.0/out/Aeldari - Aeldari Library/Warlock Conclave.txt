@@ -1,0 +1,25 @@
+{
+  "id": "7d34-c046-e08f-13e1",
+  "UnitName": "Warlock Conclave",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "e2bb-4a2a-3469-97c6",
+      "AbilityName": "Protect (Psychic)",
+      "AbilityText": "While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "ae15-687-f550-a304",
+      "AbilityName": "Warlock Conclave",
+      "AbilityText": "Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

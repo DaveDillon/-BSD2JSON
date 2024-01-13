@@ -22,7 +22,7 @@
     {
       "Id": "2ce2-dd82-241a-a38f",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad'\n■ Company Heroes\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad'\r\n■ Company Heroes\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     }
   ],
   "RangedSkills": [

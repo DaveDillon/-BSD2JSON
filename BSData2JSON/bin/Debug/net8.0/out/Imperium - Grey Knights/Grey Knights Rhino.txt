@@ -1,0 +1,53 @@
+{
+  "id": "5ced-f445-91c2-a55e",
+  "UnitName": "Grey Knights Rhino",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3355-18b8-ee22-87f9",
+      "AbilityName": "Self Repair",
+      "AbilityText": "At the start of your Command phase, this model regains 1 lost wound."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5349-e445-419-cb09",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "d74a-b284-964a-c781",
+      "WeaponName": "Hunter-killer Missile",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "One Shot"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c5e0-c829-98a5-880a",
+      "WeaponName": "Armoured tracks",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "88ee-e662-b0c6-43cd",
+  "UnitName": "Arjac Rockfist",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8970-5680-4afc-a67d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Relic Terminator Squad\r\n■ Terminator Assault Squad\r\n■ Terminator Squad\r\n■ Wolf Guard Terminators\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "6d1-52cc-8cb0-740c",
+      "AbilityName": "Anvil of Endurance",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+    },
+    {
+      "Id": "d65d-22ee-7d91-448a",
+      "AbilityName": "Champion of the Kingsguard",
+      "AbilityText": "You can target this model with the Epic Challenge Stratagem for 0CP. In addition, each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2f1b-d727-df9d-7049",
+      "WeaponName": "Foehammer",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Anti-MONSTER 2+, Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1a1f-8367-fbf4-9cb0",
+      "WeaponName": "Foehammer",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

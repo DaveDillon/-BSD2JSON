@@ -1,0 +1,52 @@
+{
+  "id": "2565-ab00-5e76-8873",
+  "UnitName": "X-101",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "130a-d876-45f9-5e77",
+      "AbilityName": "Mindlock",
+      "AbilityText": "While a Tech-Priest model is leading this model’s unit, improve the Ballistic Skill and Weapon Skill characteristics of this model’s weapons by 1."
+    },
+    {
+      "Id": "ae61-c8d4-2a51-9793",
+      "AbilityName": "Bound Creation",
+      "AbilityText": "While a Tech-Priest model is leading this model’s unit, that Tech-Priest model has the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "abe8-bb77-d6ba-db6c",
+      "AbilityName": "Servitor Bodyguard",
+      "AbilityText": "At the start of the Declare Battle Formations step, this model can join one other unit from your army that is being led by a Tech-Priest Infantry model. If it does, until the end of the battle, this model counts as being part of that\r\nBodyguard unit, and that Bodyguard unit’s Starting Strength is increased accordingly"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3cf0-255a-18c9-bfcb",
+      "WeaponName": "Grav-gun",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Vehicle 4+"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "765b-7297-79a0-1eb7",
+      "WeaponName": "Hydraulic Claw",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

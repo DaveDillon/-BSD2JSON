@@ -1,0 +1,47 @@
+{
+  "id": "ef9e-98c6-5b9f-37d8",
+  "UnitName": "Corpuscarii",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "7+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "169a-e1ea-2174-3b30",
+      "AbilityName": "Feel No Pain",
+      "AbilityText": "5+"
+    },
+    {
+      "Id": "03d0-228a-7b7f-9ba4",
+      "AbilityName": "Electro-shock",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit (excluding Monsters and Vehicles) hit by one or more of those attacks. Until the end of your opponent’s next turn, that enemy unit is shocked. While a unit is shocked, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a982-dfc5-1fe5-efbb",
+      "WeaponName": "Electrostatic gauntlets",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol, Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2e4-cb5c-f33f-d486",
+      "WeaponName": "Electrostatic gauntlets",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

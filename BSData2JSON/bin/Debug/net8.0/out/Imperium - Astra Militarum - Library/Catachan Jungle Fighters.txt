@@ -1,0 +1,20 @@
+{
+  "id": "8a6c-34aa-874b-8013",
+  "UnitName": "Catachan Jungle Fighters",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1b74-9e3-3eb9-306f",
+      "AbilityName": "Jungle Fighters",
+      "AbilityText": "Each time a model in this unit makes a melee attack, if this unit made a Charge move or was charged this turn, improve the Strength and Armour Penetration characteristics of that attack by 1"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "8951-a7b6-7fde-10da",
+  "UnitName": "Sentry Pylon",
+  "Movement": "-",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5646-8d87-8186-7872",
+      "AbilityName": "Teleportation Matrix",
+      "AbilityText": "Once per battle, at the end of your opponent’s turn, if this FORTIFICATION is not within Engagement Range of one or more enemy units, you can remove it from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and this FORTIFICATION is not on the battlefield, it is destroyed."
+    },
+    {
+      "Id": "d167-8f2e-101f-f228",
+      "AbilityName": "Phase-shifted Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c669-cff7-423f-413b",
+      "WeaponName": "Focused death ray",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Sustained Hits 2"
+    },
+    {
+      "id": "9f50-1fdd-801b-ec0d",
+      "WeaponName": "Gauss exterminator",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "6",
+      "Text": "Lethal Hits"
+    },
+    {
+      "id": "4b93-8e2c-576e-5307",
+      "WeaponName": "Heat cannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 4"
+    }
+  ],
+  "MeleeSkills": []
+}

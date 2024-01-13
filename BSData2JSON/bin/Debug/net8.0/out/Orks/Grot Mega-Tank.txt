@@ -1,0 +1,97 @@
+{
+  "id": "6ab4-7114-50f6-e644",
+  "UnitName": "Grot Mega-Tank",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3f2f-8aa8-cb41-6815",
+      "AbilityName": "Bizarrely Resilient",
+      "AbilityText": "Each time an attack targets this model, worsen the Armour Penetration characteristic of that attack by 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "896-e64-1128-a32f",
+      "WeaponName": "Mega-tank weapons",
+      "Range": "18\"",
+      "Attacks": "10",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 10"
+    },
+    {
+      "id": "c450-62ee-d859-1f9e",
+      "WeaponName": "Twin big shoota",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2, Twin-linked"
+    },
+    {
+      "id": "a501-edfa-367b-3756",
+      "WeaponName": "Twin grotzooka",
+      "Range": "18\"",
+      "Attacks": "D3+3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "c8b2-4cf6-2d3a-7e9",
+      "WeaponName": "Twin kustom mega-blasta",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Hazardous, Twin-linked"
+    },
+    {
+      "id": "9736-e397-f565-86f2",
+      "WeaponName": "Twin rokkit launcha",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "80d1-7d55-7939-f6e3",
+      "WeaponName": "Twin skorcha",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d420-7c93-9760-baf8",
+      "WeaponName": "Armoured hull",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ff0e-8156-6e6b-8e60",
+  "UnitName": "Ragnar Blackmane",
+  "Movement": "6\"",
+  "Toughness": "4+",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "dab2-efea-8c98-814e",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Wolf Guard\r\n■ Blood Claws\r\n■ Grey Hunters\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Intercessor Squad"
+    },
+    {
+      "Id": "489d-fafc-e8fa-ffd1",
+      "AbilityName": "War Howl",
+      "AbilityText": "While this model is leading a unit, that unit is eligible to declare a charge in a turn in which it Advanced."
+    },
+    {
+      "Id": "acf6-28b1-da63-60be",
+      "AbilityName": "Battle-lust",
+      "AbilityText": "Each time this model ends a Charge move, until the end of the turn, add 2 to the Attacks and Strength characteristics of this model’s Frostfang."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "1808-a7a0-3f8a-c8fc",
+      "WeaponName": "Frostfang",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

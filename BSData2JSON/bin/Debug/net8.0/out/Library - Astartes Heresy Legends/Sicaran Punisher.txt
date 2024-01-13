@@ -1,0 +1,32 @@
+{
+  "id": "2850-d52-56db-75f9",
+  "UnitName": "Sicaran Punisher",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "796a-7701-6f9-7496",
+      "AbilityName": "Rotating Death",
+      "AbilityText": "This model’s Punisher rotary cannon has the [SUSTAINED HITS 1] ability when targeting INFANTRY units."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "73f9-f3ad-db92-a087",
+      "WeaponName": "Punisher rotary cannon",
+      "Range": "36\"",
+      "Attacks": "18",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": []
+}

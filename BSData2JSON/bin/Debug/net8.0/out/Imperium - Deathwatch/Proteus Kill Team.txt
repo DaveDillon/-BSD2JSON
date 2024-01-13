@@ -1,0 +1,40 @@
+{
+  "id": "ae46-3df5-4feb-8e53",
+  "UnitName": "Proteus Kill Team",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1937-4776-60fa-d585",
+      "AbilityName": "Proteus Doctrines",
+      "AbilityText": "Each time a model in this unit makes an attack that targets a unit that is not Below Half-strength, add 1 to the Hit roll."
+    },
+    {
+      "Id": "43c9-9fc4-26c9-f5d9",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead."
+    },
+    {
+      "Id": "a53e-a36e-3893-d853",
+      "AbilityName": "Jump Pack",
+      "AbilityText": "The bearer has a Move characteristic of 12\" and can move over models and terrain features as if they were not there."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "1691-902f-4236-c6e5",
+      "WeaponName": "Deathwatch thunder hammer",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "74fa-3695-a5b1-715b",
+  "UnitName": "Lynx",
+  "Movement": "14\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "16",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 5+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "43-f6f9-c22d-c586",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "a139-1e7-5f5-68da",
+      "AbilityName": "Speed of Vaul",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 9\" to the Move characteristic of this model"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f682-64d7-4e8e-f4f4",
+      "WeaponName": "Lynx Pulsar",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "6792-c563-8701-d9bb",
+      "WeaponName": "Wraithbone hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3c7b-b47d-1eb2-7f8a",
+  "UnitName": "Griffon Mortar Carrier",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7505-6738-c29a-e173",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) hit by one or more of those attacks made with this model’s Griffon heavy mortar. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5f7a-f1c1-4828-79dc",
+      "WeaponName": "Griffon Heavy Mortar",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

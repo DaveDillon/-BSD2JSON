@@ -22,12 +22,12 @@
     {
       "Id": "6bc9-9c39-2271-1f1e",
       "AbilityName": "Vengeance of the Omnissiah",
-      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7."
+      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\r\nAttacks characteristic of 7."
     },
     {
       "Id": "237c-15f3-c241-2ae1",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Desolation Squad\n■ Intercessor Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Desolation Squad\r\n■ Intercessor Squad\r\n■ Tactical Squad"
     },
     {
       "Id": "4a3f-c7c6-c5ed-92eb",
@@ -37,7 +37,7 @@
     {
       "Id": "3d8f-6029-fdb9-6f40",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Bike Squad\r\n■ Outrider Squad"
     },
     {
       "Id": "4a65-f686-e774-6019",
@@ -47,7 +47,7 @@
     {
       "Id": "a064-20c3-371a-261f",
       "AbilityName": "Vengeance of the Omnissiah",
-      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\nAttacks characteristic of 7."
+      "AbilityText": "If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model’s Omnissian power axe has an\r\nAttacks characteristic of 7."
     }
   ],
   "RangedSkills": [

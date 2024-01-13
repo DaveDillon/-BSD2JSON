@@ -1,0 +1,49 @@
+{
+  "id": "1ba5-20a1-4dd6-9a4f",
+  "UnitName": "The Emperor's Champion",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5fd9-3afc-fe70-7413",
+      "AbilityName": "Skillful Parry",
+      "AbilityText": "Once per phase, when a melee attack is allocated to this model and the saving throw is failed, you can change the Damage characteristic of that attack to 0."
+    },
+    {
+      "Id": "fe37-8476-e585-39ac",
+      "AbilityName": "Sigismund's Heir",
+      "AbilityText": "Each time this model makes a melee attack that targets a Character unit, add 1 to the Wound roll"
+    },
+    {
+      "Id": "bf68-f429-d743-b6eb",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Intercessor Squad\r\n■ Primaris Crusader Squad\r\n■ Primaris Sword Brethren\r\n■ Sternguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "c473-2abf-cc0c-c6d3",
+      "WeaponName": "Black Sword",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    },
+    {
+      "id": "7295-10de-849b-dfa",
+      "WeaponName": "Black Sword",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

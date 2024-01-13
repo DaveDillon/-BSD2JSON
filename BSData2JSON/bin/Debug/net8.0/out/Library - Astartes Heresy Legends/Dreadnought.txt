@@ -1,0 +1,304 @@
+{
+  "id": "c97c-376-e2e0-1dd2",
+  "UnitName": "Dreadnought",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f060-be4d-a86a-b1fe",
+      "AbilityName": "Deredeo Strike",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that is not Below Half-strength, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "94ae-19b0-b7b1-2b1e",
+      "AbilityName": "Invunerable Save",
+      "AbilityText": "This model has a 5+ invulnerable save."
+    },
+    {
+      "Id": "d356-dfe7-6dfa-ade9",
+      "AbilityName": "Even In Death I Serve",
+      "AbilityText": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+    },
+    {
+      "Id": "731d-26c2-a9e8-d336",
+      "AbilityName": "Duty Eternal",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a169-54c7-6c3-a706",
+      "WeaponName": "Anvilus autocannon battery",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "7472-9bd0-69a6-9a0b",
+      "WeaponName": "Arachnus heavy lascannon battery",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
+    },
+    {
+      "id": "e24b-e1f8-d877-55a0",
+      "WeaponName": "Volkite falconet battery",
+      "Range": "30\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "19ad-9d4d-dcd7-2156",
+      "WeaponName": "Hellfire plasma carronade",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "-"
+    },
+    {
+      "id": "4582-82b1-88ea-6ded",
+      "WeaponName": "Hellfire plasma carronade",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "5212-647-ed8e-6b48",
+      "WeaponName": "Aiolos missile launcher",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "ff10-9730-254-23df",
+      "WeaponName": "Boreas air defence missiles",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Anti-FLY 2+"
+    },
+    {
+      "id": "162a-13a8-6d97-7bf8",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "fb3d-8e49-889a-ddaa",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    },
+    {
+      "id": "93f5-9ebd-fa59-d6d5",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "af13-ff94-5ea-9adc",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "ced3-1a10-a850-b935",
+      "WeaponName": "Conversion beam cannon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Conversion, Sustained Hits D3"
+    },
+    {
+      "id": "4cad-8e19-3cda-50f4",
+      "WeaponName": "Kheres assault cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "5c28-e4a5-80c0-8f9c",
+      "WeaponName": "Combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "1081-ff70-4056-e66b",
+      "WeaponName": "Plasma blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "5d2a-3083-8bce-5c78",
+      "WeaponName": "Plasma blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "50ad-8881-7822-db3c",
+      "WeaponName": "Graviton blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-VEHICLE 2+"
+    },
+    {
+      "id": "b59c-b185-b989-a729",
+      "WeaponName": "Grav-flux bombard",
+      "Range": "24\"",
+      "Attacks": "2D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-VEHICLE 2+, Blast"
+    },
+    {
+      "id": "b6a7-a32c-c382-85bd",
+      "WeaponName": "Cyclonic melta-lance",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "606e-e411-3533-60bc",
+      "WeaponName": "Storm cannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "f0a7-38cb-268f-ef93",
+      "WeaponName": "Twin volkite caliver",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "cc85-fa53-c68c-c6c7",
+      "WeaponName": "Dreadnought chainfist",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "582f-8566-a493-36e1",
+      "WeaponName": "Dreadnought combat weapon",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "99e9-5a4e-9f49-ac89",
+      "WeaponName": "Leviathan siege claw",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "d27c-5abc-a94-efa5",
+      "WeaponName": "Leviathan siege drill",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

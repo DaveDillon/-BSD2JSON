@@ -1,0 +1,59 @@
+{
+  "id": "be36-7cb1-29f-f344",
+  "UnitName": "Tauros",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "10f1-3cb8-dbab-eb42",
+      "AbilityName": "Turbo-boost",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+    },
+    {
+      "Id": "1d79-68a9-913f-4217",
+      "AbilityName": "Mobile Hunter-killer",
+      "AbilityText": "Each time this model makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d7fc-4681-c8c3-3684",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "1c83-640-4135-7e5a",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    },
+    {
+      "id": "6ef3-c28e-5649-87f4",
+      "WeaponName": "Twin Multi-laser",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

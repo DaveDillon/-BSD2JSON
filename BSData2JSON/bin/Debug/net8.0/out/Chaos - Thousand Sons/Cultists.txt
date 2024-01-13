@@ -1,0 +1,65 @@
+{
+  "id": "1b94-375f-5a5b-7dc1",
+  "UnitName": "Cultists",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 6+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "f614-a4d2-cb7c-4e",
+      "AbilityName": "Pawns of Fate",
+      "AbilityText": "Each time this unit destroys an enemy unit, roll one D6: on a 2+, you gain 1CP. When this unit is destroyed, roll one D6: on a 2+, you gain 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "31e7-9571-3565-4549",
+      "WeaponName": "Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "2b86-8dd-f97a-8d9c",
+      "WeaponName": "Heavy stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 3"
+    },
+    {
+      "id": "62c7-373a-5954-9749",
+      "WeaponName": "Grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "318-f976-6f36-b709",
+      "WeaponName": "Grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": []
+}

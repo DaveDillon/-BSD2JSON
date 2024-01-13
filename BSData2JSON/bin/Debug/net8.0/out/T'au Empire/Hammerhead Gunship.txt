@@ -1,0 +1,32 @@
+{
+  "id": "7b0b-ad0-8397-2937",
+  "UnitName": "Hammerhead Gunship",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9e7-373-d0d6-af25",
+      "AbilityName": "Armour Hunter",
+      "AbilityText": "Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c7e5-e0ff-81a0-7df5",
+      "WeaponName": "Railgun",
+      "Range": "72\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "20",
+      "ArnorPirecing": "-5",
+      "Damage": "D6+6",
+      "Text": "Heavy, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": []
+}

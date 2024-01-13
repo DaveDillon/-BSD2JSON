@@ -1,0 +1,40 @@
+{
+  "id": "bea7-7dc2-73b-b964",
+  "UnitName": "Veteran Bike Squad",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "bf86-5de2-35f6-7cc6",
+      "AbilityName": "Turbo-boost",
+      "AbilityText": "Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+    },
+    {
+      "Id": "daa6-6c8a-136f-695",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Character from your army with the Leader ability can be attached to a Outrider Squad, it can be attached to this unit instead."
+    },
+    {
+      "Id": "4276-588b-9968-ea23",
+      "AbilityName": "Astartes Shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "128c-2f6b-796-252",
+      "WeaponName": "Xenophase blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

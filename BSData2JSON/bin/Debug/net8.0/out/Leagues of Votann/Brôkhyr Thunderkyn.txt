@@ -1,0 +1,64 @@
+{
+  "id": "0b9d-34c5-f0bf-ee60",
+  "UnitName": "Brôkhyr Thunderkyn",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a40d-50a1-cd02-32c0",
+      "AbilityName": "Oathband Covering Fire",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ when resolving that Stratagem."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8cfa-d659-fdcb-a831",
+      "WeaponName": "Bolt cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "818e-6326-0d21-0966",
+      "WeaponName": "Graviton blast cannon",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Anti-VEHICLE 2+, Blast"
+    },
+    {
+      "id": "3f35-c2d8-a449-f13b",
+      "WeaponName": "SP conversion beamer",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Conversion, Sustained Hits D3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "863e-30fc-eb12-8635",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

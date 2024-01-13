@@ -1,0 +1,112 @@
+{
+  "id": "5eaa-f0a-44fa-d1ae",
+  "UnitName": "Custodian Wardens",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8792-7fc7-692e-9a57",
+      "AbilityName": "Resolute Will",
+      "AbilityText": "While a CHARACTER is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "a696-cfc6-e27a-97ce",
+      "AbilityName": "Living Fortress",
+      "AbilityText": "Once per battle, at the start of any phase, this unit can use this ability. If it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability."
+    },
+    {
+      "Id": "957b-3814-759a-a6f9",
+      "AbilityName": "Vexilla",
+      "AbilityText": "Add 1 to the Objective Control characteristic of models in the bearer’s unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "277-79d8-5124-f932",
+      "WeaponName": "Guardian Spear",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "6f60-2244-c2fa-e57f",
+      "WeaponName": "Castellan Axe",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "96c0-6c1d-79da-6fdc",
+      "WeaponName": "Guardian Spear",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    },
+    {
+      "id": "f7e2-74e5-e3e0-1f7",
+      "WeaponName": "Castellan Axe",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "987-7629-8fda-88f8",
+      "WeaponName": "Guardian Spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "644d-df58-5b9b-31c2",
+      "WeaponName": "Castellan Axe",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "3850-bccf-c7b9-be2a",
+      "WeaponName": "Guardian Spear",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "aee0-7afd-b405-a8a3",
+      "WeaponName": "Castellan Axe",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    }
+  ]
+}

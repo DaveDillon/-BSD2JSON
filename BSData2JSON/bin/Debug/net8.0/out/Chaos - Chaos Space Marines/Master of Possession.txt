@@ -12,7 +12,7 @@
     {
       "Id": "638e-667a-a1c5-1135",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES\n■ POSSESSED"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ POSSESSED"
     },
     {
       "Id": "9616-c3fc-712-a0ac",

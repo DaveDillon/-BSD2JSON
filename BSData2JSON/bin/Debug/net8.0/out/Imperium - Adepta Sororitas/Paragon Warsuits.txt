@@ -1,0 +1,146 @@
+{
+  "id": "a68f-bc56-3728-5533",
+  "UnitName": "Paragon Warsuits",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this units have an Invulnerable save of 4+.",
+  "Abilities": [
+    {
+      "Id": "4a86-1713-528f-cf2a",
+      "AbilityName": "Righteous Paragons",
+      "AbilityText": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "94bf-4c8a-7fea-bad2",
+      "WeaponName": "Paragon Storm Bolters",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2, Twin-Linked"
+    },
+    {
+      "id": "b83b-f2dc-42d-63a7",
+      "WeaponName": "Paragon Grenade Launchers",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "925f-7fde-6c75-94ee",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "9aeb-2363-a0af-b37d",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "8cd6-b952-3b8e-12cc",
+      "WeaponName": "Paragon Storm Bolters",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2, Twin-Linked"
+    },
+    {
+      "id": "c94a-44b4-29a4-8abb",
+      "WeaponName": "Paragon Grenade Launchers",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "5ab3-4ef3-92a4-c3f0",
+      "WeaponName": "Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "fb85-f329-fd95-9834",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3655-3d6d-d979-af19",
+      "WeaponName": "Paragon War Blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "b95f-badf-7699-322a",
+      "WeaponName": "Paragon War Mace",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    },
+    {
+      "id": "b396-aa30-204-e2fc",
+      "WeaponName": "Paragon War Blade",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "1d2a-350e-1b76-b11d",
+      "WeaponName": "Paragon War Mace",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    }
+  ]
+}

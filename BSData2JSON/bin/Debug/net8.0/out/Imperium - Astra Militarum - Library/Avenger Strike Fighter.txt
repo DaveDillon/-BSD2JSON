@@ -1,0 +1,32 @@
+{
+  "id": "3b2d-9127-6bae-20be",
+  "UnitName": "Avenger Strike Fighter",
+  "Movement": "20\"+",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "438e-3105-5c81-228f",
+      "AbilityName": "Fiery Vengeance",
+      "AbilityText": "Once per turn, in your opponent’s Shooting phase, when another friendly ASTRA MILITARUM unit within 6\" of this model is destroyed by an attack made by a unit that can Fly, one model from your army with this ability can use it. If it does, after the attacking unit has finished making its attacks, that model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bd65-e1b0-3300-bef8",
+      "WeaponName": "Avenger bolt cannon",
+      "Range": "36\"",
+      "Attacks": "10",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

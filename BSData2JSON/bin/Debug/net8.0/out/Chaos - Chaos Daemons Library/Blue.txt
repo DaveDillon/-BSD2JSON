@@ -1,0 +1,182 @@
+{
+  "id": "ddad-e1d6-b68a-4aa8",
+  "UnitName": "Blue",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "7+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9a61-ce0-47eb-892c",
+      "AbilityName": "Split",
+      "AbilityText": "Each time a BLUE HORROR model in this unit is destroyed, after the attacking unit has finished making its attacks, if this unit is not destroyed, roll one D6 for that model. On a 4+, add one BRIMSTONE HORROR model to this unit."
+    },
+    {
+      "Id": "c1d-3ede-fb1b-bcc9",
+      "AbilityName": "Cackling Horrors (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this unit, if this unit contains one or more BLUE HORROR models, worsen the Leadership characteristic of models in that enemy unit by 1."
+    },
+    {
+      "Id": "290-cc05-6c1b-c26",
+      "AbilityName": "Exploding Horrors",
+      "AbilityText": "Each time this unit is selected to fight, you can select one enemy unit within Engagement Range of it, then select one or more BRIMSTONE HORROR models in this unit. For each BRIMSTONE HORROR model you select, roll one D6: on a 4+, that model is destroyed and that enemy unit suffers 1 mortal wound."
+    },
+    {
+      "Id": "e57e-e57a-3aa6-906d",
+      "AbilityName": "Split",
+      "AbilityText": "Each time a PINK HORROR or BLUE HORROR model in this unit is destroyed, after the attacking unit has finished making its attacks, if this unit is not destroyed, roll one D6 for that model. On a 4+, if it was a PINK HORROR, add two BLUE HORROR models to this unit, and if it was a BLUE HORROR, add one BRIMSTONE HORROR model to this unit."
+    },
+    {
+      "Id": "1984-1a4a-b3ce-77a4",
+      "AbilityName": "Horrors are Pink. Horrors are Blue. Where once there was one, now there are two.",
+      "AbilityText": "If, at any point, this unit contains no PINK HORRORS models, use the BLUE HORRORS datasheet for this unit. \r\nDesigner’s Note: While this unit contains one or more PINK HORRORS models, the Cackling Horrors and Exploding Horrors abilities from the Blue Horrors datasheet do not apply to this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c2af-56a-2d33-82e0",
+      "WeaponName": "Blue Horrors",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "e860-6cea-9d60-aef9",
+      "WeaponName": "Blue Horrors",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "e860-6cea-9d60-aef9",
+      "WeaponName": "Coruscating Blue flames",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "9b1f-350f-2b73-36b4",
+      "WeaponName": "Pink Horrors",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "ff3-2fb2-643a-211d",
+      "WeaponName": "Pink Horrors",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "bf45-1c5-2b95-395",
+      "WeaponName": "Pink Horrors",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "bf45-1c5-2b95-395",
+      "WeaponName": "Coruscating Pink flames",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "823d-4ae2-9691-b49d",
+      "WeaponName": "Blue Horrors",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ede5-af41-743a-10bc",
+      "WeaponName": "Blue Horrors",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ede5-af41-743a-10bc",
+      "WeaponName": "Blue claws",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2f2-318c-c88-7a36",
+      "WeaponName": "Pink Horrors",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3971-4d86-b91b-1d4d",
+      "WeaponName": "Pink Horrors",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "27c-c76-5dae-eb3b",
+      "WeaponName": "Pink Horrors",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "27c-c76-5dae-eb3b",
+      "WeaponName": "Pink claws",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

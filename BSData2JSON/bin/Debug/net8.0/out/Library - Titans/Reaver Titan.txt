@@ -1,0 +1,109 @@
+{
+  "id": "8823-94b2-dd20-1242",
+  "UnitName": "Reaver Titan",
+  "Movement": "12\"",
+  "Toughness": "14",
+  "Save": "2+",
+  "Wounds": "60",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks only.",
+  "Abilities": [
+    {
+      "Id": "3832-c8f7-c7b2-2bd9",
+      "AbilityName": "Damaged: 1-20 wounds remaining",
+      "AbilityText": "While this model has 1-20 wounds remaining, subtract 10 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "3c14-ab53-c7f7-a07e",
+      "AbilityName": "God-machine",
+      "AbilityText": "This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d57c-ce4c-b0e9-49df",
+      "WeaponName": "Reaver apocalypse launcher",
+      "Range": "200\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "3c27-a886-132b-d09f",
+      "WeaponName": "Reaver gatling blaster",
+      "Range": "72\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "d40e-e51b-83a7-7177",
+      "WeaponName": "Reaver laser blaster",
+      "Range": "72\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": "Blast"
+    },
+    {
+      "id": "967c-c9f2-8e17-10f7",
+      "WeaponName": "Reaver melta cannon",
+      "Range": "48\"",
+      "Attacks": "D6+2",
+      "BallisticSkill": "3+",
+      "Strength": "13",
+      "ArnorPirecing": "-4",
+      "Damage": "6",
+      "Text": "Blast, Melta 4"
+    },
+    {
+      "id": "a6fd-e778-466a-c7bb",
+      "WeaponName": "Reaver volcano cannon",
+      "Range": "120\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "3+",
+      "Strength": "24",
+      "ArnorPirecing": "-5",
+      "Damage": "14",
+      "Text": "Blast, Heavy"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "fb2e-d145-d0bc-9c21",
+      "WeaponName": "Reaver feet",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "4"
+    },
+    {
+      "id": "49c1-cdec-3a34-fb5a",
+      "WeaponName": "Reaver power fist",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "20",
+      "ArnorPirecing": "-4",
+      "Damage": "14"
+    },
+    {
+      "id": "78b-2fcb-29c7-38e5",
+      "WeaponName": "Reaver power fist",
+      "Attacks": "12",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "6"
+    }
+  ]
+}

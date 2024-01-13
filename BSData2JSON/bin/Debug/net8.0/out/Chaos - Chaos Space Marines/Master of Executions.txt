@@ -12,7 +12,7 @@
     {
       "Id": "e4c4-4418-a864-289b",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ LEGIONARIES\n\nYou can attach this model to one of the above units even if one other CHARACTER model has already been attached to it (a unit cannot have two Exalted Champions attached to it). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n\r\nYou can attach this model to one of the above units even if one other CHARACTER model has already been attached to it (a unit cannot have two Exalted Champions attached to it). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "2ffd-423f-c721-1b75",

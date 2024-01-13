@@ -1,0 +1,64 @@
+{
+  "id": "b258-865a-15d7-27dd",
+  "UnitName": "AX-1-0 Tiger Shark",
+  "Movement": "20+\"",
+  "Toughness": "11",
+  "Save": "3+",
+  "Wounds": "18",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b584-c327-fdf5-2b8b",
+      "AbilityName": "Titan Hunter",
+      "AbilityText": "This model’s twin heavy rail cannon and seeker missiles have the [ANTI-TITANIC 3+] ability while targeting a unit within half range."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "52bc-f562-423d-3c3f",
+      "WeaponName": "Cyclic ion blaster",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "20a3-6398-4cc9-3eb3",
+      "WeaponName": "Cyclic ion blaster",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "7581-2245-3662-83e8",
+      "WeaponName": "Twin heavy rail cannon",
+      "Range": "120\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "26",
+      "ArnorPirecing": "-5",
+      "Damage": "12",
+      "Text": "Devastating Wounds, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "99c6-b8ff-d1db-e6f2",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

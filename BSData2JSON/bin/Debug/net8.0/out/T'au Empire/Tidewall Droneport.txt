@@ -1,0 +1,32 @@
+{
+  "id": "b7a-b0ee-a2ae-e54",
+  "UnitName": "Tidewall Droneport",
+  "Movement": "4\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "81a0-c679-23bd-77e3",
+      "AbilityName": "Droneport",
+      "AbilityText": "Each time this FORTIFICATION is selected to shoot, its drone defenders weapon will target and resolve attacks against every enemy unit that is an eligible target to this FORTIFICATION."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "545c-9dc3-f9f6-e5a4",
+      "WeaponName": "Drone defenders",
+      "Range": "20\"",
+      "Attacks": "8",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

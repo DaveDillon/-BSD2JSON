@@ -1,0 +1,133 @@
+{
+  "id": "d0dc-a09c-48bb-de57",
+  "UnitName": "Big Mek on Warbike",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "db2b-7a43-7a2d-14ca",
+      "AbilityName": "More Dakka",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1."
+    },
+    {
+      "Id": "6d73-ac8e-72ad-7cd3",
+      "AbilityName": "Mekaniak",
+      "AbilityText": "At the end of your Movement phase, you can select one friendly ORKS VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds, and, until the start of your next Movement phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
+    },
+    {
+      "Id": "a9b7-3a07-eb78-929e",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- WARBIKERS"
+    },
+    {
+      "Id": "a3d9-732-9607-8def",
+      "AbilityName": "Kustom Force Field",
+      "AbilityText": "While the bearer is leading a unit, models in that unit have a 4+ invulnerable save against ranged attacks."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7d37-314c-d4c8-1b60",
+      "WeaponName": "Shokk attack gun",
+      "Range": "60\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "f99c-9455-a47f-8755",
+      "WeaponName": "Kustom mega-slugga",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "b8d0-9f00-33f8-529f",
+      "WeaponName": "Kustom mega-slugga",
+      "Range": "12\"",
+      "Attacks": "D3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Blast, Hazardous"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3c57-2670-9faa-ee8f",
+      "WeaponName": "Big choppa",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "85b7-5218-dae6-bf97",
+      "WeaponName": "Power klaw",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "7c3a-99ee-249d-a928",
+      "WeaponName": "Big choppa",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "43d3-911c-e4df-53b",
+      "WeaponName": "Power klaw",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "b25b-44a0-762-76f7",
+      "WeaponName": "Choppa",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "f62f-ed77-9afc-d780",
+      "WeaponName": "Killsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "df8a-8048-5d8f-5e1f",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

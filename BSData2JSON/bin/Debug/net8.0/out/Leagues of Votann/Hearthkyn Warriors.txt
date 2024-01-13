@@ -1,0 +1,214 @@
+{
+  "id": "5a53-ae58-e0d9-0616",
+  "UnitName": "Hearthkyn Warriors",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "183b-a8a1-b9eb-2dd5",
+      "AbilityName": "Luck Has, Need Keeps, Toil Earns",
+      "AbilityText": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+    },
+    {
+      "Id": "12c6-8f73-775f-fd8e",
+      "AbilityName": "Medipack",
+      "AbilityText": "Models in the bearer’s unit have the Feel No Pain 6+ ability."
+    },
+    {
+      "Id": "3d63-7696-2f18-cb4d",
+      "AbilityName": "Comms array",
+      "AbilityText": "Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    },
+    {
+      "Id": "c4a7-2dc7-b53e-5886",
+      "AbilityName": "Pan spectral scanner",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "aa24-6c5a-3215-963a",
+      "WeaponName": "Autoch-pattern bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "1047-6f67-3b43-c1ec",
+      "WeaponName": "Ion blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "0a2d-f2d9-9e20-d12c",
+      "WeaponName": "Autoch-pattern bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "d23e-d5ed-7719-e55b",
+      "WeaponName": "Autoch-pattern bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "c9fa-75b9-1653-c0c3",
+      "WeaponName": "Autoch-pattern bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "da4a-736e-1715-b2a6",
+      "WeaponName": "Etacarn plasma pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Pistol"
+    },
+    {
+      "id": "e45e-1da1-114d-d3e6",
+      "WeaponName": "Ion pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "ac91-d742-d827-efb0",
+      "WeaponName": "Autoch-pattern bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "28a9-2493-6b48-efb0",
+      "WeaponName": "HYLas auto rifle*",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Rapid Fire 3"
+    },
+    {
+      "id": "eeea-f4e8-272a-bc1e",
+      "WeaponName": "HYLas rotary cannon*",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Heavy, Sustained Hits 1"
+    },
+    {
+      "id": "b22f-3a16-3fa8-9e82",
+      "WeaponName": "Etacarn plasma beamer*",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Sustained Hits D3"
+    },
+    {
+      "id": "f36a-ee45-45ab-5147",
+      "WeaponName": "Magna-rail rifle*",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D3+3",
+      "Text": "Devastating Wounds, Heavy"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "71e0-9c15-455b-6196",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "6493-21dc-2083-02e0",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "aad2-ad0c-0b5d-6f5c",
+      "WeaponName": "Kin melee weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "c782-ab60-bcf3-5e50",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1e8e-c2a2-ee10-5824",
+      "WeaponName": "Kin melee weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

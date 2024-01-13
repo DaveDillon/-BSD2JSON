@@ -1,0 +1,96 @@
+{
+  "id": "1782-942b-39dd-7e10",
+  "UnitName": "Exaction Squad",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f416-3d00-9cce-33a3",
+      "AbilityName": "Arbites medkit",
+      "AbilityText": "Models in the bearer’s unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "2f11-3bd0-4e01-4ed4",
+      "AbilityName": "Soulguilt scanner",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "a8c6-6db8-cabd-6683",
+      "AbilityName": "Imperial Law",
+      "AbilityText": "At the start of the first battle round, select one enemy unit to be this unit’s quarry. Each time a model in this unit makes an attack that targets its quarry, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a3f8-c750-49fb-d6ac",
+      "WeaponName": "Arbites grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "75fb-7762-f260-b2ce",
+      "WeaponName": "Arbites grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    },
+    {
+      "id": "123c-e737-92bb-ddf",
+      "WeaponName": "Executioner shotgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Precision"
+    },
+    {
+      "id": "33ca-c668-4ae3-5c89",
+      "WeaponName": "Heavy stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 3"
+    },
+    {
+      "id": "a6d-9222-b105-9d08",
+      "WeaponName": "Webber",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Devastating Wounds, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7d1f-da1a-5859-ca34",
+      "WeaponName": "Excruciator maul",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

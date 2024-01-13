@@ -1,0 +1,32 @@
+{
+  "id": "4f5-7a56-eb75-c9f5",
+  "UnitName": "Sicaran Venator",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f48-7960-4b45-401c",
+      "AbilityName": "Ferocious Assault",
+      "AbilityText": "Each time this model makes a ranged attack that targets the closest eligible MONSTER or VEHICLE unit, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "395f-ddbc-2b31-81ab",
+      "WeaponName": "Venator neutron laser",
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D3+3",
+      "Text": "Heavy"
+    }
+  ],
+  "MeleeSkills": []
+}

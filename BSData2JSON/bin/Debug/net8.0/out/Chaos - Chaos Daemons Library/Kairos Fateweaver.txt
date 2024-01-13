@@ -1,0 +1,58 @@
+{
+  "id": "1e04-6405-591d-76d0",
+  "UnitName": "Kairos Fateweaver",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "6+",
+  "Wounds": "20",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "7b59-bde5-96c3-d746",
+      "AbilityName": "One Head Looks Forward (Aura)",
+      "AbilityText": "Each time you target a friendly TZEENTCH LEGIONES DAEMONICA unit within 6\" of this model with a Stratagem, roll one D6: if the result is greater than the current battle round number, you gain 1CP."
+    },
+    {
+      "Id": "9d33-996b-cbcb-61c5",
+      "AbilityName": "One Head Looks Back",
+      "AbilityText": "Once per battle, after your opponent uses a Stratagem, this model can use this ability. If it does, until the end of the battle, each time your opponent uses that Stratagem, increase its cost to your opponent by 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b9c2-b447-7c69-cd81",
+      "WeaponName": "Infernal Gateway",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Indirect Fire, Psychich"
+    },
+    {
+      "id": "6de6-cd27-cbd4-d1fd",
+      "WeaponName": "Infernal Gateway",
+      "Range": "24\"",
+      "Attacks": "D3+6",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D3",
+      "Text": "Blast, Indirect Fire, Hazardous, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1e28-91b2-2a6a-6b24",
+      "WeaponName": "Staff of Tomorrow",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2D3"
+    }
+  ]
+}

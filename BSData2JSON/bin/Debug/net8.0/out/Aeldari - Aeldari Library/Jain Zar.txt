@@ -1,0 +1,66 @@
+{
+  "id": "f0c1-43c5-1ae0-37ec",
+  "UnitName": "Jain Zar",
+  "Movement": "8\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "119f-842c-536a-9e6c",
+      "AbilityName": "Invulnerable Save (Phoenix Lord)",
+      "AbilityText": "Jain Zar has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "5da1-b785-137b-f626",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Howling Banshees"
+    },
+    {
+      "Id": "cac-7c38-5f32-9215",
+      "AbilityName": "Whirling Death",
+      "AbilityText": "Once per turn, you can target this model’s unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase"
+    },
+    {
+      "Id": "cacb-844c-4611-5ce0",
+      "AbilityName": "Storm of Silence",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "784d-1c56-2d7a-4806",
+      "WeaponName": "Silent Death",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "935c-84d6-da62-862d",
+      "WeaponName": "The Blade of Destruction",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "df6f-20fd-ec40-f67e",
+      "WeaponName": "The Blade of Destruction",
+      "Attacks": "12",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-3",
+      "Damage": "1"
+    }
+  ]
+}

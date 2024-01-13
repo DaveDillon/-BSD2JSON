@@ -1,0 +1,109 @@
+{
+  "id": "646d-c72b-f00a-640f",
+  "UnitName": "Helbrute",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "a1c6-3496-6fe0-35b0",
+      "AbilityName": "Arcane Knowledge Amidst Babbling Insanity (Aura)",
+      "AbilityText": "Each time a friendly THOUSAND SONS PSYKER model within 9\" of this model is selected to use a Ritual, you gain 1 Cabal point."
+    },
+    {
+      "Id": "d704-4523-7eed-b79c",
+      "AbilityName": "Helbrute fists",
+      "AbilityText": "If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b5b7-00b9-7d37-a337",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "bd2e-c0c7-921a-5e62",
+      "WeaponName": "Twin autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "dde6-e627-31de-2df1",
+      "WeaponName": "Helbrute plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "a1c8-90e2-cefb-f4a7",
+      "WeaponName": "Missile launcher",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "0be8-0c0c-62ae-df06",
+      "WeaponName": "Missile launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "6f2e-4c73-fd0d-796e",
+      "WeaponName": "Helbrute hammer",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "12d1-c3be-c3ce-5c83",
+      "WeaponName": "Power scourge",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "e1d2-6023-8565-81bc",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

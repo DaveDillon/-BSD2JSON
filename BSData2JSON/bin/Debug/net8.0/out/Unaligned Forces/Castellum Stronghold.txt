@@ -1,0 +1,59 @@
+{
+  "id": "10ec-c57f-1acc-6db7",
+  "UnitName": "Castellum Stronghold",
+  "Movement": "-",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "50",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f18-b2ff-845e-48a5",
+      "AbilityName": "Stronghold",
+      "AbilityText": "Friendly INFANTRY models can be set up or end any type of move on top of the roof section of this FORTIFICATION. Any friendly model can be set up or end any type of move on the ramp or platform section of this FORTIFICATION."
+    },
+    {
+      "Id": "b20f-73b0-988b-c053",
+      "AbilityName": "Damaged: 1-15 Wounds Remaining",
+      "AbilityText": "While this model has 1-15 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c4a4-5c42-92f9-265",
+      "WeaponName": "Castellum battle cannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "71a3-9dff-a1b8-7316",
+      "WeaponName": "Whirlwind castellan launcher",
+      "Range": "72\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "f84b-8fa5-d8cc-2e7",
+      "WeaponName": "Castellum Icarus quad lascannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Anti-Fly 2+, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4708-6634-c709-219a",
+  "UnitName": "Beasts of Nurgle",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "6+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "992f-ae05-c0cb-cf44",
+      "AbilityName": "Grotesque Regeneration",
+      "AbilityText": "At the end of each phase, if a BEASTS OF NURGLE model in this unit has lost any wounds but is not destroyed, that model regains all of its lost wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "3fee-ef02-8777-b40b",
+      "WeaponName": "Putrid appendages",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

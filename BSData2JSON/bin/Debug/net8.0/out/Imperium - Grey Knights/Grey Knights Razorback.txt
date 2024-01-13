@@ -1,0 +1,86 @@
+{
+  "id": "88ad-5f29-ba09-9427",
+  "UnitName": "Grey Knights Razorback",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b9fd-80d9-a165-1812",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5b78-4de-2a6a-9a68",
+      "WeaponName": "Hunter-killer Missile",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "One Shot"
+    },
+    {
+      "id": "330d-3463-fa04-568",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "f5fc-169-bfb2-6bd8",
+      "WeaponName": "Twin Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-Linked"
+    },
+    {
+      "id": "84e9-ed79-ed6c-e524",
+      "WeaponName": "Twin Assault Cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Twin-Linked"
+    },
+    {
+      "id": "4053-cc1c-69a5-911f",
+      "WeaponName": "Twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5cf3-d55c-1b15-a423",
+      "WeaponName": "Armoured tracks",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

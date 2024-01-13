@@ -1,0 +1,136 @@
+{
+  "id": "54b8-5bba-f749-e5ef",
+  "UnitName": "Grey Knights Stormraven Gunship",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c534-53bb-4d73-23d2",
+      "AbilityName": "Armoured Resilience",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack"
+    },
+    {
+      "Id": "5d24-6acb-2ed-b67",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "452e-dfff-8d5d-ff0d",
+      "WeaponName": "Hurricane Bolter",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 6, Twin-Linked"
+    },
+    {
+      "id": "6340-bb29-ab5e-a0c9",
+      "WeaponName": "Stormstrike missile launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": ""
+    },
+    {
+      "id": "6045-318b-104-ea21",
+      "WeaponName": "Twin Assault Cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Twin-Linked"
+    },
+    {
+      "id": "3836-8269-1ad3-92dc",
+      "WeaponName": "Twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "c6d3-899c-3edf-dd94",
+      "WeaponName": "Twin Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Twin-Linked"
+    },
+    {
+      "id": "56b1-1619-dbc6-c1d",
+      "WeaponName": "Twin Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous, Twin-Linked"
+    },
+    {
+      "id": "6a9e-e5f7-870e-29bc",
+      "WeaponName": "Twin Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-Linked"
+    },
+    {
+      "id": "4623-9a3e-995c-b533",
+      "WeaponName": "Typhoon Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "fd45-ede8-980a-669f",
+      "WeaponName": "Typhoon Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "cfbd-9a7e-949c-be07",
+      "WeaponName": "Twin Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": []
+}

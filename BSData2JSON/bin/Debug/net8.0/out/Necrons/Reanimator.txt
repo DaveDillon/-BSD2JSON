@@ -1,0 +1,42 @@
+{
+  "id": "721c-7a0-a813-bafa",
+  "UnitName": "Reanimator",
+  "Movement": "8\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "20e1-eb82-bf57-db38",
+      "AbilityName": "Nanoscarab Reanimation Beam (Aura)",
+      "AbilityText": "While a friendly NECRONS unit is within 3\" of this model, each time that unit’s Reanimation Protocols activate, that unit reanimates an additional D3 wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "600b-6620-1a45-3eb",
+      "WeaponName": "Atomiser beam",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7bd6-e428-8f03-6d38",
+      "WeaponName": "Reanimator's claws",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

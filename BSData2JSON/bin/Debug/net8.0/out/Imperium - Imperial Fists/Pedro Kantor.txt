@@ -1,0 +1,52 @@
+{
+  "id": "7709-796b-3022-31fe",
+  "UnitName": "Pedro Kantor",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5324-763c-61f5-9e4b",
+      "AbilityName": "Oath of Rynn",
+      "AbilityText": "Once per battle, at the start of either player’s Command phase, this model can use this ability. When it does, until the end of the turn, add 1 to the Attacks characteristic of weapons equipped by models in this model’s unit."
+    },
+    {
+      "Id": "b20-ca96-c186-27dc",
+      "AbilityName": "To the Last",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+    },
+    {
+      "Id": "39c9-ff24-66c5-c3aa",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Company Heroes\r\n■ Bladeguard Veteran Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "49c3-48e8-5856-65d3",
+      "WeaponName": "Dorn's Arrow",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Rapid Fire 2, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "faba-867d-75d6-3747",
+      "WeaponName": "Fist of Retribution",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    }
+  ]
+}

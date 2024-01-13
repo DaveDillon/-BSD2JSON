@@ -1,0 +1,150 @@
+{
+  "id": "3847-7af4-207a-be61",
+  "UnitName": "Relic Contemptor Dreadnought",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "d356-dfe7-6dfa-ade9",
+      "AbilityName": "Even In Death I Serve",
+      "AbilityText": "The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "162a-13a8-6d97-7bf8",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "fb3d-8e49-889a-ddaa",
+      "WeaponName": "Cyclone missile launcher",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    },
+    {
+      "id": "93f5-9ebd-fa59-d6d5",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "af13-ff94-5ea-9adc",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "ced3-1a10-a850-b935",
+      "WeaponName": "Conversion beam cannon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Conversion, Sustained Hits D3"
+    },
+    {
+      "id": "4cad-8e19-3cda-50f4",
+      "WeaponName": "Kheres assault cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "5c28-e4a5-80c0-8f9c",
+      "WeaponName": "Combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "1081-ff70-4056-e66b",
+      "WeaponName": "Plasma blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "5d2a-3083-8bce-5c78",
+      "WeaponName": "Plasma blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "50ad-8881-7822-db3c",
+      "WeaponName": "Graviton blaster",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-VEHICLE 2+"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "cc85-fa53-c68c-c6c7",
+      "WeaponName": "Dreadnought chainfist",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "582f-8566-a493-36e1",
+      "WeaponName": "Dreadnought combat weapon",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

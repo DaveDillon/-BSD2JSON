@@ -1,0 +1,69 @@
+{
+  "id": "5fdd-439f-4933-3811",
+  "UnitName": "Lootas",
+  "Movement": "6\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6ddb-b84a-eb3f-f119",
+      "AbilityName": "Dat’s Our Loot!",
+      "AbilityText": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit that is within range of an objective marker, you can re-roll the Hit roll instead."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7bbb-df7c-c0fd-322e",
+      "WeaponName": "Deffgun",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "6+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d2b4-c149-6116-5307",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1843-bd5-7176-5338",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "516a-c220-4a17-4443",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d50c-948b-784d-91c",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

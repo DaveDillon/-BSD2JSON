@@ -1,0 +1,431 @@
+{
+  "id": "4129-a453-686a-d38a",
+  "UnitName": "Synapse",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "fee7-90a8-24a2-79ef",
+      "AbilityName": "Paroxysm (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can select one enemy unit within 12\" of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit."
+    },
+    {
+      "Id": "c13f-316a-bbdf-74fd",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- TYRANT GUARD"
+    },
+    {
+      "Id": "d038-2f3d-1c4a-a15",
+      "AbilityName": "Onslaught (Aura, Psychic)",
+      "AbilityText": "While a friendly TYRANIDS unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [ASSAULT] ability."
+    },
+    {
+      "Id": "3ae7-6f89-23de-3cca",
+      "AbilityName": "Spawn Termagants",
+      "AbilityText": "In your Command phase, you can select one friendly TERMAGANTS unit within 6\" of this model and return up to D3+3 destroyed TERMAGANT models to that unit. A TERMAGANTS unit cannot be selected for this ability more than once per phase."
+    },
+    {
+      "Id": "7697-fdc6-4658-3f1c",
+      "AbilityName": "Brood Progenitor (Aura, Psychic)",
+      "AbilityText": "While a friendly TERMAGANTS unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability."
+    },
+    {
+      "Id": "ba65-9542-51dd-8200",
+      "AbilityName": "Hive Commander",
+      "AbilityText": "At the start of your Command phase, if this model is on the battlefield, you gain 1CP"
+    },
+    {
+      "Id": "4b18-f7de-620b-3b73",
+      "AbilityName": "Malign Presence",
+      "AbilityText": "Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability. If it does, until the end of the battle, increase that Stratagem’s cost to your opponent by 1CP."
+    },
+    {
+      "Id": "b3b4-4208-4997-9506",
+      "AbilityName": "Domination of the Hive Mind (Aura)",
+      "AbilityText": "While a friendly TYRANIDS unit is within 9\" of this model, that unit is within your army’s Synapse Range."
+    },
+    {
+      "Id": "99ef-a339-35c2-ec3",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ TYRANT GUARD"
+    },
+    {
+      "Id": "a4ec-5941-e494-6ed0",
+      "AbilityName": "Alpha Warrior",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "5689-b058-225b-88d9",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "Id": "bdac-5b09-9843-5aed",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- GARGOYLES\r\n- TYRANID WARRIORS WITH MELEE BIO-WEAPONS\r\n- TYRANID WARRIORS WITH RANGED BIO-WEAPONS"
+    },
+    {
+      "Id": "334d-297-9ce7-a555",
+      "AbilityName": "Adaptable Predators",
+      "AbilityText": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    },
+    {
+      "Id": "1be5-8ccf-3d43-2b32",
+      "AbilityName": "Adaptive Instincts",
+      "AbilityText": "At the start of the Fight phase, select one of the following:\r\n- Aggression Imperative: Until the end of the phase, each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\r\n- Bioregeneration: Until the end of the phase, each time a saving throw if made for a model in this unit, re-roll a saving throw of 1."
+    },
+    {
+      "Id": "3431-c2fc-bb66-b5f3",
+      "AbilityName": "Node Lash (Psychic)",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound roll as well."
+    },
+    {
+      "Id": "0f27-7f4d-4bd3-43f1",
+      "AbilityName": "Psychic Terror (Psychic)",
+      "AbilityText": "If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result."
+    },
+    {
+      "Id": "808e-ed23-9487-8b66",
+      "AbilityName": "Synaptic Relays",
+      "AbilityText": "In your Command phase, you can select up to two friendly Tyranids units within 18\" of this model’s unit. Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army."
+    },
+    {
+      "Id": "f6b2-d409-9b06-a66b",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- NEUROGAUNT\r\n- TYRANT GUARD"
+    },
+    {
+      "Id": "a372-8f4-cc33-ec1c",
+      "AbilityName": "Encephalic Diffusion (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll, and, if that enemy unit is Below Half-strength, subtract 1 from the Wound roll as well."
+    },
+    {
+      "Id": "36f5-a5b7-9e6-9f40",
+      "AbilityName": "Spirit Leech (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 6\" of this unit, if it contains a Neurothrope, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds."
+    },
+    {
+      "Id": "6356-2345-a0cf-9555",
+      "AbilityName": "Warp Field (Aura, Psychic)",
+      "AbilityText": "While a friendly TYRANIDS unit is within 6\" of this unit, models in that unit have a 6+ invulnerable save."
+    },
+    {
+      "Id": "31d0-c053-ceb2-e8eb",
+      "AbilityName": "Enhanced Toxic Miasma",
+      "AbilityText": "While this model is leading a unit, the range of that unit's Foul Spores Aura ability is increased to 9\"."
+    },
+    {
+      "Id": "bdf3-1395-2a52-e255",
+      "AbilityName": "Prey Adaptation",
+      "AbilityText": "Each time this model's unit is selected to fight, select one of the following abilities to apply to all melee weapons equipped by models in that unit until the end of the phase:\r\n■[SUSTAINED HITS 1] \r\n■[LANCE] \r\n■[LETHAL HITS]"
+    },
+    {
+      "Id": "4f4b-61cc-6bb1-1c97",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit: \r\n■ VENOMTHROPES"
+    },
+    {
+      "Id": "b8e7-5d35-cbdb-fc5f",
+      "AbilityName": "Singular Purpose",
+      "AbilityText": "At the start of the First battle round, select one of the following: \r\n\r\n- Select one enemy unit. Until the end of the battle, each time this model makes an attack that targets that unit you can re-roll the Hit roll and you can re-roll the Wound roll\r\n\r\n\r\n-Select one objective marker. Until the end of the battle, while this model is within range of that objective marker, it has the Feel No Pain 5+ ability and an Objective Control characteristic of 15."
+    },
+    {
+      "Id": "286e-4c57-b171-2344",
+      "AbilityName": "Singular Purpose",
+      "AbilityText": "At the start of the First balle round, select one of the following: \r\n\r\n- Select one enemy unit. Until the end of the battle, each time this model makes an attack that targets that unit you can re-roll the Hit roll and you can re-roll the Wound roll\r\n\r\n\r\n-Select one objective marker. Until the end of the battle, while this model is within range of that objective marker, it has the Feel No Pain 5+ ability and an Objective Control characteristic of 15."
+    },
+    {
+      "Id": "365e-a0cc-81f6-c188",
+      "AbilityName": "Unnatural Resistance",
+      "AbilityText": "This model has the Feel No Pain 4+ ability against Mortal Wounds."
+    },
+    {
+      "Id": "6758-6ece-456a-eb57",
+      "AbilityName": "Death Blow",
+      "AbilityText": "If this model is destroyed by a melee attack, if it has not fought this phase rolle one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model has finished making its attacks, and is then removed from play."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8053-6497-fe27-f886",
+      "WeaponName": "Synaptic Pulse",
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Psychic, Torrent"
+    },
+    {
+      "id": "f1ff-ebef-ac02-b60b",
+      "WeaponName": "Psychic scream",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, Psychic, Torrent"
+    },
+    {
+      "id": "22aa-3a34-8d0-8463",
+      "WeaponName": "Psychic Overload",
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Psychic"
+    },
+    {
+      "id": "1db3-5ac-b362-222a",
+      "WeaponName": "Warp Blast",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Psychic"
+    },
+    {
+      "id": "a432-d78f-e4f2-38fd",
+      "WeaponName": "Warp Blast",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Lethal Hits, Psychic"
+    },
+    {
+      "id": "9434-a15-bb0c-b6ed",
+      "WeaponName": "Warp Blast",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Psychic"
+    },
+    {
+      "id": "9499-4d50-d3b5-a2c",
+      "WeaponName": "Warp Blast",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Lethal Hits, Psychic"
+    },
+    {
+      "id": "ffca-3eb5-e42f-f935",
+      "WeaponName": "Toxinjecter Harpoon",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Harpooned"
+    },
+    {
+      "id": "6874-7f26-f287-75b2",
+      "WeaponName": "Psychic Tendril",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Precision, Psychic"
+    },
+    {
+      "id": "b22f-1012-772-79bb",
+      "WeaponName": "Psychic Tendril",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Melta 2, Psychic"
+    },
+    {
+      "id": "34f1-b5d9-74bb-5d1e",
+      "WeaponName": "Psychic Tendril",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Blast, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "84d0-f0bf-85c5-2266",
+      "WeaponName": "Tyrant talons",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "6869-7a05-273e-f815",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6"
+    },
+    {
+      "id": "de26-2863-a6b-1aa0",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "84ce-3a2b-e1b1-aae",
+      "WeaponName": "Massive Crushing Claws",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "805b-1a65-6cb6-c4ed",
+      "WeaponName": "Bone Sabres",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "4433-3a45-4860-4896",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "6191-9a03-aeb7-85ab",
+      "WeaponName": "Neurotyrant claws and lashes",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2fcd-a4a0-387-a542",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "cc52-927c-8aac-e637",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "245c-e0ca-b0c6-5c8",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "faa-2096-a71f-918",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "2",
+      "WeaponSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7e94-a8c3-6036-305d",
+      "WeaponName": "Grasping tail",
+      "Attacks": "4",
+      "WeaponSkill": "4",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    },
+    {
+      "id": "d4b2-885d-1138-ee11",
+      "WeaponName": "Monsterous Scything Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "c174-a05a-1240-f935",
+      "WeaponName": "Toxinjecter Harpoon",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "3682-2b85-bde3-4113",
+      "WeaponName": "Monsterous Scything Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "ee40-6-e50c-1761",
+      "WeaponName": "Monsterous Rending Talons",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "8a71-751d-7cb3-21ee",
+      "WeaponName": "Prime Talons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

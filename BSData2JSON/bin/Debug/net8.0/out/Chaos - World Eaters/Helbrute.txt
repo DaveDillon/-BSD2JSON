@@ -1,0 +1,109 @@
+{
+  "id": "f4f2-8000-3586-26f6",
+  "UnitName": "Helbrute",
+  "Movement": "6\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2f94-5892-1327-89f6",
+      "AbilityName": "Frenzy",
+      "AbilityText": "Each time an enemy unit targets this model, after that unit has finished making its attacks, this model can either shoot as if it were your Shooting phase or fight as if it were the Fight phase."
+    },
+    {
+      "Id": "95b1-3a4a-5a80-8bd5",
+      "AbilityName": "Helbrute fists",
+      "AbilityText": "If this model is equipped with two Helbrute fists, those weapons have the [TWIN-LINKED] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "74ad-f155-27a9-3e54",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "d49f-822-633e-12e",
+      "WeaponName": "Twin autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "55df-3e4e-7496-90c5",
+      "WeaponName": "Helbrute plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "c383-ed5a-fdf2-7a4f",
+      "WeaponName": "Missile launcher",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "9296-f12a-ad7f-30c4",
+      "WeaponName": "Missile launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "fc6f-24af-e553-0c3d",
+      "WeaponName": "Helbrute hammer",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "b7a2-e159-fe07-db5d",
+      "WeaponName": "Power scourge",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "6abd-b956-2a51-241",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

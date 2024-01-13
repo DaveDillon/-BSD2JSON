@@ -1,0 +1,25 @@
+{
+  "id": "136d-4905-129b-ff78",
+  "UnitName": "Skyclaws",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7d00-f80f-c11-4992",
+      "AbilityName": "Headstrong",
+      "AbilityText": "You can re-roll Charge rolls made for this unit. Each time this unit makes a Charge move, until the end of the turn, each time a model in this unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "42db-86ef-1683-f75b",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a CHARACTER unit from your army with the Leader ability can be attached to an ASSAULT INTERCESSOR SQUAD WITH JUMP PACKS or ASSAULT SQUAD WITH JUMP PACKS, it can instead be attached to this unit."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

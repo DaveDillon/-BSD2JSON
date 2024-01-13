@@ -1,0 +1,52 @@
+{
+  "id": "472c-f807-880-b6",
+  "UnitName": "Grand Master Voldus",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b513-f80c-9d48-db05",
+      "AbilityName": "Sanctuary (Psychic)",
+      "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "bf8c-be10-e632-646d",
+      "AbilityName": "Hammer Aflame (Psychic)",
+      "AbilityText": "Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model’s unit and roll one D6, adding 2 to the result if that unit has the Daemon keyword: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "Id": "3de3-b31e-7c05-aba8",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Brotherhood Terminator Squad\r\n■ Paladin Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f8f5-d926-d76f-9404",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9c20-33ed-5139-f2df",
+      "WeaponName": "Malleus Argyrum",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "edd3-7762-a3f5-679f",
+  "UnitName": "Striking Scorpions",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 5+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "fe3-117b-e66f-63bb",
+      "AbilityName": "Mandiblasters",
+      "AbilityText": "Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the MONSTER or VEHICLE keywords."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "af50-18f0-aa1f-3d40",
+      "WeaponName": "Shuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "92c2-e86f-17f2-6dc7",
+      "WeaponName": "Scorpion chainsword and phuriken pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "9cdc-41e8-536a-8675",
+      "WeaponName": "Scorpion's claw and scorpion chainsword",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "21dd-de86-1ab8-d23",
+      "WeaponName": "Scorpion chainsword",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8a52-d617-a4d5-60f2",
+      "WeaponName": "Scorpion chainsword and phuriken pistol",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "edf7-1ef5-cefc-9c91",
+      "WeaponName": "Scorpion's claw and scorpion chainsword",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "4e49-d71c-a4b0-2b22",
+      "WeaponName": "Scorpion's claw and scorpion chainsword",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "eb92-2e30-8ab8-a987",
+      "WeaponName": "Biting blade",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

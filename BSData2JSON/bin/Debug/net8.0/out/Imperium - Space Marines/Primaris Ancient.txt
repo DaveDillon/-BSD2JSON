@@ -17,7 +17,7 @@
     {
       "Id": "d9f5-17f1-fc0c-cb61",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Devastator Squad\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Desolation Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Devastator Squad\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Desolation Squad\r\n■ Tactical Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [],

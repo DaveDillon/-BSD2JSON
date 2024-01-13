@@ -1,0 +1,72 @@
+{
+  "id": "c34e-980-ae84-3ff7",
+  "UnitName": "Hierophant",
+  "Movement": "12\"",
+  "Toughness": "14",
+  "Save": "2+",
+  "Wounds": "30",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "This Model has a 5+ Invulnerable Save",
+  "Abilities": [
+    {
+      "Id": "e1fc-f768-9ec6-be50",
+      "AbilityName": "Damaged: 1-10 wounds remaining",
+      "AbilityText": "While this model has 1-10 wounds remaining, subtract 6 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "cda-47a4-2046-4c2c",
+      "AbilityName": "Apex-beast",
+      "AbilityText": "Each time this model makes an attack that targets a unit that is Battle-shocked, add 1 to the Hit roll."
+    },
+    {
+      "Id": "9746-a65-6ca-1ead",
+      "AbilityName": "Stalking Forward",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6141-7651-2d71-6f22",
+      "WeaponName": "Dire bio-cannon",
+      "Range": "48\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "db9f-40a6-82da-befd",
+      "WeaponName": "Bio-plasma torrent",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "N/A",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Assault, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "728d-c54f-c1c4-2b3c",
+      "WeaponName": "Titanic scything talons",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "43ad-d7e-d788-e5bf",
+      "WeaponName": "Lashwhip pods",
+      "Attacks": "10",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

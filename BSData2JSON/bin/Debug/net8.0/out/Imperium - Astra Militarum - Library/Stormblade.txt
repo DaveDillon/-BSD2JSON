@@ -1,0 +1,43 @@
+{
+  "id": "e5ad-9735-85d1-74b7",
+  "UnitName": "Stormblade",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1e19-78d7-a49d-e1e6",
+      "AbilityName": "Close-range Devastation",
+      "AbilityText": "Each time this model makes a ranged attack with its Stormblade plasma blastgun that targets a unit within half range, you can re-roll the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f9d0-cee4-b9f5-f2e2",
+      "WeaponName": "Stormblade plasma blastgun",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "57de-57de-dc1-3064",
+      "WeaponName": "Stormblade plasma blastgun",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": "Blast, Hazardous"
+    }
+  ],
+  "MeleeSkills": []
+}

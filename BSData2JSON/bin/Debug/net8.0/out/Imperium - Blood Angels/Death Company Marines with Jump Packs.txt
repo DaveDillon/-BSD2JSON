@@ -1,0 +1,25 @@
+{
+  "id": "bd17-5cbb-7db8-e23a",
+  "UnitName": "Death Company Marines with Jump Packs",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6353-b576-82ad-a3fb",
+      "AbilityName": "Berserk Fury",
+      "AbilityText": "You can re-roll Charge rolls made for this unit."
+    },
+    {
+      "Id": "fa3d-61ea-538d-3a98",
+      "AbilityName": "Death Company",
+      "AbilityText": "‘If a Chaplain model from your army with the Leader ability can be attached to Assault Intercessors with Jump Packs or an Assault Squad with Jump Packs, it can be attached to this unit instead"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

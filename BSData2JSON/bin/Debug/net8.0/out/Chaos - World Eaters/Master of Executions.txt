@@ -1,0 +1,52 @@
+{
+  "id": "11bd-04b2-ef68-f7b7",
+  "UnitName": "Master of Executions",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c217-2971-b9ed-1cb1",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- KHORNE BERSERKERS"
+    },
+    {
+      "Id": "4f7f-4559-76e4-b73a",
+      "AbilityName": "Trophy Taker",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
+    },
+    {
+      "Id": "22df-03a4-7b94-437f",
+      "AbilityName": "Murderous Swing",
+      "AbilityText": "Each time this model makes a melee attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2682-33c5-c4f5-4bf9",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d596-29c4-bf15-c7e1",
+      "WeaponName": "Axe of dismemberment",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

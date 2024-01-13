@@ -1,0 +1,64 @@
+{
+  "id": "b06c-e02c-b75-8dcc",
+  "UnitName": "Voidweaver",
+  "Movement": "14\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "d493-68aa-bd6-98e8",
+      "AbilityName": "Devastating Assault",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c31c-ccd-3a28-9102",
+      "WeaponName": "Prismatic Cannon",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "8fe3-2450-5321-bc65",
+      "WeaponName": "Prismatic Cannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": ""
+    },
+    {
+      "id": "a7d0-5e75-3d92-7889",
+      "WeaponName": "Voidweaver Haywire Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-vehicle 4+, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d42c-2ce2-93ab-23fc",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

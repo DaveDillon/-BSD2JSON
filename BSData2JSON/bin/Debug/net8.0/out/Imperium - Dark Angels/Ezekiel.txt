@@ -1,0 +1,79 @@
+{
+  "id": "2afc-d6d3-e731-8a83",
+  "UnitName": "Ezekiel",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6fdb-c01c-b297-170f",
+      "AbilityName": "Invulnerable save",
+      "AbilityText": "4+"
+    },
+    {
+      "Id": "f048-48f8-8dc0-3001",
+      "AbilityName": "Engulfing Fear [Psychic]",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of this model. That enemy unit must take a Battle-shock test."
+    },
+    {
+      "Id": "b91e-a6de-9238-9ee1",
+      "AbilityName": "Book of Salvation",
+      "AbilityText": "While this model is leading a unit, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit. When this model is destroyed, each friendly Adeptus Astartes unit within 6\" of this model must take a Battle-shock test."
+    },
+    {
+      "Id": "cf97-b93c-c35-1e55",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Assault Squad\r\n■ Command Squad\r\n■ Tactical Squad\r\n■ Vanguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fd5a-72db-5bc8-7025",
+      "WeaponName": "The Deliverer",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Pistol, Precision"
+    },
+    {
+      "id": "fc03-30cd-58b6-788f",
+      "WeaponName": "Mind Wipe",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Devastating Wounds, Precision, Psychic"
+    },
+    {
+      "id": "fdaf-6291-16d1-6051",
+      "WeaponName": "Mind Wipe",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Anti-Character 4+, Devastating Wounds, Hazardous, Precision, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a896-5701-6c4a-7753",
+      "WeaponName": "Traitor's Bane",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3"
+    }
+  ]
+}

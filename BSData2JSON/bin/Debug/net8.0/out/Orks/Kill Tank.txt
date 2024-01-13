@@ -1,0 +1,69 @@
+{
+  "id": "b80b-edb4-1b4c-82ae",
+  "UnitName": "Kill Tank",
+  "Movement": "12\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "24",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5df2-5fa-8e61-4fa3",
+      "AbilityName": "Wall of Dakka",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit within half range, add 1 to the Hit roll."
+    },
+    {
+      "Id": "6fe5-a229-7392-3f0b",
+      "AbilityName": "Damaged: 1-8 Wounds Remaining",
+      "AbilityText": "While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "35a2-e849-a490-e2b0",
+      "WeaponName": "Twin big shoota",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "5+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2, Twin-linked"
+    },
+    {
+      "id": "19b3-1b0c-2d8e-7180",
+      "WeaponName": "Bursta kannon",
+      "Range": "36\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "5+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "cda0-d4a4-4ca6-ff68",
+      "WeaponName": "Giga shoota",
+      "Range": "48\"",
+      "Attacks": "30",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "dac9-4f29-7424-e50",
+      "WeaponName": "Reinforced ram",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

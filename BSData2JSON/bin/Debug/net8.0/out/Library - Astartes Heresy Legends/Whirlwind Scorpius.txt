@@ -1,0 +1,32 @@
+{
+  "id": "d71a-cb33-26eb-9b49",
+  "UnitName": "Whirlwind Scorpius",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2e8-f1bb-932a-476e",
+      "AbilityName": "Pinning Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its Scorpius multi-launcher scored a hit against an enemy INFANTRY unit, that unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "68f4-7ff-b657-d97",
+      "WeaponName": "Scorpius multi-launcher",
+      "Range": "48\"",
+      "Attacks": "2D3+3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

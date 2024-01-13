@@ -17,12 +17,12 @@
     {
       "Id": "712b-2536-4360-4d74",
       "AbilityName": "Master of Prescience (Psychic)",
-      "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll. In addition, once per battle round, you can target that unit with one of the following Stratagems for 0CP: Counter-offensive; Fire Overwatch; Go to Ground;\nHeroic Intervention."
+      "AbilityText": "While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll. In addition, once per battle round, you can target that unit with one of the following Stratagems for 0CP: Counter-offensive; Fire Overwatch; Go to Ground;\r\nHeroic Intervention."
     },
     {
       "Id": "af75-67b0-4fcb-d9e8",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Desolation Squad\n■ Devastator Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Desolation Squad\r\n■ Devastator Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad"
     }
   ],
   "RangedSkills": [

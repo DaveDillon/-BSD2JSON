@@ -1,0 +1,695 @@
+{
+  "id": "c250-f6c5-ffc8-bcd5",
+  "UnitName": "Wraith Construct",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 5+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "6723-452c-f397-3431",
+      "AbilityName": "Mindshock Pod (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
+    },
+    {
+      "Id": "38f0-2f00-eddf-5f72",
+      "AbilityName": "Scattershield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "fe0f-b73b-de73-7bde",
+      "AbilityName": "Damaged: 1-6 Wounds Remaining",
+      "AbilityText": "While this model has 1-6 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "fd9d-69b6-e156-dd88",
+      "AbilityName": "Agile",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding TITANIC models) and terrain features that are 4\" or less in height as if they were not there."
+    },
+    {
+      "Id": "8e48-8384-7195-84e5",
+      "AbilityName": "Wraithbone Form",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from that attack’s Damage characteristic."
+    },
+    {
+      "Id": "7019-ca5c-4d7e-7b83",
+      "AbilityName": "Fated Hero",
+      "AbilityText": "Each time this model destroys an enemy unit, roll one D6 and add it to your Fate dice pool displaying the result you just rolled."
+    },
+    {
+      "Id": "b7b8-27fe-d7c3-228a",
+      "AbilityName": "War Construct",
+      "AbilityText": "Once per battle round, when an enemy unit targets this unit, after that unit has finished making its attacks, this unit can shoot as if it were your Shooting phase."
+    },
+    {
+      "Id": "2e7d-c58b-febe-4e0e",
+      "AbilityName": "Forceshield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "42be-9bc0-e8fa-756a",
+      "AbilityName": "Malevolent Souls",
+      "AbilityText": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "Id": "75c7-1306-c5e0-a913",
+      "AbilityName": "Damaged: 1-6 Wounds Remaining",
+      "AbilityText": "While this model has 1-6 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "fa62-e32c-9456-cdf5",
+      "AbilityName": "Agile",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there."
+    },
+    {
+      "Id": "69e6-7441-dff7-efb6",
+      "AbilityName": "Webway Shunt Generator",
+      "AbilityText": "Once per battle, at the end of your opponent’s turn, if this model is not within Engagement Range of one or more enemy units, you can remove this model from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "Id": "eeea-e4f1-eff1-43fd",
+      "AbilityName": "Scattershield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "45ed-6819-96e3-f794",
+      "AbilityName": "Horrify (Psychic)",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a9ec-e576-4eb4-a235",
+      "WeaponName": "Heavy D-Scythe",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "6474-db97-fca6-b8d",
+      "WeaponName": "Suncannon",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": ""
+    },
+    {
+      "id": "a293-46b0-1bd1-863",
+      "WeaponName": "Heavy Wraithcannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-4",
+      "Damage": "2D6",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "4d4e-8abb-65ad-c0bc",
+      "WeaponName": "Heavy Wraithcannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-4",
+      "Damage": "2D6",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "c77a-1b41-952b-a922",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "e878-4e99-5326-29a5",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "b227-1ceb-8973-957e",
+      "WeaponName": "Starcannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "2ea7-2985-908b-760c",
+      "WeaponName": "Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "81b2-d7a8-8a48-f92e",
+      "WeaponName": "Aeldari Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault, Ignores cover, Torrent"
+    },
+    {
+      "id": "1947-1f77-c504-2bd1",
+      "WeaponName": "Aeldari Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "ba63-64b2-cafe-188",
+      "WeaponName": "Aeldari Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "177e-2ee9-84fc-95dd",
+      "WeaponName": "Bright Lance",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": ""
+    },
+    {
+      "id": "3745-73d2-5a6e-247a",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "4a9f-ade4-798b-c6c4",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "1b9e-90e4-318e-9d29",
+      "WeaponName": "Starcannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "6e68-dd1b-2c4d-943f",
+      "WeaponName": "Wraithcannon",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "82e7-df7e-2a92-58d5",
+      "WeaponName": "D-Scythe",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-4",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "6457-1086-8590-b1f1",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "e415-e937-2c5b-2d27",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "c84-faef-98d2-938e",
+      "WeaponName": "Inferno Lance",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "fc0f-aac1-d239-e826",
+      "WeaponName": "Inferno Lance",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "ffcc-3e45-a8fd-187c",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "1bd2-5c96-9497-d3c9",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "5157-1e2-b190-f79c",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "b3a4-47fe-525d-316e",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "14b9-578f-65c9-1fc0",
+      "WeaponName": "Starcannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "499f-3faf-c319-247d",
+      "WeaponName": "Wraithseer",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "5b2c-21d9-4d7d-be4f",
+      "WeaponName": "Wraithseer",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "8c62-3d5f-7ff2-55ce",
+      "WeaponName": "Wraithseer",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": ""
+    },
+    {
+      "id": "bcb5-1eb6-fe3d-ab",
+      "WeaponName": "Wraithseer",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "7eb5-647a-82c8-4309",
+      "WeaponName": "Wraithseer",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "71f7-a4ef-ad01-d655",
+      "WeaponName": "Wraithseer",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "62d3-e127-7566-699c",
+      "WeaponName": "Wraithseer",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "f079-489a-6fb2-51c8",
+      "WeaponName": "Wraithseer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic, Torrent"
+    },
+    {
+      "id": "9fd3-6c49-5869-ae92",
+      "WeaponName": "Wraithseer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic, Torrent"
+    },
+    {
+      "id": "499f-3faf-c319-247d",
+      "WeaponName": "Aeldari Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "5b2c-21d9-4d7d-be4f",
+      "WeaponName": "Aeldari Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "8c62-3d5f-7ff2-55ce",
+      "WeaponName": "Bright Lance",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": ""
+    },
+    {
+      "id": "bcb5-1eb6-fe3d-ab",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "7eb5-647a-82c8-4309",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "71f7-a4ef-ad01-d655",
+      "WeaponName": "Starcannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    },
+    {
+      "id": "62d3-e127-7566-699c",
+      "WeaponName": "Wraithseer D-Cannon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "9fd3-6c49-5869-ae92",
+      "WeaponName": "Destructor",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1037-8981-d5d1-7918",
+      "WeaponName": "Hemlock Wraithfighter",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "3722-43a8-36a7-7e82",
+      "WeaponName": "Titanic Ghostglaive",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "6"
+    },
+    {
+      "id": "597e-c75f-7994-4d4e",
+      "WeaponName": "Titanic Ghostglaive",
+      "Attacks": "15",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "8f4b-7318-2a8e-588b",
+      "WeaponName": "Titanic feet",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "299b-abd2-736e-1953",
+      "WeaponName": "Wraithlord",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "4d7a-dbf5-d746-c03c",
+      "WeaponName": "Wraithlord",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "bd66-b3ed-24d6-d922",
+      "WeaponName": "Wraithlord",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "4d7a-dbf5-d746-c03c",
+      "WeaponName": "Ghostglaive",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "bd66-b3ed-24d6-d922",
+      "WeaponName": "Ghostglaive",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "6cea-c4b7-2456-613f",
+      "WeaponName": "Wraithguard",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "da7c-3c9b-2817-b68c",
+      "WeaponName": "Ghostswords",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "f598-e016-e2db-e725",
+      "WeaponName": "Ghostaxe and Forceshield",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "e492-323e-f57-456e",
+      "WeaponName": "Titanic feet",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "2f42-72d3-33bb-6862",
+      "WeaponName": "Ghostspear",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "39bc-1863-cca0-887d",
+      "WeaponName": "Ghostspear",
+      "Attacks": "12",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

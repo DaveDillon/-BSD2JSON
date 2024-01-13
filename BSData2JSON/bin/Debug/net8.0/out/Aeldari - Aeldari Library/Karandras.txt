@@ -1,0 +1,71 @@
+{
+  "id": "dcaa-d376-d2ea-67fd",
+  "UnitName": "Karandras",
+  "Movement": "7\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9a09-b3a1-4860-fad7",
+      "AbilityName": "Invulnerable Save (Phoenix Lord)",
+      "AbilityText": "Karandras has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "4e33-5788-f631-d1c9",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Striking Scorpions"
+    },
+    {
+      "Id": "a209-ec97-7374-3ece",
+      "AbilityName": "Shadow Hunter",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "accc-4cc2-b9f-d892",
+      "AbilityName": "Sustained Assault",
+      "AbilityText": "Each time this model makes a melee attack, if it made a Charge move this turn, a successful unmodified Hit roll of 4+ scores a Critical Hit"
+    },
+    {
+      "Id": "b404-720d-3391-4b5c",
+      "AbilityName": "The Scorpion's Bite",
+      "AbilityText": "Melee weapons equipped by the bearer have the [DEVASTATING WOUNDS] ability when targeting units without the Titanic keyword"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "482c-616a-50c9-b796",
+      "WeaponName": "Arhra's Bane",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "312e-6367-d553-849a",
+      "WeaponName": "Arhra's Bane",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "804f-8650-c15a-2af8",
+      "WeaponName": "Isirmathil",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "a3ad-56ef-e584-745f",
+  "UnitName": "Skathach Wraithknight",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "75c7-1306-c5e0-a913",
+      "AbilityName": "Damaged: 1-6 Wounds Remaining",
+      "AbilityText": "While this model has 1-6 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "fa62-e32c-9456-cdf5",
+      "AbilityName": "Agile",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can move over other models (excluding Titanic models) and terrain features that are 4\" or less in height as if they were not there."
+    },
+    {
+      "Id": "69e6-7441-dff7-efb6",
+      "AbilityName": "Webway Shunt Generator",
+      "AbilityText": "Once per battle, at the end of your opponent’s turn, if this model is not within Engagement Range of one or more enemy units, you can remove this model from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "Id": "eeea-e4f1-eff1-43fd",
+      "AbilityName": "Scattershield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6457-1086-8590-b1f1",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "e415-e937-2c5b-2d27",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "c84-faef-98d2-938e",
+      "WeaponName": "Inferno Lance",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "fc0f-aac1-d239-e826",
+      "WeaponName": "Inferno Lance",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "ffcc-3e45-a8fd-187c",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "12\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "1bd2-5c96-9497-d3c9",
+      "WeaponName": "Deathshroud Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "5157-1e2-b190-f79c",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "b3a4-47fe-525d-316e",
+      "WeaponName": "Shuriken Cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "14b9-578f-65c9-1fc0",
+      "WeaponName": "Starcannon",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e492-323e-f57-456e",
+      "WeaponName": "Titanic feet",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

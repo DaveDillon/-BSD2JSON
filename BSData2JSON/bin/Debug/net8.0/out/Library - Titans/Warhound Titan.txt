@@ -1,0 +1,91 @@
+{
+  "id": "6999-afed-25ac-617b",
+  "UnitName": "Warhound Titan",
+  "Movement": "14\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "40",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks only.",
+  "Abilities": [
+    {
+      "Id": "bd21-6f2e-3403-b96c",
+      "AbilityName": "Flank Speed",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 8\" to the Move characteristic of this model."
+    },
+    {
+      "Id": "9eb2-afd9-2ff6-ccb",
+      "AbilityName": "Damaged: 1-13 wounds remaining",
+      "AbilityText": "While this model has 1-13 wounds remaining, subtract 8 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ad2e-6186-c20d-b9ea",
+      "WeaponName": "Warhound vulcan mega-bolter",
+      "Range": "48\"",
+      "Attacks": "20",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "2e69-d363-6e05-dc18",
+      "WeaponName": "Warhound inferno gun",
+      "Range": "24\"",
+      "Attacks": "3D6",
+      "BallisticSkill": "N/A",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "5091-8855-7c63-d524",
+      "WeaponName": "Warhound plasma blastgun",
+      "Range": "72\"",
+      "Attacks": "2D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": "Blast"
+    },
+    {
+      "id": "aea-d0ef-2554-ce09",
+      "WeaponName": "Warhound plasma blastgun",
+      "Range": "72\"",
+      "Attacks": "2D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "5",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "dcc0-df85-fd06-a1ab",
+      "WeaponName": "Warhound turbo-laser destructor",
+      "Range": "72\"",
+      "Attacks": "D3+3",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "2D6",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b201-9a8d-9bfc-6264",
+      "WeaponName": "Warhound feet",
+      "Attacks": "8",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

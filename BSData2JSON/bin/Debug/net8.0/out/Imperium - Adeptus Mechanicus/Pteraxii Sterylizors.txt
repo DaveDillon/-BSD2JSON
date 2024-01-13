@@ -1,0 +1,71 @@
+{
+  "id": "fb11-aa41-617f-2adc",
+  "UnitName": "Pteraxii Sterylizors",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "d087-cfde-e93a-f603",
+      "AbilityName": "Searing Conflagaration",
+      "AbilityText": "Each time a model in this unit makes an attack with a phosphor torch that targets an enemy unit within range of an objective marker, re-roll a Wound roll of 1. If this unit is also within 6\" of one or more friendly Adeptus Mechanicus Battleline units, each time such an attack targets such a unit, you can re-roll the Wound roll instead."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "adf4-5bfb-1c85-a728",
+      "WeaponName": "Flechette blaster",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "d93a-487e-43c0-cf9c",
+      "WeaponName": "Phosphor torch",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b903-4b73-7514-9f36",
+      "WeaponName": "Taser goad",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "6a2a-eaa2-3b25-c2e1",
+      "WeaponName": "Pteraxii talons",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e946-691c-537c-a90a",
+      "WeaponName": "Pteraxii talons",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

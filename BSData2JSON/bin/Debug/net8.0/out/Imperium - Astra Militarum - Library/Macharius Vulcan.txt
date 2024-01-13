@@ -1,0 +1,32 @@
+{
+  "id": "6e2c-2adb-7cc-5321",
+  "UnitName": "Macharius Vulcan",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "20",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c0ff-cadb-d445-653",
+      "AbilityName": "Battlefield Control",
+      "AbilityText": "Each time this model makes a ranged attack, if it is within range of an objective marker you control, re-roll a Hit roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c556-3db0-ba7d-81b1",
+      "WeaponName": "Macharius vulcan mega-bolter",
+      "Range": "48\"",
+      "Attacks": "16",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

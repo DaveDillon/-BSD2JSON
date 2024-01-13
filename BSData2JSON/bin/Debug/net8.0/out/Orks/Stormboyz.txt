@@ -1,0 +1,20 @@
+{
+  "id": "76e1-1bfc-28c8-5458",
+  "UnitName": "Stormboyz",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3ddd-d93d-d7af-ddb7",
+      "AbilityName": "Full Throttle",
+      "AbilityText": "This unit is eligible to declare a charge in a turn in which it Advanced. If it does, before making that Charge move, roll one D6 for each model in this unit: for each 1, this unit suffers 1 mortal wound. You cannot use this ability during the battle round in which you call a Waaagh!."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

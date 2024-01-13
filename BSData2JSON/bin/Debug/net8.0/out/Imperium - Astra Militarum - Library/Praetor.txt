@@ -1,0 +1,43 @@
+{
+  "id": "3ce2-ecd1-8d52-2ac0",
+  "UnitName": "Praetor",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "18",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e6f3-644-45fe-8b68",
+      "AbilityName": "Targeting Coordinates",
+      "AbilityText": "While this model is being affected by an Order, each time it makes an attack with its Praetor launcher, it does not suffer the penalty to the Hit roll for attacking a unit that is not visible to it."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c6a0-95ed-3c29-1740",
+      "WeaponName": "Praetor launcher",
+      "Range": "120\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Ignores Cover, Indirect Fire"
+    },
+    {
+      "id": "7167-c780-f355-1df5",
+      "WeaponName": "Praetor launcher",
+      "Range": "120\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Anti-MONSTER 4+, Anti-VEHICLE 4+, Blast, Heavy, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

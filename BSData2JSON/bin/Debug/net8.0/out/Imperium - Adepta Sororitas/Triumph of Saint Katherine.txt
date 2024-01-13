@@ -1,0 +1,82 @@
+{
+  "id": "3c49-c2db-485e-fe2e",
+  "UnitName": "Triumph of Saint Katherine",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "18",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has an invulnerable save of 4+",
+  "Abilities": [
+    {
+      "Id": "1c6e-8ff9-af2e-ffb9",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Battle Sisters Squad"
+    },
+    {
+      "Id": "c785-9209-5db8-d5e7",
+      "AbilityName": "Damaged 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, the Attacks characteristics of all of its weapons are halved, and you can only select one ability when using its Relics of the Matriarchs ability, instead of up to two."
+    },
+    {
+      "Id": "a09c-e5cb-4ad9-8630",
+      "AbilityName": "Relics of the Matriarchs",
+      "AbilityText": "At the start of the battle round, select up to two of the abilities in the Relics of the Matriarchs section. Until the start of the next battle round, this model has those abilities."
+    },
+    {
+      "Id": "af36-63c-5792-332d",
+      "AbilityName": "Relic of the Matriarch - The Fiery Heart (Aura)",
+      "AbilityText": "While a friendly Adepta Sororitas unit is within 6\" of this model, if that unit is destroyed, the Miracle dice you gain as a result is\r\nautomatically a 6."
+    },
+    {
+      "Id": "bc2a-1efd-5bf1-16c7",
+      "AbilityName": "Relic of the Matriarch - Censer of the Sacred Rose (Aura)",
+      "AbilityText": "While a friendly Adepta Sororitas unit is within 6\" of this model,\r\nimprove that unit’s Leadership characteristic by 1."
+    },
+    {
+      "Id": "7dfb-33ee-debe-bc02",
+      "AbilityName": "Relic of the Matriarch - Simulacrum of the Ebon Chalice (Aura)",
+      "AbilityText": "While a friendly Adepta Sororitas unit is within 6\" of this model, that unit can perform any number of Acts of Faith per phase, instead of only one."
+    },
+    {
+      "Id": "ba51-e749-8362-b9af",
+      "AbilityName": "Relic of the Matriarch - Simulacrum of the Argent Shroud (Aura)",
+      "AbilityText": "While a driendly Adepta Sororitas unit is within 6\" of this\r\nmodel, add 1 to the Attacks characteristic of Rapid Fire weapons equipped by models in that unit."
+    },
+    {
+      "Id": "79b6-f74e-253c-153f",
+      "AbilityName": "Relic of the Matriarch - Icon of the Valorous Heart (Aura)",
+      "AbilityText": "While a friendly Adepta Sororitas unit is within 6\" of this model,\r\nthat unit has the Feel No Pain 6+ ability."
+    },
+    {
+      "Id": "ee9f-15cc-2a69-8a31",
+      "AbilityName": "Relic of the Matriarch - Petals of the Bloody Rose (Aura)",
+      "AbilityText": "While a friendly Adepta Sororitas unit is within 6\" of this model,\r\nmelee weapons equipped by models in that unit have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8e32-8166-7650-5382",
+      "WeaponName": "Bolt Pistols",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b2f7-ba05-56cc-9807",
+      "WeaponName": "Relic Weapons",
+      "Attacks": "18",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

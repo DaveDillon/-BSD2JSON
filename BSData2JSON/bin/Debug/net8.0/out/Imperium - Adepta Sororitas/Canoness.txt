@@ -1,0 +1,133 @@
+{
+  "id": "fef8-7c60-b716-cf27",
+  "UnitName": "Canoness",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has an invulnerable save of 4+",
+  "Abilities": [
+    {
+      "Id": "327-b48b-848c-4390",
+      "AbilityName": "Rod of Office",
+      "AbilityText": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 4+, you gain 1CP."
+    },
+    {
+      "Id": "77ff-2463-354-23fd",
+      "AbilityName": "Null Rod",
+      "AbilityText": "Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    },
+    {
+      "Id": "1c89-1433-c4f6-24a1",
+      "AbilityName": "Lead the Righteous",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "603-dd8e-d3f3-6dc0",
+      "AbilityName": "The Emperor's Grace",
+      "AbilityText": "Once per battle, at the start of any phase, this model can use this ability. If it does, until the end of the phase, this model has a 2+ invulnerable save."
+    },
+    {
+      "Id": "aba-82be-3c51-e90d",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following units: \r\n- BATTLE SISTERS SQUAD\r\n- CELESTIAN SACRESANTS"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ce02-40a9-a9f9-803",
+      "WeaponName": "Brazier of Holy Fire",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, One Shot, Torrent"
+    },
+    {
+      "id": "848f-9f22-fb2-ef07",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "d78a-ed1b-6baf-b802",
+      "WeaponName": "Condemnor boltgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Psyker 2+, Devastating Wounds, Precision, Rapid Fire 1"
+    },
+    {
+      "id": "a2d7-3028-7b87-82fe",
+      "WeaponName": "Inferno pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D3",
+      "Text": "Melta 2, Pistol"
+    },
+    {
+      "id": "373e-f2c4-91b5-61e8",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "960b-e163-afa5-d38d",
+      "WeaponName": "Plasma pistol",
+      "Attacks": "1",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "43f8-6960-29ad-5847",
+      "WeaponName": "Blessed blade",
+      "Attacks": "3",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "3aec-afe5-fb1e-2009",
+      "WeaponName": "Chainsword",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "118-481d-149d-78ab",
+      "WeaponName": "Power weapon",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

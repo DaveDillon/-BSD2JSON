@@ -1,0 +1,178 @@
+{
+  "id": "c79c-d8d4-53a1-b7c4",
+  "UnitName": "Imperial Navy Breachers",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "68aa-ee31-9953-30b9",
+      "AbilityName": "Breaching Team",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Wound roll instead."
+    },
+    {
+      "Id": "42b6-4294-385b-7e55",
+      "AbilityName": "Endurant shield",
+      "AbilityText": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "Id": "40de-fe82-73c-86b4",
+      "AbilityName": "Grenade Belts",
+      "AbilityText": "The bearer has the Smoke keyword, and each time you select the bearer’s unit as the target of the Grenade Stratagem, roll one additional D6 when resolving that Stratagem."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "72fd-7b1a-8ad8-a8d5",
+      "WeaponName": "Autopistol and chainsword",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "b626-54c8-2c72-fe35",
+      "WeaponName": "Bolt pistol and power weapon",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "14ac-7b0b-4a75-a0af",
+      "WeaponName": "Navis heavy shotgun",
+      "Range": "12\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    },
+    {
+      "id": "7309-7d35-84d2-511f",
+      "WeaponName": "Navis las-volley",
+      "Range": "18\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "f74-f91a-5aa9-267e",
+      "WeaponName": "Meltagun",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "9851-48d8-fcf6-2314",
+      "WeaponName": "Plasma gun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "5d9d-466a-6043-df2d",
+      "WeaponName": "Plasma gun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "131b-d281-15c6-7c15",
+      "WeaponName": "Autopistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "52c5-52d8-23a1-654d",
+      "WeaponName": "Autopistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "b5f4-345c-d5f-de6c",
+      "WeaponName": "Demolition charge",
+      "Range": "6\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Assault, Blast, Hazardous, One Shot"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9872-d216-7e13-d3ee",
+      "WeaponName": "Autopistol and chainsword",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ce3f-7955-e4b0-43ea",
+      "WeaponName": "Bolt pistol and power weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "bcd2-cb5-73a1-7123",
+      "WeaponName": "Power weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "ed22-78ac-d7c2-4a43",
+      "WeaponName": "Chainfist",
+      "Attacks": "1",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "ee13-ff16-80a1-5e3e",
+  "UnitName": "Ravenwing Command Squad",
+  "Movement": "12\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "d06d-eddc-33f1-f9cc",
+      "AbilityName": "Attached Unit",
+      "AbilityText": "If a Character unit from your army with the Leader ability can be attached to an Outrider Squad, it can be attached to this unit instead."
+    },
+    {
+      "Id": "db8f-9d86-59e8-b9eb",
+      "AbilityName": "Narthecium",
+      "AbilityText": "While this unit contains an Apothecary, in your Command phase, you can return 1 destroyed model (excluding Character models) to this unit."
+    },
+    {
+      "Id": "1d4c-173b-98d2-9ffd",
+      "AbilityName": "Astartes Banner",
+      "AbilityText": "While this unit contains an Ancient, add 1 to the Objective Control characteristic of its models."
+    },
+    {
+      "Id": "7ec7-12bc-d4f1-8221",
+      "AbilityName": "Honour or Death",
+      "AbilityText": "While this unit contains a Company Champion, add 1 to Advance and Charge rolls made for this unit and you can target this unit with the Heroic Intervention Stratagem for 0CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e500-d2cb-5d89-8411",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "a184-f7f6-8a19-e8d3",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "f907-5556-9f43-dce2",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "556f-5a12-7e74-2dbd",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "fd0e-bdc7-fa8e-9de4",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "ec8b-33a2-3208-898",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "d4dd-3b18-adba-7fbc",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "a3a0-3946-7f64-9fe",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "652c-9c8f-4623-a3fc",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "4e6f-581d-86bd-6d7",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "2f45-7186-2a53-dc7b",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "f559-8673-97ed-2dd4",
+      "WeaponName": "Plasma talon",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "4c02-3c26-aa58-298a",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "7d8-5521-e84a-7978",
+      "WeaponName": "Astartes grenade launcher",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "1edc-7434-dc97-99ce",
+      "WeaponName": "Astartes grenade launcher",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5483-b88f-5dc1-3777",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "54d8-c911-9b17-fc32",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "ad4-d6c8-b8b9-7902",
+      "WeaponName": "Master-crafted power weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "8f71-b978-11b8-78d2",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "17c4-f33c-ed1b-e3cd",
+      "WeaponName": "Black Knight combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

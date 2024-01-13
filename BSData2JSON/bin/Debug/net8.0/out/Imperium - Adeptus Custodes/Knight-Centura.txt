@@ -1,0 +1,63 @@
+{
+  "id": "bdc7-75fc-ca0b-cb27",
+  "UnitName": "Knight-Centura",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "101b-4770-32be-d3a2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Prosecutors\r\n■ Vigilators\r\n■ Witchseekers"
+    },
+    {
+      "Id": "dea5-7d20-9057-895b",
+      "AbilityName": "Seeker's Instincts",
+      "AbilityText": "While this model is leading a unit, add 2\" to the Move characteristic of models in that unit and add 2 to Advance and Charge rolls made for that unit."
+    },
+    {
+      "Id": "ffb8-5424-36a5-f9da",
+      "AbilityName": "Corner the Quarry",
+      "AbilityText": "Each time an enemy unit (excluding Monsters and Vehicles) that is within Engagement Range of this model’s unit Falls Back, all models in that enemy unit must take a Desperate escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8af8-0a21-893a-e1c0",
+      "WeaponName": "Witchseeker Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "6a76-ad7d-8c55-0d9e",
+      "WeaponName": "Master-crafted boltgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d80a-a54d-1eaa-333d",
+      "WeaponName": "Executioner Greatblade",
+      "Attacks": "3",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

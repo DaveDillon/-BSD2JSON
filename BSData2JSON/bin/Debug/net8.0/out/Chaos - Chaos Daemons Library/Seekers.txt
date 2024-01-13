@@ -1,0 +1,39 @@
+{
+  "id": "46c8-ca2f-9529-3686",
+  "UnitName": "Seekers",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "7+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "add0-cd78-4804-61aa",
+      "AbilityName": "Unholy Speed",
+      "AbilityText": "You can re-roll Advance and Charge rolls made for this unit."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "3f44-e2f-a843-6768",
+      "WeaponName": "Lashing tongues",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "cee2-dd97-d3d2-1ca1",
+      "WeaponName": "Slashing claws",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

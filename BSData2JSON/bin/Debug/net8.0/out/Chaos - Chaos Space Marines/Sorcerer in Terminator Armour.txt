@@ -12,7 +12,7 @@
     {
       "Id": "d23e-95b7-a67c-61be",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHAOS TERMINATOR SQUAD"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHAOS TERMINATOR SQUAD"
     },
     {
       "Id": "a049-dda2-5463-aa67",

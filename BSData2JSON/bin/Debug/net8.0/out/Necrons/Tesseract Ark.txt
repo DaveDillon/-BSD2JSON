@@ -1,0 +1,76 @@
+{
+  "id": "6fdd-ca96-ef7-cb5f",
+  "UnitName": "Tesseract Ark",
+  "Movement": "9\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "ab0a-e989-4fab-f66c",
+      "AbilityName": "Gravitational Field",
+      "AbilityText": "Each time an enemy unit selects this model as the target of a charge, subtract 2 from the Charge roll (this is not cumulative with any other reductions to that Charge roll)."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d948-41b3-e562-4ec4",
+      "WeaponName": "Tesseract singularity chamber",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "e14b-575a-2f2f-5368",
+      "WeaponName": "Tesseract singularity chamber",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Blast"
+    },
+    {
+      "id": "c14b-fec2-1d67-a06",
+      "WeaponName": "Gauss cannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Lethal Hits"
+    },
+    {
+      "id": "9811-cff8-97d1-9182",
+      "WeaponName": "Particle beamer",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "97d1-36c-50d9-2a66",
+      "WeaponName": "Tesla cannon",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": []
+}

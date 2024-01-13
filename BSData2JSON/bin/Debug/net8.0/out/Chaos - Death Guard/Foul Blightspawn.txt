@@ -1,0 +1,42 @@
+{
+  "id": "917-dc6c-ae70-a45b",
+  "UnitName": "Foul Blightspawn",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f33c-eeb8-429d-2a2f",
+      "AbilityName": "Putrefying Stink",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9f0e-dd2c-e441-575b",
+      "WeaponName": "Plague sprayer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "75ee-6e64-a7ff-d5cc",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

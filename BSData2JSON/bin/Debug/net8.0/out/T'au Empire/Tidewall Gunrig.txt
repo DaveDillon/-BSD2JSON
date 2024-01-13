@@ -1,0 +1,26 @@
+{
+  "id": "5151-516e-3ecc-8b51",
+  "UnitName": "Tidewall Gunrig",
+  "Movement": "4\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [
+    {
+      "id": "8ebc-c5f1-9125-6295",
+      "WeaponName": "Supremacy railgun",
+      "Range": "72\"",
+      "Attacks": "1",
+      "BallisticSkill": "5+",
+      "Strength": "20",
+      "ArnorPirecing": "-5",
+      "Damage": "D6+6",
+      "Text": "Devastating Wounds, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "b324-83ae-dd58-8f7c",
+  "UnitName": "Imotekh the Stormlord",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "1ac3-6f6-b9a4-2496",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMMORTALS\r\n■ LYCHGUARD\r\n■ NECRON WARRIORS"
+    },
+    {
+      "Id": "2547-8479-5963-9153",
+      "AbilityName": "Grand Strategist",
+      "AbilityText": "At the start of your Command phase, if this model is on the battlefield, you gain 1CP."
+    },
+    {
+      "Id": "608f-b219-23b8-5568",
+      "AbilityName": "Lord of the Storm",
+      "AbilityText": "Once per battle, at the end of your Command phase, this model can use this ability. If it does, roll one D6 for each enemy unit within 12\" of this model: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8c94-1bc5-8234-bdfd",
+      "WeaponName": "Gauntlet of Fire",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "890c-f3c2-7836-3de9",
+      "WeaponName": "Staff of the Destroyer",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "aaa7-fb9-a561-3732",
+      "WeaponName": "Staff of the Destroyer",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    }
+  ]
+}

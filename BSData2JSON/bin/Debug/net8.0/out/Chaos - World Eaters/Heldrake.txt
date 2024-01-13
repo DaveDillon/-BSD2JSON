@@ -1,0 +1,42 @@
+{
+  "id": "6d5b-9e47-e038-6871",
+  "UnitName": "Heldrake",
+  "Movement": "20\"+",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "3ebe-135b-8cb0-76f5",
+      "AbilityName": "Swooping Predator",
+      "AbilityText": "Each time this model ends a Normal move, you can select one enemy unit that it moved over during that move and roll two D6: for each 4+, that enemy unit suffers D3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a649-2296-8c56-08cd",
+      "WeaponName": "Baleflamer",
+      "Range": "12\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "22d7-4caa-1838-1c3f",
+      "WeaponName": "Heldrake claws",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

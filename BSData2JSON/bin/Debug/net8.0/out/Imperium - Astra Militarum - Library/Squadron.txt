@@ -1,0 +1,710 @@
+{
+  "id": "4780-be29-8c52-1d20",
+  "UnitName": "Squadron",
+  "Movement": "8\"",
+  "Toughness": "8",
+  "Save": "2+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a8e5-75ce-78-c222",
+      "AbilityName": "Mobile Hunter-killers",
+      "AbilityText": "Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "883c-f9b4-c57c-b535",
+      "AbilityName": "Earthshaker Rounds",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an enemy Infantry unit, until the end of your opponent’s next turn, that unit is shaken. While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it"
+    },
+    {
+      "Id": "892a-b5c8-8a39-46bd",
+      "AbilityName": "Mobile Command Vehicle",
+      "AbilityText": "In your Command phase, one Officer model embarked within this Transport can issue Orders even though it is not on the battlefield. When doing so, measure distances to and from this Transport."
+    },
+    {
+      "Id": "b575-1e86-b37d-68a3",
+      "AbilityName": "Deathstrike Missile",
+      "AbilityText": "In your Shooting phase, each time this model is selected to shoot, if it has not shot with its  Deathstrike missile this battle, you can do one of the following in addition to resolving this model’s ranged attacks:\r\n\r\n\r\n■ Designate Target: If this model does not have a Deathstrike Target marker on the battlefield, place a Deathstrike Target marker for this model anywhere on the battlefield.\r\n\r\n\r\n■ Adjust Target: If this model has a Deathstrike Target marker on the battlefield, move that marker to anywhere else on the battlefield."
+    },
+    {
+      "Id": "ff28-8ddd-27ec-ada3",
+      "AbilityName": "Flush Them Out",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover"
+    },
+    {
+      "Id": "be59-ac64-15c1-e804",
+      "AbilityName": "Flak Battery",
+      "AbilityText": "Each time this model makes an attack that targets a unit that can Fly, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "2db8-9ae5-2874-e83",
+      "AbilityName": "Armoured Spearhead",
+      "AbilityText": "Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker  you do not control, you can re-roll the Hit roll instead."
+    },
+    {
+      "Id": "7bca-e35e-69d1-1135",
+      "AbilityName": "Line-breaker",
+      "AbilityText": "When making ranged attacks with its  demolisher battle cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+    },
+    {
+      "Id": "a950-ab59-3c2d-a39b",
+      "AbilityName": "Urban Warfare",
+      "AbilityText": "When making ranged attacks with its eradicator nova cannon, this model can target enemy units within Engagement Range of it (provided no other friendly units are also within Engagement Range of that enemy unit). In addition, when making ranged attacks, this model does not suffer the penalty to its Hit rolls for being within Engagement Range of one or more enemy units."
+    },
+    {
+      "Id": "8d68-5238-1410-fed4",
+      "AbilityName": "Gung-ho Executioners",
+      "AbilityText": "Each time this model makes an attack with its executioner plasma cannon that targets a unit that is Below Half-strength, add 1 to the Hit roll."
+    },
+    {
+      "Id": "8344-2f14-e790-be5e",
+      "AbilityName": "Withering Hail",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks made with its exterminator autocannon. Until the end of the phase, each time a friendly Astra Militarum unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per phase."
+    },
+    {
+      "Id": "d329-6d10-6e7e-e959",
+      "AbilityName": "Mow Down the Enemy",
+      "AbilityText": "Each time this model makes an attack with its punisher gatling cannon that targets an enemy unit (excluding Monsters and Vehicles), that attack has the [DEVASTATING WOUNDS] ability"
+    },
+    {
+      "Id": "cc47-c40a-1c64-73e7",
+      "AbilityName": "Tank-killer",
+      "AbilityText": "Each time this model makes a ranged attack with its vanquisher battle cannon that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "6eb8-16bc-f210-7182",
+      "AbilityName": "Furious Barrage",
+      "AbilityText": "Each time this model makes an attack with its storm eagle rockets that targets an enemy unit that contains five or more models, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "b8f6-f345-fea-2bd6",
+      "AbilityName": "Ablative Plating",
+      "AbilityText": "Once per battle, when an attack is allocated to this model, you change the Damage characteristic of that attack to 0."
+    },
+    {
+      "Id": "4952-cb93-5b85-f9b6",
+      "AbilityName": "Daring Recon",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 18\" of and visible to this unit. Until the end of the phase, each time a friendly Astra Militarum model makes an attack that targets that unit, re-roll a Hit roll of 1 and, if that attack has the [INDIRECT FIRE] ability, it does not suffer the penalty to the Hit roll for shooting at a target that is not visible to the attacking unit"
+    },
+    {
+      "Id": "872a-1012-8ad7-4939",
+      "AbilityName": "Rapid Deployment",
+      "AbilityText": "Units can disembark from this Transport after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally."
+    },
+    {
+      "Id": "b3bc-461f-e5b5-2e0b",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll"
+    },
+    {
+      "Id": "6e74-fe3e-7f84-91cd",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) that was hit by one or more attacks made with this model’s Wyvern quad stormshard mortar this phase. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "c6d3-5aff-803c-3315",
+      "AbilityName": "Ancient Conquest",
+      "AbilityText": "Each time this model makes an attack that targets an enemy unit that is within your opponent’s deployment zone, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+    },
+    {
+      "Id": "ffdb-1136-eaeb-9284",
+      "AbilityName": "Rugged Reliability",
+      "AbilityText": "Each time a ranged attack targets this model, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "b7de-7b7f-8dbc-76b4",
+      "AbilityName": "Battlefield Dominance",
+      "AbilityText": "Ranged weapons equipped by this model have the [IGNORES COVER] ability while targeting an enemy unit within half range."
+    },
+    {
+      "Id": "668-596e-1a32-97d7",
+      "AbilityName": "Armoured Defender",
+      "AbilityText": "Each time you target this model with the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 5+ while resolving that Stratagem."
+    },
+    {
+      "Id": "b483-db66-2d51-1846",
+      "AbilityName": "Explosive Death",
+      "AbilityText": "When this model is destroyed, roll one D6: on a 3+, do not remove it from play – it can, after the attacking model’s unit has finished making its attacks, shoot with its inferno gun as if it were your Shooting phase and as if it had its full wounds remaining. This model is then removed from play."
+    },
+    {
+      "Id": "e6f3-644-45fe-8b68",
+      "AbilityName": "Targeting Coordinates",
+      "AbilityText": "While this model is being affected by an Order, each time it makes an attack with its Praetor launcher, it does not suffer the penalty to the Hit roll for attacking a unit that is not visible to it."
+    },
+    {
+      "Id": "89b3-3271-b8ac-723b",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "f479-bc1a-5090-81d3",
+      "AbilityName": "Tracking Target",
+      "AbilityText": "Each time this model is selected to shoot, provided it Remained Stationary this turn, its Colossus siege mortar has the [ANTI-MONSTER 5+] and [ANTI-VEHICLE 5+] abilities while resolving those attacks."
+    },
+    {
+      "Id": "abda-4d48-8c25-5c9e",
+      "AbilityName": "Support Vehicle",
+      "AbilityText": "In your Command phase, select one friendly ASTRA MILITARUM VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, re-roll a Hit roll of 1. The same VEHICLE model cannot be selected for both this ability and the REGIMENTAL ENGINSEER's Omnissiah’s Blessing ability in the same turn, and each model can only be selected for this ability once per Command phase."
+    },
+    {
+      "Id": "1260-8a79-4f5-4a02",
+      "AbilityName": "Blistering Advance",
+      "AbilityText": "Units can disembark from this Transport after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn"
+    },
+    {
+      "Id": "de83-c749-1bae-d1f0",
+      "AbilityName": "Tank Hunter",
+      "AbilityText": "Each time this model makes a ranged attack that targets a Vehicle unit, add 1 to the Wound roll"
+    },
+    {
+      "Id": "8249-2bf0-cb68-a7d6",
+      "AbilityName": "Recovery Vehicle",
+      "AbilityText": "At the end of your Movement phase, you can select one friendly Astra Militarum Vehicle model within 3\" of this model. That Vehicle model regains up to D3 lost wounds. Each model can only be selected for this ability once per turn."
+    },
+    {
+      "Id": "8589-14ca-fc31-f3cd",
+      "AbilityName": "Meteoric Descent",
+      "AbilityText": "When this model is set up on the battlefield using the Deep Strike ability, it can perform a meteoric descent. If it does, this model can be set up anywhere on the battlefield that is more than 3\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge."
+    },
+    {
+      "Id": "c889-4740-aa6f-d9be",
+      "AbilityName": "Pinning Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its Medusa siege cannon scored a hit against an enemy Infantry unit, that unit must take a Battle-shock test."
+    },
+    {
+      "Id": "29f2-47-a0fe-a59e",
+      "AbilityName": "Armoured Frontis",
+      "AbilityText": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "Id": "2d0-e457-5118-743c",
+      "AbilityName": "Powerlifter Charge",
+      "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+    },
+    {
+      "Id": "7505-6738-c29a-e173",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) hit by one or more of those attacks made with this model’s Griffon heavy mortar. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "d81b-1a9d-6e73-5421",
+      "AbilityName": "Outflank",
+      "AbilityText": "When this model arrives from Strategic Reserves, it can be set up within your opponent’s deployment zone (all other restrictions still apply)."
+    },
+    {
+      "Id": "dbd9-90e8-ef-d873",
+      "AbilityName": "Auspex Surveyor",
+      "AbilityText": "Each time this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "bdb5-3e61-d9a8-3962",
+      "WeaponName": "Earthshaker Cannon",
+      "Range": "240\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Indirect Fire,"
+    },
+    {
+      "id": "2236-2a28-56f9-5063",
+      "WeaponName": "Chimera Multi-laser",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "bdb7-bcd7-dee5-f937",
+      "WeaponName": "Chimera Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "fff-673a-b866-13d5",
+      "WeaponName": "Chimera Heavy Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "a03a-34a8-d7a7-8fc2",
+      "WeaponName": "Lasgun Array",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 6"
+    },
+    {
+      "id": "248c-88b8-3c1f-1fa8",
+      "WeaponName": "Deathstrike Missile",
+      "Range": "N/A",
+      "Attacks": "2D6",
+      "BallisticSkill": "2+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "1",
+      "Text": "Blast, One Shot, Plasma Warhead"
+    },
+    {
+      "id": "23f3-22f8-70e0-e701",
+      "WeaponName": "Chem Cannon",
+      "Range": "12\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "N/A",
+      "Strength": "2",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Anti-Infantry 2+, Torrent"
+    },
+    {
+      "id": "3ecb-310d-446f-d029",
+      "WeaponName": "Inferno Cannon",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "56d1-8b38-2610-bf0e",
+      "WeaponName": "Melta Cannon",
+      "Range": "18\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "603d-f7ec-fee6-921a",
+      "WeaponName": "Hydra Autocannon",
+      "Range": "72\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Anti-Fly 2+, Twin-linked"
+    },
+    {
+      "id": "76b4-867b-72ff-2299",
+      "WeaponName": "Storm Eagle Rockets",
+      "Range": "120\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "ba34-9922-ad5b-ae82",
+      "WeaponName": "Castigator Gatling Cannon",
+      "Range": "24\"",
+      "Attacks": "12",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "e3f6-decc-65e-2695",
+      "WeaponName": "Pulveriser Cannon",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "522c-3a5c-a533-8193",
+      "WeaponName": "Twin Battle Cannons",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "cf2f-babf-8a4f-4687",
+      "WeaponName": "Oppressor Cannon",
+      "Range": "72\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "a9f8-d3e1-1a16-aae5",
+      "WeaponName": "Co-axial Autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "86a8-a3ca-3161-7288",
+      "WeaponName": "Taurox Battle Cannon",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "c0a7-f50e-fe29-c022",
+      "WeaponName": "Taurox Gatling Cannon",
+      "Range": "24\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    },
+    {
+      "id": "2136-2332-8578-7dfa",
+      "WeaponName": "Taurox Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "47ba-9c1a-c13a-776b",
+      "WeaponName": "Taurox Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    },
+    {
+      "id": "52a4-2978-e77c-1186",
+      "WeaponName": "Twin Taurox Hot-Shot Volley Gun",
+      "Range": "30\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 3, Twin-linked"
+    },
+    {
+      "id": "3ca2-66f-ace8-cbac",
+      "WeaponName": "Twin Autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "3b22-4b74-ae21-93db",
+      "WeaponName": "Wyvern Quad Stormshard Mortar",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Ignores Cover, Indirect Fire, Twin-linked"
+    },
+    {
+      "id": "6b52-12b5-304f-cb7b",
+      "WeaponName": "Carnodon twin autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "e9df-4322-69ac-bfb5",
+      "WeaponName": "Carnodon twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "d55b-be91-7ad3-eb79",
+      "WeaponName": "Carnodon twin multi-laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "a66d-ef85-3daf-66b5",
+      "WeaponName": "Volkite culverin",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "d3b3-c9a4-67e0-4464",
+      "WeaponName": "Volkite caliver",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "655a-191c-d0c4-5bcc",
+      "WeaponName": "Malcador battle cannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "bcb8-3585-7c10-649e",
+      "WeaponName": "Malcador twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "5dcc-e12-fafc-d523",
+      "WeaponName": "Demolisher cannon",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Blast"
+    },
+    {
+      "id": "ba1e-e653-b756-55ac",
+      "WeaponName": "Demolisher cannon",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Blast"
+    },
+    {
+      "id": "841f-668b-3a56-9b13",
+      "WeaponName": "Inferno gun",
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "c6a0-95ed-3c29-1740",
+      "WeaponName": "Praetor launcher",
+      "Range": "120\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Ignores Cover, Indirect Fire"
+    },
+    {
+      "id": "7167-c780-f355-1df5",
+      "WeaponName": "Praetor launcher",
+      "Range": "120\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Anti-MONSTER 4+, Anti-VEHICLE 4+, Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "32ed-5c91-a12b-ec13",
+      "WeaponName": "Colossus siege mortar",
+      "Range": "120\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D6+2",
+      "Text": "Blast, Devastating Wounds"
+    },
+    {
+      "id": "46c0-88a-7fd3-e914",
+      "WeaponName": "Stygies Laser Destroyer",
+      "Range": "72\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+3",
+      "Text": "Heavy"
+    },
+    {
+      "id": "f156-2c4-e4ef-1229",
+      "WeaponName": "Medusa Siege Cannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "4",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "b65-c4ee-3781-18f6",
+      "WeaponName": "Minotaur Twin Earthshaker Cannon",
+      "Range": "240\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire, Twin-Linked"
+    },
+    {
+      "id": "5f7a-f1c1-4828-79dc",
+      "WeaponName": "Griffon Heavy Mortar",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e9e3-1ac2-18c8-732e",
+      "WeaponName": "Sentinel Chainsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "94a3-e070-3b1c-d765",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "fa89-902e-5f4a-f0c7",
+      "WeaponName": "Armoured tracks",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "6857-9ddd-d172-2a3d",
+      "WeaponName": "Sentinel Chainsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "9cee-2bc4-139c-4e8f",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "b802-2cf7-1e87-e90d",
+      "WeaponName": "Close Combat Weapons",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "194b-f7e3-6646-f044",
+      "WeaponName": "Powerlifter",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D3"
+    }
+  ]
+}

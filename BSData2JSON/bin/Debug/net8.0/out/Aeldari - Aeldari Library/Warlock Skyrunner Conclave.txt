@@ -1,0 +1,25 @@
+{
+  "id": "77aa-6492-a785-e1b9",
+  "UnitName": "Warlock Skyrunner Conclave",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "9ac9-e5b6-2bae-2d1b",
+      "AbilityName": "Warlock Conclave",
+      "AbilityText": "Models in this unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    },
+    {
+      "Id": "b64e-8d36-ea71-9bd",
+      "AbilityName": "Protect (Psychic)",
+      "AbilityText": "While a Farseer model is leading this unit, each time an attack targets this unit, subtract 1 from the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

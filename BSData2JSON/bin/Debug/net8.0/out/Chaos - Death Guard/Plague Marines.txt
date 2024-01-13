@@ -1,0 +1,43 @@
+{
+  "id": "8448-53ec-fbc3-467c",
+  "UnitName": "Plague Marines",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "90ad-b6be-844c-365d",
+      "AbilityName": "Remorseless",
+      "AbilityText": "While this unit is within range of an objective marker you control, each time you take a Battle-shock test for this unit, add 1 to that test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d4dc-9ce-ab7d-9a0d",
+      "WeaponName": "Meltagun",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "8eb3-ace-712-bc4d",
+      "WeaponName": "Plague belcher",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

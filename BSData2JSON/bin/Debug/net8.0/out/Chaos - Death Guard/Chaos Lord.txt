@@ -1,0 +1,264 @@
+{
+  "id": "ca73-6068-bfc9-c0dd",
+  "UnitName": "Chaos Lord",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b29a-947-acbe-1eba",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUE MARINES"
+    },
+    {
+      "Id": "90a2-1895-2e96-d987",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "eb81-795f-f750-12f7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ PLAGUE MARINES"
+    },
+    {
+      "Id": "fb65-cd0-4944-7ac6",
+      "AbilityName": "Revolting Regeneration",
+      "AbilityText": "At the start of your Command phase, this model regains up to D3 lost wounds."
+    },
+    {
+      "Id": "afa3-246b-8181-9a00",
+      "AbilityName": "Lord of Chaos",
+      "AbilityText": "Once per battle round, one unit from your army with this ability can be targeted with a Stratagem for 0CP, even if another unit from your army has already been targeted with that Stratagem this phase."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8877-9ef7-eb6b-2ac0",
+      "WeaponName": "Plague bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits, Pistol"
+    },
+    {
+      "id": "5ae4-2211-556b-525a",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "2b4-c96a-2d9e-7103",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "5f4d-e552-82f1-cb26",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "36d0-64e7-1536-8ea0",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "c9d1-ef1a-b64-d779",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "a2c7-ebce-2baa-4a32",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "688b-f833-1923-254a",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "e63-78a6-1e4a-2062",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "50ef-cefe-499d-4f8a",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "28f7-3eff-f289-c4f0",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "a69e-5988-c831-c9ab",
+      "WeaponName": "Combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "450d-c7de-a25a-f0ec",
+      "WeaponName": "Astartes chainsword",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7df-7c10-b76e-7645",
+      "WeaponName": "Plague fist",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "9472-2fb5-c1ed-dbc6",
+      "WeaponName": "Astartes chainsword",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "80e1-7f63-975e-5a9",
+      "WeaponName": "Accursed weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "13c2-f23b-8fb5-c02c",
+      "WeaponName": "Power fist",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "d65d-3675-7c25-4ea2",
+      "WeaponName": "Paired accursed weapons",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "85dc-19e9-ea9e-1ebc",
+      "WeaponName": "Accursed weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "c2a-2fcd-c617-45c4",
+      "WeaponName": "Power fist",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "5047-ddb4-9889-46fe",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "800-c71-2cd6-90f0",
+      "WeaponName": "Nurgling's claws and teeth",
+      "Attacks": "4",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

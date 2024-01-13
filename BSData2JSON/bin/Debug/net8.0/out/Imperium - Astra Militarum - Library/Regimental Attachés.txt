@@ -1,0 +1,40 @@
+{
+  "id": "851a-3b34-594-a715",
+  "UnitName": "Regimental Attachés",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f676-2509-3424-99fd",
+      "AbilityName": "Artillery Commander",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit’s Master of Ordnance model that has not already been selected for this ability this phase. Until the end of the phase, Blast weapons equipped by friendly Astra Militarum Artillery models have the [SUSTAINED HITS 1] ability when targeting that unit"
+    },
+    {
+      "Id": "b252-8a62-624c-88b7",
+      "AbilityName": "Aeronautica Commander",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this unit’s Officer of the Fleet model. Until the end of the phase, each time a friendly Astra Militarum Aircraft model makes a ranged attack that targets that unit, add 1 to the Hit roll."
+    },
+    {
+      "Id": "87b8-91c4-aff9-3496",
+      "AbilityName": "Divination (Psychic)",
+      "AbilityText": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this unit’s Astropath model."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "d413-2866-8086-9aae",
+      "WeaponName": "Astropath's Stave",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    }
+  ]
+}

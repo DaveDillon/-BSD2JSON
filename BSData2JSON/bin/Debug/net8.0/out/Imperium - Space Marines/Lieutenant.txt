@@ -17,7 +17,7 @@
     {
       "Id": "ba72-8a45-4bf0-d10c",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Intercessor Squad\n■ Bladeguard Veteran Squad\n■ Company Heroes\n■ Hellblaster Squad\n■ Infernus Squad\n■ Intercessor Squad\n■ Sternguard Veteran Squad\n■ Tactical Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Bladeguard Veteran Squad\r\n■ Company Heroes\r\n■ Hellblaster Squad\r\n■ Infernus Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad\r\n■ Tactical Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "fbda-ce4d-4c1-da22",
@@ -27,7 +27,7 @@
     {
       "Id": "42b2-7d1e-f1c-abdd",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n\n■ Reiver Squad\n\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following unit:\r\n\r\n■ Reiver Squad\r\n\r\nYou can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "eec8-a500-c73f-95d7",
@@ -37,7 +37,7 @@
     {
       "Id": "6071-4e16-eb0f-63a6",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Incursor Squad\n■ Infiltrator Squad\n■ Reiver Squad\n\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Incursor Squad\r\n■ Infiltrator Squad\r\n■ Reiver Squad\r\n\r\nYou can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "Id": "2288-75ee-5b84-2775",

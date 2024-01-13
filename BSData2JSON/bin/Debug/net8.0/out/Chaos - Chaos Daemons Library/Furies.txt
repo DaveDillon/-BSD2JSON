@@ -1,0 +1,30 @@
+{
+  "id": "2b4d-1769-dbca-fa0d",
+  "UnitName": "Furies",
+  "Movement": "12\"",
+  "Toughness": "3",
+  "Save": "7+",
+  "Wounds": "1",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "Models in this unit have a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "c591-7926-5b88-ab16",
+      "AbilityName": "Prey on the Weak",
+      "AbilityText": "Each time this model makes an attack thattar gets an enemy unit that is Battle-shocked, add 1 to the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "a04c-b49-e566-dbf8",
+      "WeaponName": "Daemonic claws",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e4f5-b819-90cb-2ee",
+  "UnitName": "Gorgon Heavy Transport",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "20",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This unit has a 5+ Invulnerable Save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "e198-4e1a-984e-307a",
+      "AbilityName": "Mount Up!",
+      "AbilityText": "At the end of your opponent’s Movement phase, if there are no models currently embarked within this Transport, you can select one friendly Astra Militarum Infantry unit (excluding Artillery units) that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5dfa-8f80-f35c-4b4a",
+      "WeaponName": "Gorgon Mortar",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "6e37-ee5b-bb31-b127",
+      "WeaponName": "Landing Ramp",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

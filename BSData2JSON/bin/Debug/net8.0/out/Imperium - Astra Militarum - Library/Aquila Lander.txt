@@ -1,0 +1,32 @@
+{
+  "id": "1b9a-d186-aff6-fa18",
+  "UnitName": "Aquila Lander",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e454-247b-2357-642e",
+      "AbilityName": "Aerial Deployment",
+      "AbilityText": "If this model starts the game in Hover mode and in Strategic Reserves, it can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d1d0-a5b3-54fe-4de8",
+      "WeaponName": "Multi-laser",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": []
+}

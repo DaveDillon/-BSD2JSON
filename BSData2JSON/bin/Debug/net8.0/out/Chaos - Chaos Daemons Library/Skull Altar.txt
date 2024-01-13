@@ -1,0 +1,25 @@
+{
+  "id": "e472-900b-ddbc-f548",
+  "UnitName": "Skull Altar",
+  "Movement": "-",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b4e5-c61a-8733-5ee2",
+      "AbilityName": "Shadow of Khorne (Aura)",
+      "AbilityText": "The area of the battlefield within 6\" of this FORTIFICATION is considered to be within your army’s Shadow of Chaos. In addition, while a friendly KHORNE LEGIONES DAEMONICA unit is within 6\" of this Fortification, each time you take a Battle-shock test for that unit, you can re-roll that test."
+    },
+    {
+      "Id": "35c3-c475-61ae-4aa3",
+      "AbilityName": "Cover",
+      "AbilityText": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

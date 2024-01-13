@@ -1,0 +1,32 @@
+{
+  "id": "25c2-9b66-89d3-928b",
+  "UnitName": "Tauros Venator",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1d79-68a9-913f-4217",
+      "AbilityName": "Mobile Hunter-killer",
+      "AbilityText": "Each time this model makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6ef3-c28e-5649-87f4",
+      "WeaponName": "Twin Multi-laser",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

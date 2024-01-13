@@ -1,0 +1,32 @@
+{
+  "id": "9c51-4e01-bac0-7763",
+  "UnitName": "Sicaran Arcus",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "4749-f1a9-a9a6-36c9",
+      "AbilityName": "Specialised Weapon System",
+      "AbilityText": "Each time this model makes an attack that targets the enemy unit you selected for the Oath of Moment ability, that attack has the [IGNORES COVER] ability and can ignore the penalty to their Hit rolls when making attacks with Indirect Fire weapons against targets that are not visible to them."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "93fe-a690-8669-3380",
+      "WeaponName": "Arcus multi-launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

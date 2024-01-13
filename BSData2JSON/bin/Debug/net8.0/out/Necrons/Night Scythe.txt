@@ -1,0 +1,42 @@
+{
+  "id": "5bc7-9e20-85de-af17",
+  "UnitName": "Night Scythe",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7d3b-c221-6f25-e32a",
+      "AbilityName": "Invasion Beams",
+      "AbilityText": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly NECRONS INFANTRY unit wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+    },
+    {
+      "Id": "3ee1-5d44-8794-827e",
+      "AbilityName": "Damaged: 1-4 wounds remaining",
+      "AbilityText": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "1111-a91-fad5-a9ab",
+      "AbilityName": "Quantum Invader",
+      "AbilityText": "This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8014-ef6a-c1e9-a933",
+      "WeaponName": "Twin tesla destructor",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Sustained Hits 2, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

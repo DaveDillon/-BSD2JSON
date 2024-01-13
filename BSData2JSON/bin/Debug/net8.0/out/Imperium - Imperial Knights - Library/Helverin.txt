@@ -1,0 +1,20 @@
+{
+  "id": "df5-4bc-4d9b-dfa5",
+  "UnitName": "Helverin",
+  "Movement": "12\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1d28-343b-c471-4427",
+      "AbilityName": "Skyfire Protocols",
+      "AbilityText": "While this model is either wholly within your deployment zone or within range of an objective marker you control, its Armiger autocannons have the [ANTI-FLY 2+] ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

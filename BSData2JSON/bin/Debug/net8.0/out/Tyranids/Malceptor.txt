@@ -1,0 +1,51 @@
+{
+  "id": "a132-e812-3392-f9ef",
+  "UnitName": "Malceptor",
+  "Movement": "8\"",
+  "Toughness": "11",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a372-8f4-cc33-ec1c",
+      "AbilityName": "Encephalic Diffusion (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time a model in that unit makes an attack, subtract 1 from the Hit roll, and, if that enemy unit is Below Half-strength, subtract 1 from the Wound roll as well."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "22aa-3a34-8d0-8463",
+      "WeaponName": "Psychic Overload",
+      "Range": "18\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2fcd-a4a0-387-a542",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "cc52-927c-8aac-e637",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

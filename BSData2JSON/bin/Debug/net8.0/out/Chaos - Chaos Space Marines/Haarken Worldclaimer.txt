@@ -12,7 +12,7 @@
     {
       "Id": "2e37-6074-e784-7b4",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ RAPTORS"
+      "AbilityText": "This model can be attached to the following units:\r\n■ RAPTORS"
     },
     {
       "Id": "849-eef4-da9f-1f47",

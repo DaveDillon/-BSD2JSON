@@ -1,0 +1,60 @@
+{
+  "id": "b5ac-c8b6-72d9-abf5",
+  "UnitName": "Gellerpox Infected",
+  "Movement": "5\"",
+  "Toughness": "5",
+  "Save": "6+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "cced-5e5d-5eb4-2c2e",
+      "AbilityName": "Fearsome (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this unit, each time that enemy unit takes a Battle-shock or Leadership test, subtract 1 from the result."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "37b6-1307-d4e0-2a30",
+      "WeaponName": "Belly flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8f75-c0af-7097-6976",
+      "WeaponName": "Brutal weapons",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d4ca-c814-8fb6-adab",
+      "WeaponName": "Hideous mutations",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "62e6-d02f-61c9-26ac",
+      "WeaponName": "Hideous mutations",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

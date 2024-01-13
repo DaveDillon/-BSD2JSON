@@ -1,0 +1,106 @@
+{
+  "id": "c352-657f-d2cc-adcf",
+  "UnitName": "Brotherhood Techmarine",
+  "Movement": "5\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a0a4-1a94-df1f-ef4f",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Servitors\r\n■ Strike Squad"
+    },
+    {
+      "Id": "877c-7676-7032-ecd3",
+      "AbilityName": "Awaken the Machine Spirit",
+      "AbilityText": "In your Command phase, you can select one friendly GREY KNIGHTS VEHICLE model within 6\" of this model. Until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "f298-3658-77a2-5851",
+      "AbilityName": "Omnissiah’s Blessing",
+      "AbilityText": "In your Command phase, you can select one friendly Grey Knights Vehicle model within 3\" of this model. That Vehicle model regains up to D3 lost wounds."
+    },
+    {
+      "Id": "7750-f512-8316-e851",
+      "AbilityName": "Techmarine",
+      "AbilityText": "While this model is within 3\" of one or more friendly Grey Knights Vehicle units, unless it is leading a unit, this model has the Lone Operative ability"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f239-3ccc-a7ed-a37a",
+      "WeaponName": "Boltgun",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "3510-76fc-5d-2f5e",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "462e-af68-3725-10ef",
+      "WeaponName": "Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "59d5-7666-1edf-125e",
+      "WeaponName": "Omnissian Power Axe",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "cf76-7725-98e1-d456",
+      "WeaponName": "Plasma Cutter",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "3bd0-22d0-6cad-cbbd",
+      "WeaponName": "Plasma Cutter",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2"
+    },
+    {
+      "id": "8f56-9025-c58b-b16",
+      "WeaponName": "Servo-arms",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

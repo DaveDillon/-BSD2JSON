@@ -1,0 +1,85 @@
+{
+  "id": "369e-b2c9-4637-8cba",
+  "UnitName": "Chief Librarian Mephiston",
+  "Movement": "7\"",
+  "Toughness": "5",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f775-5667-be0b-35bc",
+      "AbilityName": "The Quickening [Psychic]",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability"
+    },
+    {
+      "Id": "b48f-aef0-7aa9-3500",
+      "AbilityName": "Transfixing Gaze [Psychic]",
+      "AbilityText": "At the start of the Fight phase, you can select one enemy unit within Engagement Range  of this Psyker’s unit and roll one D6: on a 1, this Psyker model suffers D3 mortal wounds; on a 2-5, until the end of the phase, worsen the Weapon Skill characteristic of melee weapons equipped by models in that enemy unit by 1; on a 6, until the end of the phase, worsen the Weapon Skill and Attacks characteristics of those weapons by 1."
+    },
+    {
+      "Id": "e90c-8a1b-f2c1-9e7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Intercessor Squad\r\n■ Sternguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "791a-41a4-d0da-c9a4",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "2519-8ac-a043-f87a",
+      "WeaponName": "Plasma Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    },
+    {
+      "id": "eb07-22b3-d1eb-7552",
+      "WeaponName": "Fury of the Ancients",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Pistol, Psychic, Sustained Hits 1"
+    },
+    {
+      "id": "9fcd-a0d8-4804-c08a",
+      "WeaponName": "Fury of the Ancients",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Hazardous, Pistol, Psychic, Sustained Hits 3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3da4-7876-bd83-6904",
+      "WeaponName": "Vitarus",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D3"
+    }
+  ]
+}

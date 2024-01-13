@@ -1,0 +1,40 @@
+{
+  "id": "7cc8-a037-cc71-6377",
+  "UnitName": "Abominant",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "5+",
+  "Wounds": "5",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "8030-1b98-3c3c-4afb",
+      "AbilityName": "Feel No Pain 4+",
+      "AbilityText": "This model has a 4+ Feel No Pain"
+    },
+    {
+      "Id": "48f2-fdac-e0bf-b520",
+      "AbilityName": "The Chosen One",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "f802-ed9a-9cb0-7aef",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- ABERRANTS"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "b66e-6bd8-3b37-819e",
+      "WeaponName": "Power Sledgehammer",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    }
+  ]
+}

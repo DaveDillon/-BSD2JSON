@@ -12,7 +12,7 @@
     {
       "Id": "67a8-8a91-4d6e-b60",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ PLAGUE MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUE MARINES"
     },
     {
       "Id": "e07-9b91-761a-7525",
@@ -27,7 +27,7 @@
     {
       "Id": "257a-37b6-4155-9e35",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following unit:\n■ CHOSEN\n■ LEGIONARIES\n■ PLAGUE MARINES"
+      "AbilityText": "This model can be attached to the following unit:\r\n■ CHOSEN\r\n■ LEGIONARIES\r\n■ PLAGUE MARINES"
     },
     {
       "Id": "f6e0-919a-edb9-cf88",

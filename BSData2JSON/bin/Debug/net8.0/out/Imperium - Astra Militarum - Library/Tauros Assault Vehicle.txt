@@ -1,0 +1,43 @@
+{
+  "id": "e979-a4f1-c9c8-64f5",
+  "UnitName": "Tauros Assault Vehicle",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "10f1-3cb8-dbab-eb42",
+      "AbilityName": "Turbo-boost",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "d7fc-4681-c8c3-3684",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "1c83-640-4135-7e5a",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": []
+}

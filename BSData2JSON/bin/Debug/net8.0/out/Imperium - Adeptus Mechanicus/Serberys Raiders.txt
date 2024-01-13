@@ -1,0 +1,92 @@
+{
+  "id": "2ca0-ee66-2659-8616",
+  "UnitName": "Serberys Raiders",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "c749-2b4e-1ebe-87a3",
+      "AbilityName": "Scouts",
+      "AbilityText": "9\""
+    },
+    {
+      "Id": "818e-4451-e543-0907",
+      "AbilityName": "Tactica Obliqua",
+      "AbilityText": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can do one of the following:\r\n■ Make a Normal move of up to D6\".\r\n■ Make a Normal move of up to 6\", provided every model in this unit ends that move wholly within 6\" of one or more friendly Adeptus Mechanicus Battleline units."
+    },
+    {
+      "Id": "6fc7-1534-89fe-ac99",
+      "AbilityName": "Enhanced data-tether",
+      "AbilityText": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "b2d9-9542-6edb-aecc",
+      "WeaponName": "Galvanic carbine",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "d04b-4d8c-93a8-5b7c",
+      "WeaponName": "Galvanic carbine",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "215-f59b-1835-1054",
+      "WeaponName": "Galvanic carbine",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2784-117-52cf-81d3",
+      "WeaponName": "Cavalry sabre & clawed limbs",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "df5b-1828-5650-83d2",
+      "WeaponName": "Cavalry sabre & clawed limbs",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "96f4-50d5-6827-f7e2",
+      "WeaponName": "Cavalry sabre & clawed limbs",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

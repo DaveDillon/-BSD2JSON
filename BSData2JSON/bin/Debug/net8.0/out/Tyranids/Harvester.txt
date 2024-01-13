@@ -1,0 +1,136 @@
+{
+  "id": "8258-a58e-7cf0-a2c3",
+  "UnitName": "Harvester",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f6a1-151a-9d0d-37d2",
+      "AbilityName": "Burning Spray",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
+    },
+    {
+      "Id": "bad8-3f0b-a255-140",
+      "AbilityName": "Grisly Spectacle",
+      "AbilityText": "Each time this model is selected to fight, after resolving its attacks, if one or more enemy units were destroyed by those attacks, each enemy unit within 6\" of this model must take a Battle-shock test."
+    },
+    {
+      "Id": "533-9226-7e51-ee0",
+      "AbilityName": "Chitinous Horrors (Aura)",
+      "AbilityText": "While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit."
+    },
+    {
+      "Id": "ee87-2dbd-843f-7179",
+      "AbilityName": "Feel No Pain 5+",
+      "AbilityText": "This Model has a 5+ Feel No Pain"
+    },
+    {
+      "Id": "5171-dc2c-e7b0-2d4",
+      "AbilityName": "Bio-stimulus (Aura)",
+      "AbilityText": "While a friendly Tyranids unit is within 6\" of this model, models in that unit have the Feel No Pain 6+ ability."
+    },
+    {
+      "Id": "34b3-35ff-995a-560d",
+      "AbilityName": "Feeding Frenzy",
+      "AbilityText": "Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half strength, add 1 to the Wound roll as well."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "26fa-1896-4afd-c0ad",
+      "WeaponName": "Flamespurt",
+      "Range": "12\"",
+      "Attacks": "D6+1",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent, Twin-linked"
+    },
+    {
+      "id": "1e44-6df5-7f11-6a24",
+      "WeaponName": "Grasping Tongue",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1",
+      "Text": "Precision"
+    },
+    {
+      "id": "ab41-fe74-24c7-1b48",
+      "WeaponName": "Spinemaw",
+      "Range": "6\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "208d-6af9-f50c-f4f2",
+      "WeaponName": "Psycholastic Torrent",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4718-5f1f-18f9-b89",
+      "WeaponName": "Chitin-barbed limbs",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ddd5-70eb-2592-b89d",
+      "WeaponName": "Ravenous Maw",
+      "Attacks": "14",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "2ab5-e71c-ae6f-b47a",
+      "WeaponName": "Shovelling Claws",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "82ab-174c-7668-94",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "1e16-7665-679d-7462",
+      "WeaponName": "Talons and Betentacled Maw",
+      "Attacks": "D6+1",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

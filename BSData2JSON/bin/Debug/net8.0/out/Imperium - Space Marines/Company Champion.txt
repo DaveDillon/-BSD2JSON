@@ -22,7 +22,7 @@
     {
       "Id": "1150-328f-66f5-11fd",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Bike Squad\n■ Outrider Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Bike Squad\r\n■ Outrider Squad"
     }
   ],
   "RangedSkills": [],

@@ -1,0 +1,129 @@
+{
+  "id": "72ab-6dc9-1f0d-5624",
+  "UnitName": "Warbringer Nemesis Titan",
+  "Movement": "12\"",
+  "Toughness": "14",
+  "Save": "2+",
+  "Wounds": "80",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks only.",
+  "Abilities": [
+    {
+      "Id": "d4dc-52c7-2eda-ae83",
+      "AbilityName": "Damaged: 1-26 wounds remaining",
+      "AbilityText": "While this model has 1-26 wounds remaining, subtract 10 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "dd8e-2c98-72cd-1a06",
+      "AbilityName": "Titanic Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly IMPERIUM model makes an attack that targets that enemy unit, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "efce-899b-2abc-f846",
+      "AbilityName": "Titanic Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly CHAOS model makes an attack that targets that enemy unit, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2b70-1350-f1df-821d",
+      "WeaponName": "Nemesis quake cannon",
+      "Range": "480\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "4",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "482a-6316-a1f4-793c",
+      "WeaponName": "Nemesis volcano cannon",
+      "Range": "120\"",
+      "Attacks": "D3+3",
+      "BallisticSkill": "3+",
+      "Strength": "24",
+      "ArnorPirecing": "-5",
+      "Damage": "14",
+      "Text": "Blast"
+    },
+    {
+      "id": "d548-1d30-501c-d136",
+      "WeaponName": "Reaver gatling blaster",
+      "Range": "72\"",
+      "Attacks": "12",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Sustained Hits 1"
+    },
+    {
+      "id": "d4f5-9c22-5109-57d6",
+      "WeaponName": "Reaver laser blaster",
+      "Range": "72\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": "Blast"
+    },
+    {
+      "id": "2691-bdc4-d017-dcd3",
+      "WeaponName": "Reaver melta cannon",
+      "Range": "48\"",
+      "Attacks": "D6+2",
+      "BallisticSkill": "3+",
+      "Strength": "13",
+      "ArnorPirecing": "-4",
+      "Damage": "6",
+      "Text": "Blast, Melta 4"
+    },
+    {
+      "id": "cbd3-f49b-df00-8e16",
+      "WeaponName": "Reaver volcano cannon",
+      "Range": "120\"",
+      "Attacks": "D3+1",
+      "BallisticSkill": "3+",
+      "Strength": "24",
+      "ArnorPirecing": "-5",
+      "Damage": "14",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "7990-e07f-ed35-236",
+      "WeaponName": "Anvillus defence battery",
+      "Range": "72\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-FLY 4+"
+    },
+    {
+      "id": "e907-a69a-1695-87f6",
+      "WeaponName": "Ardex-defensor mauler",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "f327-662a-29f7-bfe3",
+      "WeaponName": "Nemesis feet",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "4"
+    }
+  ]
+}

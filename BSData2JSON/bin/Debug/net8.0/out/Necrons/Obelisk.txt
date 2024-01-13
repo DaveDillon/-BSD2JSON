@@ -1,0 +1,47 @@
+{
+  "id": "430f-7c5f-7c00-7e97",
+  "UnitName": "Obelisk",
+  "Movement": "8\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2ec0-29f0-9fb3-dfc3",
+      "AbilityName": "Damaged: 1-8 wounds remaining",
+      "AbilityText": "While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "4997-7da8-34d2-6efa",
+      "AbilityName": "Gravitic Pulse",
+      "AbilityText": "At the start of your opponent’s Movement phase, you can select one enemy unit within 18\" of and visible to this model. Until the end of the turn, halve the Move characteristic of models in that unit and halve Advance and Charge rolls made for that unit. In addition, if that unit can FLY, until the start of your next Movement phase, roll one D6 each time that unit ends any type of move: on a 4+, that unit suffers D3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c6fc-c8d-56d2-3324",
+      "WeaponName": "Tesla sphere",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-FLY 4+, Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3650-8cc1-fd2b-625b",
+      "WeaponName": "Armoured bulk",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

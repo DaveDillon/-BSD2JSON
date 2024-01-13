@@ -1,0 +1,37 @@
+{
+  "id": "1785-c8af-b343-a1a6",
+  "UnitName": "Raveners",
+  "Movement": "10\"",
+  "Toughness": "5",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "e078-a1cc-7896-7443",
+      "AbilityName": "Death From Below",
+      "AbilityText": "At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "Id": "9471-6aaa-1e10-2894",
+      "AbilityName": "Armoured Thorax",
+      "AbilityText": "The bearer has a save characteristic of 4+"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8c6-7839-21c1-8a95",
+      "WeaponName": "Thoracic bio-weapon",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Assault"
+    }
+  ],
+  "MeleeSkills": []
+}

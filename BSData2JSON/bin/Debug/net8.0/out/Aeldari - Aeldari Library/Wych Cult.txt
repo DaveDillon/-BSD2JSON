@@ -1,0 +1,388 @@
+{
+  "id": "b165-8f68-caff-407a",
+  "UnitName": "Wych Cult",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "5+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "bd21-ed5c-2cb6-9da2",
+      "AbilityName": "Phantasm Grenade Launcher",
+      "AbilityText": "The bearer’s unit has the Grenades keyword."
+    },
+    {
+      "Id": "ea0b-8699-31bd-fab0",
+      "AbilityName": "Hit and Run",
+      "AbilityText": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    },
+    {
+      "Id": "88a6-91eb-ecd3-fe5b",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Wyches"
+    },
+    {
+      "Id": "80d8-2549-f78-46ba",
+      "AbilityName": "Brides of Death",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability, and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack and improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "Id": "8852-1c83-5e1e-7418",
+      "AbilityName": "Thrilling Spectacle",
+      "AbilityText": "Once per battle, at the start of the Fight phase, this model can use this ability. When it does, until the end of the phase, the Attacks characteristic of Lelith’s blades is increased to 12 and this model’s invulnerable save is increased to 3+."
+    },
+    {
+      "Id": "708e-8e09-3430-210a",
+      "AbilityName": "Cluster Caltrops",
+      "AbilityText": "Each time you roll to inflict wounds using this unit’s Eviscerating Fly-by ability, you can re-roll one D6 for each model in this unit equipped with cluster caltrops."
+    },
+    {
+      "Id": "20a7-4c48-44ae-642d",
+      "AbilityName": "Grav Talon",
+      "AbilityText": "The bearer’s melee weapons have the [LANCE] ability."
+    },
+    {
+      "Id": "34cd-164d-decf-7a31",
+      "AbilityName": "Eviscerating Fly-by",
+      "AbilityText": "Each time this unit ends a Normal move, you can select one enemy unit (excluding Monster and Vehicle units) that it moved over during that move. If you do, roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+    },
+    {
+      "Id": "3293-85bb-5c8-eace",
+      "AbilityName": "Combat Drugs",
+      "AbilityText": "If this model is Empowered in the Fight phase, then until the end of the phase, models in this model’s unit, have the Fights First ability."
+    },
+    {
+      "Id": "8bad-50a7-977e-98d",
+      "AbilityName": "Storm of Blades",
+      "AbilityText": "While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "93a4-8f87-87d-1266",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Wyches"
+    },
+    {
+      "Id": "97cc-7379-dcfa-a6c3",
+      "AbilityName": "Phantasm Grenade Launcher",
+      "AbilityText": "The bearer’s unit has the Grenades keyword."
+    },
+    {
+      "Id": "738e-6610-276b-db9f",
+      "AbilityName": "No Escape",
+      "AbilityText": "Each time an enemy unit (excluding Monsters and Vehicles) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, models in that enemy unit must take Desperate Escape tests as if their unit was Battle-shocked. When doing so, if that enemy unit is also Battle-shocked by other means, subtract 1 from each of those Desperate Escape tests."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1494-d50c-fc62-b468",
+      "WeaponName": "Heliarch Weapon and Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "20af-1cd2-56c8-74db",
+      "WeaponName": "Splinter Pods",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Twin Linked"
+    },
+    {
+      "id": "51b1-6793-507f-1be",
+      "WeaponName": "Splinter Pods",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Twin Linked"
+    },
+    {
+      "id": "cf5a-6114-7963-cfba",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "b2ee-d034-7f0c-ce4c",
+      "WeaponName": "Splinter Rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault"
+    },
+    {
+      "id": "279d-98bf-5b55-6292",
+      "WeaponName": "Blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "944f-56c1-8fdf-417a",
+      "WeaponName": "Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3"
+    },
+    {
+      "id": "bd1c-3375-6601-b60a",
+      "WeaponName": "Splinter Rifle",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault"
+    },
+    {
+      "id": "52ab-7999-368e-e7f5",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "cf99-94cc-99a2-7dfb",
+      "WeaponName": "Blaster",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+1",
+      "Text": "Assault"
+    },
+    {
+      "id": "284-d619-e84-11d5",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "c2b7-66c9-4f94-8298",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "535d-b608-3bf-c0ae",
+      "WeaponName": "Heat Lance",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Assault, Melta 3"
+    },
+    {
+      "id": "a333-2e47-dc8-2c1",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "860d-fc0d-aea5-c36d",
+      "WeaponName": "Blast Pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "D3",
+      "Text": "Pistol"
+    },
+    {
+      "id": "34d8-622-39c9-ab01",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    },
+    {
+      "id": "622-126-42bc-2901",
+      "WeaponName": "Blast Pistol",
+      "Range": "6\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "D3",
+      "Text": "Pistol"
+    },
+    {
+      "id": "7fa1-81b3-288b-171f",
+      "WeaponName": "Splinter Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "ab6-58d0-d2e3-59e6",
+      "WeaponName": "Hellglaive",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "4a6f-b9a1-eb1c-8074",
+      "WeaponName": "Heliarch Weapon and Splinter Pistol",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "182e-65db-9674-3e30",
+      "WeaponName": "Hellglaive",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "708-deaf-26d6-97fe",
+      "WeaponName": "Lelith's blades",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "7d98-b759-c347-34e7",
+      "WeaponName": "Agonizer",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "42e7-6d65-7632-1b3c",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2cf3-b9cd-1c58-8bf0",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7705-29b-2e3d-7ca4",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "27c5-dbd9-6c0b-287b",
+      "WeaponName": "Bladevanes",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "a1-9b51-c386-5786",
+      "WeaponName": "Succubus weapons",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "813c-e40e-266c-ace6",
+      "WeaponName": "Hekatarii Blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "dc1a-26b8-9626-2f00",
+      "WeaponName": "Hekatarii Blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7177-ef6b-50ae-82e2",
+  "UnitName": "Karnivore",
+  "Movement": "14\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "dec4-f0af-5aee-9e79",
+      "AbilityName": "Karnivore",
+      "AbilityText": "You can re-roll Charge rolls made for this model."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

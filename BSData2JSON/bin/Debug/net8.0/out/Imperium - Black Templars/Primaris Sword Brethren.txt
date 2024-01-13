@@ -1,0 +1,51 @@
+{
+  "id": "698d-99fc-408b-91ec",
+  "UnitName": "Primaris Sword Brethren",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "17b9-2882-1ca3-8a73",
+      "AbilityName": "Vow Sworn Bladesman",
+      "AbilityText": "At the start of the Fight phase, you can select one of the following effects to apply to melee weapons equipped by models in this unit until the end of the phase:\r\n\r\n\r\n■ Add 1 to the Attacks characteristic of those weapons.\r\n■ Add 1 to the Damage characteristic of those weapons."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6e5d-2e83-9941-7ae0",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-infantry 4+, Devastating Wounds, Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4dbf-b3ea-afac-a26d",
+      "WeaponName": "Thunder Hammer",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "fa94-31f6-b8de-f4c2",
+      "WeaponName": "Master-crafted Power Weapon",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

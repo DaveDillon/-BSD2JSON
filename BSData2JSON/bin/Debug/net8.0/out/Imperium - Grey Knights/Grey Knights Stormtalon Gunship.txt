@@ -1,0 +1,97 @@
+{
+  "id": "99eb-b003-79ba-7d46",
+  "UnitName": "Grey Knights Stormtalon Gunship",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "133a-43b1-cad3-95d6",
+      "AbilityName": "Strafing Run",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fba5-e68-2802-fbea",
+      "WeaponName": "Skyhammer Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Anti-Fly 2+"
+    },
+    {
+      "id": "225a-940c-9aa1-3100",
+      "WeaponName": "Typhoon Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "1cca-21fc-4790-2b46",
+      "WeaponName": "Typhoon Missile Launcher",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": ""
+    },
+    {
+      "id": "86eb-db88-c024-c897",
+      "WeaponName": "Twin Heavy Bolter",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1, Twin-Linked"
+    },
+    {
+      "id": "96d9-801-c56f-ce3b",
+      "WeaponName": "Twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "58eb-ea30-6364-282f",
+      "WeaponName": "Twin Assault Cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "9584-2891-1af0-f091",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

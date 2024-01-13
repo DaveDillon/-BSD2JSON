@@ -1,0 +1,69 @@
+{
+  "id": "add3-dd14-3a67-5e63",
+  "UnitName": "Beastmaster",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "6+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 6+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "6632-4cde-bb04-3560",
+      "AbilityName": "Beastmaster",
+      "AbilityText": "While this unit contains a Beastmaster model, you can re-roll Charge rolls made for this unit, and each time a BEAST model in this unit makes an attack, re-roll a Hit roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ef74-15a3-ad7f-356c",
+      "WeaponName": "Splinter pods",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Assault"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b856-1d1d-8ac1-85ec",
+      "WeaponName": "Agoniser",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "5e4-83a4-65c6-cbc",
+      "WeaponName": "Khymerae talons",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "d41a-8f3e-8e1b-4657",
+      "WeaponName": "Clawed Fiend fists",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "28f7-d650-40fd-9216",
+      "WeaponName": "Razorwing feathers",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ccae-25d8-84c1-913f",
+  "UnitName": "Iron Father Ferrios",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "219d-340d-6681-ab1",
+      "AbilityName": "Rites of Tempering",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability"
+    },
+    {
+      "Id": "2095-1be1-e5cc-1cee",
+      "AbilityName": "Iron Father",
+      "AbilityText": "While this model is within 3\" of one or more friendly Adeptus Astartes Vehicle units, it has the Lone Operative ability."
+    },
+    {
+      "Id": "c393-649d-7810-bcae",
+      "AbilityName": "Master of the Forge",
+      "AbilityText": "In your Command phase, select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to 3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. You cannot select a unit for this ability that has already been selected for the Blessing of the Omnissiah ability this phase, and vice versa."
+    },
+    {
+      "Id": "b3b3-c43c-41b1-a086",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Aggressor Squad\r\n■ Eradicator Squad\r\n■ Heavy Intercessor Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9d7b-c00c-41ff-87f",
+      "WeaponName": "Gorgon's Wrath",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4bf3-994f-1703-47c2",
+      "WeaponName": "Harrowhand",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "cc4d-3452-c86d-9ffb",
+      "WeaponName": "Medusan Manipuli",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

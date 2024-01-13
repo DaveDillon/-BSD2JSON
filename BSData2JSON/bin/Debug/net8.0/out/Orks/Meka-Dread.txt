@@ -1,0 +1,65 @@
+{
+  "id": "1d57-54ca-a137-11bc",
+  "UnitName": "Meka-Dread",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "9c6a-bdfd-6134-cb23",
+      "AbilityName": "Mekaniak",
+      "AbilityText": "At the end of your Movement phase, you can select one friendly ORKS VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds, and, until the start of your next Movement phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
+    },
+    {
+      "Id": "4dcf-e77b-c736-d52",
+      "AbilityName": "Dead Rippy",
+      "AbilityText": "If this model is equipped with 2 dread killsaws, those weapons have the [TWIN-LINKED] ability. If this model is equipped with 2 dread rippa klaws, those weapons have the [TWIN-LINKED] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f5bc-acbf-c58-152e",
+      "WeaponName": "Killkannon",
+      "Range": "24\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3564-c858-1f4c-acf4",
+      "WeaponName": "Stompy feet",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "788b-43f2-ee02-6f49",
+      "WeaponName": "Dread killsaw",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "4"
+    },
+    {
+      "id": "407b-3d20-263c-6ce",
+      "WeaponName": "Dread rippa klaw",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

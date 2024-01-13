@@ -1,0 +1,48 @@
+{
+  "id": "19ac-e6bb-1dd9-490f",
+  "UnitName": "Knight Styrix",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "fc84-51b3-4be7-c687",
+      "AbilityName": "Grav-pinned",
+      "AbilityText": "In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent’s next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit’s Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
+    },
+    {
+      "Id": "e1f3-aeae-379b-1e02",
+      "AbilityName": "Styrix’s Duty (Bondsman)",
+      "AbilityText": "While a model is affected by this ability, ranged weapons equipped by that model have the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "63a2-7ba2-3845-f2de",
+      "WeaponName": "Graviton crusher",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-Vehicle 2+, Blast"
+    },
+    {
+      "id": "8e62-813d-11cb-9310",
+      "WeaponName": "Volkite chierovile",
+      "Range": "30\"",
+      "Attacks": "9",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": []
+}

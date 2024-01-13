@@ -1,0 +1,43 @@
+{
+  "id": "ea32-6c58-5ba8-1817",
+  "UnitName": "Deathstorm Drop Pod",
+  "Movement": "-",
+  "Toughness": "7",
+  "Save": "3+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "44e2-e0aa-839c-e60a",
+      "AbilityName": "Deathstorm Assault",
+      "AbilityText": "This model must start the battle in Reserves, but it is not counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5ec4-d718-3ff2-131",
+      "WeaponName": "Deathstorm cannon array",
+      "Range": "18\"",
+      "Attacks": "12",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Sustained Hits 2"
+    },
+    {
+      "id": "a911-5e56-bfed-af65",
+      "WeaponName": "Deathstorm missile array",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,216 @@
+{
+  "id": "e37b-6db-a5-23ed",
+  "UnitName": "Sorcerer",
+  "Movement": "4\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "339e-1933-3dbf-e355",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "c9ea-1d59-9bf-bb00",
+      "AbilityName": "Putrescent Vitality (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, each time an attack is allocated to a model in this PSYKER’s unit, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "Id": "6dc6-e465-e8ff-a4eb",
+      "AbilityName": "Pestilent Familiar (Psychic)",
+      "AbilityText": "Once per battle, after selecting targets for a Psychic weapon equipped by this model, until the end of the phase, improve the Strength and Damage characteristics of that weapon by 2."
+    },
+    {
+      "Id": "af3c-4edc-36aa-59e8",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ PLAGUE MARINES"
+    },
+    {
+      "Id": "4bc3-6d49-d99d-ff2c",
+      "AbilityName": "Gift of Poxes (Psychic)",
+      "AbilityText": "While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "7104-86cd-2534-e8ac",
+      "AbilityName": "Feculent Despair (Aura, Psychic)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock test, subtract 1 from that test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9554-4d21-b017-c5db",
+      "WeaponName": "Curse of the Leper",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "5131-606f-c02d-1342",
+      "WeaponName": "Curse of the Leper",
+      "Range": "24\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Hazardous, Psychic"
+    },
+    {
+      "id": "de8-f6c5-967b-f95f",
+      "WeaponName": "Infernal Gaze",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Psychic"
+    },
+    {
+      "id": "ff38-8889-f7f0-9ddd",
+      "WeaponName": "Infernal Gaze",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Devastating Wounds, Hazardous, Psychic"
+    },
+    {
+      "id": "7c64-7b75-5125-57b3",
+      "WeaponName": "Bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "1212-de4a-35ba-6afa",
+      "WeaponName": "Combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "75a6-9358-5ac9-4ba4",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "45a-77c9-b068-d011",
+      "WeaponName": "Plasma pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7d2c-9ce3-c742-6c18",
+      "WeaponName": "Force weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "2965-3811-ec3a-f23e",
+      "WeaponName": "Chainfist",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "29f4-1f35-313c-c541",
+      "WeaponName": "Plague fist",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "2597-2759-9da5-4d39",
+      "WeaponName": "Twin lightning claws",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "566-2c45-e0f5-3164",
+      "WeaponName": "Force weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "df11-c233-c45d-47d4",
+      "WeaponName": "Nurgling's claws and teeth",
+      "Attacks": "4",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "c59-f6-1c91-5703",
+      "WeaponName": "Accursed weapon",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "508d-dcfb-de4a-51eb",
+      "WeaponName": "Power fist",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "4baa-e10a-1e17-7c61",
+      "WeaponName": "Astartes chainsword",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

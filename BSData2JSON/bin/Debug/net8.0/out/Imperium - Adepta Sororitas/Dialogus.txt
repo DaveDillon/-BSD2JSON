@@ -1,0 +1,40 @@
+{
+  "id": "c22d-ed31-bda4-79d6",
+  "UnitName": "Dialogus",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has an invulnerable save of 6+",
+  "Abilities": [
+    {
+      "Id": "e5c8-ff8c-ad6a-1a31",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Battle Sisters Squad\r\n■ Celestian Sacresants\r\n■ Dominion Squad\r\n■ Retributor Squad\r\n■ Sisters Novitiate Squad\r\nThis model can be attached to a Battle Sisters Squad, even if one Canoness, Palatine or Junith Eruita model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+    },
+    {
+      "Id": "857a-682e-d2bd-5943",
+      "AbilityName": "Laud Hailer",
+      "AbilityText": "While this model is leading a unit, that unit can be selected as the target of Stratagems even when it is Battle-shocked."
+    },
+    {
+      "Id": "c7dc-3ddb-ce59-3c1e",
+      "AbilityName": "Stirring Rhetoric",
+      "AbilityText": "While this model is leading a unit, each time this model’s unit performs an Act of Faith, the result of one of the Miracle dice used in that Act of Faith is first changed to a 6."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8cf3-327e-f17f-d0e2",
+      "WeaponName": "Dialogus Staff",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

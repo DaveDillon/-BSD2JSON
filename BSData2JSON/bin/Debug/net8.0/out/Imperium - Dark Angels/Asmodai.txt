@@ -1,0 +1,66 @@
+{
+  "id": "2690-2ccf-683d-74e3",
+  "UnitName": "Asmodai",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "bc71-ac50-79a-7ce8",
+      "AbilityName": "Invulnerable save",
+      "AbilityText": "4+"
+    },
+    {
+      "Id": "cb36-69d9-6027-34d7",
+      "AbilityName": "Exemplar of Hate",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "4483-333d-1b7-1499",
+      "AbilityName": "Feared Interrogator",
+      "AbilityText": "At the start of the Fight phase, each enemy Character unit within 6\" of this model must take a Battle-shock test, subtracting 1 from that test when they do. In addition, each time this model destroys an enemy Character model with a melee attack, you gain 1CP."
+    },
+    {
+      "Id": "3b91-c4c6-818d-4442",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Assault Squad\r\n■ Command Squad\r\n■ Tactical Squad\r\n■ Vanguard Veteran Squad"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4f30-1743-64e9-4e82",
+      "WeaponName": "Bolt Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "ce54-9d54-32c1-de9d",
+      "WeaponName": "Blades of Reason",
+      "Attacks": "3",
+      "WeaponSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "4ff3-d79b-5a5c-5e2f",
+      "WeaponName": "Crozius Arcanum",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

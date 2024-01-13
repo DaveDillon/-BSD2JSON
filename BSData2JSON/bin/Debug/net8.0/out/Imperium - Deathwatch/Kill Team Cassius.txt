@@ -1,0 +1,149 @@
+{
+  "id": "73ac-907a-3014-e457",
+  "UnitName": "Kill Team Cassius",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "cb89-cc1a-5e19-2bf1",
+      "AbilityName": "Jump Pack",
+      "AbilityText": "The bearer has a Move characteristic of 12\" and can move over models and terrain as if they were not there."
+    },
+    {
+      "Id": "4b39-2ba4-2741-5275",
+      "AbilityName": "Jump Pack",
+      "AbilityText": "The bearer has a Move characteristic of 12\" and can move over models and terrain as if they were not there."
+    },
+    {
+      "Id": "b490-9584-430a-7495",
+      "AbilityName": "Psychic Hood",
+      "AbilityText": "Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks."
+    },
+    {
+      "Id": "762-8fda-bc0e-6e5f",
+      "AbilityName": "Catechism of Death",
+      "AbilityText": "While this unit contains Chaplain Cassius, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "685b-a006-c655-4250",
+      "AbilityName": "Unflinching",
+      "AbilityText": "Each time this unit takes a Battle-shock or Leadership test, you can re-roll that test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6001-82d7-a43b-beb4",
+      "WeaponName": "Frag cannon",
+      "Range": "18\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Rapid Fire D3"
+    },
+    {
+      "id": "ed52-578f-6e11-809d",
+      "WeaponName": "Psychic Cleanse",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "D3",
+      "Text": "Psychic"
+    },
+    {
+      "id": "f6d4-6a8f-9eab-fc4a",
+      "WeaponName": "Heavy Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "19d9-7128-75c6-fa69",
+      "WeaponName": "Deathwatch twin boltgun",
+      "Range": "24\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "762a-41e3-a2bc-8dd5",
+      "WeaponName": "Artificer crozius",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "3c4a-9c7f-777b-5b24",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "a0a1-bc45-4ea8-5de7",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "991-c41b-7d4c-ac72",
+      "WeaponName": "Twin lightning claws",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "2b58-3fd3-3211-6da2",
+      "WeaponName": "Force weapon",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-3",
+      "Damage": "D3"
+    },
+    {
+      "id": "87f-efba-9858-45bc",
+      "WeaponName": "Power fist",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "cea2-c4c5-a7fb-ec5b",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

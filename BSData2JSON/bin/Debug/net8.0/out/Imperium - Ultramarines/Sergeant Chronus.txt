@@ -12,7 +12,7 @@
     {
       "Id": "72c3-d3f3-5ba8-3c67",
       "AbilityName": "Tank Commander",
-      "AbilityText": "While this model is commanding a Vehicle model (see reverse):\n\n■ Ranged weapons equipped by that Vehicle model have a Ballistic Skill characteristic of 2+.\n■ Each time that Vehicle model is selected to shoot, you can re-roll one Wound roll when resolving those attacks.\n\nIf your army includes one or more of the Vehicle models listed below, Sergeant Chronus must start the battle embarked within one of those models as if it were a Transport. Sergeant Chronus can only disembark from that Vehicle if it is destroyed. While embarked in this way, Sergeant Chronus is said to be commanding that Vehicle.\n\n■ Hunter\n■ Land Raider\n■ Land Raider Crusader\n■ Land Raider Redeemer\n■ Predator Annihilator\n■ Predator Destructor\n■ Stalker\n■ Vindicator\n■ Whirlwind"
+      "AbilityText": "While this model is commanding a Vehicle model (see reverse):\r\n\r\n■ Ranged weapons equipped by that Vehicle model have a Ballistic Skill characteristic of 2+.\r\n■ Each time that Vehicle model is selected to shoot, you can re-roll one Wound roll when resolving those attacks.\r\n\r\nIf your army includes one or more of the Vehicle models listed below, Sergeant Chronus must start the battle embarked within one of those models as if it were a Transport. Sergeant Chronus can only disembark from that Vehicle if it is destroyed. While embarked in this way, Sergeant Chronus is said to be commanding that Vehicle.\r\n\r\n■ Hunter\r\n■ Land Raider\r\n■ Land Raider Crusader\r\n■ Land Raider Redeemer\r\n■ Predator Annihilator\r\n■ Predator Destructor\r\n■ Stalker\r\n■ Vindicator\r\n■ Whirlwind"
     },
     {
       "Id": "bc23-bd70-e4d0-f355",

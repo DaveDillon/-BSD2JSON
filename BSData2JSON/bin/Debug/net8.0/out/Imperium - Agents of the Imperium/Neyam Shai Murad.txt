@@ -1,0 +1,42 @@
+{
+  "id": "c415-c700-132e-bbfe",
+  "UnitName": "Neyam Shai Murad",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "4+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "df3e-9e08-d754-cbbe",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ IMPERIAL NAVY BREACHERS\r\n■ VOIDSMEN-AT-ARMS"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "7b7b-c81e-5dbf-bcd9",
+      "WeaponName": "Negotiator pistol",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Precision"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8770-3646-9fe7-380e",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

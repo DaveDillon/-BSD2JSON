@@ -1,0 +1,45 @@
+{
+  "id": "a43a-4cf6-6443-f48e",
+  "UnitName": "Aleya",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "c081-8ea9-eb18-0bff",
+      "AbilityName": "Tactical Perception",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
+    },
+    {
+      "Id": "48d0-0d0f-c9b6-5b34",
+      "AbilityName": "Tenacious Spirit",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+    },
+    {
+      "Id": "25fa-e3d1-1035-76a5",
+      "AbilityName": "Feel No Pain",
+      "AbilityText": "5+"
+    },
+    {
+      "Id": "a7f1-e106-1e30-3452",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Prosecutors\r\n■ Vigilators\r\n■ Witchseekers"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "8420-f533-ec84-a3fd",
+      "WeaponName": "Somnus",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "3",
+      "Damage": "3"
+    }
+  ]
+}

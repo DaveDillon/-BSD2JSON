@@ -17,12 +17,12 @@
     {
       "Id": "eae6-c930-f4cc-34d1",
       "AbilityName": "Guiding Hand",
-      "AbilityText": "While this model is leading a unit, each time that unit is selected to shoot or fight, select one of the following abilities to apply to weapons equipped by models in that unit until the end of the phase:\n\n\n■ [LETHAL HITS]\n■ [PRECISION]\n■ [SUSTAINED HITS 1]"
+      "AbilityText": "While this model is leading a unit, each time that unit is selected to shoot or fight, select one of the following abilities to apply to weapons equipped by models in that unit until the end of the phase:\r\n\r\n\r\n■ [LETHAL HITS]\r\n■ [PRECISION]\r\n■ [SUSTAINED HITS 1]"
     },
     {
       "Id": "d0c4-765-4614-5b63",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Scout Squad\n■ Scout Sniper Squad"
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Scout Squad\r\n■ Scout Sniper Squad"
     }
   ],
   "RangedSkills": [

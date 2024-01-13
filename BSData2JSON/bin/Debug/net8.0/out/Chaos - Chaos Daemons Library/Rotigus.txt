@@ -1,0 +1,56 @@
+{
+  "id": "1a22-ebb2-b11-5ba5",
+  "UnitName": "Rotigus",
+  "Movement": "7\"",
+  "Toughness": "12",
+  "Save": "5+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "4a6-2d-af1-918a",
+      "AbilityName": "Virulent Blessing (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can select one enemy unit within 18\" and visible to this model. Until the end of the phase, each time an attack made by a NURGLE LEGIONES DAEMONICA model is allocated to a model in that unit, add 1 to the Damage characteristic of that attack."
+    },
+    {
+      "Id": "bfb1-1cf6-946-5e11",
+      "AbilityName": "Deluge of Nurgle (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, halve the Move and Objective Control characteristics of models in that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2a27-7f56-d47a-a46d",
+      "WeaponName": "Streams of brackish filth",
+      "Range": "12\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d5d7-f3c5-86a7-144e",
+      "WeaponName": "Gnarlrod",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    },
+    {
+      "id": "5d7e-e825-e6fc-f298",
+      "WeaponName": "Gnarlrod",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

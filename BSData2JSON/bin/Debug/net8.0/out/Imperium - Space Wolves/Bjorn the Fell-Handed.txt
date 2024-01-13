@@ -1,0 +1,113 @@
+{
+  "id": "1c1d-1797-2e31-ed34",
+  "UnitName": "Bjorn the Fell-Handed",
+  "Movement": "8\"",
+  "Toughness": "9",
+  "Save": "2+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1ecf-416a-6465-156c",
+      "AbilityName": "Legendary Tenacity",
+      "AbilityText": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+    },
+    {
+      "Id": "64d9-5889-14e6-77a1",
+      "AbilityName": "Ancient Tactician",
+      "AbilityText": "Once per battle, after your opponent uses a Stratagem, this model can use this ability. If it does, until the end of the battle, increase that Stratagem’s cost to your opponent by 1CP."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "724c-11f2-3970-9223",
+      "WeaponName": "Assault cannon",
+      "Range": "24\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds"
+    },
+    {
+      "id": "7c53-1367-fef4-8903",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "63d9-6484-c45b-d61",
+      "WeaponName": "Heavy plasma cannon",
+      "Range": "36\"",
+      "Attacks": "D3",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "199-66ef-e9b4-81e2",
+      "WeaponName": "Multi-melta",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "bf04-921e-5a56-47ae",
+      "WeaponName": "Twin lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "5241-8af7-d7e9-6b19",
+      "WeaponName": "Helfrost cannon",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Torrent"
+    },
+    {
+      "id": "d1c1-a421-f47f-26ef",
+      "WeaponName": "Helfrost cannon",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "5",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7495-9ffb-533e-7467",
+      "WeaponName": "Trueclaw",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

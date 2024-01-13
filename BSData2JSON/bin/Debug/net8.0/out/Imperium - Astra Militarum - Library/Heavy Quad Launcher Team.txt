@@ -1,0 +1,32 @@
+{
+  "id": "40e6-275e-58de-e80f",
+  "UnitName": "Heavy Quad Launcher Team",
+  "Movement": "4\"",
+  "Toughness": "5",
+  "Save": "3+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f3ee-8636-a4ee-571c",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) hit by one or more of those attacks. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "70c7-4bfa-4b52-2df0",
+      "WeaponName": "Heavy Quad Launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": []
+}

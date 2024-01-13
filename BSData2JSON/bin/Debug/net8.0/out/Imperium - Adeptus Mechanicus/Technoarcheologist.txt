@@ -1,0 +1,40 @@
+{
+  "id": "5441-b72-c2ad-f28a",
+  "UnitName": "Technoarcheologist",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "c6a9-d89f-8266-8300",
+      "AbilityName": "Seekers of Divine Arcana",
+      "AbilityText": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit."
+    },
+    {
+      "Id": "a7f5-2184-53d9-7724",
+      "AbilityName": "Cogitative Instincts",
+      "AbilityText": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" horizontally of this model."
+    },
+    {
+      "Id": "637e-1885-2f50-3afc",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Corpuscarii Electro-Priests\r\n■ Fulgurite Electro-Priests\r\n■ Kataphron Breachers\r\n■ Kataphron Destroyers\r\n■ Skitarii Rangers\r\n■ Skitarii Vanguard"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "4b3d-3803-42d2-a628",
+      "WeaponName": "Servo-arc claw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "caed-a62d-2318-dda1",
+  "UnitName": "Death Company Marines",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "2",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "5b90-43fc-7d4c-513e",
+      "AbilityName": "An Honourable Death in Combat",
+      "AbilityText": "Each time a model in this unit makes an attack, that attack has the [SUSTAINED HITS 1] ability if this unit is below its Starting \r\nStrength, or the [SUSTAINED HITS 2] ability if this unit is Below Half-strength."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "87c-ab92-6476-cc20",
+      "WeaponName": "Thunder Hammer",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

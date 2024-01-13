@@ -1,0 +1,61 @@
+{
+  "id": "4ac7-7ebd-3206-7f22",
+  "UnitName": "High Marshal Helbrecht",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "5+",
+  "ObjectControl": "5+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "89a6-52b4-cba8-4f11",
+      "AbilityName": "Crusade of Wrath",
+      "AbilityText": "While this model is leading a unit, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and each time an attack is  made with such a weapon, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+    },
+    {
+      "Id": "6e7f-e156-fc38-c2a4",
+      "AbilityName": "High Marshal",
+      "AbilityText": "At the start of the Fight phase, select one enemy unit within Engagement Range of this model’s unit and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "Id": "298-2fa3-345c-5083",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Intercessor Squad\r\n■ Intercessor Squad\r\n■ Primaris Crusader Squad\r\n■ Primaris Sword Brethren"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "679c-4453-866f-c5bd",
+      "WeaponName": "Ferocity",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-infantry 4+, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c3e-6082-7fab-f709",
+      "WeaponName": "Sword of the High Marshals",
+      "Attacks": "12",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-3",
+      "Damage": "1"
+    },
+    {
+      "id": "f42f-4480-b003-9f57",
+      "WeaponName": "Sword of the High Marshals",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "3"
+    }
+  ]
+}

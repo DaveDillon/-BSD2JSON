@@ -1,0 +1,42 @@
+{
+  "id": "472-dea9-70ef-a8e4",
+  "UnitName": "Ripper Swarm",
+  "Movement": "6\"",
+  "Toughness": "2",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "533-9226-7e51-ee0",
+      "AbilityName": "Chitinous Horrors (Aura)",
+      "AbilityText": "While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ab41-fe74-24c7-1b48",
+      "WeaponName": "Spinemaw",
+      "Range": "6\"",
+      "Attacks": "4",
+      "BallisticSkill": "5+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "82ab-174c-7668-94",
+      "WeaponName": "Xenos Claws and Teeth",
+      "Attacks": "6",
+      "WeaponSkill": "5+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

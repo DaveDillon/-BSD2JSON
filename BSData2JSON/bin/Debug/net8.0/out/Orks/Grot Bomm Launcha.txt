@@ -1,0 +1,42 @@
+{
+  "id": "145b-9e42-6c71-e33c",
+  "UnitName": "Grot Bomm Launcha",
+  "Movement": "12\"",
+  "Toughness": "6",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b223-4cb5-4d51-5d4",
+      "AbilityName": "Furious Barrage",
+      "AbilityText": "Each time this model makes a ranged attack that targets an enemy unit that contains five or more models, you can re-roll the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ca67-313a-acd2-d67b",
+      "WeaponName": "Grot-guided bomms",
+      "Range": "72\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, One Shot, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1758-182e-357c-aae2",
+      "WeaponName": "Spiked wheel",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

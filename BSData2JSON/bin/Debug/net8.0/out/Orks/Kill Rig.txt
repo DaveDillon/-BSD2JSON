@@ -1,0 +1,32 @@
+{
+  "id": "8add-6451-d41f-bcf8",
+  "UnitName": "Kill Rig",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "7254-8e45-1cfb-5c51",
+      "AbilityName": "Spirit of Gork (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can select one friendly ORKS unit within 12\" of this model and roll one D6: on a 1, this model suffers D3 mortal wounds; on a 2-5, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit; on a 6, until the end of the phase, add 1 to the Strength characteristic of melee weapons equipped by models in that unit and those weapons have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4f8c-aa5c-dc12-725d",
+      "WeaponName": "Wurrtower",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "N/A",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "Hazardous, Psychic, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

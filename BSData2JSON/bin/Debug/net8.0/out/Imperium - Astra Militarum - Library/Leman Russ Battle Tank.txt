@@ -1,0 +1,20 @@
+{
+  "id": "9a6-74e1-b58d-372e",
+  "UnitName": "Leman Russ Battle Tank",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2db8-9ae5-2874-e83",
+      "AbilityName": "Armoured Spearhead",
+      "AbilityText": "Each time this model makes an attack that targets an enemy unit, re-roll a Hit roll of 1 and, if that unit is within range of an objective marker  you do not control, you can re-roll the Hit roll instead."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

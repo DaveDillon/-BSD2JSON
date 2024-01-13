@@ -1,0 +1,44 @@
+{
+  "id": "7561-4439-4420-e104",
+  "UnitName": "Zephyrim Squad",
+  "Movement": "12\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "Models in this unit have an Invulnerable save of 5+.",
+  "Abilities": [
+    {
+      "Id": "9e87-6eab-3517-165d",
+      "AbilityName": "Sacred Banner",
+      "AbilityText": "You can re-roll Advance and Charge rolls made for the bearer’s unit."
+    },
+    {
+      "Id": "e068-824b-2210-13c1",
+      "AbilityName": "Embodied Prophecy",
+      "AbilityText": "Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, add 1 to the Strength characteristic of that attack."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "be9c-4d02-50d8-f79b",
+      "WeaponName": "Power Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "d7c3-9562-eea6-d4a3",
+      "WeaponName": "Power Weapon",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

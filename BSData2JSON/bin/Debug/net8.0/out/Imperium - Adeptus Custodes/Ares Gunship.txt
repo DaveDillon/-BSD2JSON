@@ -1,0 +1,58 @@
+{
+  "id": "a075-bcec-0d00-50f7",
+  "UnitName": "Ares Gunship",
+  "Movement": "20\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "22",
+  "Leadership": "6",
+  "ObjectControl": "6",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "24b5-43b5-1537-2bd2",
+      "AbilityName": "Infernus Firebomb",
+      "AbilityText": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move. Until the end of the turn, models in that unit cannot have the Benefit of Cover. In addition, roll one D6 for eah model in that unit: for each 6, that unit suffers 1 mortal wound."
+    },
+    {
+      "Id": "2eb0-f0e2-258d-8fbb",
+      "AbilityName": "Damaged: 1-7 wounds remaining",
+      "AbilityText": "While this model has 1-7 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6675-c6be-ccdb-d8dc",
+      "WeaponName": "Arachnus heavy blaze cannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
+    },
+    {
+      "id": "2293-3396-fb34-7699",
+      "WeaponName": "Arachnus magna-blaze cannon",
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+6",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "a94e-7676-65b3-b21e",
+      "WeaponName": "Armoured hull",
+      "Attacks": "9",
+      "WeaponSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

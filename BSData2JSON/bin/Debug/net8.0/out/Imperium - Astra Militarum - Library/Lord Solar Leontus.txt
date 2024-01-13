@@ -1,0 +1,61 @@
+{
+  "id": "f62-183e-d4f7-4d98",
+  "UnitName": "Lord Solar Leontus",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "8",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ea84-ea61-c0c8-2dd6",
+      "AbilityName": "The Lord Solar",
+      "AbilityText": "At the start of your Command phase, If this model is on the battlefield, you gain 1CP."
+    },
+    {
+      "Id": "84cb-968f-e85b-ee8d",
+      "AbilityName": "The Collegiate Astrolex",
+      "AbilityText": "After both players have deployed their armies, select up to three Astra Militarum units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+    },
+    {
+      "Id": "b70c-2b-b942-ef2",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- Attilan Rough Riders\r\n- Cadian Shock Troops\r\n- Catachan Jungle Fighters\r\n- Death Korps of Krieg\r\n- Infantry Squad\r\n- Kasrkin"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1d18-41ab-8fa8-7bf9",
+      "WeaponName": "Sol's Righteous Gaze",
+      "Range": "12\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "2941-2e9a-8902-38c5",
+      "WeaponName": "Conquest",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "c435-88eb-2fb7-2009",
+      "WeaponName": "Konstrain's Hooves",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

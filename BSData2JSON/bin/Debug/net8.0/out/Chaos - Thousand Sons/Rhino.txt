@@ -1,0 +1,20 @@
+{
+  "id": "56d9-9e64-788e-3f3e",
+  "UnitName": "Rhino",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "f4bb-1a4c-7d23-cc29",
+      "AbilityName": "Self-repair",
+      "AbilityText": "At the start of your Command phase, this model regains 1 lost wound."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

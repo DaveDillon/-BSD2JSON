@@ -1,0 +1,71 @@
+{
+  "id": "1a39-50fb-5af6-e77",
+  "UnitName": "Ogryn Bodyguard",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "5+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "ef0b-6d52-deb-727a",
+      "AbilityName": "Redoubled Loyalty",
+      "AbilityText": "While this model’s unit contains an Officer model that has lost one or more wounds, each time this model makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3323-b3c-5246-9afe",
+      "WeaponName": "Grenadier Gauntlet",
+      "Range": "18\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "7448-6d62-478-7f75",
+      "WeaponName": "Ripper Gun",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1c7f-4696-6f6b-f0b8",
+      "WeaponName": "Ripper Gun",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "6ec2-b2d1-c1b4-1910",
+      "WeaponName": "Huge Knife",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "6902-de50-ecdd-9225",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

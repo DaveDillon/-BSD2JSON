@@ -1,0 +1,96 @@
+{
+  "id": "3741-4bcf-f67e-1942",
+  "UnitName": "Land Raider Banisher",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "16",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a6c4-1b00-1dba-8808",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "4749-41d6-2cbd-4b70",
+      "AbilityName": "Assault Ramp",
+      "AbilityText": "Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+    },
+    {
+      "Id": "11a-f6f2-ef6e-1aed",
+      "AbilityName": "Land Raider Banisher",
+      "AbilityText": "This model has a transport capacity of 12 Grey Knights Infantry models. Each Terminator model takes up the space of 2 models."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "dff3-c0d8-cc66-886d",
+      "WeaponName": "Heavy Incinerator",
+      "Range": "18\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "N/A",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    },
+    {
+      "id": "bd0d-bf5-b1f7-108e",
+      "WeaponName": "Twin Psycannon",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Psychic, Sustained Hits 1, Twin-linked"
+    },
+    {
+      "id": "3d1b-24ff-8faa-e115",
+      "WeaponName": "Hunter-killer Missile",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6",
+      "Text": "One-Shot"
+    },
+    {
+      "id": "f854-e7ec-cf28-2531",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "4481-1292-2a1f-1842",
+      "WeaponName": "Multi-Melta",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "c8f9-e2c0-904b-d29c",
+      "WeaponName": "Land Raider Banisher",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

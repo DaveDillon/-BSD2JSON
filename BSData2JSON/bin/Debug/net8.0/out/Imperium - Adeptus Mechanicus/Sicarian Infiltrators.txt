@@ -1,0 +1,102 @@
+{
+  "id": "a6e7-8605-af27-3b57",
+  "UnitName": "Sicarian Infiltrators",
+  "Movement": "8\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "2",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "5+",
+  "Abilities": [
+    {
+      "Id": "4244-286c-66da-c199",
+      "AbilityName": "Neurostatic Interference (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this unit, each time a Battle-shock or Leadership test is taken for that unit, subtract 1 from that test. While this unit is within 6\" of one or more friendly Adeptus Mechanicus Battleline units, subtract 2 from that test instead."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "8a37-bbbf-4325-8dd8",
+      "WeaponName": "Stubcarbine",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "f328-1c13-3c12-732d",
+      "WeaponName": "Flechette blaster",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "6ae8-7cc4-d25-6346",
+      "WeaponName": "Stubcarbine",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "333f-8681-f5a8-f4f0",
+      "WeaponName": "Flechette blaster",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5f7e-936f-c590-6306",
+      "WeaponName": "Power weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "ff9e-e6ed-c096-fe52",
+      "WeaponName": "Taser goad",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "9ce4-de00-7732-a031",
+      "WeaponName": "Power weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "f58e-dfc8-6cb-22c5",
+      "WeaponName": "Taser goad",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

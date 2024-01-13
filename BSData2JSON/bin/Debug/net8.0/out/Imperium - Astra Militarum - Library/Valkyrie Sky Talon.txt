@@ -1,0 +1,20 @@
+{
+  "id": "4a73-12ce-4fca-5c61",
+  "UnitName": "Valkyrie Sky Talon",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "1126-93a8-c690-60f",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

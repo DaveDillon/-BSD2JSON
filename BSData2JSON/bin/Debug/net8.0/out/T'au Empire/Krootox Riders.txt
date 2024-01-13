@@ -1,0 +1,42 @@
+{
+  "id": "3abc-7184-ffb3-7e03",
+  "UnitName": "Krootox Riders",
+  "Movement": "7\"",
+  "Toughness": "5",
+  "Save": "6+",
+  "Wounds": "4",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a0b-cde0-58da-af93",
+      "AbilityName": "Kroot Packmates",
+      "AbilityText": "While one or more friendly KROOT CARNIVORE units are within 6\" of this unit, each time a model in this unit makes an attack, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "afe8-e926-3d2f-a1ad",
+      "WeaponName": "Kroot gun",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8e0d-e9c6-dfa7-2586",
+      "WeaponName": "Krootox fists",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

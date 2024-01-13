@@ -1,0 +1,30 @@
+{
+  "id": "cdd2-3183-20ad-6126",
+  "UnitName": "Von Ryan's Leapers",
+  "Movement": "10\"",
+  "Toughness": "5",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "This Unit has a 6+ Invulnerable Save",
+  "Abilities": [
+    {
+      "Id": "8fab-3b8c-1342-cfed",
+      "AbilityName": "Pouncing Leap",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "74d3-4e3e-f6f-229c",
+      "WeaponName": "Leaper's Talons",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

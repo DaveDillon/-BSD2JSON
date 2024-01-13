@@ -1,0 +1,64 @@
+{
+  "id": "9a0a-c155-5cd5-8ba3",
+  "UnitName": "Blightlord Terminators",
+  "Movement": "4\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "c485-d6a6-8913-c29a",
+      "AbilityName": "Blistering Fusillade",
+      "AbilityText": "Each time a model in this unit makes a ranged attack, if it targets the closest eligible enemy unit, re-roll a Wound roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "3b37-b33c-1884-3df1",
+      "WeaponName": "Plague combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits, Rapid Fire 2"
+    },
+    {
+      "id": "9b3-49ea-d55e-31fd",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "295c-2e30-e0-d85b",
+      "WeaponName": "Reaper autocannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8c57-d963-4645-a5c3",
+      "WeaponName": "Flail of corruption",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

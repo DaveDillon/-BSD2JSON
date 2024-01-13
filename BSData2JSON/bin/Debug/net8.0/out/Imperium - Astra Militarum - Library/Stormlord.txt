@@ -1,0 +1,32 @@
+{
+  "id": "1421-cad3-de64-b02f",
+  "UnitName": "Stormlord",
+  "Movement": "9\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "24",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "21fa-131-aa20-2f26",
+      "AbilityName": "Mount Up!",
+      "AbilityText": "At the end of your opponent’s Movement phase, if there are no models currently embarked within this Transport, you can select one friendly Astra Militarum Infantry unit (excluding Artillery units) that is wholly within 6\" of this Transport. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this Transport."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2618-5db0-80c8-c4f3",
+      "WeaponName": "Vulcan Mega-bolter",
+      "Range": "48\"",
+      "Attacks": "20",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "90db-e524-617d-fcbf",
+  "UnitName": "Caladius Grav-tank",
+  "Movement": "10\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "60a4-507e-da36-683c",
+      "AbilityName": "Advanced Firepower",
+      "AbilityText": "Each time this model makes an attack with its Twin iliastus accelerator cannon that targets an enemy unit (excluding MONSTERS and VEHICLES), that attack has the [LETHAL HITS] ability. Each time this model makes an attack with its Twin arachnus heavy blaze cannon that targets an enemy MONSTER or VEHICLE unit, that attack has the [LETHAL HITS] ability."
+    },
+    {
+      "Id": "6070-91c7-6463-31cd",
+      "AbilityName": "Damaged: 1-5 wounds remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "203c-c496-58fc-29b8",
+      "WeaponName": "Twin Iliastus accelerator culverin",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "2+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Rapid Fire 4, Twin-linked"
+    },
+    {
+      "id": "6b79-41bc-9ce3-ba57",
+      "WeaponName": "Twin arachnus heavy blaze cannon",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": "Twin-linked"
+    },
+    {
+      "id": "9992-31de-4b34-25f9",
+      "WeaponName": "Twin lastrum bolt cannon",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "14e3-fad3-7a64-7dc8",
+      "WeaponName": "Armoured hull",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c359-f138-80bb-1213",
+  "UnitName": "Rapier Laser Destroyer Battery",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "3",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2b10-8964-d5d7-a93a",
+      "AbilityName": "Powerful Volley",
+      "AbilityText": "While this unit is being affected by an Order, provided it Remained Stationary this turn, Heavy weapons equipped by models in this unit have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a94f-80b4-ad32-c60e",
+      "WeaponName": "Laser destroyer",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1",
+      "Text": "Heavy, Twin-linked"
+    }
+  ],
+  "MeleeSkills": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "94dd-77ef-7000-6eae",
+  "UnitName": "Terrax-pattern Termite",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "b6bc-a4b4-7cc9-fdc3",
+      "AbilityName": "Termite Assault",
+      "AbilityText": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a4e7-7e5a-5649-7d05",
+      "WeaponName": "Terrax melta cutter",
+      "Range": "12\"",
+      "Attacks": "5",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2"
+    },
+    {
+      "id": "c2f8-2291-414b-43e2",
+      "WeaponName": "Twin volkite charger",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Devastating Wounds, Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1f91-9f07-f1fa-88f2",
+      "WeaponName": "Termite drill",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "14",
+      "ArnorPirecing": "-2",
+      "Damage": "D3+3"
+    }
+  ]
+}

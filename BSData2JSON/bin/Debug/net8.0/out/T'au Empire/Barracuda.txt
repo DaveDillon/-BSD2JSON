@@ -1,0 +1,86 @@
+{
+  "id": "8035-bf10-9973-ebac",
+  "UnitName": "Barracuda",
+  "Movement": "20+\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "492b-cd7c-f5e5-4d76",
+      "AbilityName": "Agile Dogfighter",
+      "AbilityText": "Each time an attack targets this model, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1d9a-7c4f-3f9d-45a8",
+      "WeaponName": "Long-barrelled burst cannon",
+      "Range": "24\"",
+      "Attacks": "8",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "35ff-33db-ccb9-d5ea",
+      "WeaponName": "Cyclic ion blaster",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "717d-eccd-5a8a-8db6",
+      "WeaponName": "Cyclic ion blaster",
+      "Range": "18\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Hazardous"
+    },
+    {
+      "id": "db32-d0ab-a5f-cbb3",
+      "WeaponName": "Swiftstrike burst cannon",
+      "Range": "36\"",
+      "Attacks": "16",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "93c3-d8e4-34cb-592c",
+      "WeaponName": "Swiftstrike railgun",
+      "Range": "72\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "20",
+      "ArnorPirecing": "-5",
+      "Damage": "D6+6",
+      "Text": "Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e966-1b5c-b126-a168",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

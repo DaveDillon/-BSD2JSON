@@ -1,0 +1,14 @@
+{
+  "id": "6aa5-5e50-efb9-5602",
+  "UnitName": "Storm Chimera",
+  "Movement": "10\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "11",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

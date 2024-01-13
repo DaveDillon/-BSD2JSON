@@ -1,0 +1,107 @@
+{
+  "id": "e6e-aad6-ee91-7c3c",
+  "UnitName": "Ethereal",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3a16-c8c-5d03-c1a1",
+      "AbilityName": "Coordinated Leadership",
+      "AbilityText": "In your Command phase, roll one D6: on a 4+, you gain 1CP."
+    },
+    {
+      "Id": "28bc-81f2-45a9-1e5e",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BREACHER TEAM\r\n- STRIKE TEAM"
+    },
+    {
+      "Id": "77a0-3cc8-dacf-bbdf",
+      "AbilityName": "Failure Is Not an Option",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "a3bb-77b8-a18f-23e1",
+      "AbilityName": "Hover Drone",
+      "AbilityText": "The bearer can FLY and has a Move characteristic of 10\"."
+    },
+    {
+      "Id": "d75c-8807-c2d9-2fcc",
+      "AbilityName": "Duality Shield",
+      "AbilityText": "Once per battle, each time an attack targets this unit, it can use this ability. If it does, until the end of the phase, models in this unit have a 2+ invulnerable save."
+    },
+    {
+      "Id": "b79a-617-8519-d24f",
+      "AbilityName": "Invulnerable Save (4+)",
+      "AbilityText": "Models in this unit have a 4+ invulnerable save."
+    },
+    {
+      "Id": "726c-8c32-9fa2-6c2e",
+      "AbilityName": "Paradox of Duality",
+      "AbilityText": "Each time an attack targets this unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "8f07-3db6-72e6-2d9c",
+      "AbilityName": "Supreme Loyalty (Aura)",
+      "AbilityText": "While a friendly T’AU EMPIRE unit is within 6\" of this unit, each time that unit takes a Battle-shock or Leadership test, add 1 to that test."
+    },
+    {
+      "Id": "217c-55e6-54fd-2338",
+      "AbilityName": "Inspirational Defiance",
+      "AbilityText": "While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit."
+    },
+    {
+      "Id": "c601-4585-dfb8-bbf7",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n- BREACHER TEAM\r\n- KROOT CARNIVORES\r\n- STRIKE TEAM"
+    },
+    {
+      "Id": "1eb5-c753-c9ab-ed3a",
+      "AbilityName": "Martial Warrior",
+      "AbilityText": "Each time this model is selected to fight, select one of the following abilities to be active while resolving those attacks:\r\n- Direct Grace: Fidelity has the [PRECISION] ability.\r\n- Forceful Strike: Fidelity has the [DEVASTATING WOUNDS] ability.\r\n- Whirling Stance: Fidelity has the [SUSTAINED HITS 2] ability instead of [SUSTAINED HITS 1]."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "4857-a947-2073-1773",
+      "WeaponName": "Honour stave",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7148-6400-23c9-425d",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "1",
+      "WeaponSkill": "6+",
+      "Strength": "2",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "bb8b-3514-2808-3f4a",
+      "WeaponName": "Supreme honour blade",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "8cc9-52b3-1928-d86d",
+      "WeaponName": "Fidelity",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

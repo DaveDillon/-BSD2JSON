@@ -1,0 +1,566 @@
+{
+  "id": "c8a1-fef-5569-61c9",
+  "UnitName": "Regiment",
+  "Movement": "8\"",
+  "Toughness": "8",
+  "Save": "2+",
+  "Wounds": "7",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a8e5-75ce-78-c222",
+      "AbilityName": "Mobile Hunter-killers",
+      "AbilityText": "Each time a model in this unit makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "33d0-c814-e859-7907",
+      "AbilityName": "Horsemasters",
+      "AbilityText": "You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for it. In addition, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    },
+    {
+      "Id": "24e3-c4d3-963b-cb10",
+      "AbilityName": "Shock Troops",
+      "AbilityText": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
+    },
+    {
+      "Id": "1b74-9e3-3eb9-306f",
+      "AbilityName": "Jungle Fighters",
+      "AbilityText": "Each time a model in this unit makes a melee attack, if this unit made a Charge move or was charged this turn, improve the Strength and Armour Penetration characteristics of that attack by 1"
+    },
+    {
+      "Id": "232e-9a50-d5c3-9bbb",
+      "AbilityName": "Grim Demeanour",
+      "AbilityText": "Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength."
+    },
+    {
+      "Id": "8c83-239d-e097-cd0",
+      "AbilityName": "Rearm, Reload, Fire",
+      "AbilityText": "While this unit is being affected by an Order, provided it Remained Stationary this turn, all Heavy weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability"
+    },
+    {
+      "Id": "3b80-3fee-3cf7-9bb",
+      "AbilityName": "Covering Fire",
+      "AbilityText": "Each time you target this unit with the Fire Overwatch Stratagem, while resolving that Stratagem, hits are scored on unmodified Hit rolls of 5+, or on unmodified Hit rolls of 4+ instead if this unit is within 6\" of one or more friendly Platoon units."
+    },
+    {
+      "Id": "18fe-cdf8-5652-a014",
+      "AbilityName": "Defenders of Humanity",
+      "AbilityText": "Each time a ranged attack targets this unit, if this unit is within range of an objective marker you control, models in this unit have the Benefit of Cover against that attack."
+    },
+    {
+      "Id": "9034-3b9d-d631-1da5",
+      "AbilityName": "Warrior Elite",
+      "AbilityText": "In your Command phase, you can select one Order to affect this unit until the start of your next Command phase, in addition to any other Orders issued to this unit by an Officer model this turn."
+    },
+    {
+      "Id": "ade3-310d-a3e4-cb24",
+      "AbilityName": "Melta mine",
+      "AbilityText": "Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a Vehicle unit."
+    },
+    {
+      "Id": "6ea1-7b47-ed43-f687",
+      "AbilityName": "Command Rod",
+      "AbilityText": "While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time"
+    },
+    {
+      "Id": "8714-80fe-8740-c08b",
+      "AbilityName": "Tempestor Prime",
+      "AbilityText": "While this unit contains a Tempestor Prime, ranged weapons equipped by models in this unit have the [SUSTAINED HITS 1] ability."
+    },
+    {
+      "Id": "69ce-15a1-88b0-ef6c",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following unit:\r\n- Tempestus Scions"
+    },
+    {
+      "Id": "4952-cb93-5b85-f9b6",
+      "AbilityName": "Daring Recon",
+      "AbilityText": "At the start of your Shooting phase, select one enemy unit within 18\" of and visible to this unit. Until the end of the phase, each time a friendly Astra Militarum model makes an attack that targets that unit, re-roll a Hit roll of 1 and, if that attack has the [INDIRECT FIRE] ability, it does not suffer the penalty to the Hit roll for shooting at a target that is not visible to the attacking unit"
+    },
+    {
+      "Id": "813f-20da-c8fe-ec64",
+      "AbilityName": "Like Fighting a Shadow",
+      "AbilityText": "Each time this model has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move as if it were your Movement phase. If it does, until the end of the turn, this model is not eligible to declare a charge."
+    },
+    {
+      "Id": "f49f-7aa1-4d43-590",
+      "AbilityName": "One-man Army",
+      "AbilityText": "Each time an enemy unit targets a friendly Astra Militarum unit within 3\" of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase."
+    },
+    {
+      "Id": "ee87-b3c6-eb20-4d7",
+      "AbilityName": "Storm Troopers",
+      "AbilityText": "Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead."
+    },
+    {
+      "Id": "31b2-7925-cca1-bbac",
+      "AbilityName": "Screening Line",
+      "AbilityText": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+    },
+    {
+      "Id": "d331-32e-5450-e3b0",
+      "AbilityName": "Siege Bombardment",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+    },
+    {
+      "Id": "d54-11fb-5b7d-cbd6",
+      "AbilityName": "Earthshaker Rounds",
+      "AbilityText": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an INFANTRY unit, until the end of your opponent’s next turn, that INFANTRY unit is shaken. While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Advance and Charge rolls made for it."
+    },
+    {
+      "Id": "2b10-8964-d5d7-a93a",
+      "AbilityName": "Powerful Volley",
+      "AbilityText": "While this unit is being affected by an Order, provided it Remained Stationary this turn, Heavy weapons equipped by models in this unit have the [LETHAL HITS] ability."
+    },
+    {
+      "Id": "7bda-86f4-c164-881a",
+      "AbilityName": "Primed and Ready",
+      "AbilityText": "In your Shooting phase, you can select one unit from your army with this ability as the target of the Grenade Stratagem for 0CP, provided that unit has not already been the target of that Stratagem this phase. This can allow you to use the Grenade Stratagem for a second time this phase."
+    },
+    {
+      "Id": "aa39-ce4a-19b3-bdc7",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following units:\r\n■ Death Korps of Krieg\r\n■ Infantry Squad"
+    },
+    {
+      "Id": "d294-9c07-583e-33f",
+      "AbilityName": "Medicae Medi-packs",
+      "AbilityText": "Whilst this unit contains one or more Medicae Servitors, models in this unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "532-a15d-87bd-10d2",
+      "AbilityName": "Mindlock",
+      "AbilityText": "While this unit contains a Quartermaster Revenant model, improve the Weapon Skill characteristic of this unit's Medical scalpels by 1"
+    },
+    {
+      "Id": "245-26d9-efcc-544c",
+      "AbilityName": "Mark the Target",
+      "AbilityText": "Each time this unit Remains Stationary, until the start of your next Movement phase, ranged weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability."
+    },
+    {
+      "Id": "b180-427f-2328-b824",
+      "AbilityName": "Sniper Teams",
+      "AbilityText": "For the purposes of embarking within Transports, each Elysian Sniper Team model counts as one Heavy Weapons Team model."
+    },
+    {
+      "Id": "58fc-b6a-af01-1843",
+      "AbilityName": "Rearm, Reload, Fire",
+      "AbilityText": "While this model is being affected by an Order, provided it Remained Stationary this turn, ranged weapons equipped by this model have the [SUSTAINED HITS 1] ability"
+    },
+    {
+      "Id": "f3ee-8636-a4ee-571c",
+      "AbilityName": "Suppression Bombardment",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit (excluding Monster and Vehicle units) hit by one or more of those attacks. Unit the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "2d0-e457-5118-743c",
+      "AbilityName": "Powerlifter Charge",
+      "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
+    },
+    {
+      "Id": "6c4c-cdd0-f6b9-ab16",
+      "AbilityName": "Desert Riders",
+      "AbilityText": "You can ignore any or all modifiers to this unit’s Move characteristic and to Advance and Charge rolls made for it. In addition, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back"
+    },
+    {
+      "Id": "10f1-3cb8-dbab-eb42",
+      "AbilityName": "Turbo-boost",
+      "AbilityText": "Each time this model Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of this model."
+    },
+    {
+      "Id": "1d79-68a9-913f-4217",
+      "AbilityName": "Mobile Hunter-killer",
+      "AbilityText": "Each time this model makes an attack that targets a Monster or Vehicle unit, you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a8f3-2c65-4fa9-2901",
+      "WeaponName": "Mallus Rocket Launcher",
+      "Range": "48\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Blast, Heavy"
+    },
+    {
+      "id": "aabe-674c-f31a-3914",
+      "WeaponName": "Bombast Field Gun",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "5+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "d97c-933d-f186-2e7e",
+      "WeaponName": "Heavy Lascannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "14",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "Heavy"
+    },
+    {
+      "id": "628a-48b2-ab4a-2881",
+      "WeaponName": "Hot-shot Marksmen Rifle",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Heavy, Precision"
+    },
+    {
+      "id": "8197-5399-9130-13f2",
+      "WeaponName": "Hot-shot lasgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "55db-4b31-467f-6ae7",
+      "WeaponName": "Hot-shot Volley Gun",
+      "Range": "30\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    },
+    {
+      "id": "f97a-96-d3b0-de2c",
+      "WeaponName": "Ripper Pistol",
+      "Range": "12\"",
+      "Attacks": "3",
+      "BallisticSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Anti-infantry, Pistol, Precision"
+    },
+    {
+      "id": "cdf-d03d-1d4b-cecd",
+      "WeaponName": "Laspistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "65ed-a12f-e476-5c1f",
+      "WeaponName": "Medusa siege cannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "5+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "c69e-f348-d8b9-dd8a",
+      "WeaponName": "Earthshaker cannon",
+      "Range": "240\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "5+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "a94f-80b4-ad32-c60e",
+      "WeaponName": "Laser destroyer",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "5+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "D6+1",
+      "Text": "Heavy, Twin-linked"
+    },
+    {
+      "id": "73b-cc8-c084-868",
+      "WeaponName": "Heavy Stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy, Rapid Fire 3"
+    },
+    {
+      "id": "5479-6105-6cf7-4a5d",
+      "WeaponName": "Heavy Stubber",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Heavy, Rapid Fire 3"
+    },
+    {
+      "id": "f6f1-cf68-fe08-64de",
+      "WeaponName": "Quartermaster's Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "e94c-44e-8bcc-1284",
+      "WeaponName": "Heavy Mortar",
+      "Range": "48\"",
+      "Attacks": "D6",
+      "BallisticSkill": "5+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Heavy, Blast, Indirect Fire"
+    },
+    {
+      "id": "70c7-4bfa-4b52-2df0",
+      "WeaponName": "Heavy Quad Launcher",
+      "Range": "48\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Indirect Fire"
+    },
+    {
+      "id": "dc66-e0f6-e37-350d",
+      "WeaponName": "Plasma Pistol",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "6b95-a4ed-8f88-d873",
+      "WeaponName": "Plasma Pistol",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-3",
+      "Damage": "2",
+      "Text": "Hazardous, Rapid Fire 1"
+    },
+    {
+      "id": "d7fc-4681-c8c3-3684",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "4",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "1c83-640-4135-7e5a",
+      "WeaponName": "Tauros Grenade Launcher",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "-"
+    },
+    {
+      "id": "6ef3-c28e-5649-87f4",
+      "WeaponName": "Twin Multi-laser",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "e9e3-1ac2-18c8-732e",
+      "WeaponName": "Sentinel Chainsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "94a3-e070-3b1c-d765",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "2833-3b3-3862-25f0",
+      "WeaponName": "Power Sabre",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "4d3f-b92-5b20-6039",
+      "WeaponName": "Battery Close Combat Weapons",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "ae8a-94d7-afa6-9dc0",
+      "WeaponName": "Tempestus Dagger",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "6857-9ddd-d172-2a3d",
+      "WeaponName": "Sentinel Chainsaw",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "9cee-2bc4-139c-4e8f",
+      "WeaponName": "Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "faf-c34b-7ce7-ad6c",
+      "WeaponName": "Envonomed Blade",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "4244-4a62-b8d4-d8db",
+      "WeaponName": "Death Rider hunting lance",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "e53f-10c6-603a-c225",
+      "WeaponName": "Savage claws",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "5dba-8447-1631-90ce",
+      "WeaponName": "Death Rider hunting lance",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "17c5-25b7-e9be-c980",
+      "WeaponName": "Savage claws",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7787-714-bcae-7e61",
+      "WeaponName": "Battery close combat weapons",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "fb8a-bf3b-735f-1737",
+      "WeaponName": "Battery close combat weapons",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "22cc-652f-53b8-118f",
+      "WeaponName": "Quartermaster's Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "3786-5afa-f0a1-370e",
+      "WeaponName": "Medical Scalpels",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "194b-f7e3-6646-f044",
+      "WeaponName": "Powerlifter",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D3"
+    }
+  ]
+}

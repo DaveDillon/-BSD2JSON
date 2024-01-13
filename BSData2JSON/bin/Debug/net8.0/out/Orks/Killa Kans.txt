@@ -1,0 +1,54 @@
+{
+  "id": "d64b-c6f7-dacf-4035",
+  "UnitName": "Killa Kans",
+  "Movement": "6\"",
+  "Toughness": "6",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "8+",
+  "ObjectControl": "8+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2d69-8e7f-9d12-c775",
+      "AbilityName": "Shooty Power Trip",
+      "AbilityText": "Each time this unit is selected to shoot, you can roll one D6: on a 1, the nearest other friendly ORKS unit within 12\" of and visible to this unit suffers D3 mortal wounds; on a 2+, until the end of the phase, ranged weapons equipped by models in this unit have the [IGNORES COVER] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "fb65-5edf-1023-6c39",
+      "WeaponName": "Kan shoota",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Rapid Fire 2"
+    },
+    {
+      "id": "e4c5-4d8d-516d-8fcc",
+      "WeaponName": "Grotzooka",
+      "Range": "18\"",
+      "Attacks": "D3+3",
+      "BallisticSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "ad21-fbf1-ea1-5ae6",
+      "WeaponName": "Rokkit launcha",
+      "Range": "24\"",
+      "Attacks": "D3",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast"
+    }
+  ],
+  "MeleeSkills": []
+}

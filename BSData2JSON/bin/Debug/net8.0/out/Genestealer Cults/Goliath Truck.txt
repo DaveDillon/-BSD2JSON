@@ -1,0 +1,42 @@
+{
+  "id": "c45f-f232-3ef0-3ab7",
+  "UnitName": "Goliath Truck",
+  "Movement": "12\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2db9-a2a5-7c0d-4600",
+      "AbilityName": "Fire Support",
+      "AbilityText": "In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "2642-fac7-9b97-b7ea",
+      "WeaponName": "Twin Autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "4+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "401b-35f7-f024-6616",
+      "WeaponName": "Goliath Wheels",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

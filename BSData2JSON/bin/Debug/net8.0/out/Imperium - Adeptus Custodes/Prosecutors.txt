@@ -1,0 +1,62 @@
+{
+  "id": "2b2e-7f16-71e7-7241",
+  "UnitName": "Prosecutors",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "3+",
+  "Wounds": "1",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "34ce-359c-4fc1-da0b",
+      "AbilityName": "Purity of Execution",
+      "AbilityText": "Each time a model in this unit makes a ranged attack that targets a Psyker unit, that attack has the PRECISION] and [DEVASTATING WOUNDS] abilities."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "4bbd-8a2b-1ec0-2b8c",
+      "WeaponName": "Boltgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    },
+    {
+      "id": "8e11-c8e0-8f2e-2fd6",
+      "WeaponName": "Boltgun",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "5cff-97db-f2a6-a5e8",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "e29-9c36-26ce-73a8",
+      "WeaponName": "Close combat weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

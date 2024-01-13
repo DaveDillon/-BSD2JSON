@@ -1,0 +1,20 @@
+{
+  "id": "ea1a-99ad-2653-7b88",
+  "UnitName": "Salamander Command Vehicle",
+  "Movement": "12\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "dbd9-90e8-ef-d873",
+      "AbilityName": "Auspex Surveyor",
+      "AbilityText": "Each time this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "3113-5b62-29ef-b798",
+  "UnitName": "Terminator",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "77d-6b50-56be-1c71",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS\r\n■ POXWALKERS"
+    },
+    {
+      "Id": "e1de-40a6-c9a9-7316",
+      "AbilityName": "The Destroyer Hive",
+      "AbilityText": "While this model is leading a unit, each time a melee attack targets that unit, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "595f-4a7d-3845-2131",
+      "AbilityName": "The Eater Plague",
+      "AbilityText": "In your Shooting phase, you can select one enemy unit within 18\" of and visible to this PSYKER and roll one D6: on a 1, this PSYKER's unit suffers D3 mortal wounds; on a 2-5, that enemy unit suffers D6 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "Id": "90a2-1895-2e96-d987",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "c011-8b42-c9f3-e3cc",
+      "AbilityName": "Master of Destruction",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Wound roll."
+    },
+    {
+      "Id": "b-b5eb-2ac6-b6df",
+      "AbilityName": "Blight Bombardment",
+      "AbilityText": "Each time a friendly DEATH GUARD model makes an attack with a Blast weapon that targets a unit that is visible to this model, add 1 to the Hit roll and that attack has the [IGNORES COVER] ability."
+    },
+    {
+      "Id": "e778-6ccb-2016-6cb5",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "df3c-ad72-1ad5-4d0d",
+      "AbilityName": "Vector of Disease",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, you can re-roll the Hit roll."
+    },
+    {
+      "Id": "e96b-953c-dbe9-f622",
+      "AbilityName": "Abundance of Sickness",
+      "AbilityText": "In the Fight phase, each time this model loses a wound, roll one D6: on a 4+, the closest enemy unit within Engagement Range of this model suffers 1 mortal wound."
+    },
+    {
+      "Id": "d76-619c-14-2ea9",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "339e-1933-3dbf-e355",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ BLIGHTLORD TERMINATORS\r\n■ DEATHSHROUD TERMINATORS"
+    },
+    {
+      "Id": "c9ea-1d59-9bf-bb00",
+      "AbilityName": "Putrescent Vitality (Psychic)",
+      "AbilityText": "At the start of the Fight phase, you can roll one D6: on a 1, this PSYKER’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, each time an attack is allocated to a model in this PSYKER’s unit, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "Id": "6dc6-e465-e8ff-a4eb",
+      "AbilityName": "Pestilent Familiar (Psychic)",
+      "AbilityText": "Once per battle, after selecting targets for a Psychic weapon equipped by this model, until the end of the phase, improve the Strength and Damage characteristics of that weapon by 2."
+    },
+    {
+      "Id": "a4ac-68a4-3849-3695",
+      "AbilityName": "Silent Bodyguard",
+      "AbilityText": "While a CHARACTER model is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit’s Toughness characteristic, subtract 1 from the Wound roll."
+    },
+    {
+      "Id": "c485-d6a6-8913-c29a",
+      "AbilityName": "Blistering Fusillade",
+      "AbilityText": "Each time a model in this unit makes a ranged attack, if it targets the closest eligible enemy unit, re-roll a Wound roll of 1."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "36d0-64e7-1536-8ea0",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "a4e0-6d4f-18eb-6c3e",
+      "WeaponName": "Twin plague spewer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 2+, Ignores Cover, Torrent, Twin-linked"
+    },
+    {
+      "id": "9554-4d21-b017-c5db",
+      "WeaponName": "Curse of the Leper",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Psychic"
+    },
+    {
+      "id": "5131-606f-c02d-1342",
+      "WeaponName": "Curse of the Leper",
+      "Range": "24\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Hazardous, Psychic"
+    },
+    {
+      "id": "3b37-b33c-1884-3df1",
+      "WeaponName": "Plague combi-bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Lethal Hits, Rapid Fire 2"
+    },
+    {
+      "id": "9b3-49ea-d55e-31fd",
+      "WeaponName": "Combi-weapon",
+      "Range": "24\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1"
+    },
+    {
+      "id": "295c-2e30-e0-d85b",
+      "WeaponName": "Reaper autocannon",
+      "Range": "36\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "8576-b61a-fda9-9ec6",
+      "WeaponName": "Master-crafted manreaper",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "a230-d987-b4fa-381b",
+      "WeaponName": "Master-crafted manreaper",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "7df-7c10-b76e-7645",
+      "WeaponName": "Plague fist",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "e971-bf4d-9f4a-dfc1",
+      "WeaponName": "Heavy plague fist",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "1f4a-a63-4949-cc05",
+      "WeaponName": "Plagueblade",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    },
+    {
+      "id": "df56-965-4501-bdea",
+      "WeaponName": "Plagueblade",
+      "Attacks": "10",
+      "WeaponSkill": "2+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    },
+    {
+      "id": "7d2c-9ce3-c742-6c18",
+      "WeaponName": "Force weapon",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D3"
+    },
+    {
+      "id": "2965-3811-ec3a-f23e",
+      "WeaponName": "Chainfist",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "29f4-1f35-313c-c541",
+      "WeaponName": "Plague fist",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    },
+    {
+      "id": "2597-2759-9da5-4d39",
+      "WeaponName": "Twin lightning claws",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "8c57-d963-4645-a5c3",
+      "WeaponName": "Flail of corruption",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}

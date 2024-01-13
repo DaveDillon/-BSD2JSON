@@ -1,0 +1,67 @@
+{
+  "id": "59cb-a2c2-114-4ce6",
+  "UnitName": "Kharybdis Assault Claw",
+  "Movement": "12\"",
+  "Toughness": "11",
+  "Save": "3+",
+  "Wounds": "20",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2d23-1cc3-1a59-96c4",
+      "AbilityName": "Kharybdis Assault",
+      "AbilityText": "This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model can disembark after it has been set up on the battlefield, and if they do they must be set up more than 9\" away from all enemy models."
+    },
+    {
+      "Id": "f8d9-cce3-8f18-f4e3",
+      "AbilityName": "Damaged: 1-7 wounds remaining",
+      "AbilityText": "While this model has 1-7 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6b35-af24-2b29-9048",
+      "WeaponName": "Kharybdis storm launcher",
+      "Range": "36\"",
+      "Attacks": "2D6",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast"
+    },
+    {
+      "id": "5b1b-cf17-44f5-f3fa",
+      "WeaponName": "Kharybdis storm launcher",
+      "Range": "36\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "-"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1a3a-fb93-7cf0-bf91",
+      "WeaponName": "Blade struts",
+      "Attacks": "12",
+      "WeaponSkill": "4+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "3275-f9cb-401-eab7",
+      "WeaponName": "Melta array",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2"
+    }
+  ]
+}

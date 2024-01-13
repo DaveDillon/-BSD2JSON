@@ -1,0 +1,99 @@
+{
+  "id": "4fdc-b86b-a0d7-8698",
+  "UnitName": "Farseer Skyrunner",
+  "Movement": "14\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "a5f6-a46f-82c2-cdfb",
+      "AbilityName": "Invulnerable Save (Farseer)",
+      "AbilityText": "A Farseer Skyrunner has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "47ca-e9d7-e55f-17f8",
+      "AbilityName": "Branching Fates (Psychic)",
+      "AbilityText": "Once per turn, when you use a Fate dice to substitute a roll made for a model or unit within 12\" of a Farseer model from your army, one model from your army with this ability can use it. If it does, the result of that Fate dice is first changed to a 6."
+    },
+    {
+      "Id": "5845-10af-ea52-4dd3",
+      "AbilityName": "Guide (Psychic)",
+      "AbilityText": "In your Command phase, you can roll one D6: on a 2+, select one friendly Aeldari unit within 12\" of this Psyker. Until the start of your next Command phase, each time a model in that unit makes an attack, you can re-roll the Hit roll"
+    },
+    {
+      "Id": "60c7-3eec-1396-ae4d",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Warlock Skyrunner Conclave\r\n■ Windriders"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "a4b8-2ce3-93a2-f98b",
+      "WeaponName": "Singing Spear",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "0",
+      "Damage": "3",
+      "Text": "Assault, Psychic"
+    },
+    {
+      "id": "7825-a114-ca5f-1bc2",
+      "WeaponName": "Shuriken Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Pistol"
+    },
+    {
+      "id": "5fa6-19eb-f75e-a41",
+      "WeaponName": "Twin Shuriken Catapult",
+      "Range": "18\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Assault, Twin Linked"
+    },
+    {
+      "id": "b718-46ea-b550-2352",
+      "WeaponName": "Eldritch Storm",
+      "Range": "24\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Blast, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "aa4c-c850-5606-3153",
+      "WeaponName": "Witchblade",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "2"
+    },
+    {
+      "id": "938f-d1ee-fb90-c89c",
+      "WeaponName": "Singing Spear",
+      "Attacks": "2",
+      "WeaponSkill": "2+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "3"
+    }
+  ]
+}

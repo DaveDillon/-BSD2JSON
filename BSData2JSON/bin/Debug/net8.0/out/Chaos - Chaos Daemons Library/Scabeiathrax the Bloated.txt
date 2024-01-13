@@ -1,0 +1,56 @@
+{
+  "id": "3763-589b-4840-f20e",
+  "UnitName": "Scabeiathrax the Bloated",
+  "Movement": "7\"",
+  "Toughness": "12",
+  "Save": "5+",
+  "Wounds": "22",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "2798-97f-7fc-5f4a",
+      "AbilityName": "Emissary of the Plague God (Aura)",
+      "AbilityText": "While a friendly NURGLE LEGIONES DAEMONICA unit is within 6\" of this model, you can re-roll Battle-shock tests taken for that unit."
+    },
+    {
+      "Id": "69aa-5adb-70cb-7b47",
+      "AbilityName": "Nurgle’s Rot (Psychic)",
+      "AbilityText": "At the end of your Movement phase, you can select one enemy unit within 12\" of this model. Until the start of your next Movement phase, subtract 1 from the Toughness characteristic of models in that unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "ed28-ca98-d85e-bb35",
+      "WeaponName": "Putrid vomit",
+      "Range": "6\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1891-1a6e-7430-6600",
+      "WeaponName": "Blade of decay",
+      "Attacks": "7",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6"
+    },
+    {
+      "id": "c8e1-df7b-af1a-c669",
+      "WeaponName": "Blade of decay",
+      "Attacks": "14",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "913a-baae-b89b-995d",
+  "UnitName": "Ahriman on Disc of Tzeentch",
+  "Movement": "10\"",
+  "Toughness": "4",
+  "Save": "3+",
+  "Wounds": "6",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "8f1d-56cb-a37f-2a5e",
+      "AbilityName": "Rubric Lord",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Wound roll."
+    },
+    {
+      "Id": "e117-9164-7606-ef92",
+      "AbilityName": "Arch-Sorcerer of Tzeentch (Psychic)",
+      "AbilityText": "Once per battle, you can select this model to use a Ritual for 0 Cabal points (see Cabal of Sorcerers). If you do, all the other rules for using Rituals still apply."
+    },
+    {
+      "Id": "e029-9e54-4a48-28ce",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- RUBRIC MARINES"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9330-e880-57d2-a1bf",
+      "WeaponName": "Inferno bolt pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol"
+    },
+    {
+      "id": "6eeb-c063-998a-fcce",
+      "WeaponName": "Psychic Stalk",
+      "Range": "18\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-1",
+      "Damage": "D6",
+      "Text": "Precision, Psychic"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "0c82-7e88-173e-dd05",
+      "WeaponName": "Black Staff of Ahriman",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "3"
+    }
+  ]
+}

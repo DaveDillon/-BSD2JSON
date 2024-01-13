@@ -1,0 +1,20 @@
+{
+  "id": "b0eb-efa7-735c-4174",
+  "UnitName": "Vespid Stingwings",
+  "Movement": "12\"",
+  "Toughness": "4",
+  "Save": "4+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "86af-3f86-dca6-faff",
+      "AbilityName": "Airborne Agility",
+      "AbilityText": "At the end of your Movement phase, if this unit is not within Engagement Range of any enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": []
+}

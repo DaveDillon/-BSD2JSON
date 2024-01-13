@@ -1,0 +1,61 @@
+{
+  "id": "2ddf-928-2ca5-f39f",
+  "UnitName": "Avatar of Khaine",
+  "Movement": "10\"",
+  "Toughness": "12",
+  "Save": "2+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "The Avatar of Khaine has a 4+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "7376-d1ad-1ed5-8c11",
+      "AbilityName": "Molten Form",
+      "AbilityText": "Each time an attack is allocated to this model, halve the Damage characteristic of that attack"
+    },
+    {
+      "Id": "380b-10c4-cb34-501f",
+      "AbilityName": "The Bloody Handed (Aura)",
+      "AbilityText": "While a friendly Aeldari unit is within 6\" of this model, add 1 to Advance and Charge rolls made for that unit."
+    },
+    {
+      "Id": "bf22-b7a6-e939-3f3",
+      "AbilityName": "Damaged: 1-5 Wounds Remaining",
+      "AbilityText": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "c775-3c5d-2ff0-fa08",
+      "WeaponName": "The Wailing Doom",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "2+",
+      "Strength": "16",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2",
+      "Text": "Sustained Hits D3"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "3778-dd6-1620-100d",
+      "WeaponName": "The Wailing Doom",
+      "Attacks": "6",
+      "WeaponSkill": "2+",
+      "Strength": "14",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+2"
+    },
+    {
+      "id": "c94a-186d-ecca-af83",
+      "WeaponName": "The Wailing Doom",
+      "Attacks": "12",
+      "WeaponSkill": "2+",
+      "Strength": "7",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

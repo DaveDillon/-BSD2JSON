@@ -1,0 +1,53 @@
+{
+  "id": "d2fb-227e-99b7-6b4e",
+  "UnitName": "Tervigon",
+  "Movement": "8\"",
+  "Toughness": "11",
+  "Save": "2+",
+  "Wounds": "16",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "3ae7-6f89-23de-3cca",
+      "AbilityName": "Spawn Termagants",
+      "AbilityText": "In your Command phase, you can select one friendly TERMAGANTS unit within 6\" of this model and return up to D3+3 destroyed TERMAGANT models to that unit. A TERMAGANTS unit cannot be selected for this ability more than once per phase."
+    },
+    {
+      "Id": "7697-fdc6-4658-3f1c",
+      "AbilityName": "Brood Progenitor (Aura, Psychic)",
+      "AbilityText": "While a friendly TERMAGANTS unit is within 6\" of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "6869-7a05-273e-f815",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6"
+    },
+    {
+      "id": "de26-2863-a6b-1aa0",
+      "WeaponName": "Massive Scything Talons",
+      "Attacks": "8",
+      "WeaponSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    },
+    {
+      "id": "84ce-3a2b-e1b1-aae",
+      "WeaponName": "Massive Crushing Claws",
+      "Attacks": "4",
+      "WeaponSkill": "4+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    }
+  ]
+}

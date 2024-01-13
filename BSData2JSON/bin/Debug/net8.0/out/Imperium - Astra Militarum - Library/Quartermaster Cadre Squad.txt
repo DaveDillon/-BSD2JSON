@@ -1,0 +1,61 @@
+{
+  "id": "2dc3-7145-1a88-1190",
+  "UnitName": "Quartermaster Cadre Squad",
+  "Movement": "",
+  "Toughness": "",
+  "Save": "",
+  "Wounds": "",
+  "Leadership": "",
+  "ObjectControl": "",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "aa39-ce4a-19b3-bdc7",
+      "AbilityName": "Leader",
+      "AbilityText": "This unit can be attached to the following units:\r\n■ Death Korps of Krieg\r\n■ Infantry Squad"
+    },
+    {
+      "Id": "d294-9c07-583e-33f",
+      "AbilityName": "Medicae Medi-packs",
+      "AbilityText": "Whilst this unit contains one or more Medicae Servitors, models in this unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "Id": "532-a15d-87bd-10d2",
+      "AbilityName": "Mindlock",
+      "AbilityText": "While this unit contains a Quartermaster Revenant model, improve the Weapon Skill characteristic of this unit's Medical scalpels by 1"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f6f1-cf68-fe08-64de",
+      "WeaponName": "Quartermaster's Pistol",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Pistol"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "22cc-652f-53b8-118f",
+      "WeaponName": "Quartermaster's Close Combat Weapon",
+      "Attacks": "2",
+      "WeaponSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    },
+    {
+      "id": "3786-5afa-f0a1-370e",
+      "WeaponName": "Medical Scalpels",
+      "Attacks": "1",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

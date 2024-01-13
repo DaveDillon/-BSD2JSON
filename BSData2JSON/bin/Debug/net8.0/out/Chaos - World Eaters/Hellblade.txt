@@ -1,0 +1,30 @@
+{
+  "id": "17dd-7d43-376b-664e",
+  "UnitName": "Hellblade",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "3+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "b8d7-10fe-72ed-72bc",
+      "AbilityName": "Interceptor",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "1368-27f7-bc8a-e50f",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

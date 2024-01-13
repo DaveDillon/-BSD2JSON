@@ -1,0 +1,54 @@
+{
+  "id": "3024-3404-5bd0-713",
+  "UnitName": "Dominion Squad",
+  "Movement": null,
+  "Toughness": null,
+  "Save": null,
+  "Wounds": null,
+  "Leadership": null,
+  "ObjectControl": null,
+  "Invulnerability": "Models in this unit have an Invulnerable save of 6+.",
+  "Abilities": [
+    {
+      "Id": "efb6-3f52-fbf1-4519",
+      "AbilityName": "Holy Vanguard",
+      "AbilityText": "You can re-roll Advance rolls made for this unit."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "e0e5-7613-e0a6-b5c9",
+      "WeaponName": "Artificer-crafted storm bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "2",
+      "Text": "Rapid Fire 2, Assault"
+    },
+    {
+      "id": "9101-f21a-dab0-d068",
+      "WeaponName": "Meltagun",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-4",
+      "Damage": "D6",
+      "Text": "Melta 2, Assault"
+    },
+    {
+      "id": "990c-dd5c-57b-5455",
+      "WeaponName": "Ministorum Flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Ignores Cover, Torrent"
+    }
+  ],
+  "MeleeSkills": []
+}

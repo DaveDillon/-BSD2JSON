@@ -1,0 +1,42 @@
+{
+  "id": "b715-924c-c0ba-a1d8",
+  "UnitName": "Medusa Carriage Battery",
+  "Movement": "4\"",
+  "Toughness": "7",
+  "Save": "4+",
+  "Wounds": "6",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "d331-32e-5450-e3b0",
+      "AbilityName": "Siege Bombardment",
+      "AbilityText": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "65ed-a12f-e476-5c1f",
+      "WeaponName": "Medusa siege cannon",
+      "Range": "36\"",
+      "Attacks": "D6",
+      "BallisticSkill": "5+",
+      "Strength": "10",
+      "ArnorPirecing": "-3",
+      "Damage": "3",
+      "Text": "Blast, Heavy, Indirect Fire"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "7787-714-bcae-7e61",
+      "WeaponName": "Battery close combat weapons",
+      "Attacks": "5",
+      "WeaponSkill": "4+",
+      "Strength": "3",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

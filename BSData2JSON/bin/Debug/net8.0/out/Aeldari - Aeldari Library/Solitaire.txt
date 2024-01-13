@@ -1,0 +1,35 @@
+{
+  "id": "15c1-57ac-89c7-7a47",
+  "UnitName": "Solitaire",
+  "Movement": "12\"",
+  "Toughness": "3",
+  "Save": "6+",
+  "Wounds": "3",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This unit has a 3+ Invulnerable save",
+  "Abilities": [
+    {
+      "Id": "fa26-abd-b188-cbb2",
+      "AbilityName": "Blitz",
+      "AbilityText": "Once per battle, in your Movement phase, this model can use\r\nthis ability before it makes a Normal move. If it does, until the end of\r\nthe turn, add 2D6\" to this model’s Move characteristic and add 3 to the\r\nAttacks characteristic of this model’s Solitaire weapons"
+    },
+    {
+      "Id": "98ed-81a6-809f-2cd9",
+      "AbilityName": "Blur of Movement",
+      "AbilityText": "This model is eligible to declare a charge in a turn in which it Advanced"
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "3daf-5355-b7ea-b291",
+      "WeaponName": "Solitaire Weapons",
+      "Attacks": "9",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

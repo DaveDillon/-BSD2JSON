@@ -1,0 +1,47 @@
+{
+  "id": "6f8b-d28b-62f8-b51f",
+  "UnitName": "Transcendant C'tan",
+  "Movement": "6\"",
+  "Toughness": "11",
+  "Save": "4+",
+  "Wounds": "12",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 4+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "e55c-f2ef-d3d0-a41a",
+      "AbilityName": "Transdimensional Displacement",
+      "AbilityText": "Each time this model is selected to Advance, you can remove it from the battlefield and set it up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models."
+    },
+    {
+      "Id": "e3b7-d666-dd22-7d60",
+      "AbilityName": "C'tan Shard",
+      "AbilityText": "This model cannot be given Enhancements"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "406b-c293-1a3f-4f38",
+      "WeaponName": "Seismic assault",
+      "Range": "12\"",
+      "Attacks": "6",
+      "BallisticSkill": "2+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "D3",
+      "Text": "Assault, Sustained Hits 1"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "b099-197b-ef50-5cc6",
+      "WeaponName": "Crackling tendrils",
+      "Attacks": "8",
+      "WeaponSkill": "2+",
+      "Strength": "9",
+      "ArnorPirecing": "-3",
+      "Damage": "D6"
+    }
+  ]
+}

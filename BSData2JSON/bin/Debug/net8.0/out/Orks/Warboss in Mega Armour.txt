@@ -1,0 +1,52 @@
+{
+  "id": "d88e-a9e3-30d8-f9fd",
+  "UnitName": "Warboss in Mega Armour",
+  "Movement": "5\"",
+  "Toughness": "6",
+  "Save": "2+",
+  "Wounds": "7",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "2a90-5b01-924f-d72c",
+      "AbilityName": "Might is Right",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
+    },
+    {
+      "Id": "b423-a011-7b47-5afa",
+      "AbilityName": "Dead ’ard",
+      "AbilityText": "When you call a Waaagh!, until the start of the next battle round, this model has the Feel No Pain 4+ ability."
+    },
+    {
+      "Id": "a0b4-23f-590-9d6a",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n- MEGANOBZ"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f828-d419-e65-9bcb",
+      "WeaponName": "Big shoota",
+      "Range": "36\"",
+      "Attacks": "3",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "bbbf-8f37-b529-648b",
+      "WeaponName": "’Uge choppa",
+      "Attacks": "4",
+      "WeaponSkill": "2+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

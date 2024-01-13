@@ -1,0 +1,76 @@
+{
+  "id": "ecea-92b8-f73b-4b95",
+  "UnitName": "Knight Porphyrion",
+  "Movement": "8\"",
+  "Toughness": "13",
+  "Save": "2+",
+  "Wounds": "30",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "e9ae-3e4d-a77b-c5d2",
+      "AbilityName": "Bastion of Firepower",
+      "AbilityText": "Each time this model Remains Stationary, until the end of the turn, ranged weapons equipped by this model have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "f407-c2ad-122e-228c",
+      "WeaponName": "Twin magna lascannon",
+      "Range": "72\"",
+      "Attacks": "D6",
+      "BallisticSkill": "3+",
+      "Strength": "18",
+      "ArnorPirecing": "-4",
+      "Damage": "D6+6",
+      "Text": "Blast, Twin-linked"
+    },
+    {
+      "id": "cdca-553e-e7d3-8d78",
+      "WeaponName": "Acastus autocannon",
+      "Range": "48\"",
+      "Attacks": "2",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "-"
+    },
+    {
+      "id": "dd25-aaba-f173-ab3a",
+      "WeaponName": "Lascannon",
+      "Range": "48\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1",
+      "Text": "-"
+    },
+    {
+      "id": "4588-c0e0-6cd-ae7",
+      "WeaponName": "Acastus ironstorm missile pod",
+      "Range": "48\"",
+      "Attacks": "D6+6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Blast, Heavy, Indirect Fire"
+    },
+    {
+      "id": "998b-6509-2f9c-8f2d",
+      "WeaponName": "Helios defence missiles",
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Anti-FLY 2+, Heavy"
+    }
+  ],
+  "MeleeSkills": []
+}

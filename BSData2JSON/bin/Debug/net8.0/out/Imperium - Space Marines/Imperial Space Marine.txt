@@ -22,7 +22,7 @@
     {
       "Id": "893c-22fb-ecd5-1968",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n\n■ Assault Squad\n■ Command Squad\n■ Tactical Squad\n■ Vanguard Veteran Squad\n■ Devastator Squad\n\nYou can attach this model to one of the above units even if one Character model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "AbilityText": "This model can be attached to the following units:\r\n\r\n■ Assault Squad\r\n■ Command Squad\r\n■ Tactical Squad\r\n■ Vanguard Veteran Squad\r\n■ Devastator Squad\r\n\r\nYou can attach this model to one of the above units even if one Character model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     }
   ],
   "RangedSkills": [

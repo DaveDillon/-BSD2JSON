@@ -1,0 +1,52 @@
+{
+  "id": "c427-b327-40a0-a401",
+  "UnitName": "Brotherhood Champion",
+  "Movement": "6\"",
+  "Toughness": "4",
+  "Save": "2+",
+  "Wounds": "4",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "6201-69fa-9b1f-ef80",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following units:\r\n■ Purgation Squad\r\n■ Strike Squad"
+    },
+    {
+      "Id": "4020-4496-e5f3-62fd",
+      "AbilityName": "Ethereal Castigation (Psychic)",
+      "AbilityText": "While this model is leading a unit, models in that unit have the Fights First ability."
+    },
+    {
+      "Id": "cc8f-6b40-8152-671f",
+      "AbilityName": "Martial Fury",
+      "AbilityText": "Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "1f4-8e4d-87ba-5d6f",
+      "WeaponName": "Storm Bolter",
+      "Range": "24\"",
+      "Attacks": "2",
+      "BallisticSkill": "2+",
+      "Strength": "4",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Rapid Fire 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "dc6c-486b-c19-71a1",
+      "WeaponName": "Nemesis Force Weapon",
+      "Attacks": "5",
+      "WeaponSkill": "2+",
+      "Strength": "6",
+      "ArnorPirecing": "-2",
+      "Damage": "2"
+    }
+  ]
+}

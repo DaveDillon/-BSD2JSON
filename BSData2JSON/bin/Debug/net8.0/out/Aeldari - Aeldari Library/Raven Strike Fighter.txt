@@ -1,0 +1,53 @@
+{
+  "id": "a870-ecb8-e16-198",
+  "UnitName": "Raven Strike Fighter",
+  "Movement": "20+\"",
+  "Toughness": "8",
+  "Save": "4+",
+  "Wounds": "10",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "a548-10fb-4499-c1ed",
+      "AbilityName": "Strafing Run",
+      "AbilityText": "Each time this model makes a ranged attack that targets a unit that cannot FLY, add 1 to the Hit roll."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "21e3-f58e-e27b-29b5",
+      "WeaponName": "Dark lance",
+      "Range": "36\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+2",
+      "Text": "-"
+    },
+    {
+      "id": "9885-dcf3-72fb-de17",
+      "WeaponName": "Splinterstorm cannon",
+      "Range": "36\"",
+      "Attacks": "8",
+      "BallisticSkill": "3+",
+      "Strength": "3",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Infantry 3+, Sustained Hits 2"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "735e-2e66-413c-a9d3",
+      "WeaponName": "Bladed wings",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ed15-de8a-9784-649c",
+  "UnitName": "Irillyth",
+  "Movement": "12\"",
+  "Toughness": "3",
+  "Save": "2+",
+  "Wounds": "5",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "47ce-3299-1ca0-7fc",
+      "AbilityName": "Invulnerable Save (Phoenix Lord)",
+      "AbilityText": "Irillyth has a 4+ Invulnerable save"
+    },
+    {
+      "Id": "ccf4-19e2-ce08-fb1e",
+      "AbilityName": "Leader",
+      "AbilityText": "This model can be attached to the following unit:\r\n■ Shadow Spectres"
+    },
+    {
+      "Id": "8c5-b461-8a6c-4b23",
+      "AbilityName": "Reaper of Souls",
+      "AbilityText": "While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll"
+    },
+    {
+      "Id": "b16-aae4-fe03-405e",
+      "AbilityName": "Shadow of Death (Aura)",
+      "AbilityText": "While an enemy unit is within 6\" of this model, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "df19-3cef-49e1-59a0",
+      "WeaponName": "Spear of Starlight",
+      "Range": "24\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "4",
+      "Text": ""
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "787c-decd-6e5c-6cd0",
+      "WeaponName": "Spear of Starlight",
+      "Attacks": "4",
+      "WeaponSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "-2",
+      "Damage": "1"
+    }
+  ]
+}

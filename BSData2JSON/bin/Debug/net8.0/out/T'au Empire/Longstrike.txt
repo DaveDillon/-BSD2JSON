@@ -1,0 +1,70 @@
+{
+  "id": "efe-61d1-a00d-d080",
+  "UnitName": "Longstrike",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "db46-1f35-2996-964f",
+      "AbilityName": "Armour Hunter",
+      "AbilityText": "Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll."
+    },
+    {
+      "Id": "fefe-3546-8754-2e26",
+      "AbilityName": "XV02 Pilot Battlesuit",
+      "AbilityText": "In your Command phase, you can select one friendly HAMMERHEAD GUNSHIP unit within 12\". Until the start of your next Command phase, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "9345-de29-1d44-d7f6",
+      "WeaponName": "Railgun",
+      "Range": "72\"",
+      "Attacks": "1",
+      "BallisticSkill": "3+",
+      "Strength": "20",
+      "ArnorPirecing": "-5",
+      "Damage": "D6+6",
+      "Text": "Devastating Wounds, Heavy"
+    },
+    {
+      "id": "d99c-6d90-f5c3-eb3b",
+      "WeaponName": "Ion cannon",
+      "Range": "60\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "2",
+      "Text": "Blast"
+    },
+    {
+      "id": "e752-c92e-b0db-bd07",
+      "WeaponName": "Ion cannon",
+      "Range": "60\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "8",
+      "ArnorPirecing": "-2",
+      "Damage": "3",
+      "Text": "Blast, Hazardous"
+    },
+    {
+      "id": "29d1-bfa2-a1ca-3eaf",
+      "WeaponName": "Twin smart missile system",
+      "Range": "30\"",
+      "Attacks": "4",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": "Indirect Fire, Twin-Linked"
+    }
+  ],
+  "MeleeSkills": []
+}

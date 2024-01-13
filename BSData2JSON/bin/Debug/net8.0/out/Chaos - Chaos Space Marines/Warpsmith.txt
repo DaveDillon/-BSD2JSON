@@ -27,7 +27,7 @@
     {
       "Id": "b5da-4ab-cfb5-4e4c",
       "AbilityName": "Leader",
-      "AbilityText": "This model can be attached to the following units:\n■ CHOSEN\n■ HAVOCS\n■ LEGIONARIES"
+      "AbilityText": "This model can be attached to the following units:\r\n■ CHOSEN\r\n■ HAVOCS\r\n■ LEGIONARIES"
     }
   ],
   "RangedSkills": [

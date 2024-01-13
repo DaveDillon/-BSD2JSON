@@ -1,0 +1,30 @@
+{
+  "id": "d550-ad4d-14e2-10e4",
+  "UnitName": "Spined Chaos Beast",
+  "Movement": "10\"",
+  "Toughness": "10",
+  "Save": "4+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "adb8-6d3-388f-dbf1",
+      "AbilityName": "Warp Spines",
+      "AbilityText": "Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "940f-e81f-b3b6-4e72",
+      "WeaponName": "Jagged claws and tusked maw",
+      "Attacks": "6",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-2",
+      "Damage": "3"
+    }
+  ]
+}

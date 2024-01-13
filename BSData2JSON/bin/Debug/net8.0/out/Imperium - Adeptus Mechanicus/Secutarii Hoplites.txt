@@ -1,0 +1,126 @@
+{
+  "id": "b6bd-96ba-9704-2166",
+  "UnitName": "Secutarii Hoplites",
+  "Movement": "6\"",
+  "Toughness": "3",
+  "Save": "5+",
+  "Wounds": "1",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "4+",
+  "Abilities": [
+    {
+      "Id": "2110-dbf4-c012-f1aa",
+      "AbilityName": "Titan Guard",
+      "AbilityText": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. When  oing so, if there are one or more friendly Adeptus Titanicus units on the battlefield, you can re-roll the subsequent charge roll."
+    },
+    {
+      "Id": "b1bf-46f8-3c71-c201",
+      "AbilityName": "Secutarii",
+      "AbilityText": "If a model from your army with the Leader ability can be attached to a Skitarii Vanguard unit, it can be attached to this unit instead."
+    },
+    {
+      "Id": "ec5f-c838-c091-4b2c",
+      "AbilityName": "Enhanced data-tether",
+      "AbilityText": "Each time you select the bearer’s unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP."
+    },
+    {
+      "Id": "12c3-a683-f4e4-fa51",
+      "AbilityName": "Omnispex",
+      "AbilityText": "Ranged weapons equipped by models in the bearer’s unit have the IGNORES COVER ability."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "459e-f646-61aa-b1cb",
+      "WeaponName": "Arc lance",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds"
+    },
+    {
+      "id": "d1a0-1dd5-a327-1e01",
+      "WeaponName": "Arc lance",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds"
+    },
+    {
+      "id": "195e-573f-d606-ce28",
+      "WeaponName": "Arc lance",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds"
+    },
+    {
+      "id": "d563-3931-4a64-ac3c",
+      "WeaponName": "Arc lance",
+      "Range": "12\"",
+      "Attacks": "1",
+      "BallisticSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Anti-Vehicle 4+, Devastating Wounds"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "4ff5-2163-0fc5-1139",
+      "WeaponName": "Alpha close combat weapon",
+      "Attacks": "4",
+      "WeaponSkill": "4",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "8945-ec8f-4d0b-b8b9",
+      "WeaponName": "Arc lance",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "e275-beb1-beb1-de97",
+      "WeaponName": "Arc lance",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "33c1-3b3c-89d3-4f8",
+      "WeaponName": "Arc lance",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    },
+    {
+      "id": "bfb8-69d7-f4d5-1851",
+      "WeaponName": "Arc lance",
+      "Attacks": "2",
+      "WeaponSkill": "4+",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1"
+    }
+  ]
+}

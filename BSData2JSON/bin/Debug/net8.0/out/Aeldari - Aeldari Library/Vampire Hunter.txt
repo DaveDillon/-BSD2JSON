@@ -1,0 +1,69 @@
+{
+  "id": "7dd7-ce6-1911-234d",
+  "UnitName": "Vampire Hunter",
+  "Movement": "20+\"",
+  "Toughness": "12",
+  "Save": "3+",
+  "Wounds": "30",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "Models in this unit have a 4+ invulnerable save against ranged attacks.",
+  "Abilities": [
+    {
+      "Id": "631b-7490-d182-2e67",
+      "AbilityName": "Damaged: 1-10 Wounds Remaining",
+      "AbilityText": "While this model has 1-10 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll."
+    },
+    {
+      "Id": "2924-c633-e73a-9ac0",
+      "AbilityName": "Titan Hunter",
+      "AbilityText": "Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, re-roll a Damage roll of 1"
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "5f4a-d100-1493-11c",
+      "WeaponName": "Scatter Laser",
+      "Range": "36\"",
+      "Attacks": "6",
+      "BallisticSkill": "3+",
+      "Strength": "5",
+      "ArnorPirecing": "0",
+      "Damage": "1",
+      "Text": ""
+    },
+    {
+      "id": "2bad-14cb-3f8d-cf35",
+      "WeaponName": "Twin Pulse Laser",
+      "Range": "48\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "9",
+      "ArnorPirecing": "-2",
+      "Damage": "D6",
+      "Text": "Twin-Linked"
+    },
+    {
+      "id": "8e6b-670c-1453-848f",
+      "WeaponName": "Twin Vampire Pulsar",
+      "Range": "60\"",
+      "Attacks": "3",
+      "BallisticSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-3",
+      "Damage": "4",
+      "Text": "Twin-Linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "1ae2-cb5c-498d-232a",
+      "WeaponName": "Wraithbone hull",
+      "Attacks": "6",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

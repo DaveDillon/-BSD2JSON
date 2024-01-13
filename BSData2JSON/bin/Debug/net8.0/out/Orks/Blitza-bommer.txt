@@ -1,0 +1,30 @@
+{
+  "id": "bc7d-b56b-50bb-b409",
+  "UnitName": "Blitza-bommer",
+  "Movement": "20+\"",
+  "Toughness": "9",
+  "Save": "3+",
+  "Wounds": "12",
+  "Leadership": "7+",
+  "ObjectControl": "7+",
+  "Invulnerability": "",
+  "Abilities": [
+    {
+      "Id": "32e5-eff7-7e3b-37bf",
+      "AbilityName": "Boom Bomb",
+      "AbilityText": "Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll one D6: on a 4+, that unit suffers D6 mortal wounds."
+    }
+  ],
+  "RangedSkills": [],
+  "MeleeSkills": [
+    {
+      "id": "76f6-9362-c69d-52a0",
+      "WeaponName": "Armoured hull",
+      "Attacks": "3",
+      "WeaponSkill": "4+",
+      "Strength": "6",
+      "ArnorPirecing": "0",
+      "Damage": "1"
+    }
+  ]
+}

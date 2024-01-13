@@ -1,0 +1,73 @@
+{
+  "id": "23fa-bbe8-32c1-aca9",
+  "UnitName": "Defiler",
+  "Movement": "8\"",
+  "Toughness": "10",
+  "Save": "3+",
+  "Wounds": "14",
+  "Leadership": "6+",
+  "ObjectControl": "6+",
+  "Invulnerability": "This model has a 5+ invulnerable save.",
+  "Abilities": [
+    {
+      "Id": "747f-d87d-d9d9-c63e",
+      "AbilityName": "Scuttling Walker",
+      "AbilityText": "Each time this model makes a Normal, Advance or Fall Back move, it can be moved over friendly MONSTER and VEHICLE models as if they were not there. This model can move over terrain features that are 4\" or less in height as if they were not there."
+    }
+  ],
+  "RangedSkills": [
+    {
+      "id": "6b7b-ae3d-95bf-3fb",
+      "WeaponName": "Defiler cannon",
+      "Range": "48\"",
+      "Attacks": "D6+3",
+      "BallisticSkill": "3+",
+      "Strength": "10",
+      "ArnorPirecing": "-1",
+      "Damage": "3",
+      "Text": "Blast"
+    },
+    {
+      "id": "ddee-6bcc-6de6-e7bb",
+      "WeaponName": "Reaper autocannon",
+      "Range": "48\"",
+      "Attacks": "4",
+      "BallisticSkill": "3+",
+      "Strength": "7",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Devastating Wounds, Sustained Hits 1"
+    },
+    {
+      "id": "d2c5-13a-852b-2c53",
+      "WeaponName": "Twin heavy flamer",
+      "Range": "12\"",
+      "Attacks": "D6",
+      "BallisticSkill": "N/A",
+      "Strength": "5",
+      "ArnorPirecing": "-1",
+      "Damage": "1",
+      "Text": "Twin-linked"
+    }
+  ],
+  "MeleeSkills": [
+    {
+      "id": "d3cb-4396-6234-45e5",
+      "WeaponName": "Defiler claws",
+      "Attacks": "5",
+      "WeaponSkill": "3+",
+      "Strength": "16",
+      "ArnorPirecing": "-3",
+      "Damage": "D6+1"
+    },
+    {
+      "id": "db55-d4ab-5467-8411",
+      "WeaponName": "Defiler scourge",
+      "Attacks": "3",
+      "WeaponSkill": "3+",
+      "Strength": "12",
+      "ArnorPirecing": "-1",
+      "Damage": "2"
+    }
+  ]
+}
