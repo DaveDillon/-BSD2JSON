@@ -101,10 +101,15 @@
             if (!fullSeeScriptSQL.Directory.Exists)
                 fullSeeScriptSQL.Directory.Create();
 
+            var ArmySeedData = seebuilder.BuildArmyListSeedData();
             using (StreamWriter writetext = new StreamWriter(fullSeeScriptSQL.FullName))
             {
+                writetext.Write(ArmySeedData);
                 writetext.Write(sbFullSeeScript.ToString());
             }
+
+           
+
 
             Console.WriteLine("Application has completed, press enter to exit.");
             Console.ReadLine();

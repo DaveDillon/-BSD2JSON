@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (150000,1,15,'Aestred Thurga and Agathae Dolan','6"','3','2+','4','6+','6+','Models in this units have an invulnerable save of 4+'),
  (150001,1,15,'Battle Sisters Squad','','','','','','','This model has an invulnerable save of 6+'),
  (150002,1,15,'Canoness','6"','3','3+','4','7+','7+','This model has an invulnerable save of 4+'),
@@ -31,5 +31,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (150029,1,15,'Zephyrim Squad','12"','3','3+','1','7+','7+','Models in this unit have an Invulnerable save of 5+.'),
  (150030,1,15,'Faction: Acts of Faith','6"','3','2+','4','6+','6+',''),
  (150031,1,15,'Jump Pack','12"','3','2+','5','6+','6+',''),
- (150032,1,15,'Repressor','12"','10','3+','12','7+','7+','This model has an invulnerable save of 6+'),
+ (150032,1,15,'Repressor','12"','10','3+','12','7+','7+','This model has an invulnerable save of 6+')
 GO

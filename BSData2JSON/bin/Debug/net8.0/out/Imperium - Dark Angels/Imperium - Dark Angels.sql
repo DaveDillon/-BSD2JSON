@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (240000,1,24,'Azrael','6"','4','2+','6','6+','6+',''),
  (240001,1,24,'Belial','5"','5','2+','6','6+','6+','4+'),
  (240002,1,24,'Sammael','12"','5','3+','7','6+','6+','4+'),
@@ -16,5 +16,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (240014,1,24,'Ravenwing Command Squad','12"','5','3+','3','6+','6+','5+'),
  (240015,1,24,'Deathwing Knights','5"','5','2+','4','6+','6+','4+'),
  (240016,1,24,'Deathwing Terminator Squad','5"','5','2+','3','6+','6+','Models in this unit have a 4+ invulnerable save.'),
- (240017,1,24,'Deathwing Command Squad','5"','5','2+','3','6+','6+','4+'),
+ (240017,1,24,'Deathwing Command Squad','5"','5','2+','3','6+','6+','4+')
 GO

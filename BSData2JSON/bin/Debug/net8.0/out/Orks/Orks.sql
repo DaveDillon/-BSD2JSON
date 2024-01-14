@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (400000,1,40,'Battlewagon','10"','10','3+','16','7+','7+',''),
  (400001,1,40,'Mob','6"','5','5+','1','7+','7+',''),
  (400002,1,40,'Beast Snagga','6"','5','5+','1','7+','7+',''),
@@ -86,5 +86,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (400084,1,40,'Grot Bomm Launcha','12"','6','4+','6','7+','7+',''),
  (400085,1,40,'Big Mek on Warbike','12"','6','4+','6','7+','7+',''),
  (400086,1,40,'Mega Armour','5"','6','2+','5','7+','7+',''),
- (400087,1,40,'Grotmas Gitz','10"','3','4+','5','7+','7+',''),
+ (400087,1,40,'Grotmas Gitz','10"','3','4+','5','7+','7+','')
 GO

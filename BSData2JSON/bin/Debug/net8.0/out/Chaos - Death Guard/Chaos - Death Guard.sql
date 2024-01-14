@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (100000,1,10,'Daemon Prince with Wings','11"','10','2+','10','6+','6+','This model has a 4+ invulnerable save.'),
  (100001,1,10,'Typhus','5"','6','2+','6','6+','6+','This model has a 4+ invulnerable save.'),
  (100002,1,10,'Terminator','5"','6','2+','6','6+','6+',''),
@@ -35,5 +35,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (100033,1,10,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
  (100034,1,10,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
  (100035,1,10,'Mutoid Vermin','8"','2','7+','1','8+','8+',''),
- (100036,1,10,'Possessed','9"','6','3+','3','6+','6+','Models in this unit have a 5+ invulnerable save.'),
+ (100036,1,10,'Possessed','9"','6','3+','3','6+','6+','Models in this unit have a 5+ invulnerable save.')
 GO

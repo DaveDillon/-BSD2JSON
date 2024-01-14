@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (140000,1,14,'Aberrants','6"','6','5+','3','7+','7+',''),
  (140001,1,14,'Abominant','6"','6','5+','5','7+','7+',''),
  (140002,1,14,'Achilles Ridgerunners','12"','7','3+','8','7+','7+',''),
@@ -21,5 +21,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (140019,1,14,'Purestrain Genestealers','8"','4','5+','2','7+','7+',''),
  (140020,1,14,'Reductus Saboteur','6"','3','5+','3','7+','7+',''),
  (140021,1,14,'Sanctus','6"','3','5+','3','7+','7+',''),
- (140022,1,14,'Tectonic Fragdrill','-','11','3+','14','7+','7+',''),
+ (140022,1,14,'Tectonic Fragdrill','-','11','3+','14','7+','7+','')
 GO

@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (10000,1,1,'Wraithguard','6"','7','2+','3','6+','6+',''),
  (10001,1,1,'Wraith Construct','20+"','8','3+','12','6+','6+','This unit has a 5+ Invulnerable save'),
  (10002,1,1,'Phoenix Lord','7"','3','2+','5','6+','6+',''),
@@ -115,5 +115,5 @@ improved to a 4+ against melee attacks.'),
  (10112,1,1,'Firestorm','14"','9','3+','12','6+','6+',''),
  (10113,1,1,'Corsair Cloud Dancer Band','14"','4','3+','2','6+','6+',''),
  (10114,1,1,'Corsair Skyreaver Band','','','','','','',''),
- (10115,1,1,'Corsair Reaver Band','','','','','','',''),
+ (10115,1,1,'Corsair Reaver Band','','','','','','','')
 GO

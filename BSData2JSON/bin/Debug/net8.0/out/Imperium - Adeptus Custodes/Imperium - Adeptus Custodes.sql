@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (160000,1,16,'Aleya','6"','3','3+','4','6+','6+',''),
  (160001,1,16,'Allarus Custodians','5"','7','2+','4','6+','6+',''),
  (160002,1,16,'Blade Champion','6"','6','2+','6','6+','6+',''),
@@ -26,5 +26,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (160024,1,16,'Caladius Grav-tank','10"','11','2+','14','6+','6+',''),
  (160025,1,16,'Coronus Grav-carrier','12"','12','2+','16','6+','6+',''),
  (160026,1,16,'Orion Assault Dropship','20"','12','2+','22','6+','6+',''),
- (160027,1,16,'Ares Gunship','20"','12','2+','22','6','6',''),
+ (160027,1,16,'Ares Gunship','20"','12','2+','22','6','6','')
 GO

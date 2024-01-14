@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (130000,1,13,'Angron','14"','11','2+','16','5+','5+','This model has a 4+ invulnerable save.'),
  (130001,1,13,'Khârn the Betrayer','6"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
  (130002,1,13,'Lord Invocatus','12"','6','2+','8','6+','6+','This model has a 4+ invulnerable save.'),
@@ -22,5 +22,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (130020,1,13,'Spawn','8"','5','4+','4','7','7',''),
  (130021,1,13,'Lord of Skulls','8"','13','3+','24','6+','6+',''),
  (130022,1,13,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
- (130023,1,13,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
+ (130023,1,13,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.')
 GO

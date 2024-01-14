@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (50000,1,5,'Skarbrand','8"','11','4+','20','6+','6+','This model has a 4+ invulnerable save.'),
  (50001,1,5,'Bloodthirster','12"','11','4+','18','6+','6+','This model has a 4+ invulnerable save.'),
  (50002,1,5,'Skulltaker','6"','4','4+','5','7+','7+',''),
@@ -63,5 +63,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (50061,1,5,'Scabeiathrax the Bloated','7"','12','5+','22','6+','6+','This model has a 4+ invulnerable save.'),
  (50062,1,5,'Zarakynel','14"','10','5+','20','6+','6+','This model has a 4+ invulnerable save.'),
  (50063,1,5,'Herald of Slaanesh','14"','4','7+','4','7+','7+','This model has a 5+ invulnerable save.'),
- (50064,1,5,'Furies','12"','3','7+','1','8+','8+','Models in this unit have a 5+ invulnerable save.'),
+ (50064,1,5,'Furies','12"','3','7+','1','8+','8+','Models in this unit have a 5+ invulnerable save.')
 GO

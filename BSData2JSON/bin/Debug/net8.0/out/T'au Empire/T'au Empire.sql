@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (410000,1,41,'Shaper','','','','','','',''),
  (410001,1,41,'Kroot','7"','3','6+','1','7+','7+',''),
  (410002,1,41,'Battlesuit','10"','4','3+','6','6+','6+',''),
@@ -56,5 +56,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (410054,1,41,'Shas''o R''alai','','','','','','',''),
  (410055,1,41,'XV9 Hazard','8"','6','3+','4','7+','7+',''),
  (410056,1,41,'Remote Sensor Tower','-','8','4+','4','8+','8+',''),
- (410057,1,41,'Drone Sentry Turret','-','8','4+','4','8+','8+',''),
+ (410057,1,41,'Drone Sentry Turret','-','8','4+','4','8+','8+','')
 GO

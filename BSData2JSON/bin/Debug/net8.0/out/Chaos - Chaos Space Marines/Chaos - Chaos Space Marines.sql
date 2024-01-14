@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (90000,1,9,'Lucius the Eternal','6"','4','3+','5','6+','6+',''),
  (90001,1,9,'Chaos Undivided','5"','5','2+','9','5+','5+',''),
  (90002,1,9,'Abaddon the Despoiler','5"','5','2+','9','5+','5+','This model has a 4+ invulnerable save.'),
@@ -68,5 +68,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (90066,1,9,'Sorcerer on Bike','12"','5','3+','5','6+','6+',''),
  (90067,1,9,'Renegade Ogryn Beast Handler','6"','6','5+','4','7+','7+',''),
  (90068,1,9,'Chaos Lord on Bike','12"','5','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
- (90069,1,9,'Deimos Predator','10"','10','3+','11','6+','6+',''),
+ (90069,1,9,'Deimos Predator','10"','10','3+','11','6+','6+','')
 GO

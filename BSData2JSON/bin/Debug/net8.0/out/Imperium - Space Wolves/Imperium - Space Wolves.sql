@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (340000,1,34,'Logan Grimnar','5"','5','2+','6','6+','6+',''),
  (340001,1,34,'Logan Grimnar on Stormrider','10"','6','2+','12','6+','6+',''),
  (340002,1,34,'Njal Stormcaller','5"','5','2+','5','6+','6+',''),
@@ -34,5 +34,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (340032,1,34,'Iron Priest','6"','4','2+','4','6+','6+',''),
  (340033,1,34,'Cyberwolf','10"','4','6+','2','7+','7+','6+'),
  (340034,1,34,'Wolf Scouts','6"','4','4+','1','6+','6+',''),
- (340035,1,34,'Venerable Dreadnought','6"','9','2+','8','6+','6+',''),
+ (340035,1,34,'Venerable Dreadnought','6"','9','2+','8','6+','6+','')
 GO

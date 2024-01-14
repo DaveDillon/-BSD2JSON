@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (230000,1,23,'Astorath','12"','4','2+','5','5+','5+',''),
  (230001,1,23,'Baal Predator','12"','10','3+','11','6+','6+',''),
  (230002,1,23,'Sanguinary Priest','6"','4','3+','4','6+','6+',''),
@@ -17,5 +17,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (230015,1,23,'Librarian Dreadnought','6"','9','2+','8','6+','6+',''),
  (230016,1,23,'Sanguinary Guard','12"','4','2+','2','6+','6+',''),
  (230017,1,23,'Sanguinary Priest with Jump Pack','12"','4','3+','4','6+','6+',''),
- (230018,1,23,'The Sanguinor','12"','4','2+','7','6+','6+',''),
+ (230018,1,23,'The Sanguinor','12"','4','2+','7','6+','6+','')
 GO

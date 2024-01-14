@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (170000,1,17,'Archaeopter Fusilave','20"','9','3+','10','7+','7+',''),
  (170001,1,17,'Archaeopter Stratoraptor','20"','9','3+','10','7+','7+',''),
  (170002,1,17,'Archaeopter Transvector','20"','9','3+','10','7+','7+',''),
@@ -34,5 +34,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (170032,1,17,'Secutarii Hoplites','6"','3','5+','1','7+','7+','4+'),
  (170033,1,17,'Terrax-pattern Termite','','','','','','',''),
  (170034,1,17,'X-101','6"','3','4+','3','8+','8+',''),
- (170035,1,17,'Sydonian','8"','4','4+','4','7+','7+',''),
+ (170035,1,17,'Sydonian','8"','4','4+','4','7+','7+','')
 GO

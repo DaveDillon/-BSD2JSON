@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (70000,1,7,'War Dog','12"','10','3+','12','7+','7+',''),
  (70001,1,7,'Executioner','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
  (70002,1,7,'Stalker','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
@@ -21,5 +21,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (70019,1,7,'Knight Atrapos','12"','12','3+','25','6+','6+','This model has a 5+ invulnerable save.'),
  (70020,1,7,'Knight Magaera','10"','12','3+','22','6+','6+','This model has a 5+ invulnerable save.'),
  (70021,1,7,'Knight Styrix','','','','','','','This model has a 5+ invulnerable save.'),
- (70022,1,7,'Moirax','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
+ (70022,1,7,'Moirax','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.')
 GO

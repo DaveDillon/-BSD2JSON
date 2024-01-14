@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (420000,1,42,'Synapse','12"','9','2+','10','7+','7+',''),
  (420001,1,42,'Winged Hive Tyrant','12"','9','2+','10','7+','7+',''),
  (420002,1,42,'Hive Tyrant','12"','9','2+','10','7+','7+',''),
@@ -56,5 +56,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (420054,1,42,'Norn Emissary','10"','11','2+','16','7+','7+',''),
  (420055,1,42,'Norn Assimilator','10"','11','2+','16','7+','7+',''),
  (420056,1,42,'Harvester','5"','6','3+','5','8+','8+',''),
- (420057,1,42,'Terror of Vardenghast','12"','5','4+','6','7+','7+',''),
+ (420057,1,42,'Terror of Vardenghast','12"','5','4+','6','7+','7+','')
 GO

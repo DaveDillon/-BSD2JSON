@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (390000,1,39,'Orikan the Diviner','5"','4','4+','4','6+','6+','This model has a 4+ invulnerable save.'),
  (390001,1,39,'Cryptek','5"','4','4+','4','6+','6+',''),
  (390002,1,39,'Chronomancer','5"','4','4+','4','6+','6+',''),
@@ -61,5 +61,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (390059,1,39,'Sentry Pylon','-','8','3+','10','7+','7+',''),
  (390060,1,39,'Night Shroud','20+"','9','3+','14','7+','7+',''),
  (390061,1,39,'Destroyer Cult','8"','7','3+','7','6+','6+',''),
- (390062,1,39,'Overlord with Translocation Shroud','5"','5','2+','6','6+','6+','This model has a 4+ invulnerable save.'),
+ (390062,1,39,'Overlord with Translocation Shroud','5"','5','2+','6','6+','6+','This model has a 4+ invulnerable save.')
 GO

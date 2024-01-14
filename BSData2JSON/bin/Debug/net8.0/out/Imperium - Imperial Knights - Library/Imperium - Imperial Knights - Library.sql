@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (280000,1,28,'Canis Rex','10"','12','3+','22','5+','5+',''),
  (280001,1,28,'Warglaive','12"','10','3+','12','7+','7+',''),
  (280002,1,28,'Sir Hekhtur','10"','12','3+','22','5+','5+',''),
@@ -19,5 +19,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (280017,1,28,'Knight Atrapos','12"','12','3+','25','6+','6+',''),
  (280018,1,28,'Knight Magaera','10"','12','3+','22','+6','+6','This model has a 5+ invulnerable save.'),
  (280019,1,28,'Knight Styrix','10"','12','3+','22','6+','6+','This model has a 5+ invulnerable save.'),
- (280020,1,28,'Moirax','12"','10','3+','12','7+','7+',''),
+ (280020,1,28,'Moirax','12"','10','3+','12','7+','7+','')
 GO

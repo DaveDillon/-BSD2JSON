@@ -6,6 +6,9 @@ namespace BSData2JSON.Application
     {
         private Dictionary<string, ArmyConfig> ArmyConfigs { get; set; }
 
+
+        public Dictionary<string, ArmyConfig> GetAllConfigs { get { return ArmyConfigs; } }
+
         public ConfigManager()
         {
             ArmyConfigs = new Dictionary<string, ArmyConfig>()

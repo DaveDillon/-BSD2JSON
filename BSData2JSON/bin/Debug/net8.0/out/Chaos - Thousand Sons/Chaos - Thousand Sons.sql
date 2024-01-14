@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (110000,1,11,'Ahriman','6"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
  (110001,1,11,'Ahriman on Disc of Tzeentch','10"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
  (110002,1,11,'Land Raider','10"','12','2+','16','6+','6+',''),
@@ -27,5 +27,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (110025,1,11,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
  (110026,1,11,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
  (110027,1,11,'Disc of Tzeentch','12"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
- (110028,1,11,'Chaos Lord','12"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
+ (110028,1,11,'Chaos Lord','12"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.')
 GO

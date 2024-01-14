@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (330000,1,33,'Tacticus','6"','4','3+','2','6+','6+',''),
  (330001,1,33,'Bladeguard Veteran Squad','6"','4','3+','3','6+','6+',''),
  (330002,1,33,'Assault Intercessor Squad','6"','4','3+','2','6+','6+',''),
@@ -110,5 +110,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (330108,1,33,'Tarantula Air Defence Battery','-','5','3+','4','7+','7+',''),
  (330109,1,33,'Apothecary','12"','5','3+','5','6+','6+',''),
  (330110,1,33,'Assault Intercessors with Jump Packs','12"','4','3+','2','6+','6+',''),
- (330111,1,33,'Company Heroes','6"','4','3+','4','6+','6+',''),
+ (330111,1,33,'Company Heroes','6"','4','3+','4','6+','6+','')
 GO

@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (250000,1,25,'Watch Master','6"','4','2+','5','6+','6+','4+'),
  (250001,1,25,'Watch Captain Artemis','6"','4','3+','4','6+','6+','4+'),
  (250002,1,25,'Corvus Blackstar','20+"','10','3+','14','6+','6+',''),
@@ -10,5 +10,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (250008,1,25,'Proteus Kill Team','12"','5','3+','3','6+','6+',''),
  (250009,1,25,'Fortis Kill Team','6"','4','3+','2','6+','6+',''),
  (250010,1,25,'Indomitor Kill Team','5"','6','3+','3','6+','6+',''),
- (250011,1,25,'Spectrus Kill Team','6"','4','3+','2','6+','6+',''),
+ (250011,1,25,'Spectrus Kill Team','6"','4','3+','2','6+','6+','')
 GO

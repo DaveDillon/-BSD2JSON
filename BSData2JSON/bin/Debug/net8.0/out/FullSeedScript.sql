@@ -1,4 +1,45 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[SubFaction] ([id], [SubFactionName], [FactionId]) VALUES
+(1, 'Aeldari - Aeldari Library',400)
+(2, 'Aeldari - Craftworlds',400)
+(3, 'Aeldari - Drukhari',400)
+(4, 'Aeldari - Ynnari',400)
+(5, 'Chaos - Chaos Daemons Library',300)
+(6, 'Chaos - Chaos Daemons',300)
+(7, 'Chaos - Chaos Knights Library',300)
+(8, 'Chaos - Chaos Knights',300)
+(9, 'Chaos - Chaos Space Marines',300)
+(10, 'Chaos - Death Guard',300)
+(11, 'Chaos - Thousand Sons',300)
+(12, 'Chaos - Titanicus Traitoris',300)
+(13, 'Chaos - World Eaters',300)
+(14, 'Genestealer Cults',400)
+(15, 'Imperium - Adepta Sororitas',200)
+(16, 'Imperium - Adeptus Custodes',200)
+(17, 'Imperium - Adeptus Mechanicus',200)
+(18, 'Imperium - Adeptus Titanicus',200)
+(21, 'Imperium - Astra Militarum',200)
+(22, 'Imperium - Black Templars',100)
+(23, 'Imperium - Blood Angels',100)
+(24, 'Imperium - Dark Angels',100)
+(25, 'Imperium - Deathwatch',100)
+(26, 'Imperium - Grey Knights',100)
+(27, 'Imperium - Imperial Fists',100)
+(28, 'Imperium - Imperial Knights - Library',100)
+(29, 'Imperium - Imperial Knights',100)
+(30, 'Imperium - Iron Hands',100)
+(31, 'Imperium - Raven Guard',100)
+(32, 'Imperium - Salamanders',100)
+(33, 'Imperium - Space Marines',100)
+(34, 'Imperium - Space Wolves',100)
+(35, 'Imperium - Ultramarines',100)
+(36, 'Imperium - White Scars',100)
+(38, 'Leagues of Votann',400)
+(39, 'Necrons',400)
+(40, 'Orks',400)
+(41, 'T''au Empire',400)
+(42, 'Tyranids',400)
+GO
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (10000,1,1,'Wraithguard','6"','7','2+','3','6+','6+',''),
  (10001,1,1,'Wraith Construct','20+"','8','3+','12','6+','6+','This unit has a 5+ Invulnerable save'),
  (10002,1,1,'Phoenix Lord','7"','3','2+','5','6+','6+',''),
@@ -115,10 +156,10 @@ improved to a 4+ against melee attacks.'),
  (10112,1,1,'Firestorm','14"','9','3+','12','6+','6+',''),
  (10113,1,1,'Corsair Cloud Dancer Band','14"','4','3+','2','6+','6+',''),
  (10114,1,1,'Corsair Skyreaver Band','','','','','','',''),
- (10115,1,1,'Corsair Reaver Band','','','','','','',''),
+ (10115,1,1,'Corsair Reaver Band','','','','','','','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (50000,1,5,'Skarbrand','8"','11','4+','20','6+','6+','This model has a 4+ invulnerable save.'),
  (50001,1,5,'Bloodthirster','12"','11','4+','18','6+','6+','This model has a 4+ invulnerable save.'),
  (50002,1,5,'Skulltaker','6"','4','4+','5','7+','7+',''),
@@ -183,10 +224,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (50061,1,5,'Scabeiathrax the Bloated','7"','12','5+','22','6+','6+','This model has a 4+ invulnerable save.'),
  (50062,1,5,'Zarakynel','14"','10','5+','20','6+','6+','This model has a 4+ invulnerable save.'),
  (50063,1,5,'Herald of Slaanesh','14"','4','7+','4','7+','7+','This model has a 5+ invulnerable save.'),
- (50064,1,5,'Furies','12"','3','7+','1','8+','8+','Models in this unit have a 5+ invulnerable save.'),
+ (50064,1,5,'Furies','12"','3','7+','1','8+','8+','Models in this unit have a 5+ invulnerable save.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (70000,1,7,'War Dog','12"','10','3+','12','7+','7+',''),
  (70001,1,7,'Executioner','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
  (70002,1,7,'Stalker','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
@@ -209,10 +250,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (70019,1,7,'Knight Atrapos','12"','12','3+','25','6+','6+','This model has a 5+ invulnerable save.'),
  (70020,1,7,'Knight Magaera','10"','12','3+','22','6+','6+','This model has a 5+ invulnerable save.'),
  (70021,1,7,'Knight Styrix','','','','','','','This model has a 5+ invulnerable save.'),
- (70022,1,7,'Moirax','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.'),
+ (70022,1,7,'Moirax','12"','10','3+','12','7+','7+','This model has a 5+ invulnerable save against ranged attacks.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (90000,1,9,'Lucius the Eternal','6"','4','3+','5','6+','6+',''),
  (90001,1,9,'Chaos Undivided','5"','5','2+','9','5+','5+',''),
  (90002,1,9,'Abaddon the Despoiler','5"','5','2+','9','5+','5+','This model has a 4+ invulnerable save.'),
@@ -282,10 +323,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (90066,1,9,'Sorcerer on Bike','12"','5','3+','5','6+','6+',''),
  (90067,1,9,'Renegade Ogryn Beast Handler','6"','6','5+','4','7+','7+',''),
  (90068,1,9,'Chaos Lord on Bike','12"','5','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
- (90069,1,9,'Deimos Predator','10"','10','3+','11','6+','6+',''),
+ (90069,1,9,'Deimos Predator','10"','10','3+','11','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (100000,1,10,'Daemon Prince with Wings','11"','10','2+','10','6+','6+','This model has a 4+ invulnerable save.'),
  (100001,1,10,'Typhus','5"','6','2+','6','6+','6+','This model has a 4+ invulnerable save.'),
  (100002,1,10,'Terminator','5"','6','2+','6','6+','6+',''),
@@ -322,10 +363,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (100033,1,10,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
  (100034,1,10,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
  (100035,1,10,'Mutoid Vermin','8"','2','7+','1','8+','8+',''),
- (100036,1,10,'Possessed','9"','6','3+','3','6+','6+','Models in this unit have a 5+ invulnerable save.'),
+ (100036,1,10,'Possessed','9"','6','3+','3','6+','6+','Models in this unit have a 5+ invulnerable save.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (110000,1,11,'Ahriman','6"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
  (110001,1,11,'Ahriman on Disc of Tzeentch','10"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
  (110002,1,11,'Land Raider','10"','12','2+','16','6+','6+',''),
@@ -354,10 +395,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (110025,1,11,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
  (110026,1,11,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
  (110027,1,11,'Disc of Tzeentch','12"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
- (110028,1,11,'Chaos Lord','12"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.'),
+ (110028,1,11,'Chaos Lord','12"','4','3+','6','6+','6+','This model has a 4+ invulnerable save.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (130000,1,13,'Angron','14"','11','2+','16','5+','5+','This model has a 4+ invulnerable save.'),
  (130001,1,13,'Khârn the Betrayer','6"','4','3+','5','6+','6+','This model has a 4+ invulnerable save.'),
  (130002,1,13,'Lord Invocatus','12"','6','2+','8','6+','6+','This model has a 4+ invulnerable save.'),
@@ -381,10 +422,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (130020,1,13,'Spawn','8"','5','4+','4','7','7',''),
  (130021,1,13,'Lord of Skulls','8"','13','3+','24','6+','6+',''),
  (130022,1,13,'Hell Talon','20+"','9','3+','14','6+','6+','This model has a 5+ invulnerable save.'),
- (130023,1,13,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.'),
+ (130023,1,13,'Hellblade','20+"','8','3+','10','6+','6+','This model has a 5+ invulnerable save.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (140000,1,14,'Aberrants','6"','6','5+','3','7+','7+',''),
  (140001,1,14,'Abominant','6"','6','5+','5','7+','7+',''),
  (140002,1,14,'Achilles Ridgerunners','12"','7','3+','8','7+','7+',''),
@@ -407,10 +448,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (140019,1,14,'Purestrain Genestealers','8"','4','5+','2','7+','7+',''),
  (140020,1,14,'Reductus Saboteur','6"','3','5+','3','7+','7+',''),
  (140021,1,14,'Sanctus','6"','3','5+','3','7+','7+',''),
- (140022,1,14,'Tectonic Fragdrill','-','11','3+','14','7+','7+',''),
+ (140022,1,14,'Tectonic Fragdrill','-','11','3+','14','7+','7+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (150000,1,15,'Aestred Thurga and Agathae Dolan','6"','3','2+','4','6+','6+','Models in this units have an invulnerable save of 4+'),
  (150001,1,15,'Battle Sisters Squad','','','','','','','This model has an invulnerable save of 6+'),
  (150002,1,15,'Canoness','6"','3','3+','4','7+','7+','This model has an invulnerable save of 4+'),
@@ -443,10 +484,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (150029,1,15,'Zephyrim Squad','12"','3','3+','1','7+','7+','Models in this unit have an Invulnerable save of 5+.'),
  (150030,1,15,'Faction: Acts of Faith','6"','3','2+','4','6+','6+',''),
  (150031,1,15,'Jump Pack','12"','3','2+','5','6+','6+',''),
- (150032,1,15,'Repressor','12"','10','3+','12','7+','7+','This model has an invulnerable save of 6+'),
+ (150032,1,15,'Repressor','12"','10','3+','12','7+','7+','This model has an invulnerable save of 6+')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (160000,1,16,'Aleya','6"','3','3+','4','6+','6+',''),
  (160001,1,16,'Allarus Custodians','5"','7','2+','4','6+','6+',''),
  (160002,1,16,'Blade Champion','6"','6','2+','6','6+','6+',''),
@@ -474,10 +515,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (160024,1,16,'Caladius Grav-tank','10"','11','2+','14','6+','6+',''),
  (160025,1,16,'Coronus Grav-carrier','12"','12','2+','16','6+','6+',''),
  (160026,1,16,'Orion Assault Dropship','20"','12','2+','22','6+','6+',''),
- (160027,1,16,'Ares Gunship','20"','12','2+','22','6','6',''),
+ (160027,1,16,'Ares Gunship','20"','12','2+','22','6','6','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (170000,1,17,'Archaeopter Fusilave','20"','9','3+','10','7+','7+',''),
  (170001,1,17,'Archaeopter Stratoraptor','20"','9','3+','10','7+','7+',''),
  (170002,1,17,'Archaeopter Transvector','20"','9','3+','10','7+','7+',''),
@@ -513,20 +554,20 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (170032,1,17,'Secutarii Hoplites','6"','3','5+','1','7+','7+','4+'),
  (170033,1,17,'Terrax-pattern Termite','','','','','','',''),
  (170034,1,17,'X-101','6"','3','4+','3','8+','8+',''),
- (170035,1,17,'Sydonian','8"','4','4+','4','7+','7+',''),
+ (170035,1,17,'Sydonian','8"','4','4+','4','7+','7+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (220000,1,22,'Chaplain Grimaldus','6"','4','3','4','5+','5+',''),
  (220001,1,22,'High Marshal Helbrecht','6"','4','2+','5','5+','5+',''),
  (220002,1,22,'Primaris Crusader Squad','6"','4','4+','2','6+','6+',''),
  (220003,1,22,'Primaris Sword Brethren','6"','4','3+','3','6+','6+',''),
  (220004,1,22,'The Emperor''s Champion','6"','4','2+','5','6+','6+',''),
  (220005,1,22,'Crusader Squad','6"','4','4+','2','6+','6+',''),
- (220006,1,22,'Marshal','6"','4','3+','5','6+','6+',''),
+ (220006,1,22,'Marshal','6"','4','3+','5','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (230000,1,23,'Astorath','12"','4','2+','5','5+','5+',''),
  (230001,1,23,'Baal Predator','12"','10','3+','11','6+','6+',''),
  (230002,1,23,'Sanguinary Priest','6"','4','3+','4','6+','6+',''),
@@ -545,10 +586,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (230015,1,23,'Librarian Dreadnought','6"','9','2+','8','6+','6+',''),
  (230016,1,23,'Sanguinary Guard','12"','4','2+','2','6+','6+',''),
  (230017,1,23,'Sanguinary Priest with Jump Pack','12"','4','3+','4','6+','6+',''),
- (230018,1,23,'The Sanguinor','12"','4','2+','7','6+','6+',''),
+ (230018,1,23,'The Sanguinor','12"','4','2+','7','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (240000,1,24,'Azrael','6"','4','2+','6','6+','6+',''),
  (240001,1,24,'Belial','5"','5','2+','6','6+','6+','4+'),
  (240002,1,24,'Sammael','12"','5','3+','7','6+','6+','4+'),
@@ -566,10 +607,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (240014,1,24,'Ravenwing Command Squad','12"','5','3+','3','6+','6+','5+'),
  (240015,1,24,'Deathwing Knights','5"','5','2+','4','6+','6+','4+'),
  (240016,1,24,'Deathwing Terminator Squad','5"','5','2+','3','6+','6+','Models in this unit have a 4+ invulnerable save.'),
- (240017,1,24,'Deathwing Command Squad','5"','5','2+','3','6+','6+','4+'),
+ (240017,1,24,'Deathwing Command Squad','5"','5','2+','3','6+','6+','4+')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (250000,1,25,'Watch Master','6"','4','2+','5','6+','6+','4+'),
  (250001,1,25,'Watch Captain Artemis','6"','4','3+','4','6+','6+','4+'),
  (250002,1,25,'Corvus Blackstar','20+"','10','3+','14','6+','6+',''),
@@ -581,10 +622,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (250008,1,25,'Proteus Kill Team','12"','5','3+','3','6+','6+',''),
  (250009,1,25,'Fortis Kill Team','6"','4','3+','2','6+','6+',''),
  (250010,1,25,'Indomitor Kill Team','5"','6','3+','3','6+','6+',''),
- (250011,1,25,'Spectrus Kill Team','6"','4','3+','2','6+','6+',''),
+ (250011,1,25,'Spectrus Kill Team','6"','4','3+','2','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (260000,1,26,'Brother-Captain','5"','5','2+','6','6+','6+',''),
  (260001,1,26,'Brother-Captain Stern','5"','5','2+','6','6+','6+',''),
  (260002,1,26,'Brotherhood Champion','6"','4','2+','4','6+','6+',''),
@@ -616,16 +657,16 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (260028,1,26,'Servitors','6"','4','4+','1','8+','8+',''),
  (260029,1,26,'Strike Squad','6"','4','2+','2','6+','6+',''),
  (260030,1,26,'Grey Knights Dreadnought [Legends]','6"','9','2+','8','6+','6+',''),
- (260031,1,26,'Grey Knights Relic Razorback [Legends]','12"','9','3+','10','6+','6+',''),
+ (260031,1,26,'Grey Knights Relic Razorback [Legends]','12"','9','3+','10','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (270000,1,27,'Darnath Lysander','5"','5','2+','6','6+','6+',''),
  (270001,1,27,'Tor Garadon','5"','6','3+','6','6+','6+',''),
- (270002,1,27,'Pedro Kantor','6"','4','2+','5','6+','6+',''),
+ (270002,1,27,'Pedro Kantor','6"','4','2+','5','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (280000,1,28,'Canis Rex','10"','12','3+','22','5+','5+',''),
  (280001,1,28,'Warglaive','12"','10','3+','12','7+','7+',''),
  (280002,1,28,'Sir Hekhtur','10"','12','3+','22','5+','5+',''),
@@ -646,23 +687,23 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (280017,1,28,'Knight Atrapos','12"','12','3+','25','6+','6+',''),
  (280018,1,28,'Knight Magaera','10"','12','3+','22','+6','+6','This model has a 5+ invulnerable save.'),
  (280019,1,28,'Knight Styrix','10"','12','3+','22','6+','6+','This model has a 5+ invulnerable save.'),
- (280020,1,28,'Moirax','12"','10','3+','12','7+','7+',''),
+ (280020,1,28,'Moirax','12"','10','3+','12','7+','7+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
- (300000,1,30,'Iron Father Ferrios','5"','6','2+','6','6+','6+',''),
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
+ (300000,1,30,'Iron Father Ferrios','5"','6','2+','6','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
- (310000,1,31,'Kayvaan Shrike','12"','4','3+','5','6+','6+',''),
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
+ (310000,1,31,'Kayvaan Shrike','12"','4','3+','5','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (320000,1,32,'Adrax Agatone','6"','4','2+','5','6+','6+',''),
- (320001,1,32,'Vulkan He''stan','6"','4','2+','5','6+','6+',''),
+ (320001,1,32,'Vulkan He''stan','6"','4','2+','5','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (330000,1,33,'Tacticus','6"','4','3+','2','6+','6+',''),
  (330001,1,33,'Bladeguard Veteran Squad','6"','4','3+','3','6+','6+',''),
  (330002,1,33,'Assault Intercessor Squad','6"','4','3+','2','6+','6+',''),
@@ -774,10 +815,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (330108,1,33,'Tarantula Air Defence Battery','-','5','3+','4','7+','7+',''),
  (330109,1,33,'Apothecary','12"','5','3+','5','6+','6+',''),
  (330110,1,33,'Assault Intercessors with Jump Packs','12"','4','3+','2','6+','6+',''),
- (330111,1,33,'Company Heroes','6"','4','3+','4','6+','6+',''),
+ (330111,1,33,'Company Heroes','6"','4','3+','4','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (340000,1,34,'Logan Grimnar','5"','5','2+','6','6+','6+',''),
  (340001,1,34,'Logan Grimnar on Stormrider','10"','6','2+','12','6+','6+',''),
  (340002,1,34,'Njal Stormcaller','5"','5','2+','5','6+','6+',''),
@@ -813,10 +854,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (340032,1,34,'Iron Priest','6"','4','2+','4','6+','6+',''),
  (340033,1,34,'Cyberwolf','10"','4','6+','2','7+','7+','6+'),
  (340034,1,34,'Wolf Scouts','6"','4','4+','1','6+','6+',''),
- (340035,1,34,'Venerable Dreadnought','6"','9','2+','8','6+','6+',''),
+ (340035,1,34,'Venerable Dreadnought','6"','9','2+','8','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (350000,1,35,'Sicarius','6"','4','2+','5','6+','6+',''),
  (350001,1,35,'Chaplain Cassius','6"','4','3+','4','5+','5+',''),
  (350002,1,35,'Chief Librarian Tigurius','6"','4','3+','4','6+','6+',''),
@@ -826,14 +867,14 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (350006,1,35,'Uriel Ventris','6"','4','3+','5','6+','6+',''),
  (350007,1,35,'Tyrannic War Veterans','','','','','','',''),
  (350008,1,35,'Roboute Guilliman','8"','9','2+','10','5+','5+',''),
- (350009,1,35,'Honor Guard','6"','4','2+','2','6+','6+',''),
+ (350009,1,35,'Honor Guard','6"','4','2+','2','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
- (360000,1,36,'Kor''sarro Khan','6"','4','3+','5','6+','6+',''),
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
+ (360000,1,36,'Kor''sarro Khan','6"','4','3+','5','6+','6+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (380000,1,38,'Hearthkyn Warriors','5"','5','4+','1','7+','7+',''),
  (380001,1,38,'Ûthar the Destined','5"','5','3+','5','7+','7+','This model has a 4+ invulnerable save.'),
  (380002,1,38,'Kâhl','5"','5','3+','4','7+','7+','This model has a 4+ invulnerable save.'),
@@ -847,10 +888,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (380010,1,38,'Sagitaur','12"','10','3+','9','7+','7+',''),
  (380011,1,38,'Brôkhyr Thunderkyn','5"','6','3+','3','7+','7+',''),
  (380012,1,38,'Exo-frame','5"','6','3+','3','7+','7+',''),
- (380013,1,38,'Hekaton Land Fortress','10"','12','2+','16','7+','7+',''),
+ (380013,1,38,'Hekaton Land Fortress','10"','12','2+','16','7+','7+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (390000,1,39,'Orikan the Diviner','5"','4','4+','4','6+','6+','This model has a 4+ invulnerable save.'),
  (390001,1,39,'Cryptek','5"','4','4+','4','6+','6+',''),
  (390002,1,39,'Chronomancer','5"','4','4+','4','6+','6+',''),
@@ -913,10 +954,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (390059,1,39,'Sentry Pylon','-','8','3+','10','7+','7+',''),
  (390060,1,39,'Night Shroud','20+"','9','3+','14','7+','7+',''),
  (390061,1,39,'Destroyer Cult','8"','7','3+','7','6+','6+',''),
- (390062,1,39,'Overlord with Translocation Shroud','5"','5','2+','6','6+','6+','This model has a 4+ invulnerable save.'),
+ (390062,1,39,'Overlord with Translocation Shroud','5"','5','2+','6','6+','6+','This model has a 4+ invulnerable save.')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (400000,1,40,'Battlewagon','10"','10','3+','16','7+','7+',''),
  (400001,1,40,'Mob','6"','5','5+','1','7+','7+',''),
  (400002,1,40,'Beast Snagga','6"','5','5+','1','7+','7+',''),
@@ -1004,10 +1045,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (400084,1,40,'Grot Bomm Launcha','12"','6','4+','6','7+','7+',''),
  (400085,1,40,'Big Mek on Warbike','12"','6','4+','6','7+','7+',''),
  (400086,1,40,'Mega Armour','5"','6','2+','5','7+','7+',''),
- (400087,1,40,'Grotmas Gitz','10"','3','4+','5','7+','7+',''),
+ (400087,1,40,'Grotmas Gitz','10"','3','4+','5','7+','7+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (410000,1,41,'Shaper','','','','','','',''),
  (410001,1,41,'Kroot','7"','3','6+','1','7+','7+',''),
  (410002,1,41,'Battlesuit','10"','4','3+','6','6+','6+',''),
@@ -1065,10 +1106,10 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (410054,1,41,'Shas''o R''alai','','','','','','',''),
  (410055,1,41,'XV9 Hazard','8"','6','3+','4','7+','7+',''),
  (410056,1,41,'Remote Sensor Tower','-','8','4+','4','8+','8+',''),
- (410057,1,41,'Drone Sentry Turret','-','8','4+','4','8+','8+',''),
+ (410057,1,41,'Drone Sentry Turret','-','8','4+','4','8+','8+','')
 GO
 
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (420000,1,42,'Synapse','12"','9','2+','10','7+','7+',''),
  (420001,1,42,'Winged Hive Tyrant','12"','9','2+','10','7+','7+',''),
  (420002,1,42,'Hive Tyrant','12"','9','2+','10','7+','7+',''),
@@ -1126,6 +1167,6 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (420054,1,42,'Norn Emissary','10"','11','2+','16','7+','7+',''),
  (420055,1,42,'Norn Assimilator','10"','11','2+','16','7+','7+',''),
  (420056,1,42,'Harvester','5"','6','3+','5','8+','8+',''),
- (420057,1,42,'Terror of Vardenghast','12"','5','4+','6','7+','7+',''),
+ (420057,1,42,'Terror of Vardenghast','12"','5','4+','6','7+','7+','')
 GO
 

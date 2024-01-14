@@ -1,4 +1,4 @@
-INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]))
+INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement], [Toughness], [Save], [Wounds], [Leadership], [ObjectControl], [Invulnerability]) VALUES
  (260000,1,26,'Brother-Captain','5"','5','2+','6','6+','6+',''),
  (260001,1,26,'Brother-Captain Stern','5"','5','2+','6','6+','6+',''),
  (260002,1,26,'Brotherhood Champion','6"','4','2+','4','6+','6+',''),
@@ -30,5 +30,5 @@ INSERT INTO[dbo].[Unit] ([Id], [visible], [SubFactionId], [UnitName], [Movement]
  (260028,1,26,'Servitors','6"','4','4+','1','8+','8+',''),
  (260029,1,26,'Strike Squad','6"','4','2+','2','6+','6+',''),
  (260030,1,26,'Grey Knights Dreadnought [Legends]','6"','9','2+','8','6+','6+',''),
- (260031,1,26,'Grey Knights Relic Razorback [Legends]','12"','9','3+','10','6+','6+',''),
+ (260031,1,26,'Grey Knights Relic Razorback [Legends]','12"','9','3+','10','6+','6+','')
 GO
