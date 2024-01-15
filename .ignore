@@ -11,7 +11,7 @@
 
 
 # Build results
-.vs/
+/.vs/
 [Dd]ebug/
 [Rr]elease/
 x64/
