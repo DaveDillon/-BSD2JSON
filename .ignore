@@ -6,7 +6,7 @@
 *.user
 *.sln.docstates
 *.vsidx
-BSData2JSON/obj/
+/BSData2JSON/obj/
 
 
 
