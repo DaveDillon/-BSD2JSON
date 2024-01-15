@@ -12,6 +12,10 @@
 
 # Build results
 /.vs/
+.vs/
+BSData2JSON/bin/
+BSData2JSON/obj/
+
 [Dd]ebug/
 [Rr]elease/
 x64/
