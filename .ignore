@@ -7,14 +7,17 @@
 *.sln.docstates
 *.vsidx
 /BSData2JSON/obj/
-
+BSData2JSON/obj/
+/BSData2JSON/bin/
+BSData2JSON/bin/
+*/bin/
+*/obj/
 
 
 # Build results
 /.vs/
 .vs/
-BSData2JSON/bin/
-BSData2JSON/obj/
+
 
 [Dd]ebug/
 [Rr]elease/
