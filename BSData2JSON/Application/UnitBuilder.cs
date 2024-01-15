@@ -6,7 +6,6 @@
     public class BSDataUtil
     {
         private readonly XmlNamespaceManager _nsmgr;
-
         private Unit rtnUnit;
 
         public BSDataUtil(XmlNamespaceManager m)

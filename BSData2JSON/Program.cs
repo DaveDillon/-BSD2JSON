@@ -32,7 +32,7 @@
 
             if (catFIles.Length == 0)
             {
-                Console.WriteLine("No files to process. Please ensure you place the data failes into in directory with this application.");
+                Console.WriteLine("No files to process. Please ensure you place the data files into the 'in' directory with this application.");
             }
 
             XmlDocument doc = new XmlDocument();
@@ -66,9 +66,9 @@
 
                     if (UnitXmlNode != null)
                     {
-                        Unit u = dataUtil.GetBaseLineDetails(UnitXmlNode, unitId, unitName);
-                        unitList.Add(u);
-                        string unitString = JsonConvert.SerializeObject(u, Newtonsoft.Json.Formatting.Indented);
+                        Unit unit = dataUtil.GetBaseLineDetails(UnitXmlNode, unitId, unitName);
+                        unitList.Add(unit);
+                        string unitString = JsonConvert.SerializeObject(unit, Newtonsoft.Json.Formatting.Indented);
 
                         var writeFile = new FileInfo(outDir + "/" + catfile.Name.Replace(".cat", "") + "/" + unitName + ".txt");
                         if (!writeFile.Directory.Exists)
@@ -83,7 +83,7 @@
 
                 if (unitList.Count > 0)
                 {
-                    var seedScript = seebuilder.BuilScripts(unitList, armyCfg);
+                    var seedScript = seebuilder.GetUnitListSeedData(unitList, armyCfg);
                     var sqlWriteFile = new FileInfo(outDir + "/" + OutDiectoryName + "/" + OutDiectoryName + ".sql");
                     if (!sqlWriteFile.Directory.Exists)
                         sqlWriteFile.Directory.Create();
@@ -95,23 +95,20 @@
                     sbFullSeeScript.AppendLine(seedScript);
                 }
             }
-            // Create sql see scripts.
 
+            // Create sql see scripts.
             var fullSeeScriptSQL = new FileInfo(outDir + "/FullSeedScript.sql");
             if (!fullSeeScriptSQL.Directory.Exists)
                 fullSeeScriptSQL.Directory.Create();
 
-            var ArmySeedData = seebuilder.BuildArmyListSeedData();
+            var ArmySeedData = seebuilder.GetArmySeedData();
             using (StreamWriter writetext = new StreamWriter(fullSeeScriptSQL.FullName))
             {
                 writetext.Write(ArmySeedData);
                 writetext.Write(sbFullSeeScript.ToString());
             }
 
-           
-
-
-            Console.WriteLine("Application has completed, press enter to exit.");
+            Console.WriteLine("The process has completed, press enter to exit.");
             Console.ReadLine();
         }
     }

@@ -1,13 +1,13 @@
-﻿using BSData2JSON.Models;
-
-namespace BSData2JSON.Application
+﻿namespace BSData2JSON.Application
 {
+    using BSData2JSON.Models;
+
     public class ConfigManager
     {
         private Dictionary<string, ArmyConfig> ArmyConfigs { get; set; }
 
-
-        public Dictionary<string, ArmyConfig> GetAllConfigs { get { return ArmyConfigs; } }
+        public Dictionary<string, ArmyConfig> GetAllConfigs
+        { get { return ArmyConfigs; } }
 
         public ConfigManager()
         {
@@ -152,7 +152,7 @@ namespace BSData2JSON.Application
         {
             if (!ArmyConfigs.ContainsKey(armyName))
             {
-                Console.WriteLine($"Could not find config for {armyName}");
+                Console.WriteLine($"Could not config value for {armyName}.");
                 return null;
             }
 
