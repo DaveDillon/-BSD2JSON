@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 *.vsidx
+BSData2JSON/obj/
+
+
 
 # Build results
 .vs/
